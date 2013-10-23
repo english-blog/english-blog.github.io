@@ -1,15 +1,17 @@
-﻿<!DOCTYPE HTML>
-<html lang="en-US">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="1;url=/HelloWorld.html">
-        <script type="text/javascript">
-            window.location.href = "/HelloWorld.html"
-        </script>
-        <title>Page Redirection</title>
-    </head>
-    <body>
-        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-        If you are not redirected automatically, follow the <a href='/HelloWorld.html'>link to Hello World</a>
-    </body>
-</html>
+---
+layout: default
+title: Premkumar Masilamani's personal blog
+---
+
+<div id="home">
+  <h1>Latest Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts limit: 10 %}
+      <li>
+	<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+<!--        <br/>{{ post.excerpt }}<br/> -->
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
