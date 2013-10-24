@@ -6,7 +6,8 @@ comments: false
 excerpt: The awesome stories of 20 individuals who made it big in the business with out an MBA. Each story is so compelling that you cannot put the book down, without completing it. Also, the pace of the book is amazing. You can finish this book faster than you could think of. Rashmi is gifted with such an interesting conversational writing style.
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" src="{{site.url}}/img/connect-the-dots-rashmi-bansal.jpg" border="1" />  
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+src="{{site.url}}/img/connect-the-dots-rashmi-bansal.jpg" border="1" />  
 
 **Book:** Connect The Dots  
 **Author:** Rashmi Bansal   

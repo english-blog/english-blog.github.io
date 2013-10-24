@@ -6,7 +6,8 @@ comments: false
 excerpt: Margaret Donaldson is Emeritus Professor of Developmental Psychology at the University of Edinburgh. In this book, she discusses in detail about the development of the human brain from childhood. She defines and explains the four important modes in which our brain develops and functions. Point-mode, Line-mode, Construct-mode and Transcendent-mode with lots of research data from the well known scientists in this field.
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" src="{{site.url}}/img/human-minds-margaret-donaldson-book.jpg"/>  
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+src="{{site.url}}/img/human-minds-margaret-donaldson-book.jpg"/>  
 
 **Title:** Human Minds - An Exploration  
 **Author:** Margaret Donaldson  

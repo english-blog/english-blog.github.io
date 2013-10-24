@@ -6,7 +6,8 @@ comments: false
 excerpt: The 4-hour work week - Escape the 9-5, live anywhere and join the new rich. The book, which transformed few of my beliefs, addressed the fears that I had in me, without me knowing that. Tim painted new colors in my dream picture, with his own and I love it.
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" src="{{site.url}}/img/the-4-hour-workweek-timothy-ferris.jpg"/>   
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+src="{{site.url}}/img/the-4-hour-workweek-timothy-ferris.jpg"/>   
 
 **Title:** The 4-Hour Workweek  
 **Author:** Timothy Ferriss  

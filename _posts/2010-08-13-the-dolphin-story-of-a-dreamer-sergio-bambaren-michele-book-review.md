@@ -3,11 +3,11 @@ layout: post
 title: The Dolphin - Story of a Dreamer
 date: 2010-08-13
 comments: false
-excerpt: Its a story about a young dolphin, Daniel Alexander Dolphin - who has a dream. A dream to ride the perfect wave in the sea. As soon as I read the first few pages, I couldn't help myself - not to think about *Jonathan Livingston Seagull*. I felt that this dolphin is the same story told with a different character.  
+excerpt: Its a story about a young dolphin, Daniel Alexander Dolphin - who has a dream. A dream to ride the perfect wave in the sea. As soon as I read the first few pages, I couldn't help myself - not to think about Jonathan Livingston Seagull. I felt that this dolphin is the same story told with a different character.  
 ---
 
-<div style="clear: both; text-align: left;">
-<img src="http://2.bp.blogspot.com/_nqvrXDyhqr4/TKoPLA2Ab0I/AAAAAAAAPbE/am2bPMcDoLo/s320/DOLPHIN-COVER.jpg"  /></div>
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+src="{{site.url}}/img/the-dolphin-sergio-bambaren.jpg"/>  
 
 **Book:** The Dolphin - Story Of A Dreamer  
 **Author:** Sergio Bambaren, Michele  
