@@ -2,7 +2,7 @@
 #
 # Generates redirect pages based on YAML or htaccess style redirects
 #
-# To generate redirects create _redirects.yml, _redirects.htaccess, and/or _redirects.json in the Jekyll root directory
+# To generate redirects create _redirects.yml in the Jekyll root directory
 # both follow the pattern alias, final destination.
 #
 # Example _redirects.yml
@@ -16,40 +16,11 @@
 #   Requests to /other-page are redirected to http://example.org/destination-page
 #   Requests to /another/page are redirected to /destination-page
 #
-#
-# Example _redirects.htaccess
-#
-#   Redirect /some-page /destination-page
-#   Redirect 301 /different-page /destination-page
-#   Redirect cool-page http://example.org/destination-page
-#
-#  Result:
-#   Requests to /some-page are redirected to /destination-page
-#   Requests to /different-page are redirected to /destination-page
-#   Requests to /cool-page are redirected to http://example.org/destination-page
-#
-#
-# Example _redirects.json
-#
-#   {
-#     "some-page"        : "/destination-page",
-#     "yet-another-page" : "http://example.org/destination-page",
-#     "ninth-page"       : "/destination-page"
-#   }
-#
-#  Result:
-#   Requests to /some-page are redirected to /destination-page
-#   Requests to /yet-another-page are redirected to http://example.org/destination-page
-#   Requests to /ninth-page are redirected to /destination-page
-#
-#
 # Author: Nick Quinlan
 # Site: http://nicholasquinlan.com
 # Plugin Source: https://github.com/nquinlan/jekyll-pageless-redirects
 # Plugin License: MIT
 # Plugin Credit: This plugin borrows heavily from alias_generator (http://github.com/tsmango/jekyll_alias_generator) by Thomas Mango (http://thomasmango.com)
-
-require 'json'
 
 module Jekyll
 
@@ -59,8 +30,6 @@ module Jekyll
       @site = site
 
       process_yaml
-      process_htaccess
-      process_json
     end
 
     def process_yaml
@@ -69,33 +38,6 @@ module Jekyll
         YAML.load_file(file_path, :safe => true).each do | new_url, old_url |
           generate_aliases( old_url, new_url )
         end
-      end
-    end
-
-    def process_htaccess
-      file_path = @site.source + "/_redirects.htaccess"
-      if File.exists?(file_path)
-        # Read the file line by line pushing redirects to the redirects array
-        file = File.new(file_path, "r")
-        while (line = file.gets)
-          # Match the line against a regex, if it matches push it to the object
-          /^Redirect(\s+30[1237])?\s+(.+?)\s+(.+?)$/.match(line) { | matches |
-            generate_aliases( matches[3], matches[2])
-          }
-        end
-        file.close
-      end
-    end
-
-    def process_json
-      file_path = @site.source + "/_redirects.json"
-      if File.exists?(file_path)
-        file = File.new(file_path, "r")
-        content = JSON.parse(file.read)
-        content.each do |a, b|
-            generate_aliases(a, b)
-        end
-        file.close
       end
     end
 
@@ -135,13 +77,6 @@ module Jekyll
       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
       <meta http-equiv="refresh" content="0; url=#{destination_path}" />
       </head>
-      <body>
-        <p><strong>Redirecting...</strong></p>
-        <p><a href='#{destination_path}'>Click here if you are not redirected.</a></p>
-        <script>
-          document.location.href = "#{destination_path}";
-        </script>
-      </body>
       </html>
       EOF
     end
