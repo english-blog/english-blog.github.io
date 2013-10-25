@@ -6,7 +6,10 @@ paginate: 10
 
 markdown: redcarpet
 pygments: true
-safe: true
+safe: false
 lsi: false
 
 permalink: pretty
+
+redirects: yes
+
