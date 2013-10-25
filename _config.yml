@@ -1,6 +1,7 @@
 name: Premkumar Masilamani
 description: On a journey called Life
-url: http://prem82.github.io
+#url: http://prem82.github.io
+url: http://localhost:4000
 
 paginate: 10
 
@@ -9,7 +10,5 @@ pygments: true
 safe: false
 lsi: false
 
-permalink: pretty
-
-redirects: yes
+permalink: /:title/
 
