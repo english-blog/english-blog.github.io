@@ -3,7 +3,6 @@ layout: post
 title: 3's A Crowd
 date: 2012-02-22
 comments: false
-excerpt: India is a place where still uttering words like "infidelity" will make people roll their eyes. Affairs irrespective of being extra-marital or pre-marital are a taboo to be talked upon. Even if someone sees you reading a book on anything to do with relationship, you will be seen as a person with some different morale. As much as we portray ourselves as very civilized and traditional group, so much of affairs keep happening around us. Every now and then a scandal or rumor arises about affairs. But as long as it doesn’t happen to us or people in our close circle, we tend to look at it as information or a juicy chunk of gossip.
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

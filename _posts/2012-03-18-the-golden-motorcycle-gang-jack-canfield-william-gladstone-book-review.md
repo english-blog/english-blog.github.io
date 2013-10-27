@@ -3,7 +3,6 @@ layout: post
 title: The Golden Motorcycle Gang
 date: 2012-03-18
 comments: false
-excerpt: Jack and his friends are a group of eternal beings travelling through the universe in Golden Motorcycles at the speed of light. They are few thousand years old and considered adolescent in their species. They are enjoying their annual solstice break from the Academy of Enlightenment. They happen to see a small blue planet (Earth), full of negative energy and in turmoil. That was the time of World War on earth and almost every nation was involved in war. Jack decides to help the planet and thought that would bring him good grade in the Academy. Jack's friends are not keen in going to planet Earth. However, Jack is determined to go. So, everyone followed Jack to help the small blue planet. The only thing, they did not know is that, when they are born as human being in Earth, they will forget who they truly are!. And, here is our hero, born in Fort Worth, Texas, United States of America and the story begins !...
 ---
 
 <a href="http://1.bp.blogspot.com/-Nb8UBe2qraQ/T1S4SMeCIqI/AAAAAAAATfM/efklfdJb8aY/s1600/The-Golden-Motorcycle-Gang.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;">  <img border="0" height="320" src="http://1.bp.blogspot.com/-Nb8UBe2qraQ/T1S4SMeCIqI/AAAAAAAATfM/efklfdJb8aY/s320/The-Golden-Motorcycle-Gang.jpg" width="226" /></a>  

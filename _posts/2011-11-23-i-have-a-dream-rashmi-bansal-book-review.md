@@ -3,7 +3,6 @@ layout: post
 title: I Have A Dream
 date: 2011-11-23
 comments: false
-excerpt: What do we have in this book, this time?. The inspiring story of 20 social entrepreneurs who took up a social cause and made a business out of it. Their motive is not to earn more money, but to make a difference in the lives of people around them. Most of them started small, without knowing their destination or a definite business plan. All they had in mind is to help the people. Eventually people, money and resources fell in place and they made it big. The surprising fact is that all of them are middle-class people, the average Indians. If they can do it, anyone of us can also do it. All we need is the patience and perseverance.
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

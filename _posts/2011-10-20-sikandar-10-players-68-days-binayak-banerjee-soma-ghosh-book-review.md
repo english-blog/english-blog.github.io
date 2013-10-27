@@ -3,7 +3,6 @@ layout: post
 title: Sikandar - 10 Players, 68 Days
 date: 2011-10-20
 comments: false
-excerpt: Alexander the Great was known and called as “Sikandar” in India after his invasion. So, wait! Is the book "Sikandar" penned by Binayak Banerjee in Bengali and translated to English by Soma Ghosh about Alexander or some Indian king? Curiosity led me to book back. As soon as I read the gist of the story from the last page, I could not help thinking about Stone Cold Steve Austin’s movie "The Condemned". The story of the movie is that 10 condemned criminals will be left to fight in an island and only one will survive. The plot of this novel is similar, where the author has attempted to portray 10 tangled personalities, the turmoil and vehemence between them, who are locked under the same roof contesting in a reality show. This could be Binayak’s original idea, but a movie was already made out of this idea.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

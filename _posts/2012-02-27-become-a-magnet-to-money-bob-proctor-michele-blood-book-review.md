@@ -3,7 +3,6 @@ layout: post
 title: Become A Magnet To Money
 date: 2012-02-27
 comments: false
-excerpt: I knew Bob Proctor from the movie "The Secret" way back in 2008. I have watched lot of his videos and interviews in the internet. He has 40+ years of experience in motivating others to reach their goals and accumulate abundant wealth. I happened to see this book in the new book store opened next to my office and I grabbed this book as soon as I saw Bob's name in it. This is the first book from Bob that I read.
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

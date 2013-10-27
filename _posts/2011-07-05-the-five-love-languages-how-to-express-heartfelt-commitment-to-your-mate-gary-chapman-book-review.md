@@ -3,7 +3,6 @@ layout: post
 title: The Five Love Languages - How to Express Heartfelt Commitment to Your Mate
 date: 2011-07-05
 comments: false
-excerpt: If you speak in Japanese to a Chinese, he would not understand. So, does speaking in Tamil to native Indians. Its as simple as that. People feel loved when we express love in a way that they can understand. Dr. Chapman categorizes these variations in expressing love to five categories. He starts with the emotional "In-Love" experience and why that experience fades away slowly after marriage and points out what's missing. Its not that we do not love each other anymore, its just that we consistently fail to communicate love in a way that he/she understands it. Great.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

@@ -3,7 +3,6 @@ layout: post
 title: The EFT Manual
 date: 2011-09-10
 comments: false
-excerpt: The Traditional Chinese Medicine claims that there is a path through which the life-energy known as "qi" flows. They are called Meridians or Energy Meridians. Emotional Freedom Technique (EFT) proposed by Gary Craig in 1993 states that "The cause of all negative emotions is a disruption in the body's energy system". Those energy blockages can be released by simply tapping on the energy meridians, while recalling the memory which brings about the negative emotions. EFT claims that it cured a wide variety of emotional issues and physical pain/diseases etc. The beauty of EFT is that, once you have identified the correct memory and the aspect and tapped it properly, it fixes the problem immediately and the results are usually permanent. The Basic Recipe process takes hardly two minutes to perform and anyone can easily learn to perform it without difficulty.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

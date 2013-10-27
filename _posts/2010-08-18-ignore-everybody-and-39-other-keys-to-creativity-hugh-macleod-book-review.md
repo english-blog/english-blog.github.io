@@ -3,7 +3,6 @@ layout: post
 title: Ignore Everybody - And 39 Other Keys To Creativity
 date: 2010-08-18
 comments: false
-excerpt: Hugh developed the habit of drawing in the back of the business cards with cartoons and sarcastically humorous content, while he was waiting for his date, in the NYC bars. He started a blog gapingvoid.com and started publishing these business card cartoons. He has opinion on everything that you can think about. This book is nothing but selected 39 blogs from his website. You can read all of them in his website.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

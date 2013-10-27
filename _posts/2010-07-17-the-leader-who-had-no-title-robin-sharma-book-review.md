@@ -3,7 +3,6 @@ layout: post
 title: The Leader Who Had No Title - A modern fable on real success in business and in life
 date: 2010-07-17
 comments: false
-excerpt: Should I really write a review for Robin Sharma's book?. His name stands better than the best book-review anyone could write for his book. Hmm... let me share some of the insights that are spread throughout this book. This book packs 15 yrs of his leadership advisory experience, which was once a closely guarded secret. Robin tried to make this book interesting by using the story of an Iraq war vet Blake Davis.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" src="{{site.url}}/img/the-leader-who-had-no-title-robin-sharma.jpg"/>   

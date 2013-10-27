@@ -3,7 +3,6 @@ layout: post
 title: Who Moved My Cheese? - An A-Mazing Way to Deal with Change in Your Work and in Your Life
 date: 2011-01-26
 comments: false
-excerpt: A little book with a little story. What's so special in this book, that it sold for more than 26 million copies and still being printed?. I knew this book almost 6 years back. I was not that much into reading back then. But, when I saw this book again in the library after so many years, I felt like the book voluntarily re-appeared in my life for a purpose, may be a message that I need it very badly. Sounds very silly, that too from an atheist. But that's what I felt for true. I started reading to figure out what it has for me.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

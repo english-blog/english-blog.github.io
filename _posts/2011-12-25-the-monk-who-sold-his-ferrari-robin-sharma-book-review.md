@@ -3,7 +3,6 @@ layout: post
 title: The Monk Who Sold His Ferrari
 date: 2011-12-25
 comments: false
-excerpt: This is a self help book written like a novel. The story is so well written that you don't even feel like someone is teaching you something. Every tip that he gives, go to your sub-conscious mind without any effort. I even wondered how can so much of practical wisdom could be packed into a single book.Robin Sharma shares his wisdom with a mystical fable of a uber-successful lawyer Julian Mantle and his assitant John. Julian Mantle is the hot shot millionaire lawyer in the country. During his middle age, in one of the courtroom arguments, he gets a massive heart attack. He suddenly realizes that he has more life to live and there must be a reason for his existence. He leaves to Himalayas learns the tricks of life and comes back to US to spread the wisdom.
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

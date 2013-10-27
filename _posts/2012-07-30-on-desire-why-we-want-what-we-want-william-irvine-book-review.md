@@ -3,7 +3,6 @@ layout: post
 title: On Desire - Why We Want What We Want
 date: 2012-07-30
 comments: false
-excerpt: We all have desires. Isn't it?. I desire everything that attracts me. If I like an activity, I want to do it. If I like a product, I want to have it. If I like a person, I want to have a relationship with him/her. I believe, many are like me. Ever wondered, Why do we have desire to do anything at all?. What triggers these desires?. Why some desires are stronger than others?. Why do people even risk their life for love, power or money?. This book has answers for these questions, in a way that is tough to digest.
 ---
 
 <a href="http://2.bp.blogspot.com/-Giy7NXqRi3k/UAKEzise2VI/AAAAAAAAU70/6R-xFl7yjAE/s1600/On-Desire-Why-We-Want-What-We-Want-Book.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="320" src="http://2.bp.blogspot.com/-Giy7NXqRi3k/UAKEzise2VI/AAAAAAAAU70/6R-xFl7yjAE/s320/On-Desire-Why-We-Want-What-We-Want-Book.jpg" width="226" /></a>  

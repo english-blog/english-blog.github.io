@@ -3,7 +3,6 @@ layout: post
 title: Running Software without Hardware - A Thought Experiment !
 date: 2012-03-25
 comments: false
-excerpt: Imagine that you are a mad scientist specialized in Robotics and Artificial Intelligence. You create an extra-ordinary AI program (Software) which can be installed in a humanoid robot (Hardware). There are only two mandatory rules to the AI Program.
 ---
 
 <a href="http://4.bp.blogspot.com/-HSmfmrHDZM4/UNbg2eENUBI/AAAAAAAAVH4/OM0jevLZAEE/s1600/human-mind-thinking.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="http://4.bp.blogspot.com/-HSmfmrHDZM4/UNbg2eENUBI/AAAAAAAAVH4/OM0jevLZAEE/s320/human-mind-thinking.jpg" width="320" /></a>

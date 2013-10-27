@@ -3,7 +3,6 @@ layout: post
 title: Life is not a bed of roses - Rosy, A Transgender !
 date: 2012-03-18
 comments: false
-excerpt: It was a gloomy Sunday afternoon. I was on the way to the weekly meeting at Sangama Office. I saw a bird flying from tree to tree looking for an apt place to set its nest. It somehow seemed like my life. I’m a homeless wanderer right now seeking a nest. With so many thoughts flooding the mind, I reached the office. It was warm to see known faces and lovely smiles spread across those faces.
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

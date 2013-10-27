@@ -3,7 +3,6 @@ layout: post
 title: Musings Of A Wanderer
 date: 2011-08-18
 comments: false
-excerpt: Not a poet, but an off tune mind that dares to speak in free verse. That's how Shreya writes in the preface. I completely agree with her. I had huge expectation before reading this book. But, I was disappointed. Since, this is her first book on poetry, I am OK. I guess, She should have waited for some more time to improve her skills, get feedback from different sources (not just friends), refine her skills and then should have come to the publishing world. Print media is completely different from the blog media. Once printed, it stays in history. Instead of publishing all she has written, she should have selected the best few and make a best first impression.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

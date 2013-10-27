@@ -3,7 +3,6 @@ layout: post
 title: The Diary Of An Unreasonable Man
 date: 2010-12-20
 comments: false
-excerpt: The Story Of An Unreasonable Man - from Madhav Mathur is exceptionally fast paced. I liked the writing style. He used a rich vocabulary throughout this book, which I do not expect in a novel. However, you will get used to it in the first few chapters.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

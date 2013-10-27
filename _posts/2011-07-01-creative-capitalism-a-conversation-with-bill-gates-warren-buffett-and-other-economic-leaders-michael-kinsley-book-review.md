@@ -3,7 +3,6 @@ layout: post
 title: Creative Capitalism - A Conversation with Bill Gates, Warren Buffett, and Other Economic Leaders
 date: 2011-07-01
 comments: false
-excerpt: January 24, 2008 - The World Economic Forum, Davos, Switzerland. A speech by Bill Gates, one of the most successful entrepreneur & philanthropist created a whirl wind in the business circles. Gates proposed a new idea of making capitalism work for the poor and needy in the developing world. He coined the term "Creative Capitalism". This book is a compilation of discussions, blogs, critics by 43 well known successful business leaders, economists etc around the topic. Micheal Kinsley did a pretty good job in compiling 300+ pages with thought provoking ideas, approaches to Creative Capitalism. Many of you may have seen Gates speech on youtube or read the transcription in Microsoft website. But, after reading this entire book, you will have a complete knowledge, different thinking and a birds eye view of this topic. About the pros and cons of what was proposed by Bill Gates. Many of the business leaders do not agree with his idea of Creative Capitalism (with valid statistics and business ethics). Some, do agree with Bill Gates.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

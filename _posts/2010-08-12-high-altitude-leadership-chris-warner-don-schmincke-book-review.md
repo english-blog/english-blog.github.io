@@ -3,7 +3,6 @@ layout: post
 title: High Altitude Leadership - What The World's Most Forbidding Peaks Teach Us About Success
 date: 2010-08-12
 comments: false
-excerpt: Chris is a vivid mountaineer who is one of the nine American's who summitted world's two tallest mountains Mt. Everest and K2. Don is a scientist and engineer who pioneered fourth generation medical imaging technology and researched on simulating timing systems for navy's nuclear missile systems. They both write a book on management & leadership?. Sounded crazy and started flipping immediately!.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

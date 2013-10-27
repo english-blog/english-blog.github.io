@@ -3,7 +3,6 @@ layout: post
 title: Outliers - The Story Of Success
 date: 2011-08-12
 comments: false
-excerpt: I knew Malcom Gladwell through his earlier book "Blink". This guy always thinks out of the box and gives a new perspective to the well known things. He always amazes me. In his new book "Outliers", he gives us a different perspective on Why successful people are successful?.  The general notion is that the successful people became so, because of who they are. But, Gladwell tells us that its more because of where they are from?. Sounds confusing?. For me too, when I started. Not anymore :)
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -22,9 +21,9 @@ src="{{site.url}}/img/outliers-malcom-gladwell.jpg" border="1"/>
   
 I knew Malcom Gladwell through his earlier book "[Blink](blinkurl)". This guy always thinks out of the box and gives a new perspective to the well known things. He always amazes me. In his new book "[Outliers](outliersurl)", he gives us a different perspective on Why successful people are successful?.  The general notion is that the successful people became so, because of who they are. But, Gladwell tells us that its more because of where they are from?. Sounds confusing?. For me too, when I started. Not anymore :)  
 
-[blinkurl]: http://www.amazon.com/gp/product/0316010669/ref=as_li_tf_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0316010669
+[blinkurl]: (http://www.amazon.com/gp/product/0316010669/ref=as_li_tf_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0316010669)
 
-[outliersurl]: http://www.amazon.com/gp/product/0316017930/ref=as_li_tf_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0316017930
+[outliersurl]: (http://www.amazon.com/gp/product/0316017930/ref=as_li_tf_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0316017930)
 
 He starts off with the analysis of the hockey players in Canadian teams. One interesting fact is that most of the best players in the team are born in the first three months (Jan, Feb, Mar). He concludes that its because of the selection procedure followed in Canada and the additional playing time these kids get in their early years. This is definitely a different insight and he suggest the alternate means as well.  
   

@@ -3,7 +3,6 @@ layout: post
 title: Quote from Murali Krishna
 date: 2009-05-14
 comments: false
-excerpt: "When you are the fastest, you don't need rear view mirrors."
 ---
 
 

@@ -3,7 +3,6 @@ layout: post
 title: Resident Dormitus
 date: 2011-11-13
 comments: false
-excerpt: Could a person be always nonchalant and care-free? That too a boy who was born and brought up in the culture rich India? Well, that’s what Achet is, our hero. I started reading the book with no expectations and an open mind. Rupa & Co’s publishing hiked the credibility even before I started reading. Vikas definitely has a dark sense of humor and a deep philosophical insight.
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

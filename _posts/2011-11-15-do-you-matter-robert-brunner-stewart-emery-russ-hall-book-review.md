@@ -3,7 +3,6 @@ layout: post
 title: Do You Matter? - How Great Design Will Make People Love Your Company
 date: 2011-11-15
 comments: false
-excerpt: Close your eyes and imagine that you are holding an iPod. Now take away iTunes, take away the ability to buy the song for 99 cents without having to pay for the entire CD, lose the ability to create playlist, cut out the packaging, delete the Apple logo and shutter all the aesthetically designed Apple stores. "Is it still an iPod?". No, it's not, because and iPod is an portal to the kaleidoscope of experience.
 ---
 
 <div dir="ltr" style="text-align: left;" trbidi="on">

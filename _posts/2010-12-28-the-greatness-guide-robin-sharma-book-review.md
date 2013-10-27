@@ -3,7 +3,6 @@ layout: post
 title: The Greatness Guide
 date: 2010-12-28
 comments: false
-excerpt: The Greatness Guide - 101 short essays and stories to inspire you and help you achieve your greatness in all walks of your life. This book is slightly different from his other books. This is a collection of essays and event that happened in Robin's life, written in different periods and at different places, put together in one book for us. I don't know what to mention in the review and what to leave. If I had to write a perfect review for this book, I have to reprint the book's content here. He reiterates the importance of leading without a title in this book as well.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

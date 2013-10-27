@@ -3,7 +3,6 @@ layout: post
 title: The Power
 date: 2010-08-25
 comments: false
-excerpt: Irish-Australian writer Rhonda Bryne, was once a producer of reality-TV shows in Australia who is now a multi-millionaire living in a Beverley Hills mansion, next door to Oprah Winfrey. She became so, with her best selling book & DVD, "The Secret". She comes with a sequel "The Power", which is expected to sell atleast 20 million copies, out of which 2 million copies are printed and almost sold out. So, whats in this book?. Lets do a fair, really fair review of the book
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

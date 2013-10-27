@@ -3,7 +3,6 @@ layout: post
 title: The Power of a Positive No - How to Say No & Still Get to Yes
 date: 2010-11-03
 comments: false
-excerpt: The author William Ury is a master negotiator, public speaker and a trained anthropologist. Over the past three decades, he has mediated in conflicts ranging from coal strikes, to boardroom battles to civil wars around the world. He was the part of the team, mediated the 1962 Cuban nuclear missile crisis, which had 99% possibility of becoming a nuclear world war 3 (thanks to Che Guevara - my hero) just to site an example for his credibility.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

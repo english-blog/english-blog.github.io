@@ -3,7 +3,6 @@ layout: post
 title: Great Speeches - Words That Shaped The World
 date: 2011-02-12
 comments: false
-excerpt: I would call any book as a good book, if leaves an impact on you, if it changes your perception about something, if it stays in your memory for a long time, if you feel bad that the book is over and if you want to read it again and again. Surprisingly this book does everything. I cannot contribute all to the author Edward Humphreys, because he just collected all the speeches and put together in one single book. But, definitely my thanks to him for his effort.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

@@ -3,7 +3,6 @@ layout: post
 title: Chicken Soup For The Indian Soul - A Book Of Miracles
 date: 2012-01-03
 comments: false
-excerpt: Sometimes you meet someone somewhere and the incident seems to have happened before. And you wonder how it is possible. You try to tell this to your friends and most of the times you get skeptic looks and mock laughs behind the back. Well, I’m a person who has experienced those. Though I have a different rationale for the miracles and coincidences, I do believe that MIRACLES DO HAPPEN IN LIFE.
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

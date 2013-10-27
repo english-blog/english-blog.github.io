@@ -3,7 +3,6 @@ layout: post
 title: The Purpose Driven® Life - What on Earth Am I Here For?
 date: 2010-10-18
 comments: false
-excerpt: The author Rick Warren wants you to sign a covenant that you will read one chapter a day for the next 40 days to discover the god's purpose for your life. I liked this. Most of the time, when we read a big book full of wisdom and knowledge, we tend to skim over few pages/chapters and at the end of the book, very few messages stay on. But, if you read one chapter at a time and think about it the whole day, you GET the message. Rick is brilliant.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

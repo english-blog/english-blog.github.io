@@ -3,7 +3,6 @@ layout: post
 title: Wired for Thought - How the Brain Is Shaping the Future of the Internet
 date: 2011-11-02
 comments: false
-excerpt: Jeffrey Stibel is a brain scientist and entrepreneur, who is the chairman of BrainGate, a brain-implant company that allows people to use their thoughts to control electrical devices and also the president of web.com which helps entrepreneurs to grow their business in the web. Most importantly, this book is recommended by my all time favorite author John Assaraf. What else you need to read this book?.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

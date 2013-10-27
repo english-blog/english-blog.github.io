@@ -3,7 +3,6 @@ layout: post
 title: The Laws of Courage
 date: 2010-11-08
 comments: false
-excerpt: Ryuho Okawa is the founder of "Happy Science" - an organisation or religion which aims to achieve the true happiness, based on the teachings of the author. He claims himself as the spiritual leader, in many places throughout the book. For a while, I was reading only exceptionally good and interesting books, till I come across this one. This book reads like a school text book, which primarily aims at the school children in Japan. But the description of the book in the outer cover was misleading that its for general audience and its mentioned that 20 million copies of his books were sold so far. No questions the numbers anyway, just like me.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

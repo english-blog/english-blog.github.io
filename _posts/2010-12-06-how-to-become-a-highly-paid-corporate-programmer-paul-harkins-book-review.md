@@ -3,7 +3,6 @@ layout: post
 title: How To Become A Highly Paid Corporate Programmer
 date: 2010-12-06
 comments: false
-excerpt: Finally I found THE BOOK for the programmers. I would call this book 'A Programmer's Bible'. This book has invaluable wisdom accumulated by Paul H. Harkins over 4 decades of his corporate career in programming. Even though it has serious concepts, it reads like a collection of small stories, his experiences, the situations he encountered, his colleagues etc. You wouldn't get bored even in a single chapter. This guy is programming from the dawn of the computers. Mainly into RPG. Most of the java/other technology developers out there can take the message out of this book's examples and apply it to their respective streams.
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

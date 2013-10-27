@@ -3,7 +3,6 @@ layout: post
 title: BMTC loses 6 lakhs/day to conductors ?
 date: 2011-11-22
 comments: false
-excerpt: I was travelling from Coimbatore to Bangalore on 22-Nov-2011 and got down at Silk Board Bus Stop. I need to catch a local bus from Silk Board to Marathahalli. I generally prefer to travel by Volvo buses only. But there was none at the time. At early morning 5 AM, with such a chill climate, I decided to hop onto the local bus.
 ---
 
 **November 22, 2011** : Today, I decided to blog about all the irregularities that I see around me and take action against it. I will keep updating the blog, if anything productive happens after that. Here is the first one with BMTC (Bangalore Metropolitan Transport Corporation).  

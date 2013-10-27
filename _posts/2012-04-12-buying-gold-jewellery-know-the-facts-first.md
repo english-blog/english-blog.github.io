@@ -3,7 +3,6 @@ layout: post
 title: Buying Gold Jewellery? - Know the facts first !
 date: 2012-04-12
 comments: false
-excerpt: Generally, I do not prefer Gold, in fact my engagement ring is the first gold ornament in my body. It's a custom in India for the bride & groom to wear Gold Jewels during wedding. I had no options but to buy. I head out to "Joy Alukkas". I was discussing about the Gold Jewellery Business in India, with the floor manager and I am surprised to know that majority of the people does not even understand the basics. In fact, my parents were cheated by "L.K.S Jewellers" when they bought 916 KDM Gold Rings few years back. So, this blog may be a beginner's first hand information, when you buy Gold Jewels in India.
 ---
 
 <a href="http://4.bp.blogspot.com/-OaKnWpIng3o/T4E8ja_jI0I/AAAAAAAATz0/oFdHr3r4Afc/s1600/buy+gold+for+cash.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="199" src="http://4.bp.blogspot.com/-OaKnWpIng3o/T4E8ja_jI0I/AAAAAAAATz0/oFdHr3r4Afc/s320/buy+gold+for+cash.jpg" width="320" /></a>  

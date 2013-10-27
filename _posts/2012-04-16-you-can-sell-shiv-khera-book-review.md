@@ -3,7 +3,6 @@ layout: post
 title: You Can Sell
 date: 2012-04-16
 comments: false
-excerpt: Right in the preface Mr. Khera tells what kind of book this is and for whom it is. I would strongly recommend following his instructions in the preface, for that is the best way to read this book. This isn't a novel which can be read on the go or taken for light reading just like that. Do not expect to read this book for passing time. Please do have a highlighter and a pen throughout the reading, as there are many points which you might need to highlight for future reference. Pen is for the exercise at the end of every chapter. What a way to reinforce the thoughts in the chapter in the minds of readers! The work book ranges from personal SWOT analysis to a few psychometric tests to explaining the points read in the previous chapter.
 ---
 
 <a href="http://2.bp.blogspot.com/-ByHjizj46wQ/T4w23EBX2NI/AAAAAAAAT-o/UAaCs_I2PtA/s1600/you+can+sell+shiv+khera.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="http://2.bp.blogspot.com/-ByHjizj46wQ/T4w23EBX2NI/AAAAAAAAT-o/UAaCs_I2PtA/s320/you+can+sell+shiv+khera.jpg" width="210" /></a>  
