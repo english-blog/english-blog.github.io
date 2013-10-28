@@ -5,13 +5,15 @@ date: 2012-08-25
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-5s8qvdWo9zg/UDa3tyA0ZZI/AAAAAAAAU94/2v2OBOA42qg/s1600/622561_10151120563054644_727338918_o.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="352" src="http://2.bp.blogspot.com/-5s8qvdWo9zg/UDa3tyA0ZZI/AAAAAAAAU94/2v2OBOA42qg/s400/622561_10151120563054644_727338918_o.jpg" width="400" /></a></div>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/premkumar-before-after-marriage.jpg"/>
+</div>  
 
 Funny. Isn't it?. Yeah. "Before & After marriage" is just for fun. The idea is the transformation of my body within few months after coming to UK. The first picture was taken on June 2, 2011 in Los Angeles and the second one on Aug 22, 2012 in London. I did not go to gym from July 2011 onward, my food habits did not change very much and I retained the same body structure till mid 2012. I am officially into the "*Overweight*" category as of August 22, 2012. I believe, I was in this category for quite some time and I did not realize it. Weighing 80 kg  at 5 feet 6 inches in my 29th year, pushed my BMI to 28.34. Within few months, I may move into the Obese category if I do not act now.  
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-9d8F-q8sqzg/UDcxNT0ShII/AAAAAAAAU-Q/YtGEhizWiwY/s1600/Body-Mass-Index.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="103" src="http://3.bp.blogspot.com/-9d8F-q8sqzg/UDcxNT0ShII/AAAAAAAAU-Q/YtGEhizWiwY/s400/Body-Mass-Index.JPG" width="400" /></a></div>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/premkumar-BMI-2012-08-25.jpg"/>
+</div>  
 
 Check yours: [BMI Calculator](http://www.nhs.uk/Tools/Pages/Healthyweightcalculator.aspx)  
 

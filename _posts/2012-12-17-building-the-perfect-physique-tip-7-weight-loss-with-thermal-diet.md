@@ -5,8 +5,9 @@ date: 2012-12-17
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-CGkp_u8wGvg/UM1_tDaNVNI/AAAAAAAAVGY/xm_yh95ScYE/s1600/ice-cubes.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="257" src="http://2.bp.blogspot.com/-CGkp_u8wGvg/UM1_tDaNVNI/AAAAAAAAVGY/xm_yh95ScYE/s320/ice-cubes.jpg" width="320" /></a></div>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/thermal-diet-ice-cubes.jpg"/>
+</div>  
 
 Thermal Diet?. Yeah. It's from the book [The 4-Hour Body](http://www.amazon.com/gp/product/030746363X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030746363X&linkCode=as2&tag=booiverea-20) by my favorite author Timothy Ferriss.  
 
@@ -47,15 +48,10 @@ Luckily, I am in UK and the winter season just started. I am gonna try most of t
 If you are new to this blog, you may want to read the other tips that we discussed so far ...  
 
 [Tip 1: Eat breakfast within an hour of waking up !](http://blog.smileprem.com/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
-
 [Tip 2: Lose weight out of the blue !](http://blog.smileprem.com/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
-
 [Tip 3: Lose Weight with Laziness](http://blog.smileprem.com/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)  
-
-[Tip 4: Weight Loss with Mind Movies](http://blog.smileprem.com/building-the-perfect-physique-tip-4-weight-loss-with-mind-movies/)  
-  
+[Tip 4: Weight Loss with Mind Movies](http://blog.smileprem.com/building-the-perfect-physique-tip-4-weight-loss-with-mind-movies/)    
 [Tip 5: Weight Loss with Horse Gram](http://blog.smileprem.com/building-the-perfect-physique-tip-5-weight-loss-with-horse-gram/)  
-
 [Tip 6: Weight Loss with Burpee](http://blog.smileprem.com/building-the-perfect-physique-tip-6-weight-loss-with-burpee/)  
 
 **If you know any simple tips to reduce weight, please let me know in the comments section.**  
@@ -63,13 +59,9 @@ If you are new to this blog, you may want to read the other tips that we discuss
 **Resources:**  
 
 [Can Frigid Temps Lead to Weight Loss?](http://abcnews.go.com/Health/brr-frigid-temps-lead-weight-loss/story?id=12402127#.UM2EHuQyIvx)  
-
 [What Is Brown Fat? What Is Brown Adipose Tissue?](http://www.medicalnewstoday.com/articles/240989.php)  
-
 [How brown adipose tissue can be activated?](http://www.ethlife.ethz.ch/archive_articles/121112_braune_fettzellen_per/index_EN)  
-
 [Ray Cronise at TEDMED 2010](http://www.youtube.com/watch?v=UrQ_ldCwKUQ)  
-
 [Joslin scientists: Brown adipose tissue beneficial for metabolism and glucose tolerance](http://www.eurekalert.org/pub_releases/2012-12/jdc-jsb120712.php)  
 
 

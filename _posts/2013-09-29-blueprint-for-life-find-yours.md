@@ -5,8 +5,9 @@ date: 2013-09-29
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-JdXle7CW8vQ/Uke6Vd1iulI/AAAAAAAAV-M/5fJDw6QpYXA/s1600/blueprint-for-life-smileprem-premkumar-masilamani.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="http://3.bp.blogspot.com/-JdXle7CW8vQ/Uke6Vd1iulI/AAAAAAAAV-M/5fJDw6QpYXA/s400/blueprint-for-life-smileprem-premkumar-masilamani.jpg" width="400" /></a></div>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/blueprint-for-life-smileprem-premkumar-masilamani.jpg"/>
+</div>  
 
 ## What is a Blueprint for Life?  
   

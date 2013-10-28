@@ -5,8 +5,9 @@ date: 2012-10-28
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-s_FltAxu3VM/UIz2K3lT1wI/AAAAAAAAVD0/uo6AWBWo-OM/s1600/horsegram-kollu.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="213" src="http://3.bp.blogspot.com/-s_FltAxu3VM/UIz2K3lT1wI/AAAAAAAAVD0/uo6AWBWo-OM/s320/horsegram-kollu.jpg" width="320" /></a></div>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/weight-loss-horsegram-kollu.jpg"/>
+</div>  
   
 There is a very old saying/proverb in Tamil "இளைத்தவனுக்கு எள்ளு, கொழுத்தவனுக்கு கொள்ளு" which means "Feed [Sesame seed](http://en.wikipedia.org/wiki/Sesame_seed) to a skinny person, [Horse gram](http://en.wikipedia.org/wiki/Horse_gram) to an obese person".  
   
@@ -53,17 +54,15 @@ Please click the below links for the recipes;
   
 So far, we were trying to make simple lifestyle changes to maintain the ideal weight for as long as we live. I don't prefer to lose the weight quick and gain it back. With the previous tips, I was able to lose 1.5 kg in the beginning and I hit a plateau. My weight fluctuates on a daily basis, but I average around the same weight range. The weight does not seem to shed off automatically. So, I am going to change my diet a little bit with this. Let's see what happens.  
   
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-0QfPpmKBV1M/UIz8vu9VpFI/AAAAAAAAVEI/vrV4PsCS-rs/s1600/Prem-Weight-Loss-Tracker.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="213" src="http://1.bp.blogspot.com/-0QfPpmKBV1M/UIz8vu9VpFI/AAAAAAAAVEI/vrV4PsCS-rs/s320/Prem-Weight-Loss-Tracker.jpg" width="320" /></a></div>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/Premkumar-Masilamani-Weight-Loss-Tracker.jpg"/>
+</div>  
 
 An interesting observation from the chart is that I gain weight the second day after I had party/ate too much food. Very little data to establish this as a pattern, but interesting. If you are new to this blog, you may want to read the other tips ...  
   
 [Tip 1: Eat breakfast within an hour of waking up !](http://blog.smileprem.com/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
-
 [Tip 2: Lose weight out of the blue !](http://blog.smileprem.com/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
-
 [Tip 3: Lose Weight with Laziness](http://blog.smileprem.com/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)  
-
 [Tip 4: Weight Loss with Mind Movies](http://blog.smileprem.com/building-the-perfect-physique-tip-4-weight-loss-with-mind-movies/)  
   
 **If you know any simple tips to reduce weight, please let me know in the comments section.**  

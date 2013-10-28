@@ -5,7 +5,9 @@ date: 2012-09-17
 comments: false
 ---
 
-<a href="http://4.bp.blogspot.com/-RVdLXxa96sM/UFQsOSWG3pI/AAAAAAAAVCo/WKXcYZmTOcw/s1600/bucket-list.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="226" src="http://4.bp.blogspot.com/-RVdLXxa96sM/UFQsOSWG3pI/AAAAAAAAVCo/WKXcYZmTOcw/s400/bucket-list.jpg" width="400" /></a>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/premkumar-masilamani-bucket-list.jpg"/>
+</div><br />  
 
 1. The Perfect Six-Pack Beach Body  
 2. Pose for an Undergarment Advertisement  

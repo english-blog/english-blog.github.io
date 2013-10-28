@@ -5,7 +5,9 @@ date: 2012-05-03
 comments: false
 ---
 
-<a href="http://2.bp.blogspot.com/-8mJz1GvVZ6k/T6Kn08VH2xI/AAAAAAAAUUY/okUiT-4MxYE/s1600/Sangavi+Premkumar.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="267" src="http://2.bp.blogspot.com/-8mJz1GvVZ6k/T6Kn08VH2xI/AAAAAAAAUUY/okUiT-4MxYE/s320/Sangavi+Premkumar.jpg" width="320" /></a>
+<div style="text-align: center;">
+<img src="{{site.url}}/img/Sangavi-Premkumar.jpg"/>
+</div>  
   
 This live broadcast is for for all our friends, who wanted to be with us in our most precious moment, but could not make it. You are never far from us. You can watch the Wedding and the Reception Live from your living room. Yeah!...  
   

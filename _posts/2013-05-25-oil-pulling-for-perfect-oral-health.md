@@ -5,8 +5,9 @@ date: 2013-05-25
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-nn_CS4VmODk/UZ-yBI4k3sI/AAAAAAAAVa4/B-cD2ynhTro/s1600/Wealth1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="http://1.bp.blogspot.com/-nn_CS4VmODk/UZ-yBI4k3sI/AAAAAAAAVa4/B-cD2ynhTro/s640/Wealth1.jpg" width="640" /></a></div>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/oil-pulling-woman.jpg"/>
+</div>  
 
 The more I research about natural lifestyle, the more I come to know. The recent one is "Oil Pulling". I am excited !..  
   
@@ -66,5 +67,5 @@ This is a very simple and cheap therapy. There is no harm in trying this. Please
 [Effect of oil pulling on plaque induced gingivitis: A randomized, controlled, triple-blind study](http://www.ijdr.in/article.asp?issn=0970-9290;year=2009;volume=20;issue=1;spage=47;epage=51;aulast=Asokan)  
 [Tooth brushing, oil pulling and tissue regeneration: A review of holistic approaches to oral health](http://www.jaim.in/article.asp?issn=0975-9476;year=2011;volume=2;issue=2;spage=64;epage=68;aulast=Singh)  
 [Mechanism of oil-pulling therapy -In vitro study](http://www.ijdr.in/article.asp?issn=0970-9290;year=2011;volume=22;issue=1;spage=34;epage=37;aulast=Asokan)  
-[http://oilpulling.com/freeoilpullingbook.htm](http://oilpulling.com/freeoilpullingbook.htm)  
+<http://oilpulling.com/freeoilpullingbook.htm>  
 

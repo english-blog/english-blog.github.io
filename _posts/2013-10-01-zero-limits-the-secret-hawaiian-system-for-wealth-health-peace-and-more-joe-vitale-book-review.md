@@ -5,8 +5,8 @@ date: 2013-10-01
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-UItCkzxMrms/Uko8SUyCVmI/AAAAAAAAV-s/7O_EE708BO0/s1600/Zero-Limits-Joe-Vitale-Ihaleakala-Hew-Len.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="320" src="http://2.bp.blogspot.com/-UItCkzxMrms/Uko8SUyCVmI/AAAAAAAAV-s/7O_EE708BO0/s320/Zero-Limits-Joe-Vitale-Ihaleakala-Hew-Len.jpg" width="213" /></a></div>
+<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+src="{{site.url}}/img/Zero-Limits-Joe-Vitale-Ihaleakala-Hew-Len.jpg"/>   
   
 **Book Name:** Zero Limits - The Secret Hawaiian System for Wealth, Health, Peace, and More  
 **Author:** Joe Vitale, Ihaleakala Hew Len  
@@ -58,7 +58,7 @@ Thank you Dr. Ihaleakala Hew Len for the Ho'oponopono method and Thank you Dr. J
 Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
 
 **References:**  
-[http://hooponopono.org/](http://hooponopono.org/)  
-[http://www.businessbyyou.com/](http://www.businessbyyou.com/)  
+<http://hooponopono.org/>  
+<http://www.businessbyyou.com/>  
 
 

@@ -5,7 +5,8 @@ date: 2012-03-18
 comments: false
 ---
 
-<a href="http://1.bp.blogspot.com/-Nb8UBe2qraQ/T1S4SMeCIqI/AAAAAAAATfM/efklfdJb8aY/s1600/The-Golden-Motorcycle-Gang.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;">  <img border="0" height="320" src="http://1.bp.blogspot.com/-Nb8UBe2qraQ/T1S4SMeCIqI/AAAAAAAATfM/efklfdJb8aY/s320/The-Golden-Motorcycle-Gang.jpg" width="226" /></a>  
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+src="{{site.url}}/img/the-golden-motorcycle-gang-jack-canfield.jpg"/>   
 
 **Book:** The Golden Motorcycle Gang: A Story Of Transformation  
 **Author:** Jack Canfield, William Gladstone  
@@ -21,7 +22,7 @@ My friend read this book and said, "*Its a boring story. I didn't even complete 
   
 This is the autobiography of the author Jack Canfield who frequently gets a strange dream or a vision.  
 
-*Jack and his friends are a group of eternal beings travelling through the universe in Golden Motorcycles at the speed of light. They are few thousand years old and considered adolescent in their species. They are enjoying their annual solstice break from the Academy of Enlightenment. They happen to see a small blue planet (Earth), full of negative energy and in turmoil. That was the time of World War on earth and almost every nation was involved in war. Jack decides to help the planet and thought that would bring him good grade in the Academy. Jack's friends are not keen in going to planet Earth. However, Jack is determined to go. So, everyone followed Jack to help the small blue planet. The only thing, they did not know is that, when they are born as human being in Earth, they will forget who they truly are!. And, here is our hero, born in Fort Worth, Texas, United States of America and the story begins !...*  
+> Jack and his friends are a group of eternal beings travelling through the universe in Golden Motorcycles at the speed of light. They are few thousand years old and considered adolescent in their species. They are enjoying their annual solstice break from the Academy of Enlightenment. They happen to see a small blue planet (Earth), full of negative energy and in turmoil. That was the time of World War on earth and almost every nation was involved in war. Jack decides to help the planet and thought that would bring him good grade in the Academy. Jack's friends are not keen in going to planet Earth. However, Jack is determined to go. So, everyone followed Jack to help the small blue planet. The only thing, they did not know is that, when they are born as human being in Earth, they will forget who they truly are!. And, here is our hero, born in Fort Worth, Texas, United States of America and the story begins !...  
   
 Jack's early childhood days with his military father was very strict and would often result in spankings. When Jack was six, his mom divorced his father, remarried and moved to live with her grand mother. That's when Jack begin to live life. He is a very meritorious student and very good at sports as well. He became a teacher and helped to improve the education system in USA. The story details all the little and big things Jack did in his life. From his decision to become a teacher, till he becomes the author of the very famous book series "Chicken Soup of the Soul", he narrates his story well. The transformation of his life and the subsequent realization of who he was, is very interesting. The association that he gets after realization and the good deeds that he does to the society is just like what Rhonda Bryne has described in her book, The Secret. Jack lived a great fulfilled life.  
   

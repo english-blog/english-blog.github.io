@@ -5,7 +5,8 @@ date: 2012-07-30
 comments: false
 ---
 
-<a href="http://2.bp.blogspot.com/-Giy7NXqRi3k/UAKEzise2VI/AAAAAAAAU70/6R-xFl7yjAE/s1600/On-Desire-Why-We-Want-What-We-Want-Book.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="320" src="http://2.bp.blogspot.com/-Giy7NXqRi3k/UAKEzise2VI/AAAAAAAAU70/6R-xFl7yjAE/s320/On-Desire-Why-We-Want-What-We-Want-Book.jpg" width="226" /></a>  
+<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+src="{{site.url}}/img/on-desire-why-we-want-what-we-want-william-irvine.jpg"/>   
 
 **Book:** On Desire: Why We Want What We Want  
 **Author:** William B. Irvine  

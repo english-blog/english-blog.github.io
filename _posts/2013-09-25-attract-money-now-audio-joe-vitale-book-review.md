@@ -5,8 +5,8 @@ date: 2013-09-25
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-VDlc2XtlNFM/Uj5TZhY19RI/AAAAAAAAV98/DMmdv4DMKHY/s1600/Attract-Money-Now.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="320" src="http://1.bp.blogspot.com/-VDlc2XtlNFM/Uj5TZhY19RI/AAAAAAAAV98/DMmdv4DMKHY/s320/Attract-Money-Now.jpg" width="208" /></a></div>  
+<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+src="{{site.url}}/img/Attract-Money-Now-Dr-Joe-Vitale.jpg"/>   
 
 **Book:** Attract Money Now (Audio CD)  
 **Authors:** Joe Vitale  
@@ -61,7 +61,7 @@ You may want to test this concept. Joe suggests to have a reasonable money goal,
   
 ## Step 6: Think Like an Entrepreneur  
   
-"*The best way to attract money is to think like an entrepreneur*"  
+> The best way to attract money is to think like an entrepreneur  
   
 The reason you want more money is that you want freedom. Freedom to go anywhere, do anything, live as you please and enjoy your life to the fullest. By far, the fastest way to accelerate your income is to become an entrepreneur. What he means by this is - Look for opportunities disguised in problems and see if we could make a business out of it. With the explosion of internet to the nook and corner of the world, setting up a business is easier, faster and cheaper than ever before. Also, he suggests to set up multiple streams of income, no matter how small it is. Choose the opportunities that grow over time.   
   

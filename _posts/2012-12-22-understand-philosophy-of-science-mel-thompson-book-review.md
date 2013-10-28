@@ -5,8 +5,8 @@ date: 2012-12-22
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-Q4j4t0E-8ac/UNF11Unr7KI/AAAAAAAAVGs/OcSp-OgY04A/s1600/Philosophy+of+Science.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="320" src="http://4.bp.blogspot.com/-Q4j4t0E-8ac/UNF11Unr7KI/AAAAAAAAVGs/OcSp-OgY04A/s320/Philosophy+of+Science.jpg" width="208" /></a></div>  
+<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+src="{{site.url}}/img/understand-philosophy-of-science-mel-thompson.jpg"/>   
 
 **Book:** Understand Philosophy of Science - A Teach Yourself Guide  
 **Author:** Mel Thompson  

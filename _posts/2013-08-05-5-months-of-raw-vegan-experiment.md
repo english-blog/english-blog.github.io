@@ -5,8 +5,9 @@ date: 2013-08-05
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-vDN99bedeyc/Uf33lO0hfMI/AAAAAAAAVk8/yzoZ11iI-14/s1600/5-months-raw-vegan-transformation.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="315" src="http://4.bp.blogspot.com/-vDN99bedeyc/Uf33lO0hfMI/AAAAAAAAVk8/yzoZ11iI-14/s400/5-months-raw-vegan-transformation.jpg" width="400" /></a></div>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/premkumar-masilamani-5-months-raw-vegan-transformation.jpg"/>
+</div>  
 
 25th August 2012 - Some seemingly very unimportant event happened in my life. I couldn't tie my shoe laces while sitting in a chair. I was huffing & puffing when I am done. Yeah. I had a big belly. I could not believe the condition of my physique. I started thinking. Just like the butterfly effect in Chaos Theory, this event triggered a series of events in my life, which led me to change my lifestyle drastically. I started doing one little thing at a time. Below are the list of changes that I attempted from last year.  
   

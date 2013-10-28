@@ -5,8 +5,8 @@ date: 2012-01-03
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-oIFRKF9-mvU/TwLaaIsFXaI/AAAAAAAASEA/EYBLSGZcvR4/s1600/chicken+soup+for+indian+soul.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;">  <img border="0" src="http://3.bp.blogspot.com/-oIFRKF9-mvU/TwLaaIsFXaI/AAAAAAAASEA/EYBLSGZcvR4/s1600/chicken+soup+for+indian+soul.jpg" /></a></div>
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+src="{{site.url}}/img/chicken-soup-for-the-indian-soul-jack-canfield.jpg"/>   
 
 **Book:** Chicken Soup For The Indian Soul: A Book Of Miracles  
 **Author:** Raksha Bharadia, Jack Canfield, Mark Victor AndHansen  

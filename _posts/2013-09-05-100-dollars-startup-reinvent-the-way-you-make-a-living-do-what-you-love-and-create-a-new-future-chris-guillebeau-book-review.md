@@ -5,8 +5,8 @@ date: 2013-09-05
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-839HYXAqWqg/UibXLYi9JyI/AAAAAAAAVqs/FrnG6JvJsVk/s1600/100startup.jpeg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="320" src="http://4.bp.blogspot.com/-839HYXAqWqg/UibXLYi9JyI/AAAAAAAAVqs/FrnG6JvJsVk/s320/100startup.jpeg" width="211" /></a></div>  
+<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+src="{{site.url}}/img/100-dollars-startup-chris-guillebeau.jpg"/>   
 
 **Book Name:** $100 Startup - Reinvent the Way You Make a Living, Do What You Love and Create a New Future  
 **Author:** Chris Guillebeau  

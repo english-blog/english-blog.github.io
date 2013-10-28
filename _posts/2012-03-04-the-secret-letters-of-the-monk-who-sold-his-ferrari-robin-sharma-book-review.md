@@ -5,8 +5,8 @@ date: 2012-03-04
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-jIgukg33EnA/T1BxhDWjVnI/AAAAAAAATfA/r1Ae7pmRK1g/s1600/The-Secret-Letters-of-the-Monk-Who-Sold-His-Ferrari.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="http://2.bp.blogspot.com/-jIgukg33EnA/T1BxhDWjVnI/AAAAAAAATfA/r1Ae7pmRK1g/s320/The-Secret-Letters-of-the-Monk-Who-Sold-His-Ferrari.jpg" width="207" /></a></div>  
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+src="{{site.url}}/img/the-secret-letters-of-the-monk-who-sold-his-ferrari-robin-sharma.jpg"/>   
 
 **Book:** The Secret Letters of the Monk Who Sold His Ferrari  
 **Author:** Robin Sharma  
@@ -19,7 +19,7 @@ comments: false
 **Number of Pages:** 236  
 **Language:** English  
   
-I became a die-hard fan of Robin Sharma after reading his book [The Monk Who Sold His Ferrari](monk-url). I pre-ordered this book and was very excited to read his latest book. This book follows the same pattern as his earlier books (i.e) blend the life teachings in an interesting story. I could see a big difference. This book is more of a story which explains the teachings than the teachings explicitly. Each portion of the story comes with a summary. The story goes like this...  
+I became a die-hard fan of Robin Sharma after reading his book [The Monk Who Sold His Ferrari][monk-url]. I pre-ordered this book and was very excited to read his latest book. This book follows the same pattern as his earlier books (i.e) blend the life teachings in an interesting story. I could see a big difference. This book is more of a story which explains the teachings than the teachings explicitly. Each portion of the story comes with a summary. The story goes like this...  
 
 [monk-url]: http://blog.smileprem.com/the-monk-who-sold-his-ferrari-robin-sharma-book-review/
   

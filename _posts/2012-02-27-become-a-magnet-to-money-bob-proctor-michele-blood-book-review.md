@@ -5,8 +5,8 @@ date: 2012-02-27
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-XebBuyNZnW8/TwXMgk4yVyI/AAAAAAAASEQ/f6iV5xuTMbA/s1600/DSC_0176.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;">`<img border="0" height="320" src="http://2.bp.blogspot.com/-XebBuyNZnW8/TwXMgk4yVyI/AAAAAAAASEQ/f6iV5xuTMbA/s320/DSC_0176.jpg" width="217" /></a></div>  
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+src="{{site.url}}/img/become-a-magnet-to-money-bob-proctor.jpg"/>   
 
 **Book:** Become A Magnet To Money  
 **Author:** Bob Proctor, Michele Blood  

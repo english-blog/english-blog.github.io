@@ -7,8 +7,8 @@ comments: false
 
 I have been watching the Indian Media (TV, Newspapers, Magazines etc) recent days and I am absolutely irritated to the core about thousands of "fairness cream" advertisements played the media every minute of the day. What's wrong with being dark?. Why do you (fairness cream companies) want to change my skin color?. Why even the well-educated Indians wants to have a fairer skin?. Initially, it was targeted only at women. Now, men too. C'mon guys. Build your body and stamina. *Your skin color does not matter, in your most important moment of manliness*. Trust me!.  
   
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://www.facebook.com/darkisbeautiful" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" target="_blank"><img border="0" height="400" src="http://3.bp.blogspot.com/-KaS0L7ApS1g/UbKrPHoVgCI/AAAAAAAAVds/3s-GuBn7zzk/s400/Dark_Is_Beautiful.jpg" width="280" /></a></div>  
+<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+src="{{site.url}}/img/Dark_Is_Beautiful-Nandita-Das.jpg"/>   
 
 I was born into a Dravidian family in Southern India few years (?) back. By the term Dravidian, I refer to the ethnic group which lives in South India for thousands of years. This group includes Tamils, Telugus, Kannadigas, Malayalis, Tuluvas, Kurukhs, Kondavas, Kondhas and Gondis. They speak dravidian languages. All of them were dark. No exceptions. That dark skin helped us to survive & stay healthy in the tropical climate. Back then, skin color was never considered as a component of beauty!.   
   

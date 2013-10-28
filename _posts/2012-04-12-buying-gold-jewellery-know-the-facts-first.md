@@ -5,7 +5,9 @@ date: 2012-04-12
 comments: false
 ---
 
-<a href="http://4.bp.blogspot.com/-OaKnWpIng3o/T4E8ja_jI0I/AAAAAAAATz0/oFdHr3r4Afc/s1600/buy+gold+for+cash.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="199" src="http://4.bp.blogspot.com/-OaKnWpIng3o/T4E8ja_jI0I/AAAAAAAATz0/oFdHr3r4Afc/s320/buy+gold+for+cash.jpg" width="320" /></a>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/buying-gold-jewellery.jpg"/>
+</div>  
   
 Generally, I do not prefer Gold, in fact my engagement ring is the first gold ornament in my body. It's a custom in India for the bride & groom to wear Gold Jewels during wedding. I had no options but to buy. I head out to "Joy Alukkas". I was discussing about the Gold Jewellery Business in India, with the floor manager and I am surprised to know that majority of the people does not even understand the basics. In fact, my parents were cheated by "L.K.S Jewellers" when they bought 916 KDM Gold Rings few years back. So, this blog may be a beginner's first hand information, when you buy Gold Jewels in India.  
   
@@ -13,17 +15,23 @@ Generally, I do not prefer Gold, in fact my engagement ring is the first gold or
   
 **Carat (K):** Its the unit of purity of gold. As per the calculation below, 24K Gold is nearly 99.9% pure gold. 24K Gold is suggested for Golden Ornaments of more than 10 *Sovereigns* and remember there is no guarantee for the Jewels, since they may lose the shape even with normal usage.  
   
-<a href="http://1.bp.blogspot.com/-AKp5siFc7dA/T4FEJ2IfAOI/AAAAAAAAT0A/r8G_1VLgvDU/s1600/Carat-Gold-Definition.JPG" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-AKp5siFc7dA/T4FEJ2IfAOI/AAAAAAAAT0A/r8G_1VLgvDU/s1600/Carat-Gold-Definition.JPG" /></a>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/buying-gold-jewellery-carat-calculation-24k.jpg"/>
+</div>  
 
 **916 KDM (or) 22K Gold:** Most of the Gold Jewels made in India are of 22K Gold. Cadmium or Kadium (KDM) use to be one of the metal mixed with Gold to make it strong, so that beautiful intricate designs can be made. Cadmium is safe in the finished gold products, but very dangerous in the manufacturing process. Some countries banned Cadmium to be used in gold ornaments. In that case, the alloy would be the combination of Silver, Copper and Zinc. (The % of these metals varies, depends on the manufacturer). 916 KDM Gold is a gold alloy of Gold and (Silver + Copper + Zinc) with roughly 91.6% of pure gold which is 22K Gold. Though we do not use Cadmium in most cases, we still use the name KDM. Look at the below calculation.  
   
-<a href="http://4.bp.blogspot.com/-eZPCt9gB3E0/T4FL_x8wHYI/AAAAAAAAT0M/o-afKWjDsaw/s1600/22K-Carat-Gold-Definition.JPG" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-eZPCt9gB3E0/T4FL_x8wHYI/AAAAAAAAT0M/o-afKWjDsaw/s1600/22K-Carat-Gold-Definition.JPG" /></a>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/buying-gold-jewellery-carat-calculation-22k.jpg"/>
+</div>  
 
 **18K Gold:** 18K Gold is 75% of pure Gold and 25% of other metals. Using the above formula, you can decide the percentage of pure gold in your gold ornaments.  
   
 **BIS Hallmark:** The Government of India formed Bureau of Indian Standards (BIS) in the year 1987, which is the only institution in India, authorised to hallmark golden Jewellery. The Jewellers has to obtain a licence from BIS for a fee and hallmark the jewel they make with BIS logo. BIS maintains market surveillance on the certified jewellers, on random basis. Market surveillance involves collection of Hallmarked Gold Jewellary from licencee's retail outlet/manufacturing premises and having it tested for conformity in BIS recognized hallmarking centre. Deviations in degree of purity of gold and operation not in conformance to the system may result in cancellation of BIS licence.  
   
-<a href="http://1.bp.blogspot.com/-e4QtB99wiAw/T4FSdoNzWVI/AAAAAAAAT0Y/LhHAOeb1ESQ/s1600/BIS+HallMark+Logo.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-e4QtB99wiAw/T4FSdoNzWVI/AAAAAAAAT0Y/LhHAOeb1ESQ/s1600/BIS+HallMark+Logo.gif" /></a>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/buying-gold-jewellery-carat-BIS-Hallmark.jpg"/>
+</div>  
   
 Most of the Gold Smiths print the word "916" or "916 KDM" on the Jewels without the logo. Many jewellers will show you these printed numbers and claim that they are 916 KDM Jewels. Do not listen to the jewellers. Just look for the above logo. If you do not find the logo in the Jewels, it means that the specific Jewel is NOT verified for the purity of gold and you are being cheated.  
 
@@ -48,7 +56,9 @@ More than 13% -- You are being cheated.
   
 It was like this, when we bought "*Thali Kodi*" for my wife and a "*Short Chain*" for me. I saved my hard earned money of Rs. 3,816 from the Jewellers.  
   
-<a href="http://2.bp.blogspot.com/-4mJES6C96Ok/T4Fdc0NC9bI/AAAAAAAAT0s/S3kQ4O_THcY/s1600/Negotiation.JPG" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="62" src="http://2.bp.blogspot.com/-4mJES6C96Ok/T4Fdc0NC9bI/AAAAAAAAT0s/S3kQ4O_THcY/s320/Negotiation.JPG" width="320" /></a>
+<div style="text-align: center;">
+<img src="{{site.url}}/img/buying-gold-jewellery-negotiation.jpg"/>
+</div>  
 
 ## Remember the below:  
 
@@ -72,7 +82,9 @@ We decided to exchange the unused rings and bangles for the new gold. Joy Alukka
 
 Once this is settled, another surprise was waiting for me. One of the Golden Ring (1 Sovereign) that my dad purchased from L.K.S Jewellers many years ago, with the printed word "916 KDM" failed in the purity test. It had only 80% gold and the rest was mixed with Silver!. This jewel is from one of established Jewellers in Chennai. Hard to believe right?. Joy Alukkas melted the ring and showed the proof in the purity meter. Here is the picture.  
   
-<a href="http://4.bp.blogspot.com/-04GhTtdIYFU/T4ZzjdLxKhI/AAAAAAAAT4g/eiSRKnp_P-s/s1600/LKS+Jewellery++916+KDM+cheat.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="213" src="http://4.bp.blogspot.com/-04GhTtdIYFU/T4ZzjdLxKhI/AAAAAAAAT4g/eiSRKnp_P-s/s320/LKS+Jewellery++916+KDM+cheat.jpg" width="320" /></a>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/LKS-Jewellery-916-KDM-cheat.jpg"/>
+</div>  
   
 My Dad used to buy most of the jewellery from one of the showrooms of L.K.S Jewellery, since it was close to our house. My dad trusted the jewellery shop so much that every single jewel in our house is from that shop. But, *L.K.S Jewellers cheated my dad and lost a loyal customer.*  
   

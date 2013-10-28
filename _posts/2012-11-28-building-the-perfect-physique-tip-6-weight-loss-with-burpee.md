@@ -5,8 +5,9 @@ date: 2012-11-28
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-q2OiMX2cG-8/ULXFN81JmLI/AAAAAAAAVE8/RZPKiWr3uBA/s1600/williamArthurWard.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="242" src="http://3.bp.blogspot.com/-q2OiMX2cG-8/ULXFN81JmLI/AAAAAAAAVE8/RZPKiWr3uBA/s400/williamArthurWard.png" width="400" /></a></div>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/believe-while-others-are-doubting-william-arthur-ward.png"/>
+</div>  
 
 Seriously, its been hell of a three months. I was religiously following all the tips on every single day. I lost three kilograms of weight in the first month and slowly gained it back at the end of three months. Now, I am exactly at the same point where I started. This is not what you expect from me. Isn't it?. But, this is the truth. When I told this to my friends, everyone has their version of the same story. Hmm... Looks like a universal problem !  
   
@@ -27,13 +28,9 @@ If you already has the experience of working out in the gym, you may start the e
 If you are new to this blog, you may want to read the other tips that we discussed so far ...  
 
 [Tip 1: Eat breakfast within an hour of waking up !](http://blog.smileprem.com/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
-
 [Tip 2: Lose weight out of the blue !](http://blog.smileprem.com/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
-
 [Tip 3: Lose Weight with Laziness](http://blog.smileprem.com/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)  
-
-[Tip 4: Weight Loss with Mind Movies](http://blog.smileprem.com/building-the-perfect-physique-tip-4-weight-loss-with-mind-movies/)  
-  
+[Tip 4: Weight Loss with Mind Movies](http://blog.smileprem.com/building-the-perfect-physique-tip-4-weight-loss-with-mind-movies/)    
 [Tip 5: Weight Loss with Horse Gram](http://blog.smileprem.com/building-the-perfect-physique-tip-5-weight-loss-with-horse-gram/)  
 
 **If you know any simple tips to reduce weight, please let me know in the comments section.**  

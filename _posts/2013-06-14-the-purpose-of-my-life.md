@@ -5,8 +5,8 @@ date: 2013-06-14
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-atBz5YtZs-U/Ubp5MJbkH3I/AAAAAAAAVeU/w-NSBHsg_iI/s1600/feelings.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="209" src="http://2.bp.blogspot.com/-atBz5YtZs-U/Ubp5MJbkH3I/AAAAAAAAVeU/w-NSBHsg_iI/s320/feelings.jpg" width="320" /></a></div>  
+<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+src="{{site.url}}/img/human-feelings.jpg"/>   
 
 **Theist:** God's purpose is your purpose.  
 **Agnostic:** Should there be a purpose?. I don't mind.   

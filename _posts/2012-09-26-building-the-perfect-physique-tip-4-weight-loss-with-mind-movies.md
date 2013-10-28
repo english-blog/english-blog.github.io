@@ -5,7 +5,9 @@ date: 2012-09-26
 comments: false
 ---
 
-<a href="http://2.bp.blogspot.com/-v13JLsWDxb4/UGFWiFJjHoI/AAAAAAAAVDI/xbe5ns_p1jQ/s1600/Mind-Movie-Brain.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="http://2.bp.blogspot.com/-v13JLsWDxb4/UGFWiFJjHoI/AAAAAAAAVDI/xbe5ns_p1jQ/s320/Mind-Movie-Brain.jpg" width="296" /></a>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/Mind-Movie-Brain.jpg"/>
+</div>  
   
 ## What is a Mind Movie?  
 
@@ -65,9 +67,7 @@ I spent couple of weeks to create two mind movies (for men and women) to help ac
 If you are new to this blog, you may want to read the other tips ...  
 
 [Tip 1: Eat breakfast within an hour of waking up !](http://blog.smileprem.com/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
-
 [Tip 2: Lose weight out of the blue !](http://blog.smileprem.com/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
-
 [Tip 3: Lose Weight with Laziness](http://blog.smileprem.com/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)   
 
 **If you know any simple tips to reduce weight, please let me know in the comments section.**  

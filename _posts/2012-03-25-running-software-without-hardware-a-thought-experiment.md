@@ -5,8 +5,10 @@ date: 2012-03-25
 comments: false
 ---
 
-<a href="http://4.bp.blogspot.com/-HSmfmrHDZM4/UNbg2eENUBI/AAAAAAAAVH4/OM0jevLZAEE/s1600/human-mind-thinking.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="http://4.bp.blogspot.com/-HSmfmrHDZM4/UNbg2eENUBI/AAAAAAAAVH4/OM0jevLZAEE/s320/human-mind-thinking.jpg" width="320" /></a>
-  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/human-mind-thinking.jpg"/>
+</div>    
+
 I have been thinking about this concept of running a software program without any hardware for quite some time. I know what you are thinking. Let's stop the rational thinking about the possibilities of its implementation. Let's do a Thought Experiment.  
   
 Imagine that you are a mad scientist specialized in Robotics and Artificial Intelligence. You create an extra-ordinary AI program (Software) which can be installed in a humanoid robot (Hardware). There are only two mandatory rules to the AI Program.  
@@ -20,7 +22,9 @@ Other than these two rules, the AI Program has free will to do anything, it want
   
 When the AI Program acquired all the knowledge and created a brilliant data-mining algorithm to find any specific information in a split second, it begins to think beyond your imagination. It decomposes the entire humanoid into groups of atoms working together to perform any action. <i>It figures out a way to control the atoms, without depending on the humanoid robot. A great step which is not yet a conceivable idea for human beings.</i> It executes the same set of instructions to perform the same action as before, along with that, some additional <i>commands</i> to control the atoms to perform the action.  
   
-<a href="http://1.bp.blogspot.com/-vsz0h20iOGc/UNbhoGCOTAI/AAAAAAAAVIA/PmkXlhAPcSE/s1600/picture-drawing-itself-hands.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="276" src="http://1.bp.blogspot.com/-vsz0h20iOGc/UNbhoGCOTAI/AAAAAAAAVIA/PmkXlhAPcSE/s320/picture-drawing-itself-hands.jpg" width="320" /></a>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/picture-drawing-itself-hands.jpg"/>
+</div>  
   
 The above picture may give you an Idea of what I think, the AI Program is doing. When the AI Program completes its mission - completely detached from the humanoid robot, you can command the AI Program to do anything and it will be done, without the humanoid robot. If you command the AI Program to bring the Apple from the table to you, the AI Program commands the atoms around the apple and you would see the Apple flies in the air and comes to you by itself. The AI Program acquired knowledge, way beyond your imagination, it does not need a "Hardware" to run and it cannot be technically called as "Software" anymore.  
   

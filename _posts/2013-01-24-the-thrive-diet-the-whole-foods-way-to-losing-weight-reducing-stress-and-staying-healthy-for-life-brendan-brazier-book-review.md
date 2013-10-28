@@ -5,8 +5,8 @@ date: 2013-01-24
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-kUzk5ZMZOMo/UNXF1qfY-AI/AAAAAAAAVHA/vtErk5jNQ8Q/s1600/The-Thrive-Diet-Book.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="320" src="http://4.bp.blogspot.com/-kUzk5ZMZOMo/UNXF1qfY-AI/AAAAAAAAVHA/vtErk5jNQ8Q/s320/The-Thrive-Diet-Book.jpg" width="213" /></a></div>  
+<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+src="{{site.url}}/img/the-thrive-diet-brendan-brazier.jpg" border="1"/>   
 
 **Book:** The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life  
 **Author:** Brendan Brazier  
@@ -24,21 +24,33 @@ A raw vegan food eater, Brendan can complete this race within 9 hours (on par wi
   
 We all know about stress. Right?. The very first section of the book discusses about the complimentary, uncomplimentary and production stress. He also discusses in detail on psychological, environmental and nutritional stress. Why so much details about stress in a book where we expect set of recipes?. Because, this is not a recipe book. This is a complete health book, which will transform your body, your lifestyle and assist you with the transformation process. Recipes spread across the book is to ease your transition efforts.  
   
-**Nutritional Stress** - caused by food because of its unhealthy properties. Not eating the right nutrient rich food, at the right amount and at right interval, places a considerable amount of stress in our body and eventually in our mind.  
+## Nutritional Stress  
+
+It is caused by food because of its unhealthy properties. Not eating the right nutrient rich food, at the right amount and at right interval, places a considerable amount of stress in our body and eventually in our mind.  
   
-**High Net Gain Foods** - Another important aspect of food calories which we conveniently ignore, is the energy spent by the body to digest, assimilate and eliminate the food from our body. If you consume, 100 calories and your body spends 50 calories in the digestion process, your effective calorie consumption is 50 calories + stress on your body. All of the thrive diet recipes are high net gain foods.  
+## High Net Gain Foods  
+
+Another important aspect of food calories which we conveniently ignore, is the energy spent by the body to digest, assimilate and eliminate the food from our body. If you consume, 100 calories and your body spends 50 calories in the digestion process, your effective calorie consumption is 50 calories + stress on your body. All of the thrive diet recipes are high net gain foods.  
   
-**One Step Nutrition** - describes the food containing nutrients already in the form usable by the body. Most of the cooked foods has the complex forms of the nutrients, which must be broken down to simpler form for the body to absorb it. Most thrive diets have simpler form. Very Important!.  
+## One Step Nutrition  
+
+This describes the food containing nutrients already in the form usable by the body. Most of the cooked foods has the complex forms of the nutrients, which must be broken down to simpler form for the body to absorb it. Most thrive diets have simpler form. Very Important!.  
   
 * Complex Carbohydrates to Simple Carbohydrates  
 * Fat to Fatty Acids  
 * Protein to Amino Acids  
   
-**Exercise for an ageless body** - There is no magical diet or pill which will give you the perfect body without exercises. The Thrive Diet is no exemption. Exercise is one of the best complimentary stress. When you exercise, you break down some of the cells in your body and your body regenerates when it is provided with the right nutrients. The more frequently your body regenerates, the more young you will be. Brendan suggest the natural forms of sports drinks and supplements, before, during and after the exercises. You can make all of them at home. Specific recipes for specific levels of exercises. I love it.  
+## Exercise for an ageless body  
+
+There is no magical diet or pill which will give you the perfect body without exercises. The Thrive Diet is no exemption. Exercise is one of the best complimentary stress. When you exercise, you break down some of the cells in your body and your body regenerates when it is provided with the right nutrients. The more frequently your body regenerates, the more young you will be. Brendan suggest the natural forms of sports drinks and supplements, before, during and after the exercises. You can make all of them at home. Specific recipes for specific levels of exercises. I love it.  
   
-**Foods & Nutrients** - A big chapter is dedicated to explain in detail, all the nutrients your body needs (carbohydrates, protein, fat, vitamins, mineral etc), the food soruces that are rich in those nutrients and the best way to consume them. Just for this chapter, I love to keep this book as a reference in my library.  
+## Foods & Nutrients  
+
+A big chapter is dedicated to explain in detail, all the nutrients your body needs (carbohydrates, protein, fat, vitamins, mineral etc), the food soruces that are rich in those nutrients and the best way to consume them. Just for this chapter, I love to keep this book as a reference in my library.  
   
-**Vitamin B12** - One "beaten to death" discussion against raw foods is the unavailability of Vitamin B12 in the raw foods. Brendan suggests that B12 is available in *chlorella (sea plant), miso and nutritional yeast* and he consumes them regularly. However, the availability of these foods around the world is a big question.  
+## Vitamin B12  
+
+One "beaten to death" discussion against raw foods is the unavailability of Vitamin B12 in the raw foods. Brendan suggests that B12 is available in *chlorella (sea plant), miso and nutritional yeast* and he consumes them regularly. However, the availability of these foods around the world is a big question.  
   
 Some raw foodists, suggest to take vitamin supplements. I don't like medicine. So, I will not. But, I will try to eat a cup of curd / milk daily to compensate for Vitamin B12, till I get a reliable, consistent supply of natural sources of this vitamin. I am not for / against raw or cooked foods. I am looking for the perfect diet for human body. If the blend of both is the best, I will go for it.   
   

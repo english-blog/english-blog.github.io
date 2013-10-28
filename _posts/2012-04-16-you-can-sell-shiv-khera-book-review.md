@@ -5,7 +5,8 @@ date: 2012-04-16
 comments: false
 ---
 
-<a href="http://2.bp.blogspot.com/-ByHjizj46wQ/T4w23EBX2NI/AAAAAAAAT-o/UAaCs_I2PtA/s1600/you+can+sell+shiv+khera.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="http://2.bp.blogspot.com/-ByHjizj46wQ/T4w23EBX2NI/AAAAAAAAT-o/UAaCs_I2PtA/s320/you+can+sell+shiv+khera.jpg" width="210" /></a>  
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+src="{{site.url}}/img/you-can-sell-shiv-khera.jpg"/>   
   
 **Book:** You Can Sell  
 **Author:** Shiv Khera  

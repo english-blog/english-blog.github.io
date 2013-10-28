@@ -5,8 +5,8 @@ date: 2011-12-25
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-5m85RsTW4PY/TvcCFDUDblI/AAAAAAAARtQ/UP-ehXQDsdo/s1600/the-mon-who-sold-his-ferrari.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="http://1.bp.blogspot.com/-5m85RsTW4PY/TvcCFDUDblI/AAAAAAAARtQ/UP-ehXQDsdo/s320/the-mon-who-sold-his-ferrari.jpg" width="208" /></a></div>
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+src="{{site.url}}/img/the-monk-who-sold-his-ferrari-robin-sharma.jpg"/>   
 
 **Book:** The Monk Who Sold His Ferrari  
 **Author:** Robin Sharma  

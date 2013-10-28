@@ -5,13 +5,13 @@ date: 2013-10-20
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-TIbnnU81F6I/UkhN_lONq6I/AAAAAAAAV-c/fL-BdakCXW8/s1600/100-Ways-to-Motivate-Yourself-Chandler-Steve.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="318" src="http://1.bp.blogspot.com/-TIbnnU81F6I/UkhN_lONq6I/AAAAAAAAV-c/fL-BdakCXW8/s320/100-Ways-to-Motivate-Yourself-Chandler-Steve.jpg" width="320" /></a></div>  
+<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+src="{{site.url}}/img/100-Ways-to-Motivate-Yourself-Chandler-Steve.jpg"/>   
 
 **Book Name:** 100 Ways to Motivate Yourself - Change Your Life Forever (Audio CD)  
 **Author:** Steve Chandler  
 **Publisher:** High Bridge Company  
-**Publication Year: May 26, 2001  
+**Publication Year:** May 26, 2001  
 **Language:** English  
 **ISBN-10:** 1565114213  
 **ISBN-13:** 978-1565114210  

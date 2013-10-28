@@ -5,8 +5,8 @@ date: 2013-03-13
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-mKyHwNAen7A/UQI96fT89xI/AAAAAAAAVKc/fFIsryrsSkI/s1600/the-god-instinct-jesse-bering.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="320" src="http://1.bp.blogspot.com/-mKyHwNAen7A/UQI96fT89xI/AAAAAAAAVKc/fFIsryrsSkI/s320/the-god-instinct-jesse-bering.jpg" width="201" /></a></div>  
+<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+src="{{site.url}}/img/the-god-instinct-jesse-bering.jpg"/>   
 
 **Book:** God Instinct - The Psychology of Souls, Destiny and the Meaning of Life  
 **Author:** Jesse Bering  

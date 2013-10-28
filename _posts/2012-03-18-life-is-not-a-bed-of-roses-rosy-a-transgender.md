@@ -5,8 +5,9 @@ date: 2012-03-18
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-_WluVx9-bIY/T2Tk4_uayJI/AAAAAAAAABA/gKeYt9j5Mt8/s1600/IMG0142A.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-_WluVx9-bIY/T2Tk4_uayJI/AAAAAAAAABA/gKeYt9j5Mt8/s1600/IMG0142A.jpg" /></a></div>
+<div style="text-align: center;">
+<img src="{{site.url}}/img/rosy-transgender-1.jpg"/>
+</div>  
   
 It was a gloomy Sunday afternoon. I was on the way to the weekly meeting at Sangama Office. I saw a bird flying from tree to tree looking for an apt place to set its nest. It somehow seemed like my life. I’m a homeless wanderer right now seeking a nest. With so many thoughts flooding the mind, I reached the office. It was warm to see known faces and lovely smiles spread across those faces.   
   
@@ -67,10 +68,13 @@ I started drinking everyday from then on. My only precious thing was gone and wh
 
 This is for my past and present. Now for the future: I adopted a baby girl. She is five months old now. I got her from a prostitute. She gave birth to this girl and was not in a condition to look after her. There is no law for people like us to adopt children. They say it’s unsafe and we cannot to take care of them. But what do they know about our motherhood?. We can take care of kids better than many women. As I cannot adopt the baby legally, I bought her for five thousand rupees. I’m homeless right now and I know that she won’t be fine in my hands for now. I have left her with a sister in Pondicherry church. Every month I send 1000 rupees to sister to take care of my girl. Also, remember about a sister of mine who is affected with brain fever. All I want to do is take care of these two souls as much as I can. When my baby turns a year old, I will bring her here and keep her with myself and will bring her up.  
   
-*I would like to become a dentist. I’m ready to do any business other than sex-work to earn a livelihood. I know 5 languages. If not dentist then I would like to work in BPO. I love that job. I’m not literate or anything to speak big and polished. But I can tell what my heart yearns for. I want to be treated as an equal human being in the society. I don’t want sympathy or generosity from anyone. Please, do not give us a dirty look as if looking at filth and move away in disgust. We are nature’s choice just like a man and woman. Just give us equal opportunity and we will take care of ourselves. We are humans and are entitled every human right like anyone else. Please do not change your seat in the bus if you find a trans-gender sitting next to you. Do not mock at us or call names in public for even we have a heart which beats in the name of love and dies at every hostile look.*
+<div style="text-align: center;">
+<img src="{{site.url}}/img/rosy-transgender-2.jpg"/>
+</div>  
+
+> I would like to become a dentist. I’m ready to do any business other than sex-work to earn a livelihood. I know 5 languages. If not dentist then I would like to work in BPO. I love that job. I’m not literate or anything to speak big and polished. But I can tell what my heart yearns for. I want to be treated as an equal human being in the society. I don’t want sympathy or generosity from anyone. Please, do not give us a dirty look as if looking at filth and move away in disgust. We are nature’s choice just like a man and woman. Just give us equal opportunity and we will take care of ourselves. We are humans and are entitled every human right like anyone else. Please do not change your seat in the bus if you find a trans-gender sitting next to you. Do not mock at us or call names in public for even we have a heart which beats in the name of love and dies at every hostile look.
   
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-Ka9kyLLIiTA/T2TojkIUiwI/AAAAAAAAABI/Xf6Zp6S38HU/s1600/IMG0139A.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="http://2.bp.blogspot.com/-Ka9kyLLIiTA/T2TojkIUiwI/AAAAAAAAABI/Xf6Zp6S38HU/s320/IMG0139A.jpg" width="320" /></a></div>
+
   
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
 src="{{site.url}}/img/sruthi.jpg"/>

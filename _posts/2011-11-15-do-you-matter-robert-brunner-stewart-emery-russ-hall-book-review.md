@@ -5,8 +5,8 @@ date: 2011-11-15
 comments: false
 ---
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="http://3.bp.blogspot.com/-iDE0EpjU3mY/TsKEIEQjnbI/AAAAAAAARQs/sJ5zfA3IASM/s1600/do+you+matter.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://3.bp.blogspot.com/-iDE0EpjU3mY/TsKEIEQjnbI/AAAAAAAARQs/sJ5zfA3IASM/s1600/do+you+matter.jpg" /></a></div>
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+src="{{site.url}}/img/do-you-matter-robert-brunner-stewart-emery-russ-hall.jpg"/>   
 
 **Book:** Do You Matter?: How Great Design Will Make People Love Your Company  
 **Author:** Robert Brunner, Stewart Emery, Russ Hall  

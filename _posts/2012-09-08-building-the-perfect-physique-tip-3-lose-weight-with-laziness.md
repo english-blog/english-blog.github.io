@@ -5,9 +5,11 @@ date: 2012-09-08
 comments: false
 ---
 
-"*The title sounds crazy. If you can lose weight by being lazy, everyone in the world would be slim and fit. This guy is wrong. He will deceive me to buy useless products. I am not going to waste my time reading this post.*"  
+> "The title sounds crazy. If you can lose weight by being lazy, everyone in the world would be slim and fit. This guy is wrong. He will deceive me to buy useless products. I am not going to waste my time reading this post."  
 
-<a href="http://1.bp.blogspot.com/-_W_DYpUTiWQ/UEsS9-hBGnI/AAAAAAAAVBc/7hLZc0tKIqU/s1600/Garfield-Lazy-Dieting.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="http://1.bp.blogspot.com/-_W_DYpUTiWQ/UEsS9-hBGnI/AAAAAAAAVBc/7hLZc0tKIqU/s320/Garfield-Lazy-Dieting.jpg" width="320" /></a>
+<div style="text-align: center;">
+<img src="{{site.url}}/img/Garfield-Lazy-Dieting.jpg"/>
+</div>  
   
 This was the typical reaction when I first read about the claim. I did research further and found that this tip works for many people. It may work for me. The best part is, this personal experiment was conducted by Phil Libin, the CEO of EverNote, one of the fastest growing company in Silicon Valley and this tip is published in Timothy Ferris's [The 4 Hour Body](http://www.amazon.com/gp/product/030746363X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030746363X&linkCode=as2&tag=booiverea-20) as well.  
 
@@ -15,7 +17,9 @@ This was the typical reaction when I first read about the claim. I did research 
 
 In 2008, Phil Libin weighing 258 pounds, decided to lose weight by doing NOTHING. Yes!!!. He wanted to find the effect of precisely aware of his weight would have on his weight. He actually made a conscious effort to continue to eat whatever he wanted and got absolutely no exercise during this experiment.  
   
-<a href="http://4.bp.blogspot.com/-LGlQaTzqZj8/UEsWLvAqgBI/AAAAAAAAVB0/VMmtbGLQS1g/s1600/weighing-scale.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="http://4.bp.blogspot.com/-LGlQaTzqZj8/UEsWLvAqgBI/AAAAAAAAVB0/VMmtbGLQS1g/s320/weighing-scale.jpg" width="320" /></a>
+<div style="text-align: center;">
+<img src="{{site.url}}/img/weighing-scale.jpg"/>
+</div>  
   
 **Experiment** - He weighed himself (naked) everyday around the same time, before breakfast. So, he knows where he is on a daily basis. He decided his ideal weight would be 230 pounds (when he weighed 280 pounds) and plotted the details in an excel sheet with his actual weight, ideal weight, maximum weight, and minimum weight. He lost **28 pounds in six months** without making the slightest effort to change his behavior. Unbelievable. Is n't it?  
   
@@ -27,9 +31,13 @@ You wanna try this experiment?. I strongly suggest that you do.
     
 Looking at the results, I decided to try this. I created my own excel sheet based on Phil's experiment. I am going to try this for 90 days. I will post my graph after 3 months. I am going to measure my weight in kilograms (not in pounds). This is my initial graph with just only day weight plotted.  
   
-<a href="http://4.bp.blogspot.com/-Z1Jz6D3lpOA/UEsbvVhKgFI/AAAAAAAAVCM/4mvlQTmFbtQ/s1600/premkumar-masilamani-weight-tracker.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="165" src="http://4.bp.blogspot.com/-Z1Jz6D3lpOA/UEsbvVhKgFI/AAAAAAAAVCM/4mvlQTmFbtQ/s400/premkumar-masilamani-weight-tracker.png" width="400" /></a>
+<div style="text-align: center;">
+<img src="{{site.url}}/img/premkumar-masilamani-weight-tracker.png"/>
+</div>  
   
-Please [click here to download](https://sites.google.com/site/smilepremdownloads/weight-tracker/Weight-Tracker.xls?attredirects=0&d=1) my excel sheet template to use for your experiment. Here are the instructions to use.  
+Please [click here to download][xl-tracker-url] my excel sheet template to use for your experiment. Here are the instructions to use.  
+
+[xl-tracker-url]: {{site.url}}/downloads/Weight-Tracker.xls
 
 * In the 'Graph' worksheet, please enter your name, current weight and your ideal weight (what you think, you can achieve in 3 months)  
 * In the 'Data' Worksheet, just add your current weight on 'Actual Weight' column every day  

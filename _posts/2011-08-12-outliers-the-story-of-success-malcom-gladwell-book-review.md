@@ -19,7 +19,7 @@ src="{{site.url}}/img/outliers-malcom-gladwell.jpg" border="1"/>
 **Number of Pages:** 736  
 **Language:** English  
   
-I knew Malcom Gladwell through his earlier book "[Blink](blinkurl)". This guy always thinks out of the box and gives a new perspective to the well known things. He always amazes me. In his new book "[Outliers](outliersurl)", he gives us a different perspective on Why successful people are successful?.  The general notion is that the successful people became so, because of who they are. But, Gladwell tells us that its more because of where they are from?. Sounds confusing?. For me too, when I started. Not anymore :)  
+I knew Malcom Gladwell through his earlier book "[Blink][blinkurl]". This guy always thinks out of the box and gives a new perspective to the well known things. He always amazes me. In his new book "[Outliers][outliersurl]", he gives us a different perspective on Why successful people are successful?.  The general notion is that the successful people became so, because of who they are. But, Gladwell tells us that its more because of where they are from?. Sounds confusing?. For me too, when I started. Not anymore :)  
 
 [blinkurl]: (http://www.amazon.com/gp/product/0316010669/ref=as_li_tf_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0316010669)
 
@@ -35,11 +35,11 @@ The Hard work they put in (10,000 hrs rule - right attitude)
   
 He concludes that these Outliers were present in the right time in the right place with the right attitude and become successful. He takes the examples of few other intellectual people who, unfortunately happen to be in the wrong time and not be able to become a success icon. Interesting, but I could not buy into this idea 100%.  
   
-I thought about the book "[The Secret](secreturl)" by Rhonda Brynes when I read Gladwell's conclusion. Gladwell says that Outliers are successful, because of the opportunities they got. But, Rhonda Bryne says that you will create opportunities when you are determined in what you want to achieve, according to the "Law Of Attraction". Gladwell explains why things are the way they are. Rhonda Bryne tells us how to create things.  
+I thought about the book "[The Secret][secreturl]" by Rhonda Brynes when I read Gladwell's conclusion. Gladwell says that Outliers are successful, because of the opportunities they got. But, Rhonda Bryne says that you will create opportunities when you are determined in what you want to achieve, according to the "Law Of Attraction". Gladwell explains why things are the way they are. Rhonda Bryne tells us how to create things.  
 
 [secreturl]: http://www.amazon.com/gp/product/1582701709/ref=as_li_tf_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1582701709
 
-Do you see the some correlation?. I do. I would suggest you to read the book "[The Secret](secreturl)" after reading this book.  
+Do you see the some correlation?. I do. I would suggest you to read the book "[The Secret][secreturl]" after reading this book.  
   
 In further chapters, he discusses about the "Culture of Honor", why plane crashes happens and its relation to the culture they belong to, rice paddy fields and its relations to maths skills etc. Very interesting !...  
   

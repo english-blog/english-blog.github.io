@@ -5,8 +5,8 @@ date: 2011-11-13
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-VZ-8ugXRz6s/Tr8pvFXmy-I/AAAAAAAARPs/UwucK5MzbV0/s1600/Resident-Dormitus-Book.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="http://4.bp.blogspot.com/-VZ-8ugXRz6s/Tr8pvFXmy-I/AAAAAAAARPs/UwucK5MzbV0/s320/Resident-Dormitus-Book.jpg" width="211" /></a></div>
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+src="{{site.url}}/img/resident-dormitus-vikas-rathi.jpg"/>   
 
 **Book:** Resident Dormitus  
 **Author:** Vikas Rathi  

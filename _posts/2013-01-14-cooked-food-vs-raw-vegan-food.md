@@ -14,8 +14,8 @@ I believed in this myth for a very long time. Who wants to be skinny and vulnera
   
 Let's analyze from evolution point of view.  
   
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-2IfFbF9-V2w/UPPjh0CUvAI/AAAAAAAAVJ8/3kfSsrAb7sY/s1600/evolution-human-brain.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="320" src="http://4.bp.blogspot.com/-2IfFbF9-V2w/UPPjh0CUvAI/AAAAAAAAVJ8/3kfSsrAb7sY/s320/evolution-human-brain.jpg" width="260" /></a></div>  
+<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+src="{{site.url}}/img/evolution-human-brain.jpg"/>   
 
 Many scientists believe that the cooked food in human diet is responsible for the evolution of a bigger brain. Human brain consumes roughly 20% of the calories that goes into the body. Cooked foods are packed with more calories, easy to chew, tastes better and could sustain few more days, which gave our ancestor the advantage of having more time to socialize and less time in searching for food. Since human brain is nourished with more food and given more time to think, it is increased in size.  
   
@@ -70,20 +70,15 @@ Hundreds of living evidences are available through out the world in many countri
 How sure I am about her age being 71?. 0%. Yes. This is just a video uploaded in youtube by someone who loves raw food. There is no reliable way to verify it. However, my instinct says that this could be possible. Around 15 years back,  when I was a kid, I read a very old book in Tamil, (இயற்கை உணவுகள் - I think. Can't remember the title exactly) about raw foods which detailed the health benefits and extreme endurance possible with raw foods. When combined with the proper exercise, I believe this could be the right way of life for me. Only way to know is to experiment it.  
 
 
-*I am going to try Raw Vegan Foods for 3 months. If it brings the benefits that it claims, I will continue. Else, I will return back to the cooked foods.*  
+> I am going to try Raw Vegan Foods for 3 months. If it brings the benefits that it claims, I will continue. Else, I will return back to the cooked foods.  
 
 **Resources:**  
 
 [What Makes Us Human? Cooking, Study Says](http://news.nationalgeographic.co.uk/news/2012/10/121026-human-cooking-evolution-raw-food-health-science/)  
-
 [When Fire Met Food, The Brains Of Early Humans Grew Bigger](http://www.npr.org/blogs/health/2010/07/30/128877628/meat-fire-and-the-evolution-of-man)  
-
 [Evolutionary Increase in Size of the Human Brain Explained](http://www.sciencedaily.com/releases/2012/08/120816141537.htm)  
-
 [The Protein Domain DUF1220](http://en.wikipedia.org/wiki/DUF1220)  
-
 [Neanderthals Were Nifty at Controlling Fire](http://www.sciencedaily.com/releases/2011/03/110314152917.htm)  
-
 [Raw vs. Cooked?](http://www.drfuhrman.com/faq/question.aspx?sid=16&qindex=4)  
   
 

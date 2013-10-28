@@ -5,8 +5,8 @@ date: 2012-02-22
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-f3iNhORd-PA/T0PjM1BcIWI/AAAAAAAATes/_I5SjVNs7Xc/s1600/3+is+a+crowd.JPG" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="320" src="http://3.bp.blogspot.com/-f3iNhORd-PA/T0PjM1BcIWI/AAAAAAAATes/_I5SjVNs7Xc/s320/3+is+a+crowd.JPG" width="198" /></a></div> 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+src="{{site.url}}/img/3-s-a-crowd-vijay-nagaswami.jpg"/>   
 
 **Book:** 3's A Crowd  
 **Author:** Vijay Nagaswami  

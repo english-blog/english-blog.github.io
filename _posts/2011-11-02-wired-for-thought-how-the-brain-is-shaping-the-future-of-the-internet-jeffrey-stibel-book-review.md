@@ -19,7 +19,7 @@ src="{{site.url}}/img/wired-for-thought-jeffrey-stibel.jpeg"/>
 **Number of Pages:** 202  
 **Language:** English  
   
-Jeffrey Stibel is a brain scientist and entrepreneur, who is the chairman of [BrainGate](braingate), a brain-implant company that allows people to use their thoughts to control electrical devices and also the president of [web.com](web) which helps entrepreneurs to grow their business in the web. Most importantly, this book is recommended by my all time favorite author [John Assaraf](john). What else you need to read this book?.  
+Jeffrey Stibel is a brain scientist and entrepreneur, who is the chairman of [BrainGate][braingate], a brain-implant company that allows people to use their thoughts to control electrical devices and also the president of [web.com][web] which helps entrepreneurs to grow their business in the web. Most importantly, this book is recommended by my all time favorite author [John Assaraf][john]. What else you need to read this book?.  
   
 [braingate]: http://www.braingate.com/
 [web]: http://www.web.com/
@@ -57,7 +57,7 @@ This is the very interesting section of the entire book, which discusses where t
 * The hyperlinks will evolve to incorporate dynamic weighting based on how many people click or how relevant the link is. (think as a color code, red - best, blue - Good, yellow - OK etc)  
 * The Internet will be able to modify and create Web Sites.  
 * The search engines will evolve into dynamic portals - search for anything and you will be presented with a dynamically created page from contents all over the world. You don't need to go to the specific websites.  
-* Virtual Reality will become an extension of real life or in some cases a replacement. Check out [Habbo](habbo) or [SecondLife](secondlife) websites. Already millions of people are in virtual worlds spending real money (millions of $$$).  
+* Virtual Reality will become an extension of real life or in some cases a replacement. Check out [Habbo][habbo] or [SecondLife][secondlife] websites. Already millions of people are in virtual worlds spending real money (millions of $$$).  
 
 [habbo]: http://www.habbo.com/
 [secondlife]: http://secondlife.com/

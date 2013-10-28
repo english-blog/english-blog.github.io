@@ -11,11 +11,14 @@ It's not that I am new to Indian Toilets. I was using it from my childhood. I st
   
 ## Anal Rectal Angle while Sitting and Squatting:
   
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-PvdVBTFeQUE/UY-K0lJZ1rI/AAAAAAAAVZg/wrn003Z0pHA/s1600/analrectal-angle-comparison.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="390" src="http://2.bp.blogspot.com/-PvdVBTFeQUE/UY-K0lJZ1rI/AAAAAAAAVZg/wrn003Z0pHA/s640/analrectal-angle-comparison.jpg" width="640" /></a></div>  
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-Vz5LD1ri6FE/UZBq4qXv5RI/AAAAAAAAVaI/4YAVVZm9MCs/s1600/Indian-vs-Western-Toilet.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="340" src="http://4.bp.blogspot.com/-Vz5LD1ri6FE/UZBq4qXv5RI/AAAAAAAAVaI/4YAVVZm9MCs/s640/Indian-vs-Western-Toilet.jpg" width="640" /></a></div>  
+  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/anal-rectal-angle-sitting-squatting-comparison.jpg"/>
+</div>  
+  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/Indian-vs-Western-Toilet.jpg"/>
+</div>  
 
 ## History of Western Toilets:
 

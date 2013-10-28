@@ -5,8 +5,8 @@ date: 2013-06-27
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-Hg0uiu1380Q/UcpgODE_V1I/AAAAAAAAVgA/8mxVcqnTk2E/s1600/97-Things-software-architect.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="320" src="http://2.bp.blogspot.com/-Hg0uiu1380Q/UcpgODE_V1I/AAAAAAAAVgA/8mxVcqnTk2E/s320/97-Things-software-architect.jpg" width="212" /></a></div>  
+<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+src="{{site.url}}/img/97-things-every-software-architect-should-know-richard-monson-haefel.jpg"/>   
 
 **Book Name:** 97 Things Every Software Architect Should Know  
 **Author:** Richard Monson-haefel  

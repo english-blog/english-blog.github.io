@@ -5,9 +5,7 @@ date: 2013-05-11
 comments: false
 ---
 
-"**You have changed after marriage**"  
-
-I thought I will never hear these words in my marriage. I feel more loved and love her more passionately than before. I started hearing these words from my love in couple of occasions. Very first time I heard that, I justified her and convinced her that I will try to be the same as before. But, when I hear this the second time, I felt that a serious before/after analysis is required to get this thought out of her mind and make her understand, how to make things work for each other without ignoring the changes. Hmmm... this phase seems inevitable in every marriage.  
+I thought I will never hear these words in my marriage. I feel more loved and love her more passionately than before. It seems inevitable. I heard these words from my love in couple of occasions. Very first time I heard that, I justified her and convinced her that I will try to be the same as before. But, when I hear this the second time, I felt that a serious before/after analysis is required to get this thought out of her mind and make her understand, how to make things work for each other without ignoring the changes. Hmmm... this phase seems inevitable in every marriage.  
 
 ## Did I really change after marriage?  
 
@@ -25,8 +23,9 @@ What confused me is that I became a better person, but she felt that we grow apa
 
 I have to find out what is happening with us.But, I don't know where to start. Simply, I listed down the activities I like to do and asked her to do the same thing. Once we had two lists, I plotted them in a Venn diagram. Here is what our "Relationship Venn Diagram" looks like.  
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/--FIuJDF7MZY/UY2qaOvAKDI/AAAAAAAAVY0/9RD9d-W5HJ4/s1600/Relationship-Venn-Diagram.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="http://2.bp.blogspot.com/--FIuJDF7MZY/UY2qaOvAKDI/AAAAAAAAVY0/9RD9d-W5HJ4/s640/Relationship-Venn-Diagram.jpg" width="640" /></a></div>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/Relationship-Venn-Diagram.jpg"/>
+</div>  
 
 ## The Findings:  
 

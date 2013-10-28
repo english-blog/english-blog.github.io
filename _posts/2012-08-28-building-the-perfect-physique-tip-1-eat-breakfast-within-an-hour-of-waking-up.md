@@ -5,10 +5,11 @@ date: 2012-08-28
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-jed5Ks6TCvo/UDyAOitZtOI/AAAAAAAAU_A/py0BUXWe-J0/s1600/early-breakfast.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="213" src="http://4.bp.blogspot.com/-jed5Ks6TCvo/UDyAOitZtOI/AAAAAAAAU_A/py0BUXWe-J0/s320/early-breakfast.jpg" width="320" /></a></div>  
+<div style="text-align: center;">
+<img src="{{site.url}}/img/eat-breakfast-early.jpg"/>
+</div>  
   
-Our first tip is from Timothy Ferris's [The 4-Hour Body](4hr-url). This is quite a simple tip and would not be very tough to follow. Just eat your breakfast as soon as you wake up, preferably within 30 minutes.  
+Our first tip is from Timothy Ferris's [The 4-Hour Body][4hr-url]. This is quite a simple tip and would not be very tough to follow. Just eat your breakfast as soon as you wake up, preferably within 30 minutes.  
 
 [4hr-url]: http://www.amazon.com/gp/product/030746363X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030746363X&linkCode=as2&tag=booiverea-20
   
@@ -28,7 +29,7 @@ I eat a big bowl of cereals/muesli with cold milk every day.  I like the taste a
   
 Many of us wake up an hour or so before the work time and hurry up the morning routine. Eating breakfast is generally the last thing that people do and are very susceptible to skip it. If that is the case with you, please try to wake up a little bit earlier (how little is up to you) and eat breakfast as the first thing in the morning.  
   
-*Never ever skip the breakfast.*  
+> Never ever skip the breakfast.  
   
 That's one of the surest way to gain weight. Eating breakfast early resets the metabolism. Think this, you have been fasting for 8+ hour and you must break it. Isn't it?  
   
@@ -36,7 +37,7 @@ That's one of the surest way to gain weight. Eating breakfast early resets the m
   
 Generally I tend to eat simple breakfast with lot of carbohydrates (to give us energy throughout the day). I do that till today. I would say, I was ignorant of the importance of protein in the breakfast. I would stack up protein in the lunch and the dinner, but not in the breakfast. Tim suggests us otherwise.  
   
-*The more protein you eat in breakfast, the more fat you will lose.*  
+> The more protein you eat in breakfast, the more fat you will lose.  
   
 That's amazing. Isn't it?. Eat early breakfast with at least 40% of protein. The simplest way to reduce weight. One important thing is that you must never be hungry. Eat till you are full. I am planning to add 4 hard boiled eggs to my breakfast. (A bowl of Muesli + Cold Milk + 4 Hard Boiled Eggs). I will post an update as soon as I have some noticeable effect of this simple tip.  
   

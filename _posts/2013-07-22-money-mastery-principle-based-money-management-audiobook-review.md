@@ -5,8 +5,8 @@ date: 2013-07-22
 comments: false
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-TWry6f6WVJs/Uey7cdGXsXI/AAAAAAAAViw/nnd8WZ4-xBo/s1600/money_mastery_audio.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="326" src="http://3.bp.blogspot.com/-TWry6f6WVJs/Uey7cdGXsXI/AAAAAAAAViw/nnd8WZ4-xBo/s400/money_mastery_audio.jpg" width="400" /></a></div>  
+<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
+src="{{site.url}}/img/money-mastery-audio-book.jpg"/>   
 
 Principle Based Money Management - The keywords which attracted me towards this audio book. With most of my income going towards the mortgages and loan EMI's, I thought I was pretty bad financially and wanted to manage the expenses in a well planned manner. The eventual search in internet made me to listen to this audio book.  
   
