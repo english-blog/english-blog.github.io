@@ -12,11 +12,11 @@ layout: default
 <div style="border-top: 4px solid #eee; overflow: hidden;" >
     <br/>
     {% if page.next.url %} 
-      <a href="{{page.next.url}}">Next Post: {{page.next.title}}</a> 
+      Next Post:&nbsp;<a href="{{page.next.url}}">{{page.next.title}}</a> 
     {% endif %} 
     <br/><br/>
     {% if page.previous.url %} 
-      <a href="{{page.previous.url}}">Prev Post: {{page.previous.title}}</a> 
+      Prev Post:&nbsp;<a href="{{page.previous.url}}">{{page.previous.title}}</a> 
     {% endif %} 
     <br/><br/>
 </div>
