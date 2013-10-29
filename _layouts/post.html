@@ -12,10 +12,11 @@ layout: default
     {% if page.next.url %} 
       <a href="{{page.next.url}}">Next Post: {{page.next.title}}</a> 
     {% endif %} 
+    <br />
     {% if page.previous.url %} 
       <a href="{{page.previous.url}}">Prev Post: {{page.previous.title}}</a> 
     {% endif %} 
-***
+
 <!-- Disqus comments -->
 {% include disqus.html %}
 
