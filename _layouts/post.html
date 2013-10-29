@@ -10,17 +10,12 @@ layout: default
 
 <!-- Pagination links -->
 <div> 
-  <div style="clear: both; text-align: center;"> 
     {% if page.next.url %} 
-      <a href="{{page.next.url}}">{{page.next.title}} >> </a> 
+      <a href="{{page.next.url}}">Next Post: {{page.next.title}}</a> 
     {% endif %} 
-  </div>
-  <br />
-  <div style="clear: both; text-align: center;"> 
     {% if page.previous.url %} 
-      <a href="{{page.previous.url}}"> << {{page.previous.title}}</a> 
+      <a href="{{page.previous.url}}">Prev Post: {{page.previous.title}}</a> 
     {% endif %} 
-  </div> 
 </div> 
 
 	{% include disqus.html %}
