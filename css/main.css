@@ -122,7 +122,7 @@ ul.posts span {
   border: 0;
 }
 
-.hrline {
+.site .hrline {
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
