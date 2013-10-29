@@ -9,15 +9,15 @@ layout: default
 </div>
 
 <!-- Pagination links -->
-<div style="border-top: 2px solid #eee; margin-top: 2em;"></div>
+<div style="border-top: 2px solid #eee; margin-top: 4em;"></div>
     {% if page.next.url %} 
       <a href="{{page.next.url}}">Next Post: {{page.next.title}}</a> 
     {% endif %} 
-    <br />
+<div style="margin-top: 4em;"></div>
     {% if page.previous.url %} 
       <a href="{{page.previous.url}}">Prev Post: {{page.previous.title}}</a> 
     {% endif %} 
-<hr />
+
 <!-- Disqus comments -->
 {% include disqus.html %}
 
