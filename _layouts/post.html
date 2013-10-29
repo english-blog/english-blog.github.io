@@ -9,18 +9,18 @@ layout: default
 </div>
 
 <!-- Pagination links -->
-<div> 
     {% if page.next.url %} 
       <a href="{{page.next.url}}">Next Post: {{page.next.title}}</a> 
     {% endif %} 
     {% if page.previous.url %} 
       <a href="{{page.previous.url}}">Prev Post: {{page.previous.title}}</a> 
     {% endif %} 
-</div> 
+***
+<!-- Disqus comments -->
+{% include disqus.html %}
 
-	{% include disqus.html %}
-
-	{% include sharethis_body.html %}
+<!-- sharethis widget -->
+{% include sharethis_body.html %}
 
 
 
