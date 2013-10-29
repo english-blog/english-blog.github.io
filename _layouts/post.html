@@ -9,7 +9,8 @@ layout: default
 </div>
 
 <!-- Pagination links -->
-    <div style="border-top: 4px solid #eee;  margin-top: 2em;  overflow: hidden;" >
+<div style="border-top: 4px solid #eee; overflow: hidden;" >
+    <br/>
     {% if page.next.url %} 
       <a href="{{page.next.url}}">Next Post: {{page.next.title}}</a> 
     {% endif %} 
@@ -17,9 +18,12 @@ layout: default
     {% if page.previous.url %} 
       <a href="{{page.previous.url}}">Prev Post: {{page.previous.title}}</a> 
     {% endif %} 
-    </div>
+</div>
+
 <!-- Disqus comments -->
+<div style="border-top: 4px solid #eee; overflow: hidden;" >
 {% include disqus.html %}
+</div>
 
 <!-- sharethis widget -->
 {% include sharethis_body.html %}
