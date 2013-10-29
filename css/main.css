@@ -126,6 +126,7 @@ ul.posts span {
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
+  display: inline-block;
 }
 
 
