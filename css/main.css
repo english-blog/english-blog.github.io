@@ -14,7 +14,8 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: Helvetica, Arial, sans-serif;
+  font: 13.34px Helvetica, Arial, sans-serif;
+  font-size: small;
   text-align: center;
 }
 
@@ -46,7 +47,7 @@ ul.posts li {
 ul.posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
-  
+  font-size: 80%;
 }
 
 /*****************************************************************************/
@@ -56,7 +57,7 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  
+  font-size: 115%;
   text-align: justify;
   width: 45em;
   margin: 3em auto 2em;
@@ -95,7 +96,7 @@ ul.posts span {
 }
 
 .site .footer {
-  
+  font-size: 80%;
   color: #666;
   border-top: 4px solid #eee;
   margin-top: 2em;
