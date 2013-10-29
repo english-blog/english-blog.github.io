@@ -9,6 +9,7 @@ layout: default
 </div>
 
 <!-- Pagination links -->
+<div style="border-top: 4px solid #eee;   margin-top: 2em;   overflow: hidden;">
     {% if page.next.url %} 
       <a href="{{page.next.url}}">Next Post: {{page.next.title}}</a> 
     {% endif %} 
@@ -16,6 +17,7 @@ layout: default
     {% if page.previous.url %} 
       <a href="{{page.previous.url}}">Prev Post: {{page.previous.title}}</a> 
     {% endif %} 
+</div>
 
 <!-- Disqus comments -->
 {% include disqus.html %}
