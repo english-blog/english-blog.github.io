@@ -2,7 +2,7 @@
 layout: post
 title: The Diary Of An Unreasonable Man
 date: 2010-12-20
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

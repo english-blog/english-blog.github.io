@@ -2,7 +2,7 @@
 layout: post
 title: Zero Limits - The Secret Hawaiian System for Wealth, Health, Peace, and More
 date: 2013-10-01
-comments: false
+category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 

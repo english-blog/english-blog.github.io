@@ -2,7 +2,7 @@
 layout: post
 title: Blueprint for Life - Find Yours !
 date: 2013-09-29
-comments: false
+category: self-improvement
 ---
 
 <div style="text-align: center;">

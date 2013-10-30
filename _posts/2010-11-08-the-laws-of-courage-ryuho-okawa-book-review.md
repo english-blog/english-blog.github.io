@@ -2,7 +2,7 @@
 layout: post
 title: The Laws of Courage
 date: 2010-11-08
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

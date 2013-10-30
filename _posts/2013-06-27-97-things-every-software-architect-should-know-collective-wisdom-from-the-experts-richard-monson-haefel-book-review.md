@@ -2,7 +2,7 @@
 layout: post
 title: 97 Things Every Software Architect Should Know - Collective Wisdom from the Experts
 date: 2013-06-27
-comments: false
+category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 

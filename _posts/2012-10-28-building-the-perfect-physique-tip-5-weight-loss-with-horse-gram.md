@@ -2,7 +2,7 @@
 layout: post
 title: Building the Perfect Physique - [Tip 5] Weight Loss with Horse Gram
 date: 2012-10-28
-comments: false
+category: health
 ---
 
 <div style="text-align: center;">

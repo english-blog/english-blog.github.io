@@ -2,7 +2,7 @@
 layout: post
 title: The Power of a Positive No - How to Say No & Still Get to Yes
 date: 2010-11-03
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

@@ -2,7 +2,7 @@
 layout: post
 title: What is love?
 date: 2010-02-01
-comments: false
+category: personal
 ---
 
 <div style="text-align: center;">

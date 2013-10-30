@@ -2,7 +2,7 @@
 layout: post
 title: Running Software without Hardware - A Thought Experiment !
 date: 2012-03-25
-comments: false
+category: thought-experiments
 ---
 
 <div style="text-align: center;">

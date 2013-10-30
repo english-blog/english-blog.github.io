@@ -2,7 +2,7 @@
 layout: post
 title: Building the Perfect Physique - [Tip 3] Lose Weight with Laziness
 date: 2012-09-08
-comments: false
+category: health
 ---
 
 > "The title sounds crazy. If you can lose weight by being lazy, everyone in the world would be slim and fit. This guy is wrong. He will deceive me to buy useless products. I am not going to waste my time reading this post."  

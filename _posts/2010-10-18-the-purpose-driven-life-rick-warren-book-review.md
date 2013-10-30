@@ -2,7 +2,7 @@
 layout: post
 title: The Purpose Driven® Life - What on Earth Am I Here For?
 date: 2010-10-18
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

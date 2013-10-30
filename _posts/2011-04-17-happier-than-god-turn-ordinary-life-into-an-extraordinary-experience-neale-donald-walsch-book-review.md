@@ -2,7 +2,7 @@
 layout: post
 title: Happier Than God - Turn ordinary life into an extraordinary experience
 date: 2011-04-17
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

@@ -2,7 +2,7 @@
 layout: post
 title: Cooked Food Vs Raw Vegan Food
 date: 2013-01-14
-comments: false
+category: health
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

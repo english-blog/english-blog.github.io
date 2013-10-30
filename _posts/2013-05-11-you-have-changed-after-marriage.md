@@ -2,7 +2,7 @@
 layout: post
 title: You have changed after marriage !
 date: 2013-05-11
-comments: false
+category: self-improvement
 ---
 
 I thought I will never hear these words in my marriage. I feel more loved and love her more passionately than before. It seems inevitable. I heard these words from my love in couple of occasions. Very first time I heard that, I justified her and convinced her that I will try to be the same as before. But, when I hear this the second time, I felt that a serious before/after analysis is required to get this thought out of her mind and make her understand, how to make things work for each other without ignoring the changes. Hmmm... this phase seems inevitable in every marriage.  

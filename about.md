@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: About Premkumar Masilamani
 permalink: /about/
 ---
-
 <div style="clear: both; text-align: center;">
 	<img border="1" src="{{ site.url }}/img/Premkumar_Masilamani.jpg" />
 	<h1>Premkumar Masilamani</h1>

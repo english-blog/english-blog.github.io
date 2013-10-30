@@ -2,7 +2,7 @@
 layout: post
 title: HDFC Bank - "We understand your world" - Really???
 date: 2011-10-24
-comments: false
+category: social
 ---
 
 <div style="text-align: center;">

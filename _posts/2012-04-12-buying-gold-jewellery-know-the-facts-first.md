@@ -2,7 +2,7 @@
 layout: post
 title: Buying Gold Jewellery? - Know the facts first !
 date: 2012-04-12
-comments: false
+category: social
 ---
 
 <div style="text-align: center;">

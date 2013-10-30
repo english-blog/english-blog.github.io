@@ -2,7 +2,7 @@
 layout: post
 title: Life is not a bed of roses - Rosy, A Transgender !
 date: 2012-03-18
-comments: false
+category: social
 ---
 
 <div style="text-align: center;">

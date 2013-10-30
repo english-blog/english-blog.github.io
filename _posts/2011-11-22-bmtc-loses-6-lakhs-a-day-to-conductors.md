@@ -2,7 +2,7 @@
 layout: post
 title: BMTC loses 6 lakhs/day to conductors ?
 date: 2011-11-22
-comments: false
+category: social
 ---
 
 **November 22, 2011** : Today, I decided to blog about all the irregularities that I see around me and take action against it. I will keep updating the blog, if anything productive happens after that. Here is the first one with BMTC (Bangalore Metropolitan Transport Corporation).  

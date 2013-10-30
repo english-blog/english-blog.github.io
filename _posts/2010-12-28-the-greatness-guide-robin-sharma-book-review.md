@@ -2,7 +2,7 @@
 layout: post
 title: The Greatness Guide
 date: 2010-12-28
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

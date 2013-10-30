@@ -2,7 +2,7 @@
 layout: post
 title: 500 Days of Happy Marriage
 date: 2013-09-20
-comments: false
+category: personal
 ---
 
 <div style="text-align: center;">

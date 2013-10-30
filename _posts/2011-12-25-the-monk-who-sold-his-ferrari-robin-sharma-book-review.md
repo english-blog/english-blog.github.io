@@ -2,7 +2,7 @@
 layout: post
 title: The Monk Who Sold His Ferrari
 date: 2011-12-25
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

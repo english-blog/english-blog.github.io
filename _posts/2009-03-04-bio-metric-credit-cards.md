@@ -2,7 +2,7 @@
 layout: post
 title: Bio-metric Credit cards
 date: 2009-03-04
-comments: false
+category: science
 ---
 
 <div style="text-align: center;">

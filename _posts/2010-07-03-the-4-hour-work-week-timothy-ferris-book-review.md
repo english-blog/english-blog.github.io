@@ -2,7 +2,7 @@
 layout: post
 title: The 4-Hour Work Week
 date: 2010-07-03
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

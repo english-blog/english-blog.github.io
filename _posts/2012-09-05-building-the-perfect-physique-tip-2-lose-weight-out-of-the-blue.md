@@ -2,7 +2,7 @@
 layout: post
 title: Building the Perfect Physique - [Tip 2] Lose weight out of the blue !
 date: 2012-09-05
-comments: false
+category: health
 ---
 
 Its been more than a week, following the [first tip](1st-tip-url). I already feel slimmer (just feel. OK) and my appetite is reduced. (Its true. Trust me). I eat a lot lesser and feel full. I used to eat muffins daily, right after coming from office. I replaced muffins with bananas. I don't have a weighing scale at home right now and planning to get one today. As and when I post the next tip, I will publish my progress also. Within one week, I don't see any visible reduction in weight, but feeling good that I am doing something to build the perfect physique.  

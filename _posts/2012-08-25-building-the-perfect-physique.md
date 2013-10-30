@@ -2,7 +2,7 @@
 layout: post
 title: Building The Perfect Physique !
 date: 2012-08-25
-comments: false
+category: health
 ---
 
 <div style="text-align: center;">

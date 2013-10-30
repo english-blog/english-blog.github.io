@@ -2,7 +2,7 @@
 layout: post
 title: The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life
 date: 2013-01-24
-comments: false
+category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 

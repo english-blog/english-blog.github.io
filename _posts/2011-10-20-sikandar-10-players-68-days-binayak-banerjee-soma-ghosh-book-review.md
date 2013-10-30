@@ -2,7 +2,7 @@
 layout: post
 title: Sikandar - 10 Players, 68 Days
 date: 2011-10-20
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

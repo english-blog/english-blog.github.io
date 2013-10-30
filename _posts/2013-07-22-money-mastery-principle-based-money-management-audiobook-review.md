@@ -2,7 +2,7 @@
 layout: post
 title: Money Mastery - Principle Based Money Management
 date: 2013-07-22
-comments: false
+category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 

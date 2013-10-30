@@ -2,7 +2,7 @@
 layout: post
 title: One morning in my life !...
 date: 2010-03-26
-comments: false
+category: personal
 ---
 
 <div style="text-align: center;">

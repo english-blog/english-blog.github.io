@@ -2,7 +2,7 @@
 layout: post
 title: 3's A Crowd
 date: 2012-02-22
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

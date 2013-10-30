@@ -2,7 +2,7 @@
 layout: post
 title: The Golden Motorcycle Gang
 date: 2012-03-18
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

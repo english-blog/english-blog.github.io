@@ -2,7 +2,7 @@
 layout: post
 title: I wish ...
 date: 2011-10-25
-comments: false
+category: personal
 ---
 
 ![Love Poem]({{site.url}}/img/man-woman-love-poem-riverside-sunset.jpg)  

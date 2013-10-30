@@ -2,7 +2,7 @@
 layout: post
 title: Who Moved My Cheese? - An A-Mazing Way to Deal with Change in Your Work and in Your Life
 date: 2011-01-26
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

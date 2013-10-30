@@ -2,7 +2,7 @@
 layout: post
 title: 5 Months of Raw Vegan Experiment
 date: 2013-08-05
-comments: false
+category: challenges
 ---
 
 <div style="text-align: center;">

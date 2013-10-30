@@ -2,7 +2,7 @@
 layout: post
 title: 48 Days Challenge - Wake up at 5 AM Daily
 date: 2013-08-20
-comments: false
+category: challenges
 ---
 
 <div style="text-align: center;">

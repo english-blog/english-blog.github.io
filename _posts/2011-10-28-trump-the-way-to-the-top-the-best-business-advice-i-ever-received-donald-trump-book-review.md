@@ -2,7 +2,7 @@
 layout: post
 title: Trump - The Way To The Top - The Best Business Advice I Ever Received
 date: 2011-10-28
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

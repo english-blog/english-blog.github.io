@@ -2,7 +2,7 @@
 layout: post
 title: Quote from Murali Krishna
 date: 2009-05-14
-comments: false
+category: self-improvement
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: The EFT Manual
 date: 2011-09-10
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

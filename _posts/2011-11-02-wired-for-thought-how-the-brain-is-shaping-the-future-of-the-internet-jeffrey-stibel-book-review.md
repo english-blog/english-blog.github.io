@@ -2,7 +2,7 @@
 layout: post
 title: Wired for Thought - How the Brain Is Shaping the Future of the Internet
 date: 2011-11-02
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

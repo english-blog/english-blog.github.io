@@ -2,7 +2,7 @@
 layout: post
 title: Building the Perfect Physique - [Tip 1] Eat breakfast within an hour of waking up !
 date: 2012-08-28
-comments: false
+category: health
 ---
 
 <div style="text-align: center;">

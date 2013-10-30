@@ -2,7 +2,7 @@
 layout: post
 title: The Dolphin - Story of a Dreamer
 date: 2010-08-13
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

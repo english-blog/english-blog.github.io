@@ -2,7 +2,7 @@
 layout: post
 title: Become A Magnet To Money
 date: 2012-02-27
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

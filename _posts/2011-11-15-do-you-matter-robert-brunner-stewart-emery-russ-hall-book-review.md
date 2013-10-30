@@ -2,7 +2,7 @@
 layout: post
 title: Do You Matter? - How Great Design Will Make People Love Your Company
 date: 2011-11-15
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

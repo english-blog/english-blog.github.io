@@ -2,7 +2,7 @@
 layout: post
 title: Outliers - The Story Of Success
 date: 2011-08-12
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

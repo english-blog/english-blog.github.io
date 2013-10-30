@@ -2,7 +2,7 @@
 layout: post
 title: Building the Perfect Physique - [Tip 6] Weight Loss with Burpee
 date: 2012-11-28
-comments: false
+category: health
 ---
 
 <div style="text-align: center;">

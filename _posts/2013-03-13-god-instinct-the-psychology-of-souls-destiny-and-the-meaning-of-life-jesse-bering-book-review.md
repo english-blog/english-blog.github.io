@@ -2,7 +2,7 @@
 layout: post
 title: God Instinct - The Psychology of Souls, Destiny and the Meaning of Life
 date: 2013-03-13
-comments: false
+category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 

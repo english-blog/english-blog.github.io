@@ -2,7 +2,7 @@
 layout: post
 title: The Purpose of My Life !
 date: 2013-06-14
-comments: false
+category: self-improvement
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 

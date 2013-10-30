@@ -2,7 +2,7 @@
 layout: post
 title: On Desire - Why We Want What We Want
 date: 2012-07-30
-comments: false
+category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 

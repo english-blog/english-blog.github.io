@@ -2,7 +2,7 @@
 layout: post
 title: Building the Perfect Physique - [Tip 7] Weight Loss with Thermal Diet
 date: 2012-12-17
-comments: false
+category: health
 ---
 
 <div style="text-align: center;">

@@ -2,7 +2,7 @@
 layout: post
 title: Chasing Sunrise in NH 7 !!!
 date: 2010-02-07
-comments: false
+category: travelogue
 ---
 
 <div style="text-align: center;">

@@ -2,7 +2,7 @@
 layout: post
 title: Musings Of A Wanderer
 date: 2011-08-18
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

@@ -2,7 +2,7 @@
 layout: post
 title: You Can Sell
 date: 2012-04-16
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

@@ -2,7 +2,7 @@
 layout: post
 title: Live Broadcast - Sangavi Anandkumar weds Premkumar Masilamani
 date: 2012-05-03
-comments: false
+category: personal
 ---
 
 <div style="text-align: center;">

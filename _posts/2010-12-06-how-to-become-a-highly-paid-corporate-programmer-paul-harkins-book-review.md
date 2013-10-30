@@ -2,7 +2,7 @@
 layout: post
 title: How To Become A Highly Paid Corporate Programmer
 date: 2010-12-06
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

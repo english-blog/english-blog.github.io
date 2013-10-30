@@ -2,7 +2,7 @@
 layout: post
 title: Ignore Everybody - And 39 Other Keys To Creativity
 date: 2010-08-18
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

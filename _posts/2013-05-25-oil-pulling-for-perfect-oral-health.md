@@ -2,7 +2,7 @@
 layout: post
 title: Oil Pulling for Perfect Oral Health
 date: 2013-05-25
-comments: false
+category: health
 ---
 
 <div style="text-align: center;">

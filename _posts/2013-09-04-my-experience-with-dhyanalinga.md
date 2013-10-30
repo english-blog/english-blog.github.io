@@ -2,7 +2,7 @@
 layout: post
 title: My Experience with Dhyanalinga
 date: 2013-09-04
-comments: false
+category: travelogue
 ---
 
 <div style="text-align: center;">

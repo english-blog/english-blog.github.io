@@ -2,7 +2,7 @@
 layout: post
 title: Attract Money Now
 date: 2013-09-25
-comments: false
+category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 

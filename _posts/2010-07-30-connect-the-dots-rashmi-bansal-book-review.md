@@ -2,7 +2,7 @@
 layout: post
 title: Connect the Dots
 date: 2010-07-30
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

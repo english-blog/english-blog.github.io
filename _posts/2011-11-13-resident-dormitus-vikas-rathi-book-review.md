@@ -2,7 +2,7 @@
 layout: post
 title: Resident Dormitus
 date: 2011-11-13
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

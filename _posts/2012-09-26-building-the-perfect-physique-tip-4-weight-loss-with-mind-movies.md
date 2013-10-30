@@ -2,7 +2,7 @@
 layout: post
 title: Building the Perfect Physique - [Tip 4] Weight Loss with Mind Movies
 date: 2012-09-26
-comments: false
+category: health
 ---
 
 <div style="text-align: center;">

@@ -2,7 +2,7 @@
 layout: post
 title: As A Man Thinketh
 date: 2013-07-28
-comments: false
+category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 

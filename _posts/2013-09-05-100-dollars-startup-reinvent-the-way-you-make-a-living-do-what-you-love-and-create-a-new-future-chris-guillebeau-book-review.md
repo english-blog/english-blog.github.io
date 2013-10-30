@@ -2,7 +2,7 @@
 layout: post
 title: $100 Startup - Reinvent the Way You Make a Living, Do What You Love and Create a New Future
 date: 2013-09-05
-comments: false
+category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 

@@ -2,7 +2,7 @@
 layout: post
 title: Creative Capitalism - A Conversation with Bill Gates, Warren Buffett, and Other Economic Leaders
 date: 2011-07-01
-comments: false
+category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
