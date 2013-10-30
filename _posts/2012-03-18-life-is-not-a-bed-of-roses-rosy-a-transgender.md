@@ -66,19 +66,16 @@ I started drinking everyday from then on. My only precious thing was gone and wh
   
 ## THE WAY AHEAD:  
 
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
+src="{{site.url}}/img/rosy-transgender-2.jpg"/>   
+
 This is for my past and present. Now for the future: I adopted a baby girl. She is five months old now. I got her from a prostitute. She gave birth to this girl and was not in a condition to look after her. There is no law for people like us to adopt children. They say it’s unsafe and we cannot to take care of them. But what do they know about our motherhood?. We can take care of kids better than many women. As I cannot adopt the baby legally, I bought her for five thousand rupees. I’m homeless right now and I know that she won’t be fine in my hands for now. I have left her with a sister in Pondicherry church. Every month I send 1000 rupees to sister to take care of my girl. Also, remember about a sister of mine who is affected with brain fever. All I want to do is take care of these two souls as much as I can. When my baby turns a year old, I will bring her here and keep her with myself and will bring her up.  
-  
-<div style="text-align: center;">
-<img src="{{site.url}}/img/rosy-transgender-2.jpg"/>
+
+> I would like to become a dentist. I’m ready to do any business other than sex-work to earn a livelihood. I know 5 languages. If not dentist then I would like to work in BPO. I love that job. I’m not literate or anything to speak big and polished. But I can tell what my heart yearns for. I want to be treated as an equal human being in the society. I don’t want sympathy or generosity from anyone. Please, do not give us a dirty look as if looking at filth and move away in disgust. We are nature’s choice just like a man and woman. Just give us equal opportunity and we will take care of ourselves. We are humans and are entitled every human right like anyone else. Please do not change your seat in the bus if you find a trans-gender sitting next to you. Do not mock at us or call names in public for even we have a heart which beats in the name of love and dies at every hostile look.  
+
+<div style="background: #f9f9f9; border: 1px solid #ccc; height: 160px; margin-bottom: 1em;">
+<img src="/img/sruthi.jpg" style="clear: left; float: left; margin-right: 1em">
+<div style="margin-top: 0.5em; margin-right: 1em">
+<b>About the author</b><br />Sruthi Kitcha is a big dreamer who strives to make those dreams a reality. She is passionate about <a href="http://penurheart.blogspot.com/">writing</a> and marketing. She thinks absurd and weird at times which leads to some strange literary works. Apart from these, she loves to teach and give public speeches. She is a home bird living in Coimbatore.</div>
 </div>  
-
-> I would like to become a dentist. I’m ready to do any business other than sex-work to earn a livelihood. I know 5 languages. If not dentist then I would like to work in BPO. I love that job. I’m not literate or anything to speak big and polished. But I can tell what my heart yearns for. I want to be treated as an equal human being in the society. I don’t want sympathy or generosity from anyone. Please, do not give us a dirty look as if looking at filth and move away in disgust. We are nature’s choice just like a man and woman. Just give us equal opportunity and we will take care of ourselves. We are humans and are entitled every human right like anyone else. Please do not change your seat in the bus if you find a trans-gender sitting next to you. Do not mock at us or call names in public for even we have a heart which beats in the name of love and dies at every hostile look.
-  
-
-  
-<img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.url}}/img/sruthi.jpg"/>
- **About the author**  
-
-Sruthi Kitcha is a big dreamer who strives to make those dreams a reality. She is passionate about [writing](http://penurheart.blogspot.com/) and marketing. She thinks absurd and weird at times which leads to some strange literary works. Apart from these, she loves to teach and give public speeches. She is a home bird and lived at Coimbatore and Bangalore.  
 
