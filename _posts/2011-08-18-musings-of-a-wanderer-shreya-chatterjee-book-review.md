@@ -35,5 +35,5 @@ Shreya - Sometime down the line, I expect another poetry book from you. My revie
   
 **PS:** This review is a part of the [Book Reviews Program](http://blog.blogadda.com/2011/05/04/indian-bloggers-book-reviews) at [BlogAdda.com](http://www.blogadda.com/). Participate now to get free books!  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

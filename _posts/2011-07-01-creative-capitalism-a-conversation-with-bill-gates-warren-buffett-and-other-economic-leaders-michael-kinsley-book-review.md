@@ -45,5 +45,5 @@ We need more people like Gates to come together and persist in the idea, so that
   
 [Creative Capitalism (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/141659941x?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

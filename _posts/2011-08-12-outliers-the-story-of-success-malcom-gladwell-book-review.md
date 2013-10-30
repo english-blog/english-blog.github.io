@@ -49,5 +49,5 @@ Overall, a very good book. But I cannot agree with everything that he says. Its 
   
 [Outliers - The Story Of Success (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/0141036249?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

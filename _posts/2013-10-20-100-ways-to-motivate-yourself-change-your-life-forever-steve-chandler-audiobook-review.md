@@ -48,7 +48,7 @@ Everybody needs motivation to achieve their goals. As humans, we cannot be high 
 
 12. **Get some Coaching** - I have been hearing this advice from almost all of the self help gurus out there. I never had a life coach in my life. But, beginning to think that I should have one. I am getting into intellectual conversations with few of my friends which helps me to clarify my thinking and made to make substantial changes in my life. If I could benefit from my friends, I would definitely benefit from a coach. I shall get one soon.  
   
-13. **Perform Rituals** - My favorite lesson from Robin Sharma. After I started to wake up at 5 AM daily, I began my morning rituals and understand by practice, the importance of rituals. It does not matter how much time you spend on rituals. It could be 5 mins or 3 hrs (like me). What matters is that you do it consistently to see the benefits. You can see the rituals that I perform [here](http://blog.smileprem.com/48-days-challenge-wake-up-at-5-am-daily/).  
+13. **Perform Rituals** - My favorite lesson from Robin Sharma. After I started to wake up at 5 AM daily, I began my morning rituals and understand by practice, the importance of rituals. It does not matter how much time you spend on rituals. It could be 5 mins or 3 hrs (like me). What matters is that you do it consistently to see the benefits. You can see the rituals that I perform [here]({{site.url}}/48-days-challenge-wake-up-at-5-am-daily/).  
 
 14. **Keep All your Promises** - No matter what happens, fulfill your promises. Think twice before making a promise and never back out from it, once it is made. The pride and self-confidence that you get out of fulfilling your promises against odd situations, is more valuable to your personal growth than anything else in this world.  
   
@@ -60,6 +60,5 @@ These are just a few of the 100 + bonus tips explained in this audio book. Get t
   
 [100 Ways to Motivate Yourself - Change Your Life Forever (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/100-ways-motivate-yourself-change-your-life-forever/p/itmdygyuknzrxshj?pid=9781601632449&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
-
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

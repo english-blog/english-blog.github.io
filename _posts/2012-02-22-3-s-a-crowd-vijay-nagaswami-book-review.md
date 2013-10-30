@@ -35,8 +35,8 @@ Guess I might write this review as big as a book in an attempt to pen down my th
 [3's A Crowd (Click to buy from Amazon)](http://www.amazon.com/gp/product/9381626278/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=9381626278)  
   
 [3's A Crowd (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/3s-crowd-9381626276/p/itmd5yyumhtx2trn?pid=9789381626276&affid=INPremkblo)  
-  
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
 src="{{site.url}}/img/sruthi.jpg"/>

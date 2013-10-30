@@ -60,10 +60,10 @@ So far, we were trying to make simple lifestyle changes to maintain the ideal we
 
 An interesting observation from the chart is that I gain weight the second day after I had party/ate too much food. Very little data to establish this as a pattern, but interesting. If you are new to this blog, you may want to read the other tips ...  
   
-[Tip 1: Eat breakfast within an hour of waking up !](http://blog.smileprem.com/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
-[Tip 2: Lose weight out of the blue !](http://blog.smileprem.com/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
-[Tip 3: Lose Weight with Laziness](http://blog.smileprem.com/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)  
-[Tip 4: Weight Loss with Mind Movies](http://blog.smileprem.com/building-the-perfect-physique-tip-4-weight-loss-with-mind-movies/)  
+[Tip 1: Eat breakfast within an hour of waking up !]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
+[Tip 2: Lose weight out of the blue !]({{site.url}}/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
+[Tip 3: Lose Weight with Laziness]({{site.url}}/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)  
+[Tip 4: Weight Loss with Mind Movies]({{site.url}}/building-the-perfect-physique-tip-4-weight-loss-with-mind-movies/)  
   
 **If you know any simple tips to reduce weight, please let me know in the comments section.**  
 

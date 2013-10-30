@@ -63,5 +63,5 @@ For Christians, this is a must read. That's what 25 million fellow Christians te
   
 [The Purpose Driven® Life (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/purpose-driven-life-rick-warren-book-0310210747?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

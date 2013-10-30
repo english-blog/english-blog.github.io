@@ -41,5 +41,5 @@ Overall, I wouldn't suggest this book to anyone. There are better books availabl
   
 [The Laws of Courage (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/laws-courage-ryuho-okawa-book-8184950144?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

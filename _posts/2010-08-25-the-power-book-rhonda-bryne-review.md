@@ -88,5 +88,5 @@ Once you are done with these, please read "*The Power*" by Rhonda Bryne and I am
 
 [The Power (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/power-rhonda-byrne-book-0857201700?affid=INPremkblo)
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

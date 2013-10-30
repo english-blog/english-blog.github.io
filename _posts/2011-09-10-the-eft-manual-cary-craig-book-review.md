@@ -49,5 +49,5 @@ Gary Craig gave out all the information that he "invented" for free to the world
   
 [The EFT Manual (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/1604150661?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

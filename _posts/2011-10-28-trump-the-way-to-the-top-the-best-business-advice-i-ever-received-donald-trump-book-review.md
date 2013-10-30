@@ -59,5 +59,5 @@ Happy reading !!!
   
 [Trump - The Way To The Top - The Best Business Advice I Ever Received (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/1400050162?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

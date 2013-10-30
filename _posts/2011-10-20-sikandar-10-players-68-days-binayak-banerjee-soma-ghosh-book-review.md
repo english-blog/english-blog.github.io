@@ -32,7 +32,7 @@ To sum up in a single line ‘Sikandar is a kaleidoscope’. It shows different 
   
 [Sikandar - 10 Players, 68 Days (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/9380658735?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
 src="{{site.url}}/img/sruthi.jpg"/>

@@ -44,5 +44,5 @@ If you get a different perception after reading this book, please let me know in
   
 [On Desire: Why We Want What We Want (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/on-desire-0195327071/p/itmczytfxvmv3zgy?pid=9780195327076&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

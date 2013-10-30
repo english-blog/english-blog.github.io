@@ -19,7 +19,7 @@ src="{{site.url}}/img/100-dollars-startup-chris-guillebeau.jpg"/>
 **Binding:** Hardcover  
 **Number of Pages:** 304 Pages  
   
-We have read business books which talks about starting a business from scratch, may be a step by step advice on what to do and what not to do. Also, we have seen books with the collection of inspiring stories (Ex. [I have A Dream](http://blog.smileprem.com/i-have-a-dream-rashmi-bansal-book-review/), [Connect The Dots](http://blog.smileprem.com/connect-the-dots-rashmi-bansal-book-review/)) of the successful entrepreneur who created the business out of nothing. There are numerous books which just have the collection of tips, quotes, fiction (Ex. [Trump - The Way To The Top](http://blog.smileprem.com/trump-the-way-to-the-top-the-best-business-advice-i-ever-received-donald-trump-book-review/), [Ignore Everybody](http://blog.smileprem.com/ignore-everybody-and-39-other-keys-to-creativity-hugh-macleod-book-review/), [The Leader Who Had No Title](http://blog.smileprem.com/the-leader-who-had-no-title-robin-sharma-book-review/)) etc.,  
+We have read business books which talks about starting a business from scratch, may be a step by step advice on what to do and what not to do. Also, we have seen books with the collection of inspiring stories (Ex. [I have A Dream]({{site.url}}/i-have-a-dream-rashmi-bansal-book-review/), [Connect The Dots]({{site.url}}/connect-the-dots-rashmi-bansal-book-review/)) of the successful entrepreneur who created the business out of nothing. There are numerous books which just have the collection of tips, quotes, fiction (Ex. [Trump - The Way To The Top]({{site.url}}/trump-the-way-to-the-top-the-best-business-advice-i-ever-received-donald-trump-book-review/), [Ignore Everybody]({{site.url}}/ignore-everybody-and-39-other-keys-to-creativity-hugh-macleod-book-review/), [The Leader Who Had No Title]({{site.url}}/the-leader-who-had-no-title-robin-sharma-book-review/)) etc.,  
 
 This book is different from the other categories. This book is a step-by-step practical guide for anyone with an idea or simply a passion, to create a successful business. Also, the success stories of the successful entrepreneurs are sprinkled all over the book in appropriate places. When you read a topic / idea / plan from this book, there is a corresponding real life success story in the next few pages. The author Chris Guillebeau did collect extensive amount of data and crammed them into this $100 Startup book in a easy fun to read way. He shows that transforming an idea into a successful business is much easier than ever before. He shows us how to test the idea with minimum amount of money before jumping straight into the business. He proves that the money we have is enough and there are no excuses left to start.  
   
@@ -36,6 +36,5 @@ Even if you are not looking to start a business, reading this book may inspire y
 
 [$100 Startup (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/the-100-startup/p/itmd32vwqzpbkxvu?pid=9780307951526&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
-
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

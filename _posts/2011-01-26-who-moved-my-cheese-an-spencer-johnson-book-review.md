@@ -44,5 +44,5 @@ So, read this little book. If you get something out of this, Great. Else, read m
   
 [Who Moved My Cheese? (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/moved-my-cheese-spencer-johnson-book-0091816971?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

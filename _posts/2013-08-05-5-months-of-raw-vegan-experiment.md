@@ -11,16 +11,16 @@ category: challenges
 
 25th August 2012 - Some seemingly very unimportant event happened in my life. I couldn't tie my shoe laces while sitting in a chair. I was huffing & puffing when I am done. Yeah. I had a big belly. I could not believe the condition of my physique. I started thinking. Just like the butterfly effect in Chaos Theory, this event triggered a series of events in my life, which led me to change my lifestyle drastically. I started doing one little thing at a time. Below are the list of changes that I attempted from last year.  
   
-[Building The Perfect Physique](http://blog.smileprem.com/building-the-perfect-physique/)  
-[Building the Perfect Physique - Tip 1: Eat breakfast within an hour of waking up !](http://blog.smileprem.com/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
-[Building the Perfect Physique - Tip 2: Lose weight out of the blue !](http://blog.smileprem.com/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
-[Building the Perfect Physique - Tip 3: Lose Weight with Laziness](http://blog.smileprem.com/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)  
-[Building the Perfect Physique - Tip 4: Weight Loss with Mind Movies](http://blog.smileprem.com/building-the-perfect-physique-tip-4-weight-loss-with-mind-movies/)  
-[Building the Perfect Physique - Tip 5: Weight Loss with Horse Gram](http://blog.smileprem.com/building-the-perfect-physique-tip-5-weight-loss-with-horse-gram/)   
-[Building the Perfect Physique - Tip 6: Weight Loss with Burpee](http://blog.smileprem.com/building-the-perfect-physique-tip-6-weight-loss-with-burpee/)  
-[Building the Perfect Physique - Tip 7: Weight Loss with Thermal Diet](http://blog.smileprem.com/building-the-perfect-physique-tip-7-weight-loss-with-thermal-diet/)  
-[Cooked Food Vs Raw Vegan Food](http://blog.smileprem.com/cooked-food-vs-raw-vegan-food/)  
-[The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life](http://blog.smileprem.com/the-thrive-diet-the-whole-foods-way-to-losing-weight-reducing-stress-and-staying-healthy-for-life-brendan-brazier-book-review/)  
+[Building The Perfect Physique]({{site.url}}/building-the-perfect-physique/)  
+[Building the Perfect Physique - Tip 1: Eat breakfast within an hour of waking up !]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
+[Building the Perfect Physique - Tip 2: Lose weight out of the blue !]({{site.url}}/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
+[Building the Perfect Physique - Tip 3: Lose Weight with Laziness]({{site.url}}/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)  
+[Building the Perfect Physique - Tip 4: Weight Loss with Mind Movies]({{site.url}}/building-the-perfect-physique-tip-4-weight-loss-with-mind-movies/)  
+[Building the Perfect Physique - Tip 5: Weight Loss with Horse Gram]({{site.url}}/building-the-perfect-physique-tip-5-weight-loss-with-horse-gram/)   
+[Building the Perfect Physique - Tip 6: Weight Loss with Burpee]({{site.url}}/building-the-perfect-physique-tip-6-weight-loss-with-burpee/)  
+[Building the Perfect Physique - Tip 7: Weight Loss with Thermal Diet]({{site.url}}/building-the-perfect-physique-tip-7-weight-loss-with-thermal-diet/)  
+[Cooked Food Vs Raw Vegan Food]({{site.url}}/cooked-food-vs-raw-vegan-food/)  
+[The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life]({{site.url}}/the-thrive-diet-the-whole-foods-way-to-losing-weight-reducing-stress-and-staying-healthy-for-life-brendan-brazier-book-review/)  
   
 The last change - going raw vegan was very drastic and very very effective. I was a voracious meat eater. Switching immediately to the opposite side of the spectrum would be very tough. So, I did stop eating meat from Jan 1, 2013. After a month, I started eating raw vegan food for the breakfast for two weeks, then two weeks for the dinner and eventually for all three meals in the day. From 1st March 2013, I was on 100% raw vegan diet. After being in this diet for 5 months, you can see the results in the above picture.  
   

@@ -51,4 +51,5 @@ If your organization/team is in trouble and you need immediate help, please don'
   
 [High Altitude Leadership (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/high-altitude-leadership-christopher-warner-book-0470345039?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+

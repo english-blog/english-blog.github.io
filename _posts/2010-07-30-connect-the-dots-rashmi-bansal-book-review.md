@@ -35,5 +35,5 @@ Guys - Its a must read for everyone.
   
 [Connect the Dots (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/connect-dots-rashmi-bansal-book-8190453025?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

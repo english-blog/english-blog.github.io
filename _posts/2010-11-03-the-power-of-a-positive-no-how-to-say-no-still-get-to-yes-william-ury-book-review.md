@@ -48,5 +48,5 @@ I would recommend this book to everyone. Five stars !!!
   
 [The Power of a Positive No (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/power-positive-no-william-ury-book-0340923806?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

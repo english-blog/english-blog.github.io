@@ -21,7 +21,7 @@ src="{{site.url}}/img/the-secret-letters-of-the-monk-who-sold-his-ferrari-robin-
   
 I became a die-hard fan of Robin Sharma after reading his book [The Monk Who Sold His Ferrari][monk-url]. I pre-ordered this book and was very excited to read his latest book. This book follows the same pattern as his earlier books (i.e) blend the life teachings in an interesting story. I could see a big difference. This book is more of a story which explains the teachings than the teachings explicitly. Each portion of the story comes with a summary. The story goes like this...  
 
-[monk-url]: http://blog.smileprem.com/the-monk-who-sold-his-ferrari-robin-sharma-book-review/
+[monk-url]: {{site.url}}/the-monk-who-sold-his-ferrari-robin-sharma-book-review/
   
 Jonathan Laundry is a hardworking automobile designer who struggles to find a balance between his work life and personal life. He is separated from his wife Annisha and his son Adam. His life is in turmoil. Suddenly, his mom forces him to meet Julian Mantle, his cousin and the hero of the previous book. Julian makes him travel around the world to the sensual tango halls of Buenos Aires, the haunting catacombs of Paris, the gleaming towers of Shanghai and the staggeringly beautiful Taj Mahal in India and meet his friends to collect the talismans. Each talisman and the encounter with Julian's friends teach him the life lessons that is very much needed for him to save his family and become successful in his life. Here is a gist of the teachings...  
   
@@ -67,5 +67,5 @@ I just wrote down the key messages from the book in Robin Sharma's words. I woul
   
 [The Secret Letters of the Monk Who Sold His Ferrari (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/secret-letters-monk-sold-his-ferrari-8184952929/p/itmd36cpmufhbbte?pid=9788184952926&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

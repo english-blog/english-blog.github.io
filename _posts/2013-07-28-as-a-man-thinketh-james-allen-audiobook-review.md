@@ -33,6 +33,5 @@ You can download the books in different formats from The Project Gutenberg
 [Free HTML version](http://www.gutenberg.org/files/4507/4507-h/4507-h.htm)  
 [Free Audio Book](http://ia600309.us.archive.org/5/items/as_a_man_thinketh_mc_librivox/as_a_man_thinketh_mc_librivox_64kb_mp3.zip)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
-
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

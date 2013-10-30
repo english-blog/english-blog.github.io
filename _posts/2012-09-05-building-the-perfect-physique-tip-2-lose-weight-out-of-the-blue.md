@@ -7,7 +7,7 @@ category: health
 
 Its been more than a week, following the [first tip](1st-tip-url). I already feel slimmer (just feel. OK) and my appetite is reduced. (Its true. Trust me). I eat a lot lesser and feel full. I used to eat muffins daily, right after coming from office. I replaced muffins with bananas. I don't have a weighing scale at home right now and planning to get one today. As and when I post the next tip, I will publish my progress also. Within one week, I don't see any visible reduction in weight, but feeling good that I am doing something to build the perfect physique.  
 
-[1st-tip-url]: http://blog.smileprem.com/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/
+[1st-tip-url]: {{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/
   
 Today's tip may look weird. If you google, you could find that 50% claims that it works and others claim that it doesn't. I am going to try this tip and will blog about it further, if it works.  
   
@@ -57,7 +57,7 @@ We know the color that reduces appetite and obviously we would like to know the 
 <img src="{{site.url}}/img/blue-aids-weight-loss-red-appetizing-color.jpg"/>
 </div>  
 
-[Tip 1: Eat breakfast within an hour of waking up !](http://blog.smileprem.com/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
+[Tip 1: Eat breakfast within an hour of waking up !]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
 
 **If you know any simple tips to reduce weight, please let me know in the comments section.**  
 

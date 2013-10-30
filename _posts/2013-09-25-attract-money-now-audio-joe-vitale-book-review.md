@@ -81,5 +81,5 @@ Thanks Dr. Joe Vitale for this book. I will try the steps described in this book
   
 [Attract Money Now - Audiobook (Click to buy from Flipkart - Orders within India)](http://www.flipkart.com/attract-money-now/p/itmdyk9xpntvdypz?pid=9781596595996&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

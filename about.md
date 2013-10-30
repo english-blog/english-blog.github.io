@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About Premkumar Masilamani
 permalink: /about/
 ---

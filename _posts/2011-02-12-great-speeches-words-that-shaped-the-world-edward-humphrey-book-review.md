@@ -51,5 +51,5 @@ So, grab the book and enjoy. Here are the links to buy them.
   
 [Great Speeches - Words That Shaped The World (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/great-speeches-edward-humphreys-book-1848372922?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

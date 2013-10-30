@@ -70,8 +70,7 @@ The book might be a really a book of miracles for those who really believe in a 
 
 [Chicken Soup For The Indian Soul: A Book Of Miracles (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/9381626368?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
-  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
 src="{{site.url}}/img/sruthi.jpg"/>

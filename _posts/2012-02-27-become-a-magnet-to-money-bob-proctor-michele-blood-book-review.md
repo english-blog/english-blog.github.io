@@ -63,5 +63,5 @@ These are just a glimpse of what this book has to offer. If you are interested i
   
 [Become A Magnet To Money (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/8184951728?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

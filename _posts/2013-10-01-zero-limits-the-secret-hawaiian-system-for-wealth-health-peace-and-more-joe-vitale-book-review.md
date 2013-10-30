@@ -18,7 +18,7 @@ src="{{site.url}}/img/Zero-Limits-Joe-Vitale-Ihaleakala-Hew-Len.jpg"/>
 **Binding:** Paperback  
 **Number of Pages:** 256 Pages  
 
-The previous book that I read, [Attract Money Now](http://blog.smileprem.com/attract-money-now-audio-joe-vitale-book-review/) lead me to this extra-ordinary book "Zero Limits". I must say that I am impressed with the "Ho'oponopono"concepts discussed in this book. This is something that I never heard of before. Ho'oponopono is an modern version of an ancient Hawaiian healing system. This modern version is called *Self I-Dentity through Ho'oponopono* (SITH). I am still trying to grasp the idea even hours after reading this book.  
+The previous book that I read, [Attract Money Now]({{site.url}}/attract-money-now-audio-joe-vitale-book-review/) lead me to this extra-ordinary book "Zero Limits". I must say that I am impressed with the "Ho'oponopono"concepts discussed in this book. This is something that I never heard of before. Ho'oponopono is an modern version of an ancient Hawaiian healing system. This modern version is called *Self I-Dentity through Ho'oponopono* (SITH). I am still trying to grasp the idea even hours after reading this book.  
   
 The co-author Ihaleakala Hew Len, worked as a psychiatrist in a highly secured ward dedicated for mentally ill criminals in Hawaii State Hospital. Every criminal is chained and placed in separate rooms. There was high level of violence between the criminals and the doctors. Many hospital staff and doctors called in sick - most of them never want to work in that section. However, Dr. Hew Len cured every one of the patients without ever seeing them !!!. Yes. He never met any patient in person. Hard to believe that right?. Yes. For me too. Dr. Hew Len explains that he used Ho'oponopono method to cure the patients.  
   
@@ -45,7 +45,7 @@ That's it?. Yes. That's it. It is so simple but very powerful. This is the same 
   
 This book is filled with a whole bunch of stories and experiences of the those who practice Ho'oponopono. There are discussions about memory, inspiration, conscious mind, subconscious mind, super conscious mind ,divinity etc. As usual with Dr. Joe's hypnotic writing, you will read the book faster than you think you can. I'm serious. Read it to believe it.  
 
-I already started using Ho'oponopono method and felt peace in mind, the very first day. I am planning to combine Ho'oponopono with [EFT](http://blog.smileprem.com/the-eft-manual-cary-craig-book-review/) and add it to my morning rituals. Let's see how it transforms my life.  
+I already started using Ho'oponopono method and felt peace in mind, the very first day. I am planning to combine Ho'oponopono with [EFT]({{site.url}}/the-eft-manual-cary-craig-book-review/) and add it to my morning rituals. Let's see how it transforms my life.  
   
 To learn more about the Ho'oponopono method, I suggest to look for the workshop conducted by Dr. Hew Len in Hawaii, US, Europe etc. Check the reference at the end of this blog. Another item to my Bucket List - *Attend Ho'oponopono workshop in Hawaii with Dr. Hew Len.*  
   
@@ -55,10 +55,9 @@ Thank you Dr. Ihaleakala Hew Len for the Ho'oponopono method and Thank you Dr. J
   
 [Zero Limits (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/zero-limits-secret-hawaiian-system-wealth-health-peace-more/p/itmczz9gjqtqhrpp?pid=9780470402566&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 
 **References:**  
 <http://hooponopono.org/>  
 <http://www.businessbyyou.com/>  
-
 

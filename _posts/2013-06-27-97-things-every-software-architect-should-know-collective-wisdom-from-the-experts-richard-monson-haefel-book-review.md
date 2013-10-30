@@ -60,5 +60,5 @@ Bobby Abraham
 
 [97 Things Every Software Architect Should Know (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/97-things-every-software-architect-should-know-collective-wisdom-experts/p/itmczzj46scd5rtg?pid=9780596522698&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

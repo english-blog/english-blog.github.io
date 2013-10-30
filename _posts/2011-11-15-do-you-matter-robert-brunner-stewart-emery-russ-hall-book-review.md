@@ -53,5 +53,5 @@ If you are into Industrial Design or an Entrepreneur or Just curious to know abo
   
 [Do You Matter? - How Great Design Will Make People Love Your Company (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/013706506x?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

@@ -52,4 +52,5 @@ This is not just another book, which you will read and stack it in your library.
   
 [The Leader Who Had No Title (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/affiliatehits?affid=INPremkblo&amp;isbn=8184951191)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+

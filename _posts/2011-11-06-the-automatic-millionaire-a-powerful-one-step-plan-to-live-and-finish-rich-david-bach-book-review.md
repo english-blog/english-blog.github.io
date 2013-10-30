@@ -60,7 +60,7 @@ David gives us elaborate tips to close the loans earlier than the actual tenure.
   
 ## Credit Card Debts:  
 
-Just like Warren Buffet, David suggests us NOT to use credit cards. "*Millionaires don't do debt!*." Either you have credit card debt or not, you should probably read this chapter as well. He gives us techniques to pay off the debt in a reasonable amount of time, to negotiate with the banks on the interest rates, which credit cards to pay and what are the things to consider when balance transferring the debt. etc., I am going to use these tips with [HDFC Bank](http://blog.smileprem.com/hdfc-bank-we-understand-your-world-really/) on the recent fraud charges on my credit card.  
+Just like Warren Buffet, David suggests us NOT to use credit cards. "*Millionaires don't do debt!*." Either you have credit card debt or not, you should probably read this chapter as well. He gives us techniques to pay off the debt in a reasonable amount of time, to negotiate with the banks on the interest rates, which credit cards to pay and what are the things to consider when balance transferring the debt. etc., I am going to use these tips with [HDFC Bank]({{site.url}}/hdfc-bank-we-understand-your-world-really/) on the recent fraud charges on my credit card.  
   
 ## Tithing:  
 
@@ -74,9 +74,7 @@ Thanks David !. For a wonderful book packed with real, practical wisdom.
   
 [The Automatic Millionaire (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/0767923820?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 
 **Question: Do you know any other good books on this category?. I would love to know.**  
-
-
 

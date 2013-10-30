@@ -56,5 +56,5 @@ Some of these may not make sense at first. If you read the explanations, you wou
   
 [Happier than God - Turn Ordinary Life into an Extraordinary Experience (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/happier-than-god-neale-donald-book-1571745807?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

@@ -43,7 +43,7 @@ Though I'm generally not in favor of self-help books there are always exceptions
 
 [You Can Sell (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/you-can-sell-9381626511/p/9789381626511?pid=9789381626511&affid=INPremkblo)
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
 src="{{site.url}}/img/sruthi.jpg"/>

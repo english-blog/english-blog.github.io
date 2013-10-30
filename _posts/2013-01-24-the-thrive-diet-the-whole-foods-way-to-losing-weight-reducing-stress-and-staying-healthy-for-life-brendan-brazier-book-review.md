@@ -18,7 +18,7 @@ src="{{site.url}}/img/the-thrive-diet-brendan-brazier.jpg" border="1"/>
 **Number of Pages:** 288 Pages  
 **Language:** English  
   
-A Vegan book review from a voracious meat eater?. Yeah. I had the assumption that meat eaters are stronger and have more endurance than vegans. I always assumed that vegans lack protein from plant based diet. Until, I saw this [video](http://blog.smileprem.com/cooked-food-vs-raw-vegan-food/) and heard that the author of this book Brendan Brazier, is an Ironman athlete, who lives on 100% plant based diet. Whoohooh... (*An Ironman Triathlon is a race consisting of a 2.4-mile (3.86 km) swim, a 112-mile (180.25 km) bicycle ride and a marathon 26.2-mile (42.2 km) run, raced in that order and without a break.*)  
+A Vegan book review from a voracious meat eater?. Yeah. I had the assumption that meat eaters are stronger and have more endurance than vegans. I always assumed that vegans lack protein from plant based diet. Until, I saw this [video]({{site.url}}/cooked-food-vs-raw-vegan-food/) and heard that the author of this book Brendan Brazier, is an Ironman athlete, who lives on 100% plant based diet. Whoohooh... (*An Ironman Triathlon is a race consisting of a 2.4-mile (3.86 km) swim, a 112-mile (180.25 km) bicycle ride and a marathon 26.2-mile (42.2 km) run, raced in that order and without a break.*)  
 
 A raw vegan food eater, Brendan can complete this race within 9 hours (on par with the worlds best athletes, who eat meat and supplements). This intrigued me so much that I decided to try this diet for three months. Let's measure this book's claims after three months. Let's see the gist of what this is book has in store for us.  
   
@@ -60,5 +60,5 @@ I strongly suggest everyone to read this book, even if you don't have plans to e
  
 [The Thrive Diet (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/thrive-diet-0143052365/p/itmczyrz8kqshygf?pid=9780143052364&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

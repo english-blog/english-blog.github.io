@@ -46,6 +46,5 @@ Thank you Jesse Bering.
 
 [God Instinct - The Psychology of Souls, Destiny and the Meaning of Life (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/god-instinct-psychology-souls-destiny-meaning-life/p/itmdym6fc8yudtth?pid=9781857885606&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
-
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

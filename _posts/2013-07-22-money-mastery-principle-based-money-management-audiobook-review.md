@@ -27,11 +27,11 @@ One surprising aspect is that - this is a very old Audio CD, but still relevant 
 9. Understanding Taxation enables you to retain more of your money  
 10. Money in motion creates more money  
   
-I loved the principles 4 & 9. I love the idea of paying up the debts as well as building a fortune, a little by little at the same time. This is similar to the concepts discussed in [The Automatic Millionaire](http://blog.smileprem.com/the-automatic-millionaire-a-powerful-one-step-plan-to-live-and-finish-rich-david-bach-book-review/) book by David. I will start building the Emergency Fund. The 9th principle is something that I overlooked for many years. I could have saved thousands of rupees every year on taxes. Not anymore. I am going to do a complete analysis of Taxation Model in India for Salaried Individuals and max out the tax savings for this financial year. I will blog about it as well to help others.  
+I loved the principles 4 & 9. I love the idea of paying up the debts as well as building a fortune, a little by little at the same time. This is similar to the concepts discussed in [The Automatic Millionaire]({{site.url}}/the-automatic-millionaire-a-powerful-one-step-plan-to-live-and-finish-rich-david-bach-book-review/) book by David. I will start building the Emergency Fund. The 9th principle is something that I overlooked for many years. I could have saved thousands of rupees every year on taxes. Not anymore. I am going to do a complete analysis of Taxation Model in India for Salaried Individuals and max out the tax savings for this financial year. I will blog about it as well to help others.  
   
 Oops. I forgot to mention that this Audio CD comes with a software and workbook to plan your budget. Even, if you are wealthy right now, you may want to listen to this Audio CD in your free time. It may give you new ideas. Seriously, I am thinking about starting a bank :)  
   
 [Money Mastery Principle-Based Money Management (Click to buy from Amazon)](http://www.amazon.com/gp/product/B000WQ5MEG/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=B000WQ5MEG&link_code=as3&tag=booiverea-20)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

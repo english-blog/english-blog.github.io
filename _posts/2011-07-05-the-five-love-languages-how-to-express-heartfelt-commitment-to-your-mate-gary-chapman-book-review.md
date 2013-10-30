@@ -52,5 +52,5 @@ Dr. Chapman provides a quiz & scoring system for men and women at the end to hel
   
 [The Five Love Languages (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/8186775099?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

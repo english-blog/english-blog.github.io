@@ -49,5 +49,5 @@ This book is a feast of information for those who wish to understand Science in 
   
 [Understand Philosophy of Science A Teach Yourself Guide (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/understand-philosophy-science-teach-yourself-guide-1444157655/p/itmdfhemyqjjeatt?pid=9781444157659&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

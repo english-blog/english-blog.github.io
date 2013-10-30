@@ -68,5 +68,5 @@ When I first started reading this book, I thought Stibel is going to present the
   
 [Wired For Thought: How The Brain Is Shaping The Future Of The Internet (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/1422146642?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

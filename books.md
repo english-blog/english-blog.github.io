@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Premkumar Masilamani's personal blog
+title: Books that enriched my life
 permalink: /books/
 ---
 

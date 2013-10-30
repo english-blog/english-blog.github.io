@@ -34,7 +34,7 @@ I found the book very contradicting. It’s so real and surreal at the same time
   
 [Resident Dormitus (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/books/8129117541?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 
 **PS:** This review is a part of the [Book Reviews Program](http://blog.blogadda.com/2011/05/04/indian-bloggers-book-reviews) at [BlogAdda.com](http://www.blogadda.com/). Participate now to get free books!  
 
@@ -43,3 +43,4 @@ src="{{site.url}}/img/sruthi.jpg"/>
  **About the author**  
 
 Sruthi Kitcha is a big dreamer who strives to make those dreams a reality. She is passionate about [writing](http://penurheart.blogspot.com/) and marketing. She thinks absurd and weird at times which leads to some strange literary works. Apart from these, she loves to teach and give public speeches. She is a home bird and lived at Coimbatore and Bangalore.  
+

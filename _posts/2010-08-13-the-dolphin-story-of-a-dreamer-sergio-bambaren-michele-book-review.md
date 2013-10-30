@@ -54,5 +54,6 @@ I have read the reviews for this book, many people found this very spiritual and
 [Jonathan Livingston Seagull (Click to buy from Amazon)](http://www.amazon.com/Jonathan-Livingston-Seagull-Richard-Bach/dp/0743278909?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969)  
   
 [Jonathan Livingston Seagull (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/jonathan-livingston-seagull-richard-bach-book-817223578x?affid=INPremkblo)  
-  
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
+

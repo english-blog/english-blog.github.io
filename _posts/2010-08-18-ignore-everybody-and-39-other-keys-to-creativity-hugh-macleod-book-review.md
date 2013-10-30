@@ -46,5 +46,5 @@ I wont suggest that this is a must-read. But its worth casual read on the weeken
   
 [Ignore Everybody - And 39 Other Keys To Creativity (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/ignore-everybody-hugh-macleod-39-book-159184259x?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

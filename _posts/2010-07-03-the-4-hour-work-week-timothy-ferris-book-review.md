@@ -34,5 +34,5 @@ The in last few "Restricted Reading" chapters, the author lists down the books, 
 
 [The 4-Hour Workweek (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/affiliatehits?affid=INPremkblo&amp;isbn=0091923530)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

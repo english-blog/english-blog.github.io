@@ -29,5 +29,5 @@ Overall, its a good novel to read in a weekend. I think you can finish the novel
   
 [The Diary Of An Unreasonable Man (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/diary-unreasonable-man-madhav-mathur-book-0143065440?affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

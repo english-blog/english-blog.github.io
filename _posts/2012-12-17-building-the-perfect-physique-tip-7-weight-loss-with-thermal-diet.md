@@ -29,7 +29,7 @@ When our body is exposed to cold, the brown fat is activated to burn more calori
 <span style="color: red;">**Extreme cold could cause complications for people with cardiovascular problems. So, Please consult with your physician before attempting any of the suggestions below. Please consult even if you don't have any health problems.**</span>  
 
 
-* **Drink Cold Water:** Drink a glass of ice cold water as soon as you wake up followed by a breakfast in next 30 mins (refer [Tip 1: Eat breakfast within an hour of waking up !](http://blog.smileprem.com/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)). Through out the day, drink a lot of ice cold water.  
+* **Drink Cold Water:** Drink a glass of ice cold water as soon as you wake up followed by a breakfast in next 30 mins (refer [Tip 1: Eat breakfast within an hour of waking up !]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)). Through out the day, drink a lot of ice cold water.  
 
 * **Use Ice Packs:** Place and Ice Pack on the back of your neck and top of your chest for 30 minutes, while reading or watching TV. Use the idle time to lose weight !  
 
@@ -47,12 +47,12 @@ When our body is exposed to cold, the brown fat is activated to burn more calori
 Luckily, I am in UK and the winter season just started. I am gonna try most of the above tips. I am in the right place at the right time. I will posts the results, as soon as I see them on my body :)  
 If you are new to this blog, you may want to read the other tips that we discussed so far ...  
 
-[Tip 1: Eat breakfast within an hour of waking up !](http://blog.smileprem.com/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
-[Tip 2: Lose weight out of the blue !](http://blog.smileprem.com/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
-[Tip 3: Lose Weight with Laziness](http://blog.smileprem.com/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)  
-[Tip 4: Weight Loss with Mind Movies](http://blog.smileprem.com/building-the-perfect-physique-tip-4-weight-loss-with-mind-movies/)    
-[Tip 5: Weight Loss with Horse Gram](http://blog.smileprem.com/building-the-perfect-physique-tip-5-weight-loss-with-horse-gram/)  
-[Tip 6: Weight Loss with Burpee](http://blog.smileprem.com/building-the-perfect-physique-tip-6-weight-loss-with-burpee/)  
+[Tip 1: Eat breakfast within an hour of waking up !]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
+[Tip 2: Lose weight out of the blue !]({{site.url}}/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
+[Tip 3: Lose Weight with Laziness]({{site.url}}/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)  
+[Tip 4: Weight Loss with Mind Movies]({{site.url}}/building-the-perfect-physique-tip-4-weight-loss-with-mind-movies/)    
+[Tip 5: Weight Loss with Horse Gram]({{site.url}}/building-the-perfect-physique-tip-5-weight-loss-with-horse-gram/)  
+[Tip 6: Weight Loss with Burpee]({{site.url}}/building-the-perfect-physique-tip-6-weight-loss-with-burpee/)  
 
 **If you know any simple tips to reduce weight, please let me know in the comments section.**  
 

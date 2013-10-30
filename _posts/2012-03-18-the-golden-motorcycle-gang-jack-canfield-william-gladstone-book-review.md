@@ -44,5 +44,5 @@ I love to help people to come out of their fears and achieve their life goals. W
 
 [The Golden Motorcycle Gang - A Story Of Transformation (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/golden-motorcycle-gang-9381431146/p/itmd36d4dzmjfmvg?pid=9789381431146&affid=INPremkblo)  
 
-Checkout the other books which I have read @ [Prem's Library](http://books.smileprem.com/)  
+Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

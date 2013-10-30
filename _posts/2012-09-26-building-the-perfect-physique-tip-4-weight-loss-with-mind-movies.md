@@ -66,9 +66,9 @@ I spent couple of weeks to create two mind movies (for men and women) to help ac
   
 If you are new to this blog, you may want to read the other tips ...  
 
-[Tip 1: Eat breakfast within an hour of waking up !](http://blog.smileprem.com/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
-[Tip 2: Lose weight out of the blue !](http://blog.smileprem.com/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
-[Tip 3: Lose Weight with Laziness](http://blog.smileprem.com/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)   
+[Tip 1: Eat breakfast within an hour of waking up !]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
+[Tip 2: Lose weight out of the blue !]({{site.url}}/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
+[Tip 3: Lose Weight with Laziness]({{site.url}}/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)   
 
 **If you know any simple tips to reduce weight, please let me know in the comments section.**  
 

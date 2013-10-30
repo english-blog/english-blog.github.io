@@ -45,8 +45,8 @@ Please [click here to download][xl-tracker-url] my excel sheet template to use f
 
 **PS:** I have lost 1.5 Kgs in two weeks, by following the below tips. I feel great and awesome !  
 
-[Tip 1: Eat breakfast within an hour of waking up !](http://blog.smileprem.com/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
-[Tip 2: Lose weight out of the blue !](http://blog.smileprem.com/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
+[Tip 1: Eat breakfast within an hour of waking up !]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
+[Tip 2: Lose weight out of the blue !]({{site.url}}/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
   
 **<span style="color: blue;">If you know any simple tips to reduce weight, please let me know in the comments section.</span>**  
 
