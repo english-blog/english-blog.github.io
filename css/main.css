@@ -7,7 +7,7 @@
 /* Global Reset */
 * {
   margin: 0;
-  padding: 0;
+  padding: 0;f
 }
 
 html, body { height: 100%; }
@@ -20,7 +20,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 100%; 
+}
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
@@ -120,6 +121,14 @@ ul.posts span {
 .site .footer .rss img {
   border: 0;
 }
+
+.site .hrline div {
+  border-top: 4px solid #eee;
+  margin-top: 2em;
+  overflow: hidden;
+  display: inline-block;
+}
+
 
 /*****************************************************************************/
 /*

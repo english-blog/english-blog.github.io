@@ -98,14 +98,9 @@ Many people that I know, would bargain with street vendors, fish markets etc for
 **Thanks to the sources:**  
 
 [Carat (purity)](http://en.wikipedia.org/wiki/Carat_(purity))  
-  
 [Sovereign (British_coin)](http://en.wikipedia.org/wiki/Sovereign_(British_coin))  
-  
 [http://en.wikipedia.org/wiki/Bureau_of_Indian_Standards](http://en.wikipedia.org/wiki/Bureau_of_Indian_Standards)  
-  
 [Bureau of Indian Standards (BIS) website](http://www.bis.org.in/cert/hallbiscert.htm)  
-  
 [Singapore Assay Office Website](http://www.assayoffice.com.sg/)  
-
 [Gold Alloy Combinations](http://chemistry.about.com/od/jewelrychemistry/a/goldalloys.htm)  
 
