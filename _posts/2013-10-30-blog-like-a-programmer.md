@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Blog like a Programmer !
+title: Blog like a Programmer
 date: 30-10-2013
+category: technology
 ---
 <div style="text-align: center;">
 <img src="{{site.url}}/img/Keanu-Reeves-Neo-Makes-Bullets-Stop-The-Matrix.jpg"/>
@@ -119,6 +120,6 @@ I used the very basic template that comes with Jekyll. I have plans to customize
 
 <div style="text-align: center;">
 <img src="{{site.url}}/img/bloggin-from-vim.jpg"/>
-</div>  
-<br/>
+</div><div style="margin-bottom:1em;"></div>  
+
 
