@@ -140,7 +140,9 @@ ul.posts span {
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
-  padding: 0 .4em;
+  padding: 0.4em;
+  overflow: auto;
+  width: 55em;
 }
 
 .post ul, .post ol {

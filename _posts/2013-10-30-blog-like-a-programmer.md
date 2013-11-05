@@ -39,14 +39,17 @@ These are the two components of any regular blogging system which I do not prefe
 
 When it comes to WYSIWYG editors, I simply hate the un-necessary markups created by the default editors or even the specialized installable editors in the market. For ex. to display an image to the left side of the html, this is the code created by blogger.  
 
-{% highlight html wrap linenos %}
+{% highlight html wrap  %}
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-TIbnnU81F6I/UkhN_lONq6I/AAAAAAAAV-c/fL-BdakCXW8/s1600/100-Ways-to-Motivate-Yourself-Chandler-Steve.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="318" src="http://1.bp.blogspot.com/-TIbnnU81F6I/UkhN_lONq6I/AAAAAAAAV-c/fL-BdakCXW8/s320/100-Ways-to-Motivate-Yourself-Chandler-Steve.jpg" width="320" /></a></div>
+<a href="http://1.bp.blogspot.com/-TIbnnU81F6I/UkhN_lONq6I/AAAAAAAAV-c/fL-BdakCXW8/s1600/100-Ways-to
+-Motivate-Yourself-Chandler-Steve.jpg" imageanchor="1" style="clear: left; float: left; 
+margin-bottom: 1em; margin-right: 1em;"><img border="0" height="318" src="http://1.bp.blogspot.com/
+-TIbnnU81F6I/UkhN_lONq6I/AAAAAAAAV-c/fL-BdakCXW8/s320/100-Ways-to-Motivate-Yourself-Chandler-Steve.jpg" width="320" /></a></div>
 {% endhighlight %}  
   
 where all I need is  
   
-{% highlight html linenos %}
+{% highlight html  wrap  %}
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
 src="{{site.url}}/img/image.jpg"/>
 {% endhighlight %}  
