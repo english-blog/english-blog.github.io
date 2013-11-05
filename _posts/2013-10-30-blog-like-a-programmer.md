@@ -43,15 +43,14 @@ When it comes to WYSIWYG editors, I simply hate the un-necessary markups created
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://1.bp.blogspot.com/-TIbnnU81F6I/UkhN_lONq6I/AAAAAAAAV-c/fL-BdakCXW8/s1600/100-Ways-to-Motivate-Yourself-Chandler-Steve.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="318" src="http://1.bp.blogspot.com/-TIbnnU81F6I/UkhN_lONq6I/AAAAAAAAV-c/fL-BdakCXW8/s320/100-Ways-to-Motivate-Yourself-Chandler-Steve.jpg" width="320" /></a></div>
 {% endhighlight %}  
-<div>
+  
 where all I need is  
-</div>
-<div>
+  
 {% highlight html %}
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
 src="{{site.url}}/img/image.jpg"/>
 {% endhighlight %}  
-</div>
+  
 
 You see the point?. Most don't mind this additional markups. I do mind, when I edit the blogposts.  
 
