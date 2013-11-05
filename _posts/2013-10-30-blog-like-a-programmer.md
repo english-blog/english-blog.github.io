@@ -5,7 +5,7 @@ date: 30-10-2013
 category: technology
 ---
 <div style="text-align: center;">
-<img src="{{site.url}}/img/Keanu-Reeves-Neo-Makes-Bullets-Stop-The-Matrix.jpg"/>
+<img src="{{site.url}}/img/computer-programmer-hacking-screen.jpg"/>
 </div>  
 
 [If you are not a programmer, this article may not interest you. Please skip and do something useful]  
