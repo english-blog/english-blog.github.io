@@ -31,6 +31,9 @@ layout: default
     {% endif %} 
 </div>
 
+<!-- Include the below widgets only if the site is not running in local -->
+{% if site.host != "localhost" %}
+
 <!-- Disqus comments -->
 <div style="border-top: 4px solid #eee; overflow: hidden;" >
 {% include disqus.html %}
@@ -39,5 +42,9 @@ layout: default
 <!-- sharethis widget -->
 {% include sharethis_body.html %}
 
+{% else %}
 
+The disqus widget, sharethis widget and google analytics js will be added, when the site is viewed from http://blog.smileprem.com
 
+{% endif %}
+<!-- End of IF Condition -->

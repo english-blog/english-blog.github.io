@@ -15,9 +15,10 @@
         <!-- MailChimp CSS -->
         <link rel="stylesheet" href="/css/mailchimp.css">
 
-	{% include analytics.html %}
-
-	{% include sharethis_header.html %}
+	{% if site.host != "localhost" %}
+		{% include analytics.html %}
+		{% include sharethis_header.html %}
+	{% endif %}
 
     </head>
     <body>
