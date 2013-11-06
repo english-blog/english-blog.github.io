@@ -1,12 +1,6 @@
 name: Premkumar Masilamani
 description: On a journey called Life
-
-# The below value is used only in feed.xml
-feed-url: http://blog.smileprem.com
-
-# The below url value is not mandatory
-#url: http://blog.smileprem.com
-#url: http://localhost:4000
+url: http://blog.smileprem.com
 
 paginate: 10
 
