@@ -23,7 +23,7 @@ The author William Ury is a master negotiator, public speaker and a trained anth
   
 I still remember the *two words* which I said to my client in a conference call, during a heated discussion and a whole bunch of bitter stories afterwards. There were better negotiators in my team who backed me up, otherwise I would have been with a different organization now. Nevertheless, its a practical lesson. The master reveals his secrets to all of us. May be I should have read him well before. Guys, trust my words. Read him right away.  
   
-"*A 'No' uttered from the deepest conviction is better and greater than a 'Yes' merely uttered to please, or what is worse, to avoid a trouble*" - Mahatma Gandhi  
+> "A 'No' uttered from the deepest conviction is better and greater than a 'Yes' merely uttered to please, or what is worse, to avoid a trouble" - Mahatma Gandhi  
   
 I will try to give the excerpts from this book. Everyday we find ourselves in situations in which we need to say 'No' to people on whom we depend. When our No is confronted, all of us fall into one of these three A's.  
   

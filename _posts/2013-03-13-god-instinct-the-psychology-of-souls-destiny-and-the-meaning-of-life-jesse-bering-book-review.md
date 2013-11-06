@@ -22,7 +22,7 @@ What is God?. Why do I keep stumbling upon books which discusses the concept of 
   
 This book, "The God Instinct" uses hard science to show that God is not a delusion, but a sophisticated cognitive illusion.  
 
-*Success for our human ancestors must have depended on being able to get inside the minds of those who they lived with, second guess them, anticipate where they were going, help them if they needed it, challenge them or manipulate them. To do this, they had to develop brains that would deliver a story about what it's like be another person from the inside.*  
+> Success for our human ancestors must have depended on being able to get inside the minds of those who they lived with, second guess them, anticipate where they were going, help them if they needed it, challenge them or manipulate them. To do this, they had to develop brains that would deliver a story about what it's like be another person from the inside.  
 
 ## Theory of Mind
 

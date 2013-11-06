@@ -25,7 +25,7 @@ Jeffrey Stibel is a brain scientist and entrepreneur, who is the chairman of [Br
 [web]: http://www.web.com/
 [john]: http://www.johnassaraf.com/
 
-Stibel says that "*The Internet is a brain*". This is because the Internet (unlike computers) has evolved with many of the basic structures and abilities of the brain. He compares the evolution of human brains over the millions of years with the evolution of the network of computers (i.e. Internet) and concludes that both follow the same pattern. He claims that the network of neurons in our brain is similar to the network of computers in Internet. He doesn't claim that the Internet may become "conscious" in human sense in future. But, it will be capable of creating a collective consciousness.  
+Stibel says that *The Internet is a brain*. This is because the Internet (unlike computers) has evolved with many of the basic structures and abilities of the brain. He compares the evolution of human brains over the millions of years with the evolution of the network of computers (i.e. Internet) and concludes that both follow the same pattern. He claims that the network of neurons in our brain is similar to the network of computers in Internet. He doesn't claim that the Internet may become "conscious" in human sense in future. But, it will be capable of creating a collective consciousness.  
   
 This book is divided into four sections with multiple chapters.  
   

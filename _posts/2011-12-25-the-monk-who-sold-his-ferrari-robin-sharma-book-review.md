@@ -19,7 +19,9 @@ src="{{site.url}}/img/the-monk-who-sold-his-ferrari-robin-sharma.jpg"/>
 **Number of Pages:** 216  
 **Language:** English  
   
-"*When the student is ready, the teacher appears*". Sounds superficial?. Not to me. This book was released 14 years ago and I saw this book in every book store, everyone told me that this book is awesome, but some how this book eluded me, even though I wanted to read it. I did not bother much then. In recent days, my life was not happening as I wanted it to happen. Everything was out of my control and I wanted to discipline my life. Viola... The book appears next to my bed. My room mate bought the book. So, I started reading...  
+> "When the student is ready, the teacher appears".  
+
+Sounds superficial?. Not to me. This book was released 14 years ago and I saw this book in every book store, everyone told me that this book is awesome, but some how this book eluded me, even though I wanted to read it. I did not bother much then. In recent days, my life was not happening as I wanted it to happen. Everything was out of my control and I wanted to discipline my life. Viola... The book appears next to my bed. My room mate bought the book. So, I started reading...  
   
 If you want me to write one line review, I would say, "One the best books that I have read so far".  
   
@@ -27,7 +29,7 @@ This is a self help book written like a novel. The story is so well written that
   
 Here is a gist of what he teaches in the book. I would suggest you read the complete book in Robin Sharma's words. He explains the seven virtues of life with a simple tale. Each character and object in the mystical fable has a meaning.  
   
-*You are sitting in the middle of a magnificient, lush, green garden. This garden is filled with the most spectacular flowers you have ever seen. The environment is supremely tranquil and silent. In the center of this garden stands a towering red light house, six stories high. Suddenly from the light house, comes out a nine-foot tall, nine-hundred pound Japanese Sumo wreslter who casually wanders into the garden.He wears nothing but a pink wire cable covering his private parts. He slips on a shily gold stopwatch, and falls to the ground with an enormous thud. The Sumo wreslter is rendered unconscious and lies there, silent and still. After a while, he awakens by the fragrance of the fresh yellow roses blooming nearby. Through the bushes at the very edge of the garden, he observes a long winding path covered by millions of sparkling diamonds. This path leads him down the road of ever lasting joy and eternal bliss.*
+> You are sitting in the middle of a magnificient, lush, green garden. This garden is filled with the most spectacular flowers you have ever seen. The environment is supremely tranquil and silent. In the center of this garden stands a towering red light house, six stories high. Suddenly from the light house, comes out a nine-foot tall, nine-hundred pound Japanese Sumo wreslter who casually wanders into the garden.He wears nothing but a pink wire cable covering his private parts. He slips on a shily gold stopwatch, and falls to the ground with an enormous thud. The Sumo wreslter is rendered unconscious and lies there, silent and still. After a while, he awakens by the fragrance of the fresh yellow roses blooming nearby. Through the bushes at the very edge of the garden, he observes a long winding path covered by millions of sparkling diamonds. This path leads him down the road of ever lasting joy and eternal bliss.
   
 ## **1. Master Your Mind:**  
 

@@ -25,7 +25,7 @@ Many books on Personal Finance Management gives a lot of tips, tricks & advice t
 * How to make all of them automatic, so that you don't have to test your will power.  
 * You don't need to make a lot of money to become rich. You just need to invest whatever you earn wisely.  
 
-The best part is that you can read this book in an hour or two and setting up the automated plans may take another couple of hours. That's all David asks from you to make you rich. Interesting?. For me too. The book's title is "*Automatic Millionaire*". This doesn't mean that, if you follow all the tactics explained in this book, you will become a millionaire. It depends on how early you start saving, how much you are saving and how long you are planning to work. But, the sure thing is that you will be richer when you retire, if you follow the simple concepts explained in this book.  
+The best part is that you can read this book in an hour or two and setting up the automated plans may take another couple of hours. That's all David asks from you to make you rich. Interesting?. For me too. The book's title is *Automatic Millionaire*. This doesn't mean that, if you follow all the tactics explained in this book, you will become a millionaire. It depends on how early you start saving, how much you are saving and how long you are planning to work. But, the sure thing is that you will be richer when you retire, if you follow the simple concepts explained in this book.  
   
 I will provide a gist of some of the concepts explained in this book. But I would prefer you to read the book by yourself.  
   

@@ -20,19 +20,19 @@ src="{{site.url}}/img/do-you-matter-robert-brunner-stewart-emery-russ-hall.jpg"/
   
 Interesting title. I liked the book design also. Simple but different from the other books. Every chapter begins with a deep orange color page with a bold chapter number on the other side. The book is filled with lots of images, white space to make notes, readable font, good quality paper and it's very nice to hold and read. So, I decided to read the book without even reading a chapter from this book.  
   
-After reading this book, your perception about design would change drastically as it happened to me. Before this book, I thought design is designer's job. Period. But that's not true. Here the author Robert introduces a concept called "*Customer experience supply chain*". I will let the author explain in his words,  
+After reading this book, your perception about design would change drastically as it happened to me. Before this book, I thought design is designer's job. Period. But that's not true. Here the author Robert introduces a concept called "Customer experience supply chain". I will let the author explain in his words,  
 
-*Close your eyes and imagine that you are holding an iPod. Now take away iTunes, take away the ability to buy the song for 99 cents without having to pay for the entire CD, lose the ability to create playlist, cut out the packaging, delete the Apple logo and shutter all the aesthetically designed Apple stores. "Is it still an iPod?". No, it's not, because and iPod is an portal to the kaleidoscope of experience.*  
+> Close your eyes and imagine that you are holding an iPod. Now take away iTunes, take away the ability to buy the song for 99 cents without having to pay for the entire CD, lose the ability to create playlist, cut out the packaging, delete the Apple logo and shutter all the aesthetically designed Apple stores. "Is it still an iPod?". No, it's not, because and iPod is an portal to the kaleidoscope of experience.  
 
 The physical product or service is the central and most crucial part. But the successful design is about everything that comes in contact with the customers. How the customers feel when they enter your stores or buy your product online, how they feel when they open the package and take out the product, how they feel when they use it, if something goes wrong, what's the experience with the customer service. When you expand your idea of design to everything, then design becomes everyone's job. If you can make people emotionally attached to the experience of buying and using your product, then you have a successful design. You can compare the examples of Motorola Razr and the iPod. Both are brilliantly designed products. But what happened to Razr?. Well. they didn't get the idea of design quite well.  
   
 Lets check what's in this book.  
   
 **Design Matters:**  
-You get a new idea of "*Customer experience supply chain*", with lots of real world examples. This definitely changes the way you think about design.  
+You get a new idea of *Customer experience supply chain*, with lots of real world examples. This definitely changes the way you think about design.  
   
 **Do You Matter:**  
-     Every CEO should read this chapter (I wish). The author asks a lot of thought provoking questions which would be a real eye opener for many companies. "*Why should people bother if you are out of business?. Why do you matter?*". Very simple question, but how many companies has an answer to this question. You matter, only if the customers believe that their world will be a darker place with you. How many companies achieved this level of emotional attachment with the customers?.  
+     Every CEO should read this chapter (I wish). The author asks a lot of thought provoking questions which would be a real eye opener for many companies. *Why should people bother if you are out of business?. Why do you matter?*. Very simple question, but how many companies has an answer to this question. You matter, only if the customers believe that their world will be a darker place with you. How many companies achieved this level of emotional attachment with the customers?.  
   
 **How To Matter:**  
 Robert explains how to use design to create a relationship with the customer that matters and how the design of products and services creates and emotional connection with the customers. Lots of examples as usual.  

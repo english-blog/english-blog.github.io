@@ -21,7 +21,7 @@ src="{{site.url}}/img/trump-the-way-to-the-top-the-best-business-advice-i-ever-r
   
 Donald J.Trump. Who doesn't know him in the business circle? He is an excellent example of American business success story, who had his hands on real estate, gaming, sports and Entertainment. He is one of the New York Times bestselling author as well. What if Donald Trump goes to the best & brightest business men and women, who run companies ranging from Fortune 500 Corporations to the family-run local businesses and ask them ONLY ONE question.  
   
-"*What is the best business advice you ever received?*"  
+"What is the best business advice you ever received?"  
   
 And compiled them into one book? Wouldn't that be a wikipedia of most common of the problems, solutions, strategies, ethics, work culture, leadership, people management etc in business?. Exactly. And, this book has the collective wisdom gained by those who are already in the top. This book will definitely help you NOT to make the same mistakes made by those who traveled ahead of you. If you are an entrepreneur seriously interested to find your way to the top, this book should be in your book-shelf.  
   

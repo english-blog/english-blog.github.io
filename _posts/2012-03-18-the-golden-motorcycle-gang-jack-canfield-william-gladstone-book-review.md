@@ -18,7 +18,7 @@ src="{{site.url}}/img/the-golden-motorcycle-gang-jack-canfield.jpg"/>
 **Number of Pages:** 256  
 **Language:** English  
   
-My friend read this book and said, "*Its a boring story. I didn't even complete the book*". But, one of my favorite author Neale Donald Walsch said, "*Wonderfully entertaining, emotionally uplifting and spiritually enlightening story*". Conflicting reviews. Yet, I decided to read the book anyway.  
+My friend read this book and said, *Its a boring story. I didn't even complete the book*. But, one of my favorite author Neale Donald Walsch said, *Wonderfully entertaining, emotionally uplifting and spiritually enlightening story*. Conflicting reviews. Yet, I decided to read the book anyway.  
   
 This is the autobiography of the author Jack Canfield who frequently gets a strange dream or a vision.  
 
@@ -31,7 +31,7 @@ Along with Barbara Marx, the group of Enlightened Souls are planning to take the
 [The Golden Motorcycle Gang](http://www.goldenmotorcyclegang.com/)  
 [Birth 2012](http://www.birth2012.com/main.html)  
   
-A good story and a good goal for the entire humanity. But, what does all these mean to me?. What am I supposed to do after reading this book?. Why did I read this book in first place?. To be true, I am not moved by the life story of Jack Canfield, but by the concept of eternal beings born in the world, without the knowledge of who they are. I always have this idea, that I am a super natural power living in a human body. It may sound superstitious, since I neither believe in God, nor follow any religion. The movies "*The Matrix*" and "*Avatar*" had a huge impact in the way, that I think about myself. This book is third in that list. What if, I am part of the Golden Motorcycle Gang, who is yet to realize my true nature?. The immediate voice in my mind says, "You are not part of any gang. You would rather be a lonely rider". This could be my super ego, which always tell me to be a leader, not a follower. Never mind.  
+A good story and a good goal for the entire humanity. But, what does all these mean to me?. What am I supposed to do after reading this book?. Why did I read this book in first place?. To be true, I am not moved by the life story of Jack Canfield, but by the concept of eternal beings born in the world, without the knowledge of who they are. I always have this idea, that I am a super natural power living in a human body. It may sound superstitious, since I neither believe in God, nor follow any religion. The movies *The Matrix* and *Avatar* had a huge impact in the way, that I think about myself. This book is third in that list. What if, I am part of the Golden Motorcycle Gang, who is yet to realize my true nature?. The immediate voice in my mind says, "You are not part of any gang. You would rather be a lonely rider". This could be my super ego, which always tell me to be a leader, not a follower. Never mind.  
   
 I love to help people to come out of their fears and achieve their life goals. Why not do that in a big scale?. Help more people to live their life in a way that they wanted to live. After reading this book, I decided to pursue a career on Life Coaching. More to be done. More lives to uplift. Let's see, what I am up to !  
   

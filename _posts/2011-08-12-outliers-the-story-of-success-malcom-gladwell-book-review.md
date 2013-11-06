@@ -41,7 +41,9 @@ I thought about the book "[The Secret][secreturl]" by Rhonda Brynes when I read 
 
 Do you see the some correlation?. I do. I would suggest you to read the book "[The Secret][secreturl]" after reading this book.  
   
-In further chapters, he discusses about the "Culture of Honor", why plane crashes happens and its relation to the culture they belong to, rice paddy fields and its relations to maths skills etc. Very interesting !...  
+In further chapters, he discusses about the "Culture of Honor", why plane crashes happens and its relation to the culture they belong to, rice paddy fields and its relations to maths skills etc.  
+
+Very interesting !...  
   
 Overall, a very good book. But I cannot agree with everything that he says. Its worth reading :)  
   

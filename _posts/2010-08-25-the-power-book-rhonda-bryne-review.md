@@ -19,17 +19,17 @@ src="{{site.url}}/img/the-power-rhonda-bryne.jpg"/>
 **Number of Pages:** 272  
 **Language:** English  
   
-"You are meant to have an amazing life"  
+> "You are meant to have an amazing life"  
   
 Irish-Australian writer Rhonda Bryne, was once a producer of reality-TV shows in Australia who is now a multi-millionaire living in a Beverley Hills mansion, next door to Oprah Winfrey. She became so, with her best selling book & DVD, "The Secret". She comes with a sequel "The Power", which is expected to sell atleast 20 million copies, out of which 2 million copies are printed and almost sold out. So, whats in this book?. Lets do a fair, really fair review of the book.  
   
-"*Take away love and our earth is a tomb*" - Robert Browning (1812-1889)  
+> "Take away love and our earth is a tomb" - Robert Browning (1812-1889)  
   
-"*If the only prayer that you ever say in your life is - 'thank you' - that is enough*" - Meister Eckhart (1260-1328)  
+> "If the only prayer that you ever say in your life is - 'thank you' - that is enough" - Meister Eckhart (1260-1328)  
   
-"*Give, and it will be given to you... for by your standard of measure, it will be measured to you in return*" - Jesus.  
+> "Give, and it will be given to you... for by your standard of measure, it will be measured to you in return" - Jesus.  
   
-"*Everything is possible for the person who believes*" - Jesus.  
+> "Everything is possible for the person who believes" - Jesus.  
   
 I can summarize the entire book into these four keywords. Love, Gratitude, Giving and Belief. (Which almost all religions in the world preaches). She claims that the book is complete in itself and doesn't need formal knowledge. I disagree. Lets trace back the history.  
   

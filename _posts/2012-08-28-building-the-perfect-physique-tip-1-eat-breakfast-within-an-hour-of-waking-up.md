@@ -53,5 +53,5 @@ So, today's tip is very simple. Here is the summary.
 2. Eat Protein Rich breakfast (at least 40%)  
 3. Drink more water and more often.  
   
-** If you know any simple tips to reduce weight, please let me know in the comments section.**  
+**If you know any simple tips to reduce weight, please let me know in the comments section.**  
 

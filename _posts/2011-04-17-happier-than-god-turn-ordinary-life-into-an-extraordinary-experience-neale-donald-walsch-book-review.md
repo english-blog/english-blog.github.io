@@ -18,11 +18,13 @@ src="{{site.url}}/img/happier-than-god-neale-donald-walsch.jpg"/>
 **Number of Pages: **261  
 **Language:** English  
   
-This book was waiting for me in a book shop in Kolkata and found me finally. At least that's what the author Neale Donald Walsh says in the first few pages of the book. I have read his earlier book "*Conversations with God*". His writing style is such that he will ask many thought provoking questions, makes you think and finally leaves you confused. You need to read his text again and again to get him right. I have not got him right yet. But, you get the core message at some level. Just as I did.  
+This book was waiting for me in a book shop in Kolkata and found me finally. At least that's what the author Neale Donald Walsh says in the first few pages of the book. I have read his earlier book "Conversations with God". His writing style is such that he will ask many thought provoking questions, makes you think and finally leaves you confused. You need to read his text again and again to get him right. I have not got him right yet. But, you get the core message at some level. Just as I did.  
   
-"*Life was meant to be happy*". What a quote to start a book with!. This one line describes the context of the entire book. This book starts with the explanation of God and the perfect way for us to communion with God. Since, I am an atheist from the day I started asking questions, I could not comprehend most of the items discussed in the first few chapters. The author told, it would be the case, but I will get it in the end. Some how I was too intelligent to get the idea of God at the end. Many people claim that they understand God better after reading Donald's books. You may also get to understand God. Please read.  
+> "Life was meant to be happy".  
+
+What a quote to start a book with!. This one line describes the context of the entire book. This book starts with the explanation of God and the perfect way for us to communion with God. Since, I am an atheist from the day I started asking questions, I could not comprehend most of the items discussed in the first few chapters. The author told, it would be the case, but I will get it in the end. Some how I was too intelligent to get the idea of God at the end. Many people claim that they understand God better after reading Donald's books. You may also get to understand God. Please read.  
   
-Once he explains God, he goes on to discuss about the concept of "*The Law of Attraction*" which was made very popular by Rhonda Bryne in the movie "*The Secret*". He claims that the manifestation process taught by the new age spiritual teachers reveals only the half of the Unspoken Truth. Then he reveals "*The Process of Personal Creation*" - a larger, revised version of the law of attraction. Life expresses itself through.  
+Once he explains God, he goes on to discuss about the concept of *"The Law of Attraction"* which was made very popular by Rhonda Bryne in the movie *"The Secret"*. He claims that the manifestation process taught by the new age spiritual teachers reveals only the half of the Unspoken Truth. Then he reveals *"The Process of Personal Creation"* - a larger, revised version of the law of attraction. Life expresses itself through.  
   
 1. The Energy Of Attraction  
 2. The Law Of Opposites  
@@ -30,7 +32,7 @@ Once he explains God, he goes on to discuss about the concept of "*The Law of At
 4. The Joy Of Wonder  
 5. The Presence Of Cycles.  
   
-Good read. Too big to explain in a short review of this book. If you liked "*The Secret*", you will like this book as well, but it would be contradictory and confusing for you. Be prepared. The next few chapters are dedicated to this Process of Personal Creation. What to do and what not to do etc. He ends the books with 17 steps to being happier than God, which I absolutely love.  
+Good read. Too big to explain in a short review of this book. If you liked *"The Secret"*, you will like this book as well, but it would be contradictory and confusing for you. Be prepared. The next few chapters are dedicated to this Process of Personal Creation. What to do and what not to do etc. He ends the books with 17 steps to being happier than God, which I absolutely love.  
   
 1. Bring an end to Separation Theology  
 2. Stay in touch with who you are  

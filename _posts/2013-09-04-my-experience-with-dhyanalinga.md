@@ -46,7 +46,7 @@ src="{{site.url}}/img/LingaBhairavi-Temple.jpg"/>
 
 There are volunteers everywhere to guide you to the places and to answer your questions. The old volunteer in front of this temple, explained that this is the feminine form of Lingam. You can worship Linga Bhairavi as you would do to other Hindu gods. There are requests made to her, in exchange for flowers and poojas. A typical Hindu establishment. I seriously do not see a need for this temple inside a meditation place.  
   
-I saw a lot of foreigners in saffron dresses doing poojas, offering flowers, doing meditations etc. A typical scene in any Ashram. She offered me Neem Leaves and Lilly flowers inside the temple. I was suppose to eat the Neem Leaves. It was the bitter than the Bitter Gourd. Luckily they sold "*Pasiparuppu Payasam*" just outside the temple for Rs. 10. With the help of the payasam, I could eat three neem leaves. Even though we knew the benefits of Neem leaves, this is my first successful attempt in eating them. I was proud !.   
+I saw a lot of foreigners in saffron dresses doing poojas, offering flowers, doing meditations etc. A typical scene in any Ashram. She offered me Neem Leaves and Lilly flowers inside the temple. I was suppose to eat the Neem Leaves. It was the bitter than the Bitter Gourd. Luckily they sold *Pasiparuppu Payasam* just outside the temple for Rs. 10. With the help of the payasam, I could eat three neem leaves. Even though we knew the benefits of Neem leaves, this is my first successful attempt in eating them. I was proud !.   
   
 ## Nandhi  
 
@@ -60,7 +60,7 @@ We saw a small beautiful artificial pond with Lillies and Goldfishes, on the way
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
 src="{{site.url}}/img/Dhyanalinga_Sarva_Dharma_Sthamba.JPG"/>   
 
-We saw "*Sarva Tharma Sthamba*", just before the entrance, signifying singularity or union of all religions. This stone has the inscriptions of symbols of Hinduism, Islam, Christianity, Jainism, Taoism, Zoroastrianism, Judaism, Buddhism, and Shinto welcoming people from all religious beliefs. I am not sure how many people actually notice this Sthamba. I did not see a single person looking or checking this out. May be this should be placed in a more strategical place or should be made more attractive - to convey the message.  
+We saw *Sarva Tharma Sthamba*, just before the entrance, signifying singularity or union of all religions. This stone has the inscriptions of symbols of Hinduism, Islam, Christianity, Jainism, Taoism, Zoroastrianism, Judaism, Buddhism, and Shinto welcoming people from all religious beliefs. I am not sure how many people actually notice this Sthamba. I did not see a single person looking or checking this out. May be this should be placed in a more strategical place or should be made more attractive - to convey the message.  
   
 ## Dhyanalinga  
 

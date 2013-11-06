@@ -37,7 +37,7 @@ Seriously, I was excited on reading the chapter's title. But its not what I thou
   
 **Purpose #2:** You were formed for God's family.  
 
-"*Love others as you love yourselves*". This is one of the most important teachings of Christianity that I love to even spread the message. "*No matter what I say, what I believe, and what I do, I'am bankrupt without love*". This chapter tells us how to form relationships, love everyone (not just Christians. I likes this), why do you need church, the importance of the communities, experiencing the life together, restoring the broken fellowship and protecting the church. I would recommend even the non Christians to read this chapter. The world would be awesome & lovely, if everyone understands this one message.  
+*"Love others as you love yourselves"*. This is one of the most important teachings of Christianity that I love to even spread the message. *"No matter what I say, what I believe, and what I do, I'am bankrupt without love"*. This chapter tells us how to form relationships, love everyone (not just Christians. I likes this), why do you need church, the importance of the communities, experiencing the life together, restoring the broken fellowship and protecting the church. I would recommend even the non Christians to read this chapter. The world would be awesome & lovely, if everyone understands this one message.  
   
 **Purpose #3:** You were created to become like Christ.  
 

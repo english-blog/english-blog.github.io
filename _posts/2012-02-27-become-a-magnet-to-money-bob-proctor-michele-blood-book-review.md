@@ -19,9 +19,9 @@ src="{{site.url}}/img/become-a-magnet-to-money-bob-proctor.jpg"/>
 **Number of Pages:** 196  
 **Language:** English  
 
-I knew Bob Proctor from the movie "*The Secret*" way back in 2008. I have watched lot of his videos and interviews in the internet. He has 40+ years of experience in motivating others to reach their goals and accumulate abundant wealth. I happened to see this book in the new book store opened next to my office and I grabbed this book as soon as I saw Bob's name in it. This is the first book from Bob that I read.  
+I knew Bob Proctor from the movie *The Secret* way back in 2008. I have watched lot of his videos and interviews in the internet. He has 40+ years of experience in motivating others to reach their goals and accumulate abundant wealth. I happened to see this book in the new book store opened next to my office and I grabbed this book as soon as I saw Bob's name in it. This is the first book from Bob that I read.  
   
-This book has two parts. The first part "*Become A Magnet To Money*" is by Bob who tells us the tips and techniques to attract more money into our lives. The second part "*The Sea Of Unlimited Consciousness*" is by Michelle Blood who gives guidance to all which you may be feeling, as you rise higher into Oneness with Divine Consciousness. The second part of the book was beyond my comprehension of Divine Consciousness, so could not enjoy or benefit from that. I am supposed to feel rejuvenated after reading the complete material on Unlimited Consciousness, but I felt blank. However, the first part by Bob Proctor was very interesting and informative that I even started to work out few things, which I would not have done otherwise. Once you are done reading the book, I would suggest listening to the Audio CD that comes along. Things will make deeper sense, the second time. Here is a gist of some of the concepts explained in the book.  
+This book has two parts. The first part *Become A Magnet To Money* is by Bob who tells us the tips and techniques to attract more money into our lives. The second part *The Sea Of Unlimited Consciousness* is by Michelle Blood who gives guidance to all which you may be feeling, as you rise higher into Oneness with Divine Consciousness. The second part of the book was beyond my comprehension of Divine Consciousness, so could not enjoy or benefit from that. I am supposed to feel rejuvenated after reading the complete material on Unlimited Consciousness, but I felt blank. However, the first part by Bob Proctor was very interesting and informative that I even started to work out few things, which I would not have done otherwise. Once you are done reading the book, I would suggest listening to the Audio CD that comes along. Things will make deeper sense, the second time. Here is a gist of some of the concepts explained in the book.  
   
 Invariably every teacher on Motivational/Transformational Training tells us the relationship between being happy and having abundant wealth. You can start with nothing, but you need to be happy and be in that mental state, most of the time.  Just by being in that vibration and taking simple actions towards your goal of accumulating abundant wealth, anyone can become who they want to become. The first and foremost thing is “Be Happy and Grateful”. Other than the usual motivational/feelings/vibration based discussions, this book packs some practical tips to tune your mind to achieve financial freedom. Some are...  
   
@@ -39,11 +39,11 @@ I absolutely love this Idea, Read on. Find a comfortable, quiet place where you 
   
 ## **Daily Action List:**  
 
-"*Goals without actions stay as dreams and never materialize*". By this time, you would have finalized your goals. Just break down your goals into smallest possible unit of work which can be done in a day or even in a minute. Write them down in your Daily Action List and do one task in a day. It’s, just that simple. But do these continuously for 30 days and it will become your habit.  
+*Goals without actions stay as dreams and never materialize*. By this time, you would have finalized your goals. Just break down your goals into smallest possible unit of work which can be done in a day or even in a minute. Write them down in your Daily Action List and do one task in a day. It’s, just that simple. But do these continuously for 30 days and it will become your habit.  
 
 A sample daily action list could be like...  
 
-"*I will create a website of my streaming videos, explaining the products and services that my company offers*". This is a goal.  
+*I will create a website of my streaming videos, explaining the products and services that my company offers*. This is a goal.  
 
 The Daily Action List could be.  
 
