@@ -19,7 +19,7 @@ src="{{site.url}}/img/the-laws-of-courage-ryuho-okawa.jpg" border="1"/>
 **Number of Pages:** 168  
 **Language:** English  
   
-Ryuho Okawa is the founder of "Happy Science" - an organisation or religion which aims to achieve the true happiness, based on the teachings of the author. He claims himself as the spiritual leader, in many places throughout the book. For a while, I was reading only exceptionally good and interesting books, till I come across this one. This book reads like a school text book, which primarily aims at the school children in Japan. But the description of the book in the outer cover was misleading that its for general audience and its mentioned that 20 million copies of his books were sold so far. No questions the numbers anyway, just like me.  
+Ryuho Okawa is the founder of **Happy Science** - an organisation or religion which aims to achieve the true happiness, based on the teachings of the author. He claims himself as the spiritual leader, in many places throughout the book. For a while, I was reading only exceptionally good and interesting books, till I come across this one. This book reads like a school text book, which primarily aims at the school children in Japan. But the description of the book in the outer cover was misleading that its for general audience and its mentioned that 20 million copies of his books were sold so far. No questions the numbers anyway, just like me.  
   
 Never judge a book by its cover - Don't know who said it, but its true. Ok, lets plunge into the book and see a gist of what the author said to the world.  
   
@@ -27,11 +27,13 @@ This book is divided into five chapters and the first one is about the friendshi
   
 The second chapter is about enduring setbacks. He provides a lot of alternative perspective to look at setbacks. He devoted a whole bunch of pages to explain the setbacks - full of negativity. I wanted to throw away the book, but all of a sudden he made me laugh uncontrollably. See, what he said in page 55.  
   
-"*When I spiritually checked to see where he(Masao Maruyuma) went after he died. I found out that he went not to Heaven, but to Hell*"  
+> When I spiritually checked to see where he(Masao Maruyuma) went after he died. I found out that he went not to Heaven, but to Hell  
   
 Just after 10 mins, I was interested to read what other stuff the author has to say. I became curious. The third chapter is about reading books. He gives us some practical stuff & encourage us to read more book in wide variety of subjects. But then, he claims the below in page 87.  
   
-"*Since I was young, I have read about 1000 books per year*". Whooh... I thought it would be close to 1000 books altogether, but he claims that its 1000 / yr. (i.e.) close to three books a day, for the entire year. I have seen this scene in a Tamil movie "Endhiran". And surprisingly everyone in Happy Science believes whatever he says. No one questions or even asks him the name of those 1000 books.  
+> Since I was young, I have read about 1000 books per year.  
+
+Whooh... I thought it would be close to 1000 books altogether, but he claims that its 1000 / yr. (i.e.) close to three books a day, for the entire year. I have seen this scene in a Tamil movie "Endhiran". And surprisingly everyone in Happy Science believes whatever he says. No one questions or even asks him the name of those 1000 books.  
   
 In the fourth chapter, he discusses about helping others and suggests some tips (based on some assumptions) to Japanese women to excel in administrative cadre. The last chapter, "Life of Truth" is the ultimate comedy. He goes too deep into it and discusses about talking to spirits and getting guidance from them, about our different past life and six incarnations, how to stay on Truth, what may get you to Hell. It reads like Voodoo magic. He must have read extensively about African tribes and their beliefs in those 1000 books :)  
   
