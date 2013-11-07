@@ -39,7 +39,9 @@ I did a small comparison between both the books. Please remember "Jonathan Livin
 **JLS:** Seagull disappears into heaven in the end.  
 **TD:** Dolphin disappears miraculously in the end.  
   
-Both the books has a lot of inspirational quotes scattered across story and implies the same idea - "*Follow your dream, no matter what*"  
+Both the books has a lot of inspirational quotes scattered across story and implies the same idea -   
+
+> Follow your dream, no matter what  
   
 In the book, "The Dolphin" I could also sense the impact of "The Alchemist" which was published couple of decades before this book. If you have not read the other two books, I strongly recommend you to read this book. This would inspire you to follow your dreams. But, if you have already read the other book, this is just redundant information. It would be a funny idea to read both the books one after another.  
   

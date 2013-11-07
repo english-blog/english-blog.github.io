@@ -10,7 +10,7 @@ category: self-improvement
 	<img src="{{site.url}}/img/driving-motorcycle-sunrise.jpg"/>
 </div>  
 
-"*When you are the fastest, you don't need rear view mirrors.*"  
+> When you are the fastest, you don't need rear view mirrors.  
 
 Murali told me this sentence during our ECR trip to IG Resorts. He mentioned this sentence with respect to bike driving in heavy traffic in Chennai roads. This provoked a lot of thoughts in me. Even after three days, I am thinking about this sentence.  
 

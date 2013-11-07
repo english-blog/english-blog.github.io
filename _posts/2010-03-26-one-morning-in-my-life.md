@@ -13,7 +13,7 @@ category: personal
 
 Last night I was reading a book "Give to Live", way past 1 AM and didn't realise when I slept. A facebook SMS message from Sean Stephenson, switched off my Dream Channel, when I was romancing with my angel.  
 
-*There's a big difference between "caring about" versus "caring for" someone. One is passive and one is active.*  
+> There's a big difference between "caring about" versus "caring for" someone. One is passive and one is active.  
 
 I didn'treally understand the message. I was in the process of waking up, sometimes that stretches up to 4-5 hrs after sunrise. I enjoy every minute of that process and they labelled me "lazy". I don't understand this... When a Chinese monk told them to drink tea slowly and enjoy the act of drinking, they made a ritual out of it. When I told them to wake up slowly and enjoy the act of waking up, the response is @#$%^*. Crazy world !.  
 
