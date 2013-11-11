@@ -3,6 +3,8 @@ layout: post
 title: 3's A Crowd
 date: 2012-02-22
 category: books
+authorname: Sruthi Kitcha
+authorpage: http://penurheart.blogspot.com/
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -38,9 +40,4 @@ Guess I might write this review as big as a book in an attempt to pen down my th
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 
-<div style="background: #f9f9f9; border: 1px solid #ccc; height: 160px; margin-bottom: 1em;">
-<img src="/img/sruthi.jpg" style="clear: left; float: left; margin-right: 1em">
-<div style="margin-top: 0.5em; margin-right: 1em">
-<b>About the author</b><br />Sruthi Kitcha is a big dreamer who strives to make those dreams a reality. She is passionate about <a href="http://penurheart.blogspot.com/">writing</a> and marketing. She thinks absurd and weird at times which leads to some strange literary works. Apart from these, she loves to teach and give public speeches. She is a home bird living in Coimbatore.</div>
-</div>  
 

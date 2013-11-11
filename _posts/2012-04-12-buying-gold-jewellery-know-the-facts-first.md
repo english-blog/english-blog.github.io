@@ -60,7 +60,7 @@ It was like this, when we bought "*Thali Kodi*" for my wife and a "*Short Chain*
 <img src="{{site.url}}/img/buying-gold-jewellery-negotiation.jpg"/>
 </div>  
 
-## Remember the below:  
+### Remember the below:  
 
 * No one does business for loss or charity.  
 * Never feel shy to negotiate for Gold. Its your money. Even after you negotiated for a good %, you could as for a flat discount.  
@@ -68,11 +68,11 @@ It was like this, when we bought "*Thali Kodi*" for my wife and a "*Short Chain*
 * Instead, you could bargain & donate the money to your favorite charity. Society benefits !.  
 
 
-## While Exchanging Gold:  
+### While Exchanging Gold:  
 
 We decided to exchange the unused rings and bangles for the new gold. Joy Alukkas charged 1% of *melting / usage charges* (?) on the gold while exchanging. I was surprised. I argued with them that these are KDM jewels and I won't pay a single paise. The manager told that he would accept the jewels from Joy Alukkas without melting charges, but not from other jewellers. Ater negotiating for few more minutes, he agreed to take the gold for exchange without any charges.  
   
-## Things to remember while exchanging gold...  
+### Things to remember while exchanging gold...  
 
 * Never pay a single paise for melting charges / usage charges or whatever charge they impose.  
 * The Gold must be exchanged for the current gold price. Never accept any price lesser than that.  

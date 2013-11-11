@@ -25,7 +25,7 @@ This book has two parts. The first part *Become A Magnet To Money* is by Bob who
   
 Invariably every teacher on Motivational/Transformational Training tells us the relationship between being happy and having abundant wealth. You can start with nothing, but you need to be happy and be in that mental state, most of the time.  Just by being in that vibration and taking simple actions towards your goal of accumulating abundant wealth, anyone can become who they want to become. The first and foremost thing is “Be Happy and Grateful”. Other than the usual motivational/feelings/vibration based discussions, this book packs some practical tips to tune your mind to achieve financial freedom. Some are...  
   
-## **Multiple Sources of Income (MSI):**  
+### **Multiple Sources of Income (MSI):**  
 
 What ever work that you are doing right now is your Primary Source of Income (PSI). If your PSI is something that you love to do, please continue doing that job. Else, look for some job which gives more meaning to you and your life. PSI is where you need to be present (i.e. Need your time or physical presence).  
 
@@ -33,11 +33,11 @@ MSI is other alternative sources which gives you an income, but doesn’t requir
 
 Please, please do not let your inner voice say, “Hey, that’s not for me. I am not going to sell soaps for an income. I do have my own values to live by”.  Even I was under the influence of this thought, when I first read this chapter. You may not have MSI right now or do not see any real possibility of having one or more in near future. The BIG idea is to open up your mind to the possibility of having MSI. Just don’t fix your mind ONLY on PSI. When your mind is open for MSI, you will automatically start looking for options within the limits of your own value system. Almost every millionaire/billionaire in this world has MSIs. Great Idea!  
   
-## **The Law of Relativity & Income Acceleration:**  
+### **The Law of Relativity & Income Acceleration:**  
 
 I absolutely love this Idea, Read on. Find a comfortable, quiet place where you won’t be disturbed for few hours and grab a pen, paper and a calculator. Play this game. Think about a ridiculously huge amount (I’d say $5 million) and decide that you are going to earn that amount in 12 months. Think about MSIs. Take this seriously to your heart and try to solve this puzzle, little by little. Think seriously that you have to earn this money and think about the possible ways available to you. Do this once every week religiously for few weeks. You might not have got any solutions/ideas after few weeks. But you are creating your future inside your mind. After few weeks of doing this exercise, you may lower the amount to say $3 million. This time, $3 million won’t feel like a huge amount to you. Your mind will think that it’s relatively easy to earn $3 million. Wow… Your mind is tuned into Income Acceleration mode. You are gaining prosperity consciousness. This is the Law of Relativity.  
   
-## **Daily Action List:**  
+### **Daily Action List:**  
 
 *Goals without actions stay as dreams and never materialize*. By this time, you would have finalized your goals. Just break down your goals into smallest possible unit of work which can be done in a day or even in a minute. Write them down in your Daily Action List and do one task in a day. It’s, just that simple. But do these continuously for 30 days and it will become your habit.  
 

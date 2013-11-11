@@ -22,7 +22,7 @@ Then I met Sofia, in the corporate environment - who eventually become a close f
   
 I call these phases (theist, agnostic, atheist etc) in my life as contexts though which I try to understand life. I would like to fit myself into as many contexts as possible and perceive life from different angles. I am willing to undergo a context against my belief system, just to experience the other side. I never thought about doing this, until I read Steve's blog. I accidentally read this article [How to Discover Your Life Purpose in About 20 Minutes](http://www.stevepavlina.com/blog/2005/01/how-to-discover-your-life-purpose-in-about-20-minutes/) by [Steve Pavlina](http://www.stevepavlina.com/about-steve-pavlina.htm) and decided to try it.  
   
-## How to identify the purpose of your life?  
+### How to identify the purpose of your life?  
   
 Steve Pavlina suggests the below steps to identify your purpose in about 20 minutes.  
 
@@ -70,7 +70,7 @@ I can be a writer, poet, photographer, bodybuilder, raw vegan, entrepreneur, ang
 
 *Live life with an attitude that each goal of mine should be treated as the only purpose of my existence at that point in time. Keep changing the goals to push myself forward and help others to do the same.*
 
-## What changes now?  
+### What changes now?  
 
 OK. I identified my purpose in my life. To be precise, I had written down the mission statement of my life. What changes now?. A simple paradigm shift in the thought process !. More clarity on how to pursue my interests in my life. No more confusions. Is this mission statement final?. No. It may, I think it will change in future, based on my new experiences.  
 

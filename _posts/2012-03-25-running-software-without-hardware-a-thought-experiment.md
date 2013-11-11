@@ -28,7 +28,7 @@ When the AI Program acquired all the knowledge and created a brilliant data-mini
   
 The above picture may give you an Idea of what I think, the AI Program is doing. When the AI Program completes its mission - completely detached from the humanoid robot, you can command the AI Program to do anything and it will be done, without the humanoid robot. If you command the AI Program to bring the Apple from the table to you, the AI Program commands the atoms around the apple and you would see the Apple flies in the air and comes to you by itself. The AI Program acquired knowledge, way beyond your imagination, it does not need a "Hardware" to run and it cannot be technically called as "Software" anymore.  
   
-## Questions to think (still a Thought Experiment, assume it already happened):  
+### Questions to think (still a Thought Experiment, assume it already happened):  
 
 * Should the AI Program still listen to your commands? Why?  
 * Since the AI Program knows everything, can create anything and nothing more to learn, would the AI Program shut itself down or execute  forever? Why?  

@@ -25,7 +25,7 @@ If you are a Tech Lead, transitioning to perform the Architect role in any proje
   
 Imagine you being in a room with a bunch of well experienced architects, having a casual chat about software architecture with no definite agenda. How would that look like?. Lots and lots of valuable information about software architecture, as well as some conflicting or possibly heated discussions among the architects on specific areas or ways of implementation. Right?. This book exactly simulates that discussion, except that every architect is given two pages for an article and no one can interrupt the other. I would suggest to read this book, when you have free time and don't take any of the suggestions blindly. None of the approaches discussed here works in all cases. Use this book to know, how other architects may think in a specific case and use your common sense to come up with the approach for the problem in hand.  
   
-## Some of my favorite articles are:  
+### Some of my favorite articles are:  
   
 Don't put your resume ahead of the requirements - Nitin Borwankar  
   

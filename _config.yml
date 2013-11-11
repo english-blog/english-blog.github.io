@@ -1,6 +1,7 @@
 name: Premkumar Masilamani
 description: On a journey called Life
-url: http://blog.smileprem.com
+#url: http://blog.smileprem.com
+url: http://localhost:4000
 
 paginate: 10
 

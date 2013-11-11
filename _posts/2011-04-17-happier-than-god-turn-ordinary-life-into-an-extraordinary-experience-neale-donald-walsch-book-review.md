@@ -15,7 +15,7 @@ src="{{site.url}}/img/happier-than-god-neale-donald-walsch.jpg"/>
 **Binding:** Paperback  
 **Publishing Date:** Apr 2010  
 **Publisher:** Hampton Roads Publishing Company  
-**Number of Pages: **261  
+**Number of Pages:** 261  
 **Language:** English  
   
 This book was waiting for me in a book shop in Kolkata and found me finally. At least that's what the author Neale Donald Walsh says in the first few pages of the book. I have read his earlier book "Conversations with God". His writing style is such that he will ask many thought provoking questions, makes you think and finally leaves you confused. You need to read his text again and again to get him right. I have not got him right yet. But, you get the core message at some level. Just as I did.  

@@ -3,6 +3,8 @@ layout: post
 title: Sikandar - 10 Players, 68 Days
 date: 2011-10-20
 category: books
+authorname: Sruthi Kitcha
+authorpage: http://penurheart.blogspot.com/
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -34,9 +36,4 @@ To sum up in a single line ‘Sikandar is a kaleidoscope’. It shows different 
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 
-<div style="background: #f9f9f9; border: 1px solid #ccc; height: 160px; margin-bottom: 1em;">
-<img src="/img/sruthi.jpg" style="clear: left; float: left; margin-right: 1em">
-<div style="margin-top: 0.5em; margin-right: 1em">
-<b>About the author</b><br />Sruthi Kitcha is a big dreamer who strives to make those dreams a reality. She is passionate about <a href="http://penurheart.blogspot.com/">writing</a> and marketing. She thinks absurd and weird at times which leads to some strange literary works. Apart from these, she loves to teach and give public speeches. She is a home bird living in Coimbatore.</div>
-</div>  
 

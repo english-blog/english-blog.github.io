@@ -13,7 +13,7 @@ category: health
   
 This was the typical reaction when I first read about the claim. I did research further and found that this tip works for many people. It may work for me. The best part is, this personal experiment was conducted by Phil Libin, the CEO of EverNote, one of the fastest growing company in Silicon Valley and this tip is published in Timothy Ferris's [The 4 Hour Body](http://www.amazon.com/gp/product/030746363X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030746363X&linkCode=as2&tag=booiverea-20) as well.  
 
-## Weight Awareness Experiment:   
+### Weight Awareness Experiment:   
 
 In 2008, Phil Libin weighing 258 pounds, decided to lose weight by doing NOTHING. Yes!!!. He wanted to find the effect of precisely aware of his weight would have on his weight. He actually made a conscious effort to continue to eat whatever he wanted and got absolutely no exercise during this experiment.  
   

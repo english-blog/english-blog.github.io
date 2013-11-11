@@ -17,7 +17,7 @@ category: challenges
   
 **PS:** You may see many references in internet that 21 days is enough to forge a habit. Since, I am going to do this for the rest of my life, I chose 48 days for my experiment.  
   
-## What to do with the extra hours?  
+### What to do with the extra hours?  
 
 It's not the waking up time that makes you successful, but what you do in those extra hours does. So, We need a plan to utilize those extra hours to work towards your goals or passion or health or acquiring more knowledge or improving meditation skills etc. Here is what I planned for the extra hours.  
   
@@ -33,7 +33,7 @@ It's not the waking up time that makes you successful, but what you do in those 
   
 This is not a final list of tasks. I will keep changing the tasks or reorganize it as per my needs in course of time. I decided to spend 2 hrs compulsory for myself in the morning and additional time as the day permits. You can prepare your own list. If lists overwhelm you, just do one simple thing like, listen to soothing music, learn an art, go to gym, learn yoga, learn meditation, watch the sunrise, go for a walk in the beach, walk in the grass in bare foot, write a poem etc., - Do whatever that makes you happy, as the first thing in the morning. Get it?  
   
-## What NOT to do?  
+### What NOT to do?  
 
 We humans tend to drift away from our goals every now and then, right. I do. So, I need to have a Not-To-Do list as well, to keep me focused on my To-Do list.  
   
@@ -42,7 +42,7 @@ We humans tend to drift away from our goals every now and then, right. I do. So,
   
 I may find some other distractions to my To-Do list in the coming 48 days. I will add them to the Not-To-Do list and keep focus on my goals.  
   
-## Why this experiment?
+### Why this experiment?
 
 I am beginning to feel contentment with myself, happy with my life (Thanks to Sangavi). A thought of unknown origin tells me - It's time to give back. But, I don't know what to give or how to give. I am searching for a meaning for my life, even though my conscious atheist self says that there is no meaning. I want to organize my lifestyle and channel my energy in proper ways, so I may find many excellent & exciting ideas / opportunities that my entire life would not be enough to complete them. Feeling excited as I write this.  
   

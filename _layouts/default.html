@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+	
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+        <!-- Zenhabits Style CSS -->
+        <link rel="stylesheet" href="/css/style.css">
 
-        <!-- MailChimp CSS -->
-        <link rel="stylesheet" href="/css/mailchimp.css">
+	<link rel="shortcut icon" href="favicon.ico" />
 
 	{% if site.host != "localhost" %}
 		{% include analytics.html %}
@@ -23,26 +22,27 @@
     </head>
     <body>
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="{{ site.url }}/">{{ site.name }}</a></h1>
-            <a class="extra" href="{{ site.url }}/best-of/">Best Of</a>
-
-            <a class="extra" href="{{ site.url }}/archive/">Archive</a>
-            <a class="extra" href="{{ site.url }}/books/">Books</a>
-            <a class="extra" href="{{ site.url }}/about/">About</a>
-            <a class="extra" href="{{ site.url }}/contact/">Contact</a>
-          </div>
+	<div class="container">
+	  <div class="top">
+	    <h1><a href="/">smileprem</a> : 
+	    <a id="tagline" href="http://tamil.smileprem.com/">&#x0b95;&#x0ba9;&#x0bb5;&#x0bc1;</a></h1>
+	  </div>
 
           {{ content }}
 
-          <div class="footer">
-            <div class="contact">
-	    Built with <a href = "http://jekyllrb.com/" target = "_blank">Jekyll</a>.
-	    Hosted on <a href = "http://github.com/" target = "_blank">GitHub</a>.
-            </div>
-          </div>
-        </div>
+	  <div class="subscribe">
+		<p>Subscribe: <a href="/subscribe-rss/">rss</a> | 
+		<a href="http://eepurl.com/Iztq5" target="_blank">email</a></p>
+	  </div> 
 
+	  <div class="footer">
+		<p><a href="{{ site.url }}/best-of/">Best Of</a> :: 
+		<a href="{{ site.url }}/archive/">Archive</a> ::
+		<a href="{{ site.url }}/books/">Books</a> ::
+  		<a href="{{ site.url }}/about/">About</a> ::  
+		<a href="{{ site.url }}/contact/">Contact</a> :: 
+		<a href="{{ site.url }}/uncopyright/">Uncopyright</a></p><br/><br/>
+	  </div>
+	</div>
     </body>
 </html>

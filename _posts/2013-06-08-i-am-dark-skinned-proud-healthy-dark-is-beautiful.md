@@ -20,13 +20,13 @@ Then comes a series of invasions by white skinned people up to the latest Britis
   
 ... and there are 100s of other reasons. This preference for a fairer skin is prevalent in many other countries as well.  
   
-## History of fairness creams in India:  
+### History of fairness creams in India:  
   
 Hindustan Lever Limited launched "Fair & Lovely" in 1978, exploiting the Indian obsession with fairer skin tone. It is called the mother of all fairness creams in India. Now, the same product is selling in 38 countries worldwide, generating most of the income from South Asia. The current market is flooded with so many international/local brands. Neverthless, all fairness cream advertisements are based on the mantra, *If you buy this fairness product, you will make your family proud, you will look beautiful, and you will secure a wonderful husband* - What an insult to the Indian Women?.  
   
 Just a thought - What would have happened, if these products were launched during British Empire?. *How dare you want Indians to look like British?*... ha ha ha ha... Who knows, next "Fair & Lovely" commercial can come up with this scheme - *We got fairer and we got our freedom*.  
   
-## What's Next?  
+### What's Next?  
   
 Yes. The most awaited product of the millennium - "Clean & Dry Intimate Wash" - **To clean & whiten your Vagina**. Yeah. You read it right. To make your vagina fairer. The new mantra - *No one will fuck you, if you have a dark vagina*. Don't they know that we are already hundred billion?. I could not stop laughing at this commercial. Here is the commercial.  
   

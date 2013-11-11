@@ -43,7 +43,7 @@ HDFC Bank promptly replied, *"We regret to inform you that we are unable to proc
   
 Both the HDFC Bank and I know that, it was a fraud on my card. *I don't want HDFC Bank to lose money because of my carelessness.* I offered to pay the entire amount, knowing that the thief may not be caught at all. All I asked is just to remove the interests and other charges. Is that too big a request for HDFC bank?.  
   
-## Lessons Learnt from this Credit Card Fraud:  
+### Lessons Learnt from this Credit Card Fraud:  
   
 * Always keep your mobile number updated with your Banks. They send SMS for each and every transactions.  
 * If you have the habit of switching mobile numbers when going to home town/vacation, please double check that your credit/debit cards are safe and with you.  
@@ -53,7 +53,7 @@ Both the HDFC Bank and I know that, it was a fraud on my card. *I don't want HDF
 * I suggest to get a credit card and use it ONLY for emergencies and make sure that you pay it off in FULL. Never ever get into revolving mode. You get stuck !.  
 * Never pay anything to the Police. It does not make any big difference. Go to the court, if you have time.  
 
-##What HDFC Bank Could have done better?
+###What HDFC Bank Could have done better?
   
 * For a high value transaction for Rs.38,500 @ Chemmanur Jewellery, HDFC Bank tried to send an SMS and followed by a phone call. The main reason for phone call verification is to avoid credit card fraud. When you are not able to reach the customer, please pro-actively make efforts to reach the customer. You could have sent an email and / or temporarily block the card. I would be more than happy rather than pissed off.  
 * Integrate all your internal systems (statement systems, RCU etc) and make sure that you know everything before calling the customer.  

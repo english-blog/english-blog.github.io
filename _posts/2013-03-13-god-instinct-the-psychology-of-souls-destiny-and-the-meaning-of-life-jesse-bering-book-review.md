@@ -24,7 +24,7 @@ This book, "The God Instinct" uses hard science to show that God is not a delusi
 
 > Success for our human ancestors must have depended on being able to get inside the minds of those who they lived with, second guess them, anticipate where they were going, help them if they needed it, challenge them or manipulate them. To do this, they had to develop brains that would deliver a story about what it's like be another person from the inside.  
 
-## Theory of Mind
+### Theory of Mind
 
 It is the ability to think, what the other person might be thinking about us or about anything else at any specific time. This developed cognitive ability helped the small group of humans survive and grow in numbers. This ability protected the group by identifying the anti-social elements in the group and removing them. This ability also alerts the individuals that they are being watched for their anti-social activities by the other members. Development of languages and human gossips led the anti-social act of a member being remembered and gossiped, long after it was done - which affected that member's reproductive success. This awareness of being watched eventually led to the belief of being watched by an supernatural agent or God!.  
   
@@ -32,7 +32,7 @@ If you still cannot conceive the idea, think about this. You are in a shopping m
   
 How humans developed this ability in first place?. Why on earth that only human's brain were rewired to have this capability?. Possibly due to cooking? and the abundance of nourishment the human brain received helped to grow bigger and form more neural connections? and one of those connections happened to have this ability?. God only knows... he he he he...  
   
-## Signs  
+### Signs  
 
 We see other people as more than just their bodies, we also tend to see natural events as more than just natural events. We seem to think that there are subtle messages, signs or cues that god or other supernatural agent is trying to communicate to us - often to us alone. The belief that each and every individual is being watched by god naturally leads us to think that god must communicate to us about our immoral acts and show us the right way. Since this communication must be unique to us, our brain tries to decipher so-called hidden messages from very ordinary natural events.   
   

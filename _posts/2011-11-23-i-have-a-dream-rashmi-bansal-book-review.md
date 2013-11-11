@@ -29,15 +29,15 @@ What do we have in this book, this time?. The inspiring story of 20 social entre
 
 This book is divided in to three categories, as usual.  
   
-## **Rainmakers:**  
+### **Rainmakers:**  
 
 Social enterprises which generates revenue. A new model of doing good, not mere charity. This includes a wide variety of entrepreneurs taking up a wide range of social issues. Bindeshwar Pathak - "Sulabh International" who revolutionized the sanitary situation in India, Saloni Malhotra - "DesiCrew" who setup the India's first rural BPO, Dinabandhu Sahoo - "Project Chilika" who trains the villagers in Orissa to farm the Ocean, sowing the seeds of a 'Blue Revolution', Anand Kumar - "Super 30" who coaches the poor but meritorious students for IIT JEE  and Dhruv Lakra - "Mirakle Couriers" who believed in the most neglected portion of the society - the deaf. There are many other inspiring stories, some of which will even make you to cry.  
   
-## **Changemakers:**  
+### **Changemakers:**  
 
 Those who cannot just accept what is wrong and make every possible step to change the way the society functions. Anshu Gupta - "Goonj" which systematically collect, sort and deliver every scrap of waste clothing from Urban India to someone out there, to wear with pride and dignity, Trilochan Sastry - "Association for Democratic Reforms (ADR)" who raised a PIL and made the politicians to declare their assets, criminal history during elections and continues with further reforms, Arvind Kejriwal - "Parivarthan" who is an IRS officer, but secretly started a war against his own department and teaches the people to use RTI to the fullest, Bushan Punani - "Blind People's Association (BPA)" who is an MBA from IIM, but decided to see if management principles could be applied to the social sectors and create a change, which he did with BPA.  
   
-## **The Spiritual Capitalists:**  
+### **The Spiritual Capitalists:**  
 
 These are highly educated guys from IIT's and IIM's who felt that the service to others and the purity of the self is the way to achieve eternal liberation from this cycle of birth and death, thus renounced their material world. With the strong education background, they redefined the way service is done. Vinayak Lohani - "Parivaar Ashram" - a residential facility for orphans, tribals and the daughters of prostitutes. Madhu Pandit Dasa - "Akshaya Patra" from ISKON Bangalore who feeds one million hungry children every day, in and around bangalore. I met Madhu Pandit Dasa in one of the bloggers meet happened in Bangalore. I am so happy to read his story and felt the connection with him.  
   

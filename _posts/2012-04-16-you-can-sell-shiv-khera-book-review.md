@@ -3,6 +3,8 @@ layout: post
 title: You Can Sell
 date: 2012-04-16
 category: books
+authorname: Sruthi Kitcha
+authorpage: http://penurheart.blogspot.com/
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
@@ -28,7 +30,7 @@ Though this is a domain based book, the terms and language used are very simple 
   
 Who is not a salesperson? Anyone who markets himself or his idea or a product or anything for that matter is a salesperson. So, a doctor, a lawyer, an engineer, a politician, a college student and everyone else becomes a salesperson at some point of time. So, you can't confine this book as a selling practice domain book. It is useful for everyone. Mr. Khera doesn't feed you with fish for hunger but teaches how to fish.  
   
-## These are a few points which I found as the heights of selling insight:  
+### These are a few points which I found as the heights of selling insight:  
 
 * Leadership is not a popularity contest.  
 * A good professional only learns the trade not tricks.  
@@ -45,9 +47,5 @@ Though I'm generally not in favor of self-help books there are always exceptions
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 
-<div style="background: #f9f9f9; border: 1px solid #ccc; height: 160px; margin-bottom: 1em;">
-<img src="/img/sruthi.jpg" style="clear: left; float: left; margin-right: 1em">
-<div style="margin-top: 0.5em; margin-right: 1em">
-<b>About the author</b><br />Sruthi Kitcha is a big dreamer who strives to make those dreams a reality. She is passionate about <a href="http://penurheart.blogspot.com/">writing</a> and marketing. She thinks absurd and weird at times which leads to some strange literary works. Apart from these, she loves to teach and give public speeches. She is a home bird living in Coimbatore.</div>
-</div>  
+
 

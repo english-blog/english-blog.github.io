@@ -24,7 +24,7 @@ category: challenges
   
 The last change - going raw vegan was very drastic and very very effective. I was a voracious meat eater. Switching immediately to the opposite side of the spectrum would be very tough. So, I did stop eating meat from Jan 1, 2013. After a month, I started eating raw vegan food for the breakfast for two weeks, then two weeks for the dinner and eventually for all three meals in the day. From 1st March 2013, I was on 100% raw vegan diet. After being in this diet for 5 months, you can see the results in the above picture.  
   
-## How does that feel?. Good or Bad?  
+### How does that feel?. Good or Bad?  
   
 **Physique:** The first noticeable change was in my physique. I lost almost all of the extra fat from my body and I did lose few pounds of lean muscle as well. It felt amazing when I lost few inches off my waist. My body felt very light, I could walk fast, climb up stairs with ease. Before this diet, while on streets, I use to tuck in my stomach or hold my breath to make my chest look bigger - when I see a beautiful girl on the other side or a man bigger than me. That became my nature that I do it unconsciously. After being a raw vegan, I don't have any issues with my body and don't do any of those acts in public. I lost 20 kgs in 5 months.  
   
@@ -42,11 +42,11 @@ This is a problem specific to India and surrounding countries with related cultu
   
 Some of the raw vegan recipes that I prepared and enjoyed are in my [raw-vegan-recipes blog](http://www.raw-vegan-recipes.com/). Read and Enjoy !  
   
-## Was the experiment successful?  
+### Was the experiment successful?  
   
 I do have a lot of obese/overweight friends who complain about the impossibility of losing weight. The whole idea behind this experiment is to find a reliable and healthy mean to lose weight and when I lose weight, my friends will get inspired. I did lose weight. Very funny thing is that, my friends still complains about overweight and ignored me and my diet plan as "*Outcasts*". I am no longer an ordinary human being with an ordinary appetite. I laughed at myself. Nevertheless, I was blogging the efforts along the way. If it inspires one person in the world, I would consider my experiment a successful one. I don't know at this point. The comments in this blog may help establish it.  
   
-## What's Next?  
+### What's Next?  
   
 **Gain muscle !**. Yeah. right. I do know many skinny persons in the world. I am going to show them how to gain muscle mass and retain it in a healthy way. I am going to make it as simple as I could. If you would like to follow along, please subscribe for the blog posts. All the best !.  
 
