@@ -12,9 +12,18 @@ layout: default
 	{% endif %}
 
 	{{ post.content }}
-	<br/><div class="home_bottom"></div><br/>
+	<!-- sharethis widget -->
+	<br/>{% include sharethis_body.html %}<br/>
+	<br/><div class="home_bottom"></div>
   {% endfor %}
 
 </div>
+
+<div class="subscribe">
+	<p>Subscribe: <a href="/subscribe-rss/">rss</a> | 
+	<a href="http://eepurl.com/Iztq5" target="_blank">email</a></p>
+</div>
+
+<div style="border-top: 1px solid #efefef;"></div><br/>
 
 <div class="all_posts"><a href="{{ site.url }}/archive/">See all posts &raquo;</a></div>

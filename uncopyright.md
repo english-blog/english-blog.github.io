@@ -12,8 +12,9 @@ permalink: /uncopyright/
 
 <p>There is no need to email me for permission &#8212; use my content however you want!</p>
 
-<p>Email it, share it, reprint it with or without credit. Change it around, put in a bunch of swear words and attribute them to me. It&#8212;s OK.</p>
+<p>Email it, share it, reprint it with or without credit. Change it around, put in a bunch of swear words and attribute them to me. It&#8217;s OK.</p>
 
 <p>Attribution is appreciated but not required.</p>
 
 </div>
+<br/>

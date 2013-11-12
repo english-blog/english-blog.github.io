@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>{{ page.title }}</title>
+	{% if page.title == null %}
+        	<title>Premkumar Masilamani's Personal Blog</title>
+	{% else %}
+	        <title>{{ page.title }}</title>
+	{% endif %}
 	
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -14,10 +18,8 @@
 
 	<link rel="shortcut icon" href="favicon.ico" />
 
-	{% if site.host != "localhost" %}
-		{% include analytics.html %}
-		{% include sharethis_header.html %}
-	{% endif %}
+	{% include analytics.html %}
+	{% include sharethis_header.html %}
 
     </head>
     <body>
@@ -29,11 +31,6 @@
 	  </div>
 
           {{ content }}
-
-	  <div class="subscribe">
-		<p>Subscribe: <a href="/subscribe-rss/">rss</a> | 
-		<a href="http://eepurl.com/Iztq5" target="_blank">email</a></p>
-	  </div> 
 
 	  <div class="footer">
 		<p><a href="{{ site.url }}/best-of/">Best Of</a> :: 

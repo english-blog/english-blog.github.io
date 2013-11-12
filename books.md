@@ -20,3 +20,4 @@ permalink: /books/
 
     {% endfor %}
 </div>
+<br/>

@@ -19,6 +19,6 @@ permalink: /best-of/
 	<p><span>20 Sep 2013</span> &raquo; <a href="/500-days-of-happy-marriage/">500 Days of Happy Marriage</a><p>
 
 </div>
-
+<br/>
 
 

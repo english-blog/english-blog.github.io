@@ -15,3 +15,4 @@ permalink: /subscribe-rss/
 <p><a href="{{ site.utl }}/feed.books.xml">Book Reviews</a></p>
 
 </div>
+<br/>
