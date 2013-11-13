@@ -1,1 +1,1 @@
-jekyll serve -w --host localhost --port 4000
+jekyll serve -w --config _local-config.yml
