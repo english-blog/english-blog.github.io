@@ -12,7 +12,7 @@ By the end of January 2013, Gillete started a campaign "Soldier for Women". Its 
 <iframe allowfullscreen="" frameborder="0" src="http://www.youtube.com/embed/b4aiso6pvRE?autoplay=0&controls=1&hd=1&showinfo=0&rel=0&wmode=transparent" height="399" width="480"></iframe> 
 </div>  
 
-To support this campaign, [blogadda](http://www.blogadda.com) launched a blog contest [Soldier for Women](http://blog.blogadda.com/2013/03/21/soldier-for-women-campaign-indian-bloggers), asking the women blogger to blog about the men in their lives who stood up for women in any occasion. One of my friend Sruthi Pandarinathan wrote a blog post about me. Check the blog [The Intellectual Soldier](http://penurheart.blogspot.in/2013/04/the-intellectual-soldier.html). I did not expect that. I was surprised to see that women see me as a Soldier as well (even though I never fought a physical fight :). The surprise quadrapled this weekend, when Sruthi gave me this T-Shirt. BlogAdda sent her this T-Shirt for the blog that she wrote.  
+To support this campaign, [blogadda](http://www.blogadda.com) launched a blog contest [Soldier for Women](http://blog.blogadda.com/2013/03/21/soldier-for-women-campaign-indian-bloggers), asking the women blogger to blog about the men in their lives who stood up for women in any occasion. One of my friend Sruthi Pandarinathan wrote a blog post about me. Check the blog [The Intellectual Soldier](http://penurheart.blogspot.in/2013/04/the-intellectual-soldier.html). I did not expect that. I was surprised to see that women see me as a Soldier as well (even though I never fought a physical fight :). The surprise quadrupled this weekend, when Sruthi gave me this T-Shirt. BlogAdda sent her this T-Shirt for the blog that she wrote.  
   
 <br/>
 <div style="text-align: center;">
@@ -20,7 +20,7 @@ To support this campaign, [blogadda](http://www.blogadda.com) launched a blog co
 <br>(Sruthi - Prem - Sangavi)
 </div>  
 
-I have nothing more to say other than these words, "I am honoured. Thank you!"  
+I have nothing more to say other than these words, "I am honored. Thank you!"  
 
 ### Do Women need Soldiers?
 

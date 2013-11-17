@@ -14,7 +14,7 @@ category: technology
 
 A personal website through which a person expresses his opinions / ideas with the world on a regular basis.  
 
-### What constitues a simple, basic blog?
+### What constitutes a simple, basic blog?
 
 Below are the basic components of any blogging system.  
 
@@ -26,9 +26,9 @@ I am not bothered about the awesome SEO plugins / other helpful plugins which he
 
 ### Do I need a CMS / Server side engine?  
 
-Except the comments section, rest of the blog is static. I am not bothered about the comments anyway. It takes too much of your time away from blogging. If you really need them, there are client side commenting systems available (like Disqus, Facebook comments etc.,). So, I dont need a server side code which connects to a database, execute the plugins, create the webpage on the fly for every request to a webpage (even with caching), when all I need is a set of simple HTML file.  
+Except the comments section, rest of the blog is static. I am not bothered about the comments anyway. It takes too much of your time away from blogging. If you really need them, there are client side commenting systems available (like Disqus, Facebook comments etc.,). So, I don't need a server side code which connects to a database, execute the plugins, create the webpage on the fly for every request to a webpage (even with caching), when all I need is a set of simple HTML file.  
 
-There is an argument that says, *"Infrastructure is cheap now a days. The computing and storage abilities skyrocketed. We can use as much as we want"*. Yes. It is. But, just because I have too much fuel, I would not travel 10 miles extra to office everyday. I always prefer the shortest possible route. How about you?. And again, thats a personal choice. I am not saying that what is being done is wrong, all I say is that I don't need all of those.  
+There is an argument that says, *Infrastructure is cheap now a days. The computing and storage abilities skyrocketed. We can use as much as we want*. Yes. It is. But, just because I have too much fuel, I would not travel 10 miles extra to office everyday. I always prefer the shortest possible route. How about you?. And again, thats a personal choice. I am not saying that what is being done is wrong, all I say is that I don't need all of those.  
 
 ### What I did not like in regular blogging systems?  
 
@@ -59,7 +59,7 @@ src="{{site.url}}/img/image.jpg"/>
 {% endhighlight %}  
   
 
-You see the point?. Most don't mind this additional markups. I do mind, when I edit the blogposts.  
+You see the point?. Most don't mind this additional markups. I do mind, when I edit the blog posts.  
 
 ### Alternatives - Static Site Generators 
 
@@ -116,9 +116,9 @@ I used the very basic template that comes with Jekyll. I have plans to customize
 
 ### What difference did it make to my writing?
 
-**Less Distraction** - I have the habit of previewing the blog every now and then and correct the look and feel as I write. This is changed. I write from VIM editor in Unix console. I prefer to keep it in full screen and viola - there are no distractions. I could concentrate only on writing. I actually felt that I write more in console than in a webpage. Too early to come to a conclusion. Lets wait till I post atlease 50+ posts this way.  I still have to preview and edit the blog post in the end. But thats now a single task after I complete the writing.  
+**Less Distraction** - I have the habit of previewing the blog every now and then and correct the look and feel as I write. This is changed. I write from VIM editor in Unix console. I prefer to keep it in full screen and viola - there are no distractions. I could concentrate only on writing. I actually felt that I write more in console than in a webpage. Too early to come to a conclusion. Lets wait till I post at least 50+ posts this way.  I still have to preview and edit the blog post in the end. But thats now a single task after I complete the writing.  
 
-**Feeling EPIC** - Yeah. Seriously. I fell in love with the character "Neo" in the Movie "The Matrix" when I saw it the first time (esp. the black console with green text flowing down). I even wrote matirx screensavers in C, during my college days to simulate that experience in my computer. Those good old days are back. This simple act of blogging like a programmer, brought back my love for programming. Write, Edit, Commit, Push - Viola, My blog is published. It's nostalgic. This is my console where I wrote this blog post.  
+**Feeling EPIC** - Yeah. Seriously. I fell in love with the character "Neo" in the Movie "The Matrix" when I saw it the first time (esp. the black console with green text flowing down). I even wrote matrix screensavers in C, during my college days to simulate that experience in my computer. Those good old days are back. This simple act of blogging like a programmer, brought back my love for programming. Write, Edit, Commit, Push - Viola, My blog is published. It's nostalgic. This is my console where I wrote this blog post.  
 
 <div style="text-align: center;">
 <img src="{{site.url}}/img/bloggin-from-vim.jpg"/>
