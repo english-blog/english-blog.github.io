@@ -5,6 +5,10 @@ date: 17-11-2013
 category: challenges
 ---
 
+<div style="text-align: center;">
+<img src="{{site.url}}/img/wake-up-5-am-results-smileprem.jpg"/>
+</div>  
+
 "Thank you" [Robin Sharma][robin-sharma-link] for making me understand the importance of waking up early and [Steve Pavlina][steve-link] for giving me the practical tip to wake up early. I started this challenge on 20-Aug-2013 and missed to wake up early on 29-Sep-2013. I am human right?. I restarted the challenge and finished it successfully on 10-Nov-2013. Past few weeks were the most productive weeks in my life. I was able to achieve more than I thought was possible. Though, I did not become a celebrity in the last few weeks (obviously that was not my goal), I am better/matured than who I was before.  
 
 [robin-sharma-link]: http://www.robinsharma.com/blog/09/how-to-wake-up-early/
@@ -12,7 +16,7 @@ category: challenges
 
 I got roughly 2-3 hours daily, which I used mostly for learning purposes, tapping exercises, self-realization exercises (where I probe deeply into myself with a lot of questions and writing down the answers in paper) etc. It was simply awesome. One important deviation from the original plan was that I started using facebook and internet for leisure activities during these morning hours. (Roughly 30 - 45 mins).  
 
-Most of the changes that I experienced are internal - changes in my thought process and my perception of the world. I don't have the means to measure it or even to show that these changes are related to myself waking up early. But, I can simply attribute all the changes in the last few weeks to the new habit - "Raising Early" - based on the simple reasoning.  
+Most of the changes that I experienced are internal - changes in my thought process and my perception of the world. I don't have the means to measure it or even to show that these changes are related to myself waking up early. But, I can simply attribute all the changes in the last few weeks to the new habit - "Rising Early" - based on the simple reasoning.  
 
 
 ### Internal Changes
@@ -25,21 +29,23 @@ Dinesh is the MAN OF QUESTIONS. He asked so many questions, making me to think f
 
 Just that I did not do it in recent times and the petty politics in IT industry clouded my vision. Thanks to Dinesh.  
 
-**Stopped chasing money** - Before you make any decision about my decision, please wait. This does not mean that I wont do anything to earn money. (I need money to live anyway) Just that, I would not do anything / start anything with the sole purpose of earning money. There must be some sort of interest / passion associated with that activity. I should be able to do that specific activity even if I dont earn money from that activity (ex. blogging). Most people do not know that I secretly craved for more money, actually a more luxurious and free lifestyle. I see now clearly that, it was not for choice of the lifestyle, it was a wish/hope to escape from the reality. I can attribute this to my hatred with IT industry.  
+**Stopped chasing money** - Before you make any decision about my decision, please wait. This does not mean that I wont do anything to earn money. (I need money to live anyway) Just that, I would not do anything / start anything with the sole purpose of earning money. There must be some sort of interest / passion associated with that activity. I should be able to do that specific activity even if I dont earn money from that activity (ex. blogging). Most people know that I crave for more money, actually a more luxurious and free lifestyle. I begin to see now that, it was not for choice of the lifestyle, it was a wish/hope to escape from the reality. I am pretty happy with my personal life, right now. I can attribute this to my hatred with IT industry.  
 
 When I discovered my love for programming, this change followed automatically. Now, I don't see any big difference in driving a Maruthi Alto or an Audi, as long as it takes me from Point A to Point B. However, If I have few million dollars in my bank account, I would definitely buy an Audi car. The point is - "When I don't have a million dollars, I am happy driving an Alto." - Such a relieving realization.  
 
 **Ready to change what does not work** - I do have a blueprint to live. I set some of them as change-able and some of them as non-negotiable. I have realized that whole of my blueprint should be change-able, based on strict evaluation criteria. Because, we do get a lot of new experiences, information over time which makes our previous experience obsolete.  
 
-One such assumption that I made alone the way was - "I must switch from IT industry permanently and I don't want to work for any other IT company". This assumption was challenged by many people and the latest was Dinesh. Again another thought provoking discussion with him, followed by self probing questions in the next day morning - I decided to change the company that I work for and I planned to stay in IT industry for some more time, till I become an expert in another industry.  
+One such assumption that I made along the way was - "I must switch from IT industry permanently and I don't want to work for any other IT company". This assumption was challenged by many people and the latest was Dinesh. Again another thought provoking discussion with him, followed by self probing questions in the next day morning - I decided to change the company that I work for and I planned to stay in IT industry for some more time, till I become an expert in another industry.  
 
-> "My blueprint for life is no longer non-negotiable. It will adapt and evolve."  
+> "My [blueprint][bp-url] for life is no longer non-negotiable. It will adapt and evolve."  
+
+[bp-url]: {{ site.url }}/blueprint-for-life-find-yours/
 
 **Respect Social Pressure** - Whenever I take up any challenge, I follow the below idea by Robin Sharma.   
 
 > "99% is bitch. 100% is breeze" - **Robin Sharma**  
 
-It works perfectly for me. It gives me more confident that I can put 100% of myself to any task that I get involved. But, there are impacts to others who are related to me. Most of the impact was on my wife. Be it raw vegan challenge or waking up 5 AM, her lifestyle impacted so much. She being a night bird and me waking up early and sleeping early, we spent a very little time together during the weekdays. We did not like this. But, I started already - so, finished it.  
+It works perfectly for me. It gives me more confident that I can put 100% of myself to any task that I get involved. But, there are impacts to others who are related to me. Most of the impact was on my wife. Be it raw vegan challenge or waking up 5 AM, her lifestyle impacted so much. She, being a night bird and me waking up early and sleeping early, we spent a very little time together during the weekdays. We did not like this. But, I started already - so, finished it.  
 
 Man being a social creature, must depend on others for life and love. I decided to consider her and minimize the impact on her with my challenges and experiments. I am going to experimentally try less than 100% from my next challenge onwards. Lets see how it goes.  
 
@@ -51,10 +57,11 @@ Man being a social creature, must depend on others for life and love. I decided 
 
 [epic-link]: {{ site.url }}/blog-like-a-programmer/
 
-* **Started learning new programming languages** - Started learning [Ruby][ruby-url] & [Dart][dart-url] and started using Git as the repository for my open source projects.  
+* **Started learning new programming languages** - Started learning [Ruby][ruby-url] & [Dart][dart-url] and started using [GitHub][github-url] as the repository for my open source projects.  
 
 [dart-url]: https://www.dartlang.org/
 [ruby-url]: https://www.ruby-lang.org/en/
+[github-url]: https://github.com/
 
 * **Udemy courses** - Completed 3 courses in Udemy Online learning Portal. [How to Create a Udemy Course][udemy-url], [How to Get and Keep the Job of Your Dreams][job-url], [How to Start a Profitable Wordpress Blog][wordpress-url] & [Becoming A Writer][writer-url].  
 
@@ -72,7 +79,7 @@ Man being a social creature, must depend on others for life and love. I decided 
 
 * **Blogs** - I have written 10 blog posts during this period. Started writing posts on Personal Development.  
 
-* **Emotional Freedom Technique** - I used to spend regularly in EFT with Ho'oponopono in the morning times. The frequency is reduced in recent days. Planning to do this regularly.  
+* **Emotional Freedom Technique** - I used to spend time regularly in EFT with Ho'oponopono in the morning times. The frequency is reduced in recent days. Planning to do this regularly.  
 
 * **Personal Development** - I downloaded a lot of personal development workbooks / small booklets over the period of time. I spent a considerable amount of time, working on myself. I cannot give the complete list of small PDFs here.  
 
@@ -88,7 +95,7 @@ If you are planning to take up this challenge for some time, please make sure th
 
 **Issues with Travel** - There were many occasions in the family and I have to travel to Coimbatore or Chennai every weekend. We generally travel by Train. I use to wake up at 5 AM in the morning, sitting alone in the train - without switching on the lights. I tried to read books in Kindle, but that was more of a strain to my eyes. Meditating or Writing in the train didn't help. I spent some of these days in self discussions. I use to pick up a topic or a thought and I would debate for/against that topic. All within my mind. This may not be a favorite thing to do - for many people.   
 
-**Vacations** - You will have tough time following the rituals when you are in an occasion or spending the night at relatives home. I use to do multiple things in the morning and I don't like carrying everything, everywhere (laptop, books, journals etc). I use to carry only Amazon Kindle and stick to reading e-books.   
+**Vacations** - You will have tough time following the rituals when you are in a special occasion or spending the night at relatives home. I use to do multiple things in the morning and I don't like carrying everything, everywhere (laptop, books, journals etc). I use to carry only Amazon Kindle and stick to reading e-books.   
 
 ### Would I do it differently next time?
 
