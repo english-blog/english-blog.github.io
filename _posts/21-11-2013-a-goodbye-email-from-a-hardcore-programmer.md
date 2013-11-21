@@ -28,8 +28,6 @@ I quit TCS. Today is my last day. I wanted my final goodbye email to be very spe
 
 <font color="#ffffff">&nbsp;</font><font color="#3f5fbf">*&nbsp;</font><font color="#7f9fbf">@endDate&nbsp;</font><font color="#3f5fbf">21-Nov-2013</font><br />
 
-<font color="#ffffff">&nbsp;</font><font color="#3f5fbf">*&nbsp;</font><br />
-
 <font color="#ffffff">&nbsp;</font><font color="#3f5fbf">*/</font><br />
 
 <font color="#ffffff"></font><br />
@@ -207,19 +205,19 @@ I quit TCS. Today is my last day. I wanted my final goodbye email to be very spe
 
 <font color="#ffffff">&nbsp;&nbsp;</font><font color="#7f0055"><b>public&nbsp;static&nbsp;</b></font><font color="#7f0055"><b>void&nbsp;</b></font><font color="#000000">pleaseKeepInTouch</font><font color="#000000">()&nbsp;{</font><br />
 
-<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaEmail</font><font color="#000000">(</font><font color="#2a00ff">&#34;prem82@gmail.com&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaEmail</font><font color="#000000">(</font><font color="#2a00ff">&#34<a href="mailto:prem82@gmail.com?Subject=Goodbye%20E-Mail" target="_top">prem82@gmail.com</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
-<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaBlog</font><font color="#000000">(</font><font color="#2a00ff">&#34;http://blog.smileprem.com/&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaBlog</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="http://blog.smileprem.com/" target="_blank">http://blog.smileprem.com/</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
-<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaFacebook</font><font color="#000000">(</font><font color="#2a00ff">&#34;https://www.facebook.com/prem82&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaFacebook</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="https://www.facebook.com/prem82" target="_blank">https://www.facebook.com/prem82</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
-<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaTwitter</font><font color="#000000">(</font><font color="#2a00ff">&#34;https://twitter.com/prem82&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaTwitter</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="https://twitter.com/prem82" target="_blank">https://twitter.com/prem82</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
-<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaLinkedIn</font><font color="#000000">(</font><font color="#2a00ff">&#34;http://www.linkedin.com/in/prem82&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaLinkedIn</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="http://www.linkedin.com/in/prem82" target="_blank">http://www.linkedin.com/in/prem82</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
 <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>if&nbsp;</b></font><font color="#000000">(</font><font color="#000000">emergency</font><font color="#000000">)&nbsp;{</font><br />
 
-<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaPhone</font><font color="#000000">(</font><font color="#2a00ff">&#34;+91-99862-49904&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaPhone</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="tel:+919986249904">+91-99862-49904</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
 <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">}</font><br />
 
