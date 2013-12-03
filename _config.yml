@@ -13,4 +13,6 @@ safe: false
 lsi: false
 
 permalink: /:title/
+relative_permalinks: false
+
 
