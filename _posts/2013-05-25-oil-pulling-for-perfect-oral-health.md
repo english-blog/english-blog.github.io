@@ -13,7 +13,7 @@ The more I research about natural lifestyle, the more I come to know. The recent
   
 ### What is Oil Pulling?
   
-It's an ancient Ayurvedic practice for maintaining perfect oral health. As soon as you wake up in the morning, take a table spoon of sesame oil in your mouth and swish it around inside your mouth slowly for 15-20 mins. The Sesame Oil will turn into milky white liquid. Spit that out. Wash your mouth with water. That's all. Simple. Isn't it?.  
+It's an ancient Ayurvedic practice for maintaining perfect oral health. As soon as you wake up in the morning, take a table spoon of sesame oil in your mouth and swish it around inside your mouth slowly for 15-20 minutes. The Sesame Oil will turn into milky white liquid. Spit that out. Wash your mouth with water. That's all. Simple. Isn't it?.  
   
 ### Things to take care:
   
@@ -53,7 +53,7 @@ The most immediate one that you will notice in a weeks time is whiter teeth and 
 * Sinusitis  
 * Tooth Abscess  
 
-I have read a whole bunch of articles about ayurvedic notion of mouth being linked with other organs of the body. They claim that the perfect oral health helps to cure many diseases of the body. There are evidences and testimonials as well. But some how I am not convinced with the idea. If you have any one of those, please try oil pulling for few months (I would suggest 6 months) and let me know, if the symptoms are reduced.  
+I have read a whole bunch of articles about Ayurvedic notion of mouth being linked with other organs of the body. They claim that the perfect oral health helps to cure many diseases of the body. There are evidences and testimonials as well. But some how I am not convinced with the idea. If you have any one of those, please try oil pulling for few months (I would suggest 6 months) and let me know, if the symptoms are reduced.  
   
 ### Why did I start doing Oil Pulling?
   

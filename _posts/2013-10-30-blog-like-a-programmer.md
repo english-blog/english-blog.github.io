@@ -22,13 +22,13 @@ Below are the basic components of any blogging system.
 2. Set of pages  
 3. Ability for the readers to comment in the blog post/pages  
 
-I am not bothered about the awesome SEO plugins / other helpful plugins which helps in many aspects of blogging. I am concerned only about the basic blog. All I need is a simple webpage to express my ideas.  
+I am not bothered about the awesome SEO plugins / other helpful plugins which helps in many aspects of blogging. I am concerned only about the basic blog. All I need is a simple web page to express my ideas.  
 
 ### Do I need a CMS / Server side engine?  
 
-Except the comments section, rest of the blog is static. I am not bothered about the comments anyway. It takes too much of your time away from blogging. If you really need them, there are client side commenting systems available (like Disqus, Facebook comments etc.,). So, I don't need a server side code which connects to a database, execute the plugins, create the webpage on the fly for every request to a webpage (even with caching), when all I need is a set of simple HTML file.  
+Except the comments section, rest of the blog is static. I am not bothered about the comments anyway. It takes too much of your time away from blogging. If you really need them, there are client side commenting systems available (like Disqus, Facebook comments etc.,). So, I don't need a server side code which connects to a database, execute the plugins, create the web page on the fly for every request to a web page (even with caching), when all I need is a set of simple HTML file.  
 
-There is an argument that says, *Infrastructure is cheap now a days. The computing and storage abilities skyrocketed. We can use as much as we want*. Yes. It is. But, just because I have too much fuel, I would not travel 10 miles extra to office everyday. I always prefer the shortest possible route. How about you?. And again, thats a personal choice. I am not saying that what is being done is wrong, all I say is that I don't need all of those.  
+There is an argument that says, *Infrastructure is cheap now a days. The computing and storage abilities skyrocketed. We can use as much as we want*. Yes. It is. But, just because I have too much fuel, I would not travel 10 miles extra to office everyday. I always prefer the shortest possible route. How about you?. And again, that's a personal choice. I am not saying that what is being done is wrong, all I say is that I don't need all of those.  
 
 ### What I did not like in regular blogging systems?  
 
@@ -37,7 +37,7 @@ These are the two components of any regular blogging system which I do not prefe
 1. CMS / Server Side engine  
 2. WYSIWYG editors  
 
-When it comes to WYSIWYG editors, I simply hate the un-necessary markups created by the default editors or even the specialized installable editors in the market. For ex. to display an image to the left side of the html, this is the code created by blogger.  
+When it comes to WYSIWYG editors, I simply hate the un-necessary markups created by the default editors or even the specialized install-able editors in the market. For ex. to display an image to the left side of the html, this is the code created by blogger.  
 
 {% highlight html wrap  %}
 
@@ -63,7 +63,7 @@ You see the point?. Most don't mind this additional markups. I do mind, when I e
 
 ### Alternatives - Static Site Generators 
 
-Static Site Generator is a program which generates a complete HTML website as output. The input would be few configuration files, layout files and markdown or simple html files. You can simply upload these HTML files to any webserver and your blog is live. whooh...  
+Static Site Generator is a program which generates a complete HTML website as output. The input would be few configuration files, layout files and markdown or simple html files. You can simply upload these HTML files to any web-server and your blog is live. whooh...  
 
 I could find hundreds of SSGs written in various languages (ruby, python, node.js, javascript, java etc) in the opensource area. Since I do not know most of the programming languages, but decided to learn any one of them - I choose the most widely used SSG. [Jekyll][jekyl-url], which powers [GitHub][github-url]. Seeing hundreds of plugins / websites out there for Jekyll already, I was confident that I would not be stuck any problem for a long time.  
 
@@ -104,7 +104,7 @@ Below is that technology stack that runs this blog.
 2. Redcarpet - A Markdown plugin distributed as ruby gem  
 3. Pygments - A code highlighting plugin written in Python  
 4. pageless_redirects - A plugin which creates the redirect URLs to ease the migration from blogger  
-5. sitemap_generator - A plugin which generates/updates sitemap for this blog  
+5. sitemap_generator - A plugin which generates/updates site map for this blog  
 6. feed.xml - An RSS feed for the blog  
 7. MailChimp - To manage email subscriber lists & newsletters  
 8. Disqus - A client side commenting system to enable commenting feature  
@@ -116,9 +116,9 @@ I used the very basic template that comes with Jekyll. I have plans to customize
 
 ### What difference did it make to my writing?
 
-**Less Distraction** - I have the habit of previewing the blog every now and then and correct the look and feel as I write. This is changed. I write from VIM editor in Unix console. I prefer to keep it in full screen and viola - there are no distractions. I could concentrate only on writing. I actually felt that I write more in console than in a webpage. Too early to come to a conclusion. Lets wait till I post at least 50+ posts this way.  I still have to preview and edit the blog post in the end. But thats now a single task after I complete the writing.  
+**Less Distraction** - I have the habit of previewing the blog every now and then and correct the look and feel as I write. This is changed. I write from VIM editor in Unix console. I prefer to keep it in full screen and viola - there are no distractions. I could concentrate only on writing. I actually felt that I write more in console than in a web page. Too early to come to a conclusion. Lets wait till I post at least 50+ posts this way.  I still have to preview and edit the blog post in the end. But that's now a single task after I complete the writing.  
 
-**Feeling EPIC** - Yeah. Seriously. I fell in love with the character "Neo" in the Movie "The Matrix" when I saw it the first time (esp. the black console with green text flowing down). I even wrote matrix screensavers in C, during my college days to simulate that experience in my computer. Those good old days are back. This simple act of blogging like a programmer, brought back my love for programming. Write, Edit, Commit, Push - Viola, My blog is published. It's nostalgic. This is my console where I wrote this blog post.  
+**Feeling EPIC** - Yeah. Seriously. I fell in love with the character "Neo" in the Movie "The Matrix" when I saw it the first time (esp. the black console with green text flowing down). I even wrote matrix screen savers in C, during my college days to simulate that experience in my computer. Those good old days are back. This simple act of blogging like a programmer, brought back my love for programming. Write, Edit, Commit, Push - Viola, My blog is published. It's nostalgic. This is my console where I wrote this blog post.  
 
 <div style="text-align: center;">
 <img src="{{site.url}}/img/bloggin-from-vim.jpg"/>

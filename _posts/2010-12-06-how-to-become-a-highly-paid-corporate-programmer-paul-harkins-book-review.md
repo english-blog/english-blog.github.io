@@ -24,11 +24,11 @@ This book is divided into four sections, each deals with a specific purpose. The
   
 **Section 1: Starting a Successful Programming Career**  
 
-This section is for the beginning programmers/freshers. Harkin advices the freshers on how to tackle the interview, what questions to ask, how to behave with the managers, how to learn and develop the coding skills, the importance of having the complete business process knowledge, using the borrowed code and the usage of productivity tools. Tight packed wisdom, which took close to 6 years for me to learn on my own, is presented in this first section. I am glad that I knew most of the tips in this section by experience.  
+This section is for the beginning programmers/freshers. Harkin advises the freshers on how to tackle the interview, what questions to ask, how to behave with the managers, how to learn and develop the coding skills, the importance of having the complete business process knowledge, using the borrowed code and the usage of productivity tools. Tight packed wisdom, which took close to 6 years for me to learn on my own, is presented in this first section. I am glad that I knew most of the tips in this section by experience.  
   
 **Section 2: Thriving in a Competitive Environment**  
 
-This section is for the programmers with few years of experience like me. Many programmers I knew gets frustrated with their work after few years and they begin to slog. Harkin tells us, how to avoid that pitfall and if we are already in to it, how to get out of that. Lots of practical advices on tackling a tough and high visibility projects, boosting your performance, handling stress, tips and tricks to master complex applications and business processes etc. He suggests us to keep changing the projects, spotting and utilizing the opportunities and how to stay at the top of our game. I enjoyed these chapters more, as I could relate to these text !  
+This section is for the programmers with few years of experience like me. Many programmers I knew gets frustrated with their work after few years and they begin to slog. Harkin tells us, how to avoid that pitfall and if we are already in to it, how to get out of that. Lots of practical advises on tackling a tough and high visibility projects, boosting your performance, handling stress, tips and tricks to master complex applications and business processes etc. He suggests us to keep changing the projects, spotting and utilizing the opportunities and how to stay at the top of our game. I enjoyed these chapters more, as I could relate to these text !  
   
 **Section 3: Mastering the Corporate Culture**  
 
@@ -40,7 +40,7 @@ Also, he stresses that a private office and a silent workplace is a must for eff
 
 This section is for the programmers with an entrepreneurial bent. Mostly discusses on how to become a programming consultant, pros and cons of that career and how to develop your own company and market your own software product etc. He urges the importance of writing for the industry that you are working for. I like it very much. He sited examples of people shifting from programming to corporate positions in an interesting manner.  
   
-Even though this book targets four different categories of programmers, I would suggest everyone to read every chapter. Since I feel thats a logical career path for achieving programmers, unless you already planned your career path. This book has made a lasting impression on me and forced me to make some decisions in my life, which I would not have taken other wise. I am planning to blog on the mobile development arena. Thanks a lot Paul H. Harkins for writing this book for us.  
+Even though this book targets four different categories of programmers, I would suggest everyone to read every chapter. Since I feel that's a logical career path for achieving programmers, unless you already planned your career path. This book has made a lasting impression on me and forced me to make some decisions in my life, which I would not have taken other wise. I am planning to blog on the mobile development arena. Thanks a lot Paul H. Harkins for writing this book for us.  
   
 [How to Become a Highly Paid Corporate Programmer (Click to buy from Amazon)](http://www.amazon.com/gp/product/158347045X?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=158347045X)  
   

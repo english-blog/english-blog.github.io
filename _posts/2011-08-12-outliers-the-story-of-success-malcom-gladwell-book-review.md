@@ -35,7 +35,7 @@ The Hard work they put in (10,000 hrs rule - right attitude)
   
 He concludes that these Outliers were present in the right time in the right place with the right attitude and become successful. He takes the examples of few other intellectual people who, unfortunately happen to be in the wrong time and not be able to become a success icon. Interesting, but I could not buy into this idea 100%.  
   
-I thought about the book "[The Secret][secreturl]" by Rhonda Brynes when I read Gladwell's conclusion. Gladwell says that Outliers are successful, because of the opportunities they got. But, Rhonda Bryne says that you will create opportunities when you are determined in what you want to achieve, according to the "Law Of Attraction". Gladwell explains why things are the way they are. Rhonda Bryne tells us how to create things.  
+I thought about the book "[The Secret][secreturl]" by Rhonda Byrne when I read Gladwell's conclusion. Gladwell says that Outliers are successful, because of the opportunities they got. But, Rhonda Byrne says that you will create opportunities when you are determined in what you want to achieve, according to the "Law Of Attraction". Gladwell explains why things are the way they are. Rhonda Byrne tells us how to create things.  
 
 [secreturl]: http://www.amazon.com/gp/product/1582701709/ref=as_li_tf_tl?ie=UTF8&tag=booiverea-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1582701709
 

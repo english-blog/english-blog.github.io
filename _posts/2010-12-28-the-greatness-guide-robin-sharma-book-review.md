@@ -55,9 +55,9 @@ Here are few of my favorites from his book.
 
 * The words you use influence the life you live. Select them wisely.  
 
-* I want the experience of an old man, while I'm still young. Collapse the timeline - nice ideas in this chapter.  
+* I want the experience of an old man, while I'm still young. Collapse the time line - nice ideas in this chapter.  
 
-* Join the 5 O'Clock Club. Get up early. - I guess, I am winning the battle with my bed. :)  
+* Join the 5 O'clock Club. Get up early. - I guess, I am winning the battle with my bed. :)  
 
 * Good health is like a crown on the head of a well person that only a sick person can see. - 100% true. Exercise regularly.  
 

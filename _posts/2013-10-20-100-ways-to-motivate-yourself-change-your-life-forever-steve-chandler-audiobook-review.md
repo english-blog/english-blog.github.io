@@ -20,7 +20,7 @@ src="{{site.url}}/img/100-Ways-to-Motivate-Yourself-Chandler-Steve.jpg"/>
 
 [Steve Chandler](http://www.stevechandler.com/index.html) is one of the most sought after personal development guru in America and the best selling author of over 30 books. This audio book in his own voice is more than a decade old, but still holds good to this world.  
   
-Everybody needs motivation to achieve their goals. As humans, we cannot be high on motivation all the time. We do reach stressful low situations sometimes and we do certain things to bounce back. Everybody has their own ways to keep the motivation level high. Steve tells you 100 different ways to keep motivate yourself in this audio book. Many of them are different, offer a different perspective and alters the way I think. I did compile a list of my favourite items from this 100 in a notepad. I will frequent this notepad again and again to keep me motivated towards my goals. Thank you Steve for this collection.  
+Everybody needs motivation to achieve their goals. As humans, we cannot be high on motivation all the time. We do reach stressful low situations sometimes and we do certain things to bounce back. Everybody has their own ways to keep the motivation level high. Steve tells you 100 different ways to keep motivate yourself in this audio book. Many of them are different, offer a different perspective and alters the way I think. I did compile a list of my favorite items from this 100 in a notepad. I will frequent this notepad again and again to keep me motivated towards my goals. Thank you Steve for this collection.  
   
 ### Some of my favorites are: (just a gist - listen to him for detailed explanation)  
   
@@ -32,9 +32,9 @@ Everybody needs motivation to achieve their goals. As humans, we cannot be high 
   
 4. **Read Yourself a Success Story** - Yes. Read Aloud. I learnt this technique in a voice acting course by Dr Prakash. It has helped me immensely. Pick up a book of success stories and read aloud to yourself a success story everyday. This works.  
   
-5. **Just be Unexpected** - Do what makes you tick. Write, Collaborate, Create. Do anything you want. Creativity does not mean originality. Build upon other's work, create a better version of it or simply share other's work, if you don't have a clue about creativity. Don't let the "*Originality*" idea prevent you from doing something good.  
+5. **Just be Unexpected** - Do what makes you tick. Write, Collaborate, Create. Do anything you want. Creativity does not mean originality. Build upon others work, create a better version of it or simply share others work, if you don't have a clue about creativity. Don't let the "*Originality*" idea prevent you from doing something good.  
   
-6. **Act Like a Hero** - Damn. I do this from my childhood. Whenever I go to a movie and impressed with the hero, I think myself as the hero in the movie. I feel awesome. Without heroes, we are plain simple boring people. Choose as many heroes as you want, and try to act like one (doesn't mean to jump like spiderman)  
+6. **Act Like a Hero** - Damn. I do this from my childhood. Whenever I go to a movie and impressed with the hero, I think myself as the hero in the movie. I feel awesome. Without heroes, we are plain simple boring people. Choose as many heroes as you want, and try to act like one (doesn't mean to jump like spider man)  
   
 7. **Say NO to yourself** - Seriously?. Yes. Sometimes. Especially when it comes to discipline. Your body and mind will come up with creative questions to keep you in the bed. Don't listen to them. Say NO. Become your own disciple. Do 2 things daily that you don't want to do. Assume that those are the orders from your guru version of yourself. Do it, no matter what you think.  
   
@@ -48,7 +48,7 @@ Everybody needs motivation to achieve their goals. As humans, we cannot be high 
 
 12. **Get some Coaching** - I have been hearing this advice from almost all of the self help gurus out there. I never had a life coach in my life. But, beginning to think that I should have one. I am getting into intellectual conversations with few of my friends which helps me to clarify my thinking and made to make substantial changes in my life. If I could benefit from my friends, I would definitely benefit from a coach. I shall get one soon.  
   
-13. **Perform Rituals** - My favorite lesson from Robin Sharma. After I started to wake up at 5 AM daily, I began my morning rituals and understand by practice, the importance of rituals. It does not matter how much time you spend on rituals. It could be 5 mins or 3 hrs (like me). What matters is that you do it consistently to see the benefits. You can see the rituals that I perform [here]({{site.url}}/48-days-challenge-wake-up-at-5-am-daily/).  
+13. **Perform Rituals** - My favorite lesson from Robin Sharma. After I started to wake up at 5 AM daily, I began my morning rituals and understand by practice, the importance of rituals. It does not matter how much time you spend on rituals. It could be 5 minutes or 3 hrs (like me). What matters is that you do it consistently to see the benefits. You can see the rituals that I perform [here]({{site.url}}/48-days-challenge-wake-up-at-5-am-daily/).  
 
 14. **Keep All your Promises** - No matter what happens, fulfill your promises. Think twice before making a promise and never back out from it, once it is made. The pride and self-confidence that you get out of fulfilling your promises against odd situations, is more valuable to your personal growth than anything else in this world.  
   

@@ -29,15 +29,15 @@ When our body is exposed to cold, the brown fat is activated to burn more calori
 <span style="color: red;">**Extreme cold could cause complications for people with cardiovascular problems. So, Please consult with your physician before attempting any of the suggestions below. Please consult even if you don't have any health problems.**</span>  
 
 
-* **Drink Cold Water:** Drink a glass of ice cold water as soon as you wake up followed by a breakfast in next 30 mins (refer [Tip 1: Eat breakfast within an hour of waking up !]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)). Through out the day, drink a lot of ice cold water.  
+* **Drink Cold Water:** Drink a glass of ice cold water as soon as you wake up followed by a breakfast in next 30 minutes (refer [Tip 1: Eat breakfast within an hour of waking up !]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)). Through out the day, drink a lot of ice cold water.  
 
 * **Use Ice Packs:** Place and Ice Pack on the back of your neck and top of your chest for 30 minutes, while reading or watching TV. Use the idle time to lose weight !  
 
-* **Go for "Chill" walks:** In cold climate, walk in the streets with normal dress (may be summer dress) for 10 - 15 mins. Be sure to cover your head, neck, hands and feet as they become numb, in extreme cold. I suggest to carry your jacket or coat with you, should you get yourself warmed immediately.  
+* **Go for "Chill" walks:** In cold climate, walk in the streets with normal dress (may be summer dress) for 10 - 15 minutes. Be sure to cover your head, neck, hands and feet as they become numb, in extreme cold. I suggest to carry your jacket or coat with you, should you get yourself warmed immediately.  
 
-* **Take Cold Showers:** Tim Ferriss suggests a 30 mins of cold shower for maximum benefit, but shorter showers also help. Gradually reduce the temperature in the shower and stand in the cold water for 3 - 5 minutes, before getting out. People living in warmer countries or do not have the access to temperature controlled showers, can try to shower in normal / cold water (without heating).  
+* **Take Cold Showers:** Tim Ferriss suggests a 30 minutes of cold shower for maximum benefit, but shorter showers also help. Gradually reduce the temperature in the shower and stand in the cold water for 3 - 5 minutes, before getting out. People living in warmer countries or do not have the access to temperature controlled showers, can try to shower in normal / cold water (without heating).  
 
-* **Take Ice Baths:** Fill your bath tub with cold water and put as much ice cubes as you can. Immerse yourself into the water upto your waist for 10 minutes, then up to your neck with your hands out for next 10 minutes. You can change the time & temperature as it works for you. Tim Ferris takes three ice baths per week.  
+* **Take Ice Baths:** Fill your bath tub with cold water and put as much ice cubes as you can. Immerse yourself into the water up to your waist for 10 minutes, then up to your neck with your hands out for next 10 minutes. You can change the time & temperature as it works for you. Tim Ferris takes three ice baths per week.  
 
 * **Go Outdoors for Exercise:** If you live in cold climate, try to exercise outdoors where you can burn more calories. Go for running, jogging or biking etc.  
 

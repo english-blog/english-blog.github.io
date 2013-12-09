@@ -18,7 +18,7 @@ src="{{site.url}}/img/the-thrive-diet-brendan-brazier.jpg" border="1"/>
 **Number of Pages:** 288 Pages  
 **Language:** English  
   
-A Vegan book review from a voracious meat eater?. Yeah. I had the assumption that meat eaters are stronger and have more endurance than vegans. I always assumed that vegans lack protein from plant based diet. Until, I saw this [video]({{site.url}}/cooked-food-vs-raw-vegan-food/) and heard that the author of this book Brendan Brazier, is an Ironman athlete, who lives on 100% plant based diet. Whoohooh... (*An Ironman Triathlon is a race consisting of a 2.4-mile (3.86 km) swim, a 112-mile (180.25 km) bicycle ride and a marathon 26.2-mile (42.2 km) run, raced in that order and without a break.*)  
+A Vegan book review from a voracious meat eater?. Yeah. I had the assumption that meat eaters are stronger and have more endurance than vegans. I always assumed that vegans lack protein from plant based diet. Until, I saw this [video]({{site.url}}/cooked-food-vs-raw-vegan-food/) and heard that the author of this book Brendan Brazier, is an Iron man athlete, who lives on 100% plant based diet. Whoohooh... (*An Iron man Triathlon is a race consisting of a 2.4-mile (3.86 km) swim, a 112-mile (180.25 km) bicycle ride and a marathon 26.2-mile (42.2 km) run, raced in that order and without a break.*)  
 
 A raw vegan food eater, Brendan can complete this race within 9 hours (on par with the worlds best athletes, who eat meat and supplements). This intrigued me so much that I decided to try this diet for three months. Let's measure this book's claims after three months. Let's see the gist of what this is book has in store for us.  
   
@@ -46,11 +46,11 @@ There is no magical diet or pill which will give you the perfect body without ex
   
 ### Foods & Nutrients  
 
-A big chapter is dedicated to explain in detail, all the nutrients your body needs (carbohydrates, protein, fat, vitamins, mineral etc), the food soruces that are rich in those nutrients and the best way to consume them. Just for this chapter, I love to keep this book as a reference in my library.  
+A big chapter is dedicated to explain in detail, all the nutrients your body needs (carbohydrates, protein, fat, vitamins, mineral etc), the food sources that are rich in those nutrients and the best way to consume them. Just for this chapter, I love to keep this book as a reference in my library.  
   
 ### Vitamin B12  
 
-One "beaten to death" discussion against raw foods is the unavailability of Vitamin B12 in the raw foods. Brendan suggests that B12 is available in *chlorella (sea plant), miso and nutritional yeast* and he consumes them regularly. However, the availability of these foods around the world is a big question.  
+One "beaten to death" discussion against raw foods is the unavailability of Vitamin B12 in the raw foods. Brendan suggests that B12 is available in *Chlorella (sea plant), Miso and nutritional yeast* and he consumes them regularly. However, the availability of these foods around the world is a big question.  
   
 Some raw foodists, suggest to take vitamin supplements. I don't like medicine. So, I will not. But, I will try to eat a cup of curd / milk daily to compensate for Vitamin B12, till I get a reliable, consistent supply of natural sources of this vitamin. I am not for / against raw or cooked foods. I am looking for the perfect diet for human body. If the blend of both is the best, I will go for it.   
   

@@ -30,8 +30,8 @@ I did a small comparison between both the books. Please remember "Jonathan Livin
 **JLS:** Seagull leaves the flock and ventured into the unknown distances over the ocean.  
 **TD:** Dolphin leaves the pod and travels across the vast ocean with no direction.  
   
-**JLS:** Seagull meets a lot of birds enroute and gets wisdom and directions.  
-**TD:** Dolphin meets a lot of fishes enroute and gets wisdom and directions.  
+**JLS:** Seagull meets a lot of birds en route and gets wisdom and directions.  
+**TD:** Dolphin meets a lot of fishes en route and gets wisdom and directions.  
   
 **JLS:** Seagull fulfills his dream, comes to the flock and enlightens others  
 **TD:** Dolphin fulfills his dream, comes to the pod and enlightens others  

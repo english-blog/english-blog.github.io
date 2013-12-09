@@ -44,7 +44,7 @@ Only one possible answer is "Repetition". There is no other proven shortcuts. Fe
 
 Of all the methods available, the one that is very easy to implement and very good at results is Mind Movies. It's just the advanced version of Vision Boards which project your goals as a movie, engages your visual, hearing and emotional senses. Many people have difficulties to imagine themselves in the perfect life. When you ask them to imagine, they may see a blank screen. Mind Movies are effective because it presents what you want to imagine in the screen before you. You don't have to force yourself to imagination. All you have to do is, to imagine yourself in that movie. Its your movie anyway.  
   
-Remember "Repetition" is the key !... So, try to watch your mind movie as much as you can in a day. I suggest to watch it thrice a day at least. Once you wake up, once during the day and once before going to bed. If you have a smartphone please download the video into it and watch it as and when you can. The more your watch, the faster you will move towards achieving the perfect body.  
+Remember "Repetition" is the key !... So, try to watch your mind movie as much as you can in a day. I suggest to watch it thrice a day at least. Once you wake up, once during the day and once before going to bed. If you have a smart phone please download the video into it and watch it as and when you can. The more your watch, the faster you will move towards achieving the perfect body.  
   
 You may not be able to relate yourself to the movie in the initial days. Because, you conscious mind will tell you that it is not you, shut that down and go back to what you were doing. Just hang on. Trust me. Sooner than you think, you will believe that it is possible to get the perfect physique. How soon?. It depends on the individuals belief system that was developed from their child hood. By repeatedly watching the movie, you tell your RAS that this stuff is important and do not filter out any information related to achieving the perfect body.  
   
@@ -52,7 +52,7 @@ When the message gets to your subconscious mind, you will be automatically inspi
   
 ### A gift for you  
 
-I spent couple of weeks to create two mind movies (for men and women) to help achieve the perfect health. I did not concentrate too much on the weight loss, but on the perfect health (staying positive). There are costly software available from the creator Ryan on his [official website](http://www.mindmovies.com/). However, I used [Picasa 3.0](http://picasa.google.com/) to create these movies for free. I can tell you how to do it yourself in the next blog probably. If you have good internet connection, you can watch these movies either on my blog or on youtube. If you dont, I suggest you to download the movie to your computer (google to figure out how)  
+I spent couple of weeks to create two mind movies (for men and women) to help achieve the perfect health. I did not concentrate too much on the weight loss, but on the perfect health (staying positive). There are costly software available from the creator Ryan on his [official website](http://www.mindmovies.com/). However, I used [Picasa 3.0](http://picasa.google.com/) to create these movies for free. I can tell you how to do it yourself in the next blog probably. If you have good internet connection, you can watch these movies either on my blog or on YouTube. If you don't, I suggest you to download the movie to your computer (google to figure out how)  
   
 [Perfect Health for Women](http://www.youtube.com/watch?v=lBq9XSCy6TQ)  
 

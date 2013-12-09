@@ -19,9 +19,9 @@ src="{{site.url}}/img/the-laws-of-courage-ryuho-okawa.jpg" border="1"/>
 **Number of Pages:** 168  
 **Language:** English  
   
-Ryuho Okawa is the founder of **Happy Science** - an organisation or religion which aims to achieve the true happiness, based on the teachings of the author. He claims himself as the spiritual leader, in many places throughout the book. For a while, I was reading only exceptionally good and interesting books, till I come across this one. This book reads like a school text book, which primarily aims at the school children in Japan. But the description of the book in the outer cover was misleading that its for general audience and its mentioned that 20 million copies of his books were sold so far. No questions the numbers anyway, just like me.  
+Ryuho Okawa is the founder of **Happy Science** - an organization or religion which aims to achieve the true happiness, based on the teachings of the author. He claims himself as the spiritual leader, in many places throughout the book. For a while, I was reading only exceptionally good and interesting books, till I come across this one. This book reads like a school text book, which primarily aims at the school children in Japan. But the description of the book in the outer cover was misleading that its for general audience and its mentioned that 20 million copies of his books were sold so far. No questions the numbers anyway, just like me.  
   
-Never judge a book by its cover - Don't know who said it, but its true. Ok, lets plunge into the book and see a gist of what the author said to the world.  
+Never judge a book by its cover - Don't know who said it, but its true. OK, lets plunge into the book and see a gist of what the author said to the world.  
   
 This book is divided into five chapters and the first one is about the friendship. Okawa claims that the friendship wont last longer, if you are very much attached to the other person. He asks us to play safe, like playing cards, releasing one card at a time. He suggests to keep distance always. I couldn't agree with him in this, because I enjoy ever-lasting friendships with many to whom I am very close and I never broke a relationship. Also he discusses about bullying that happens in the school and teaches the kids about the heaven, hell, evil, spirit and all the useless stuff in order to discipline them.  
   
@@ -29,7 +29,7 @@ The second chapter is about enduring setbacks. He provides a lot of alternative 
   
 > "When I spiritually checked to see where he(Masao Maruyuma) went after he died. I found out that he went not to Heaven, but to Hell"  
   
-Just after 10 mins, I was interested to read what other stuff the author has to say. I became curious. The third chapter is about reading books. He gives us some practical stuff & encourage us to read more book in wide variety of subjects. But then, he claims the below in page 87.  
+Just after 10 minutes, I was interested to read what other stuff the author has to say. I became curious. The third chapter is about reading books. He gives us some practical stuff & encourage us to read more book in wide variety of subjects. But then, he claims the below in page 87.  
   
 > "Since I was young, I have read about 1000 books per year".  
 

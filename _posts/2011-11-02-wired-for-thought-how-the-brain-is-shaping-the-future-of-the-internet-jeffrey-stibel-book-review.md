@@ -62,7 +62,7 @@ This is the very interesting section of the entire book, which discusses where t
 [habbo]: http://www.habbo.com/
 [secondlife]: http://secondlife.com/
 
-When I first started reading this book, I thought Stibel is going to present the SEO concepts in Brain flavour. But, I was wrong. I have a completely new perspective of the Internet. With this information and perspective, we can fine-tune our websites for long time survival in the Web. Many of these things are already happening. Let's jump in and have fun. Thanks to Stibel for a wonderful book.  
+When I first started reading this book, I thought Stibel is going to present the SEO concepts in Brain flavor. But, I was wrong. I have a completely new perspective of the Internet. With this information and perspective, we can fine-tune our websites for long time survival in the Web. Many of these things are already happening. Let's jump in and have fun. Thanks to Stibel for a wonderful book.  
   
 [Wired For Thought: How The Brain Is Shaping The Future Of The Internet (Click to buy from Amazon)](http://www.amazon.com/gp/product/1422146642/ref=as_li_tf_tl?ie=UTF8&amp;tag=booiverea-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=1422146642)  
   

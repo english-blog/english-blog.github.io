@@ -34,7 +34,7 @@ Few of my favorite blogs/chapters from this book are :
   
 **Everybody has their own private Mount Everest they were put on this earth to climb.**  
   
-**Dont worry about finding inspiration. It comes eventually.**  
+**Don't worry about finding inspiration. It comes eventually.**  
   
 **Power is never given. Power is taken.**  
   

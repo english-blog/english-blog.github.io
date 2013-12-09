@@ -33,11 +33,11 @@ Rick wants all the Christians to know and follow the god's five purposes.
   
 **Purpose #1:** You were planned for God's pleasure.  
 
-Seriously, I was excited on reading the chapter's title. But its not what I thought though. he he he. This chapter teaches how to worship god, how to make him smile, how to surrender yourself, how to become god's friend etc. The entire chapter is summarized in the below sentence (page 75). God says *"You have no right to argue with your Creator. You are merely a claypot shaped by a potter". *Great. I actually wanted to throw away this book at this point. But thought, there should be at least few lines of good wisdom that will be applicable to the entire human population.So, went ahead...  
+Seriously, I was excited on reading the chapter's title. But its not what I thought though. he he he. This chapter teaches how to worship god, how to make him smile, how to surrender yourself, how to become god's friend etc. The entire chapter is summarized in the below sentence (page 75). God says *"You have no right to argue with your Creator. You are merely a clay pot shaped by a potter". *Great. I actually wanted to throw away this book at this point. But thought, there should be at least few lines of good wisdom that will be applicable to the entire human population.So, went ahead...  
   
 **Purpose #2:** You were formed for God's family.  
 
-*"Love others as you love yourselves"*. This is one of the most important teachings of Christianity that I love to even spread the message. *"No matter what I say, what I believe, and what I do, I'am bankrupt without love"*. This chapter tells us how to form relationships, love everyone (not just Christians. I likes this), why do you need church, the importance of the communities, experiencing the life together, restoring the broken fellowship and protecting the church. I would recommend even the non Christians to read this chapter. The world would be awesome & lovely, if everyone understands this one message.  
+*"Love others as you love yourselves"*. This is one of the most important teachings of Christianity that I love to even spread the message. *"No matter what I say, what I believe, and what I do, I'm bankrupt without love"*. This chapter tells us how to form relationships, love everyone (not just Christians. I likes this), why do you need church, the importance of the communities, experiencing the life together, restoring the broken fellowship and protecting the church. I would recommend even the non Christians to read this chapter. The world would be awesome & lovely, if everyone understands this one message.  
   
 **Purpose #3:** You were created to become like Christ.  
 

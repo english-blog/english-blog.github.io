@@ -36,7 +36,7 @@ The five love languages are:
   
 **4. Acts of Service:** Some people express their love to their spouse by service. Jesus is a perfect example of this type. For some, giving gifts or spending time with her or praising her wont mean much, when the house is a mess, clothes all over the rooms and the yards need maintenance. So, if your spouses love language is Acts of Service, the only way to her heart is by doing things for her. May be, cleaning the dishes, doing the laundry and taking care of the baby when she is not well etc,.  
   
-**5. Physical Touch:** Most men misunderstand that this is their primary language. By Physical Touch, Dr. Chapman doesn't refer only Sexual Intercourse. Of coursethat'smost important for almost every men. But, need not necessarily be your primary love language. This language means holding the hands together, hugging, kissing, rubbing the back, sitting close in the couch and feeling great when your partner touches you (even in the day when you don't have sex).  
+**5. Physical Touch:** Most men misunderstand that this is their primary language. By Physical Touch, Dr. Chapman doesn't refer only Sexual Intercourse. Of course that is most important for almost every men. But, need not necessarily be your primary love language. This language means holding the hands together, hugging, kissing, rubbing the back, sitting close in the couch and feeling great when your partner touches you (even in the day when you don't have sex).  
   
 Dr. Chapman provides a quiz & scoring system for men and women at the end to help us identify our primary love language. Many of us will be bi-lingual and multilingual. Understand your primary love language and your spouse's love language and speak love. Happy Married Life !!!  
   

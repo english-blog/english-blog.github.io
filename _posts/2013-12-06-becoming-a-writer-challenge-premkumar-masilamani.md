@@ -30,7 +30,7 @@ Becoming a Writer is one of my big dreams. What do I want to accomplish?
 
 Write a personal development book? ― Yes.  
 Write a fiction novel? ― Yes.  
-Write a sci-fi novel? ― Yes.  
+Write a sci-fiction novel? ― Yes.  
 Write a technical book? ― Yes.  
 Write more in blogs? ― Yes.  
 Change the world with my writings? ― Yes.  
@@ -43,7 +43,7 @@ But, the only way to accomplish any of those goals is to focus on realistic ritu
 
 I want to keep my rituals simple, realistic and does not demand a lot of my time & energy. This is very important to keep up with the rituals on a daily basis. Below is my new ritual starting today, till the end of 2014.  
 
-> I will write for 15 mins a day, 4 days a week, till the penultimate week of 2014. ― **Premkumar Masilamani** 
+> I will write for 15 minutes a day, 4 days a week, till the penultimate week of 2014. ― **Premkumar Masilamani** 
 
 **No Goals. Only one simple ritual.** Cool. right?. This ritual roughly translates to 55 hrs of writing. This practice will install a "dedicated writing habit" in me, which will help me to become a professional writer in future.  
 
@@ -57,13 +57,13 @@ No. My evaluation criteria still holds good. I will publish only when it is good
 
 Most of my writings will find its way to my blog. However, I may choose to write on paper and may reserve some content for a specific book. I will let my writing choose its outlet.  
 
-**Will 15 mins be enough?**  
+**Will 15 minutes be enough?**  
 
-The purpose here is not to accomplish any goal, but to develop the habit of writing consistently. 15 mins in the minimum mandatory time. I will increase the writing time, depending on my inspiration, available time & others tasks on that day etc.  
+The purpose here is not to accomplish any goal, but to develop the habit of writing consistently. 15 minutes in the minimum mandatory time. I will increase the writing time, depending on my inspiration, available time & others tasks on that day etc.  
 
 **Why now?**  
 
-I recently became the member of the facebook group [Live Your Legend - Creators Guild](https://www.facebook.com/groups/LYLcreatorsguild/), created by Scott Dinsmore. I was inspired by so many people starting to write. Along with that, few of my facebook friends and one of my real-life friend "Shruthi Pandarinathan" are writing books (novels, stories, poems etc) now. All of them are first time authors. They are going to struggle and travel the same path that I am going to travel. Why not travel together?. I hope to get a lot of support and feedback from everyone and I may be able to provide same to others.  
+I recently became the member of the facebook group [Live Your Legend - Creators Guild](https://www.facebook.com/groups/LYLcreatorsguild/), created by Scott Dinsmore. I was inspired by so many people starting to write. Along with that, few of my facebook friends and one of my real-life friend "Sruthi Pandarinathan" are writing books (novels, stories, poems etc) now. All of them are first time authors. They are going to struggle and travel the same path that I am going to travel. Why not travel together?. I hope to get a lot of support and feedback from everyone and I may be able to provide same to others.  
 
 **Any of you want to join me in this life time challenge?**  
 

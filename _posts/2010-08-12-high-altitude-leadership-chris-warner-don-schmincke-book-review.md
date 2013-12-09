@@ -35,7 +35,7 @@ I felt like watching NGC, when Chris describes the events happened during the ex
   
 **Danger #4: Arrogance** Arrogance occurs when overconfidence infects you. You become the know-it-all guy, who ignores or chastise others, spend more time trying to be right vs finding solutions. The solid teams grow stronger when humbled; weak ones become more dysfunctional. Crafting an arrogant-free culture takes work, but its worth the effort. Humility should improve the judgment.  
   
-**Danger #5: Lone Heroism** Ego driven, selfish, glory-seeking lone heroism, which put others at risk is very dangerous and may lead to manager fragging. Ask for help, when you need it. Work as a team to conquer the challenge in front of us. Chris is not referring the surreal attempts by brave souls against the mediocre odd. Thats personal and everyone must do it frequently to keep our spirit alive.  
+**Danger #5: Lone Heroism** Ego driven, selfish, glory-seeking lone heroism, which put others at risk is very dangerous and may lead to manager fragging. Ask for help, when you need it. Work as a team to conquer the challenge in front of us. Chris is not referring the surreal attempts by brave souls against the mediocre odd. That's personal and everyone must do it frequently to keep our spirit alive.  
   
 **Danger #6: Cowardice** Cowardice equally damages the organizations as lone heroism. Just ask   & challenge yourself. Nothing wrong in being perceived as a weak person, if that's the truth. Keep doing it, sooner than you imagine, you will be the bravest one in the organization.  
   

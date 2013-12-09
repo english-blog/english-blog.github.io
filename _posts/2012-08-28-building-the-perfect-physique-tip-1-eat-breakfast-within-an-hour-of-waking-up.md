@@ -9,7 +9,7 @@ category: health
 <img src="{{site.url}}/img/eat-breakfast-early.jpg"/>
 </div>  
   
-Our first tip is from Timothy Ferris's [The 4-Hour Body][4hr-url]. This is quite a simple tip and would not be very tough to follow. Just eat your breakfast as soon as you wake up, preferably within 30 minutes.  
+Our first tip is from Timothy Ferriss [The 4-Hour Body][4hr-url]. This is quite a simple tip and would not be very tough to follow. Just eat your breakfast as soon as you wake up, preferably within 30 minutes.  
 
 [4hr-url]: http://www.amazon.com/gp/product/030746363X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030746363X&linkCode=as2&tag=booiverea-20
   
@@ -20,9 +20,9 @@ I have the habit of drinking 500 ml of water every morning as soon as I wake up 
 This is what I did yesterday ...  
   
 1. Wake up by 6.30 AM  
-2. Brush my teeth - 5 mins  
+2. Brush my teeth - 5 minutes  
 3. Drink a big glass of water (that has the same effect of drinking a liter of water - from my experience)  
-4. Prepare the cereals and wait for 15 mins  
+4. Prepare the cereals and wait for 15 minutes  
 5. Start eating breakfast. (Within 30 minutes)  
   
 I eat a big bowl of cereals/muesli with cold milk every day.  I like the taste and the less time it takes to prepare. I have been eating the same breakfast for over 5 years now and I never got bored with this food. However, not many of you are like me. Many of you prefer a variety of breakfast. In that case, it would not be possible to prepare the breakfast within 30 minutes. At least try to eat your breakfast within an hour. If you are married or having someone to prepare your breakfast, you are lucky. All others, plan for a week ahead for your breakfast and stick to it.  
@@ -49,7 +49,7 @@ I take one liter bottle to Office everyday and complete the bottle twice (1 - mo
   
 So, today's tip is very simple. Here is the summary.  
   
-1. Eat breakfast within an hour of waking up (preferably within 30 mins)  
+1. Eat breakfast within an hour of waking up (preferably within 30 minutes)  
 2. Eat Protein Rich breakfast (at least 40%)  
 3. Drink more water and more often.  
   

@@ -10,7 +10,7 @@ I have been watching the Indian Media (TV, Newspapers, Magazines etc) recent day
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
 src="{{site.url}}/img/Dark_Is_Beautiful-Nandita-Das.jpg"/>   
 
-I was born into a Dravidian family in Southern India few years (?) back. By the term Dravidian, I refer to the ethnic group which lives in South India for thousands of years. This group includes Tamils, Telugus, Kannadigas, Malayalis, Tuluvas, Kurukhs, Kondavas, Kondhas and Gondis. They speak dravidian languages. All of them were dark. No exceptions. That dark skin helped us to survive & stay healthy in the tropical climate. Back then, skin color was never considered as a component of beauty!.   
+I was born into a Dravidian family in Southern India few years (?) back. By the term Dravidian, I refer to the ethnic group which lives in South India for thousands of years. This group includes Tamils, Telugus, Kannadigas, Malayalis, Tuluvas, Kurukhs, Kondavas, Kondhas and Gondis. They speak Dravidian languages. All of them were dark. No exceptions. That dark skin helped us to survive & stay healthy in the tropical climate. Back then, skin color was never considered as a component of beauty!.   
   
 Then comes a series of invasions by white skinned people up to the latest British (lets not get into the controversial Indo-Aryan Invasion). The races gets mixed up and the people fall into a full spectrum of skin colors. There are many psychological/economical reasons to treat fairer skin superior to darker one. I can site couple of them.  
   
@@ -22,7 +22,7 @@ Then comes a series of invasions by white skinned people up to the latest Britis
   
 ### History of fairness creams in India:  
   
-Hindustan Lever Limited launched "Fair & Lovely" in 1978, exploiting the Indian obsession with fairer skin tone. It is called the mother of all fairness creams in India. Now, the same product is selling in 38 countries worldwide, generating most of the income from South Asia. The current market is flooded with so many international/local brands. Neverthless, all fairness cream advertisements are based on the mantra, *If you buy this fairness product, you will make your family proud, you will look beautiful, and you will secure a wonderful husband* - What an insult to the Indian Women?.  
+Hindustan Lever Limited launched "Fair & Lovely" in 1978, exploiting the Indian obsession with fairer skin tone. It is called the mother of all fairness creams in India. Now, the same product is selling in 38 countries worldwide, generating most of the income from South Asia. The current market is flooded with so many international/local brands. Nevertheless, all fairness cream advertisements are based on the mantra, *If you buy this fairness product, you will make your family proud, you will look beautiful, and you will secure a wonderful husband* - What an insult to the Indian Women?.  
   
 Just a thought - What would have happened, if these products were launched during British Empire?. *How dare you want Indians to look like British?*... ha ha ha ha... Who knows, next "Fair & Lovely" commercial can come up with this scheme - *We got fairer and we got our freedom*.  
   
@@ -38,7 +38,7 @@ Not Enough?. How about this. "18 Again" - **A Vaginal Tightening and Rejuvenatin
 <div class="separator" style="clear: both; text-align: center;">
  <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://img.youtube.com/vi/vPayFrCOiZM/0.jpg" height="360" width="480"><param name="movie" value="http://youtube.googleapis.com/v/vPayFrCOiZM&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="480" height="360"  src="http://youtube.googleapis.com/v/vPayFrCOiZM&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>  
   
-My suggestion is this - Please don't let them dictate, how should you look, how should you smell, how should you dress, over or under. It's your body. You know the basics to keep it clean. That's more than enough. Let your mantra be - *Clean & Healthy*. Please don't imagine yourself in some one else's body. No one in the world worths it.  
+My suggestion is this - Please don't let them dictate, how should you look, how should you smell, how should you dress, over or under. It's your body. You know the basics to keep it clean. That's more than enough. Let your mantra be - *Clean & Healthy*. Please don't imagine yourself in some one else's body. No one in the world worth it.  
   
 Your skin color is a gift from your parents. It's a symbol of the society, place and culture you belong to. Dark or White. Feel proud about it !.   
   

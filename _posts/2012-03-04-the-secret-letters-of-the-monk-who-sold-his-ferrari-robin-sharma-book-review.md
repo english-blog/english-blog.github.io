@@ -23,7 +23,7 @@ I became a die-hard fan of Robin Sharma after reading his book [The Monk Who Sol
 
 [monk-url]: {{site.url}}/the-monk-who-sold-his-ferrari-robin-sharma-book-review/
   
-Jonathan Laundry is a hardworking automobile designer who struggles to find a balance between his work life and personal life. He is separated from his wife Annisha and his son Adam. His life is in turmoil. Suddenly, his mom forces him to meet Julian Mantle, his cousin and the hero of the previous book. Julian makes him travel around the world to the sensual tango halls of Buenos Aires, the haunting catacombs of Paris, the gleaming towers of Shanghai and the staggeringly beautiful Taj Mahal in India and meet his friends to collect the talismans. Each talisman and the encounter with Julian's friends teach him the life lessons that is very much needed for him to save his family and become successful in his life. Here is a gist of the teachings...  
+Jonathan Laundry is a hardworking automobile designer who struggles to find a balance between his work life and personal life. He is separated from his wife Anisha and his son Adam. His life is in turmoil. Suddenly, his mom forces him to meet Julian Mantle, his cousin and the hero of the previous book. Julian makes him travel around the world to the sensual tango halls of Buenos Aires, the haunting catacombs of Paris, the gleaming towers of Shanghai and the staggeringly beautiful Taj Mahal in India and meet his friends to collect the talismans. Each talisman and the encounter with Julian's friends teach him the life lessons that is very much needed for him to save his family and become successful in his life. Here is a gist of the teachings...  
   
 ### The Power of Authenticity  
 

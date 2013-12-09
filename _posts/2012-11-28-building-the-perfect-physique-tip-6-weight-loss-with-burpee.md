@@ -11,7 +11,7 @@ category: health
 
 Seriously, its been hell of a three months. I was religiously following all the tips on every single day. I lost three kilograms of weight in the first month and slowly gained it back at the end of three months. Now, I am exactly at the same point where I started. This is not what you expect from me. Isn't it?. But, this is the truth. When I told this to my friends, everyone has their version of the same story. Hmm... Looks like a universal problem !  
   
-When I started this programme to lose weight, I was supercharged initially and unconsciously I reduced the amount of food that I eat. My wife use to complain everyday. Gradually, my wife's complaints stopped. You guessed it right. I am back to square one. Does this mean that all these tips wont work?. A hell NO. May be, I am missing a key ingredient. May be, these tips are supposed to work together, complement each other to be effective.  
+When I started this program to lose weight, I was supercharged initially and unconsciously I reduced the amount of food that I eat. My wife use to complain everyday. Gradually, my wife's complaints stopped. You guessed it right. I am back to square one. Does this mean that all these tips wont work?. A hell NO. May be, I am missing a key ingredient. May be, these tips are supposed to work together, complement each other to be effective.  
   
 So, I am gonna add one more ingredient to my plan. Physical Exercises. Wait.. wait.. I am not going to join the gym today.. OK. I am gonna start is slow and steady. Take small baby steps to my dream of having a six pack beach body. I should choose an exercise, which must be simple to start, but very effective. So, I  chose one of my favorite exercises ever - Burpee !  
   

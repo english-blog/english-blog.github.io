@@ -5,7 +5,7 @@ date: 14-11-2013
 category: social
 ---
 
-By the end of January 2013, Gillete started a campaign "Soldier for Women". Its a TV ad where the men & women from different strata of the society come together, with the men standing by the women as "Soldiers" - pledged to support them, protect them & stand by them. This ad created a lot of controversies among women activists. Many women felt that this campaign is insulting them. However this campaign slowly caught up & many celebrities like Mandhira Bedi were taking the pledge and spreading the word.  
+By the end of January 2013, Gillette started a campaign "Soldier for Women". Its a TV ad where the men & women from different strata of the society come together, with the men standing by the women as "Soldiers" - pledged to support them, protect them & stand by them. This ad created a lot of controversies among women activists. Many women felt that this campaign is insulting them. However this campaign slowly caught up & many celebrities like Mandhira Bedi were taking the pledge and spreading the word.  
 
 <br/>
 <div style="text-align: center;">

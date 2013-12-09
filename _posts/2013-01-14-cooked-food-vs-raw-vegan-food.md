@@ -19,9 +19,9 @@ src="{{site.url}}/img/evolution-human-brain.jpg"/>
 
 Many scientists believe that the cooked food in human diet is responsible for the evolution of a bigger brain. Human brain consumes roughly 20% of the calories that goes into the body. Cooked foods are packed with more calories, easy to chew, tastes better and could sustain few more days, which gave our ancestor the advantage of having more time to socialize and less time in searching for food. Since human brain is nourished with more food and given more time to think, it is increased in size.  
   
-A sensible and logical conclusion from fossil evidences. Somehow, I could not agree with this. If you compare the brain size of the apes between 3.5 million years and 1.8 million years (roughy when Homo erectus started cooking), you can see the increase in brain size. (i.e) evolution is already started.  
+A sensible and logical conclusion from fossil evidences. Somehow, I could not agree with this. If you compare the brain size of the apes between 3.5 million years and 1.8 million years (roughly when Homo erectus started cooking), you can see the increase in brain size. (i.e) evolution is already started.  
   
-What is mysterious is, the accelerated rate at which the brain size increased from 1.8 millions years onwards. Since, Action A (Cooking) and Action B (Brain Size Increasing) happened around the same time, concluding that action B is due to action A - does not make sense to me.  
+What is mysterious is, the accelerated rate at which the brain size increased from 1.8 millions years onward. Since, Action A (Cooking) and Action B (Brain Size Increasing) happened around the same time, concluding that action B is due to action A - does not make sense to me.  
   
 Let's come to the present. We all eat cooked food and know the long list of diseases/disorders that will be caused by those foods. Most probably, it is not the cooked food that causes the diseases, but the preparation of the foods and amount of food we eat, causes the diseases/disorders. Properly cooked healthy food in proper proportion, with proper exercise helps us maintain good health. However, raw foodists claim better health, vitality, creative thinking, anti-aging and being energetic with raw food. Too good to be true. Is n't it?. Let's see what is termed as raw food.  
   
@@ -46,7 +46,7 @@ This is the most discussed topic. Our scientists so far, claimed that all enzyme
 
 ### Vitamin B12 deficiency in Raw Vegan Foods:  
 
-This special vitamin is needed for normal functioning of brain, nervous system and formation of blood. Daily requirement is roughly 2.5 micrograms. This vitamin is produced by bacteria and it's not available in most of the plant sources. True. However, recent research claims that **Chlorella, Miso and  Nutritional yeast** do have vitamin B12. These are regional foods and are not available throughout the world. So, many raw foodist adjust this deficiency with vitamin supplements (either daily or weekly). However, we could get this vitamin from **a cup of milk/curd/yogurt.** This would be the simplest way. Even, if you switch to raw food and do not consume vitamin B12, it may take upto three years for your body to show the symptoms of this deficiency.  
+This special vitamin is needed for normal functioning of brain, nervous system and formation of blood. Daily requirement is roughly 2.5 micro grams. This vitamin is produced by bacteria and it's not available in most of the plant sources. True. However, recent research claims that **Chlorella, Miso and  Nutritional yeast** do have vitamin B12. These are regional foods and are not available throughout the world. So, many raw foodist adjust this deficiency with vitamin supplements (either daily or weekly). However, we could get this vitamin from **a cup of milk/curd/yogurt.** This would be the simplest way. Even, if you switch to raw food and do not consume vitamin B12, it may take up to three years for your body to show the symptoms of this deficiency.  
 
 ### You need to eat more with Raw Vegan Foods:
 
@@ -58,7 +58,7 @@ Many people claim to have reversed the chronic diseases like diabetes, heart dis
 
 ### Extreme Endurance with Raw Vegan Foods:
 
-Once I saw the above video and inspired to know more about raw foods, I stumbled upon [Brendan Brazier](http://en.wikipedia.org/wiki/Brendan_Brazier), who is the author of "The Thrive Diet" and a professional Ironman Triathlon athlete. (It's a triathlon race consisting of a 3.86 km swim, a 180.25 km bicycle ride and a marathon 42.2 km run, raced in that order and without a break. He could complete this race within 9 hours. I never knew such things are possible with Vegan foods.  
+Once I saw the above video and inspired to know more about raw foods, I stumbled upon [Brendan Brazier](http://en.wikipedia.org/wiki/Brendan_Brazier), who is the author of "The Thrive Diet" and a professional Iron man Triathlon athlete. (It's a triathlon race consisting of a 3.86 km swim, a 180.25 km bicycle ride and a marathon 42.2 km run, raced in that order and without a break. He could complete this race within 9 hours. I never knew such things are possible with Vegan foods.  
 
 ### Anti-Aging with Raw Foods:  
 

@@ -26,7 +26,7 @@ Horse gram is called Kollu (கொள்ளு) in Tamil. This use to be one of 
 * Reduces flatulence  
 * ... the list goes on...  
   
-Horse gram can be used in variety of South Indian dishes as a regular dhal or mixed with regular dhals. I included the recipes in this blog to help you prepare them. Alternatively, you can use them as sprouts or as powder.  
+Horse gram can be used in variety of South Indian dishes as a regular dhal or mixed with regular dhal. I included the recipes in this blog to help you prepare them. Alternatively, you can use them as sprouts or as powder.  
   
 I am going to drink a glass of water mixed with two teaspoons of horse gram powder in empty stomach every morning. As usual, I will post an update to the effects of eating Kollu (Horse gram) in my next post.  
   

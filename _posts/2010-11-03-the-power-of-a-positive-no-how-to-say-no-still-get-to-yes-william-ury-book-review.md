@@ -38,7 +38,7 @@ Confused?. Read the book. he he he.
   
 * **No** - asserts your power. This is something that you want to be changed. Ury proposes a variety of techniques to make your No, a very positive one.  
   
-* **Second Yes** - invitation to the others to come to an agreement that satisfies your interests as well as saves the other's face. Basically, you need to build a golden bridge to connect the canyon that your NO may create. Its externally focused on others.  
+* **Second Yes** - invitation to the others to come to an agreement that satisfies your interests as well as saves the others face. Basically, you need to build a golden bridge to connect the canyon that your NO may create. Its externally focused on others.  
   
 Ury explains these in detail with lots of real world situations. He guides us way from preparing, delivering and following-through our Positive NO. Lots of techniques like Going to Balcony, Name the Game, Use of I-statement, we-statements, the-statements, the acceptance speech test etc. and tips to say NO effectively are explained in detail which will make sure that a mutually beneficial agreement is reached.  
   

@@ -11,11 +11,11 @@ category: social
 
 Why this post?. What is it that I want to communicate to the world about HDFC Bank?. Just my recent bitter experiences with HDFC. I have been banking with HDFC for the past 7 years. I am one of the high value card member who always pays in full and never defaulted a single payment in my life. Here is what happened...  
   
-I came back from California on 21-Jun-2011, stayed in B'lore for two days and I went for a vacation for my brother's marriage. Very unfortunately, I lost my HDFC Platinum credit card 5243-XXXX-XXXX-8957 on 23-Jun-2011 and took a new mobile number in Chennai. I did not use the card for the past 6 months and I almost forgot the email statements. My new mobile number is not updated in HDFC Bank records. :)  
+I came back from California on 21-Jun-2011, stayed in Bangalore for two days and I went for a vacation for my brother's marriage. Very unfortunately, I lost my HDFC Platinum credit card 5243-XXXX-XXXX-8957 on 23-Jun-2011 and took a new mobile number in Chennai. I did not use the card for the past 6 months and I almost forgot the email statements. My new mobile number is not updated in HDFC Bank records. :)  
   
-Someone used my card like his own and purchased items from Jewellery, Dish TVs, Mobile phones, MP3 players, Shoes, Sarees, School bags for kids and even groceries for about Rs. 1 lakh. Even I did not use my card like this. OK. So far, so good.  
+Someone used my card like his own and purchased items from Jewelry, Dish TVs, Mobile phones, MP3 players, Shoes, Sarees, School bags for kids and even groceries for about Rs. 1 lakh. Even I did not use my card like this. OK. So far, so good.  
   
-I got the statement on 25-Jul-2011 and I was very much surprised to see the transactions and realized that I lost my card. I called up HDFC Bank and blocked the card immediately. HDFC Bank advised me to file an FIR with the police station. I went to HAL police station and surprised to know that the police NEVER file an FIR for credit card loss. The police push these cases under [Section 403](http://www.vakilno1.com/bareacts/indianpenalcode/S403.htm). Banks know this. Hmmm... I got an acknowledgement from the Police and formally registered a compliant with Risk Control Unit of HDFC Bank. Ref # ULRL1208110009224. RCU informed me that they will start the investigation and I do not need to pay anything till the investigation is over. I was very happy :)  
+I got the statement on 25-Jul-2011 and I was very much surprised to see the transactions and realized that I lost my card. I called up HDFC Bank and blocked the card immediately. HDFC Bank advised me to file an FIR with the police station. I went to HAL police station and surprised to know that the police NEVER file an FIR for credit card loss. The police push these cases under [Section 403](http://www.vakilno1.com/bareacts/indianpenalcode/S403.htm). Banks know this. Hmmm... I got an acknowledgment from the Police and formally registered a compliant with Risk Control Unit of HDFC Bank. Ref # ULRL1208110009224. RCU informed me that they will start the investigation and I do not need to pay anything till the investigation is over. I was very happy :)  
   
 Meanwhile, I got the next month's statement with all the transactions + interest + late payment charges, followed by a phone call from HDFC Customer *Care*(?). The guy on the phone was very harsh, shouted at me for not paying the dues. I got pissed off and shouted back at him left and right. I called up RCU to check and they said that their investigation systems and the statement generation systems are not in sync and they do not work together. They asked me to ignore the statements and the phone calls till the investigation is over. I was like $!@#$%^&*. *Why don't you guys work together?*  
   
@@ -26,13 +26,13 @@ After few weeks, Mr. Prakash collected the details of all the merchants and the 
 <param name="bgcolor" value="#FFFFFF" />
 <embed width="320" height="266"  src="http://www.youtube.com/v/MNEH4yyInm4?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash"></embed></object></div>  
   
-*(The guy in white shirt behind the red shirt is the thief. He stays somewhere near Kadugodi in bangalore. Anyone happens to see him, please call Prem @98869-71858. Thank You!)*  
+*(The guy in white shirt behind the red shirt is the thief. He stays somewhere near Kadugodi in Bangalore. Anyone happens to see him, please call Prem @98869-71858. Thank You!)*  
   
 So far so good. Mr. Prakash promised me to accompany to the Police station and file an FIR with the evidences that its not a loss, but a fraud too. Three weeks passed and no response from him after repeated calls and SMS. Meanwhile, I was sending emails to HDFC bank for the same. Mr. Madhu was assigned for this case and he took me to Airport Road Police Station. He said they are his friends and will investigate without FIR. I insisted on an FIR. 
 
 He said, *"The card was lost near ITPL and you stay in Marathahalli. Both the areas does not come under this police station. So, they cannot file an FIR. The HAL Police won't be of much help. That's why I brought you here. If you don't like, pay the entire amount to HDFC Bank. Your choice !".*   
 
-I was little surprised when Mr. Madhu asked me to pay Rs.3000 to the police to start the investigation. The question put to me by the bank respresentative was   
+I was little surprised when Mr. Madhu asked me to pay Rs.3000 to the police to start the investigation. The question put to me by the bank representative was   
 > Would you like to pay Rs. 1 lakh to the bank or Rs. 3000 to the police?. Since they do this for you off the record, you need to pay for their travel expenses.  
 
 Argument from Mr. Madhu (an HDFC Bank Representative). I paid to Mr.Venkata Swamy @ Airport Road Police Station. Yes. I did. I just wanted this to get over. But the Police is still searching the thief (as of 23-Oct-2011).  
@@ -55,7 +55,7 @@ Both the HDFC Bank and I know that, it was a fraud on my card. *I don't want HDF
 
 ###What HDFC Bank Could have done better?
   
-* For a high value transaction for Rs.38,500 @ Chemmanur Jewellery, HDFC Bank tried to send an SMS and followed by a phone call. The main reason for phone call verification is to avoid credit card fraud. When you are not able to reach the customer, please pro-actively make efforts to reach the customer. You could have sent an email and / or temporarily block the card. I would be more than happy rather than pissed off.  
+* For a high value transaction for Rs.38,500 @ Chemmanur Jewelry, HDFC Bank tried to send an SMS and followed by a phone call. The main reason for phone call verification is to avoid credit card fraud. When you are not able to reach the customer, please pro-actively make efforts to reach the customer. You could have sent an email and / or temporarily block the card. I would be more than happy rather than pissed off.  
 * Integrate all your internal systems (statement systems, RCU etc) and make sure that you know everything before calling the customer.  
 * Please advise your customer care representatives to be polite while talking to the customers. Review the customer's payment history and get to know the customer before making assumptions.  
 * When the customer is loyal and trying to settle all the dues with sincere efforts, please assist by providing him options.   

@@ -11,11 +11,11 @@ category: travelogue
 <br />
 ### What is Dhyanalinga?  
 
-Its a place dedicated for meditation, consecrated by Sadhguru Jaggi Vasudev using Prana Prathishta - a complicated process by which all seven chakras are energised to it's peak and locked inside the structure. It is said that this was the first complete Dhyanalinga in over 2000 years and it's been estimated that the energy will be contained within this structure for at least next 5000 years. This place is located around 30kms from Coimbatore, inside the forest. There are frequent bus/cab services available from Coimbatore.
+Its a place dedicated for meditation, consecrated by Sadhguru Jaggi Vasudev using Prana Prathishta - a complicated process by which all seven chakras are energized to it's peak and locked inside the structure. It is said that this was the first complete Dhyanalinga in over 2000 years and it's been estimated that the energy will be contained within this structure for at least next 5000 years. This place is located around 30 kms from Coimbatore, inside the forest. There are frequent bus/cab services available from Coimbatore.
   
 ### My Experience with Dhyanalinga  
 
-Since then, I have decided to be open to other's religious / super natural / cult / cosmic being / spiritual beliefs, I've been on many discussions with many of my friends with alternate belief systems. I did not criticize or evaluate their belief system with my rational thinking process, instead I just listened. I got to know so much of information that I did not know before. One such discussion was about people having different experiences with Dhyanalinga's energy. Thanks to Dinesh for providing me the complete picture of the process that was involved in creating this Dhyanalinga. Though I did not understand many of the concpets - I know now, the rough idea behind this structure. I decided to find that out by myself.  
+Since then, I have decided to be open to others religious / super natural / cult / cosmic being / spiritual beliefs, I've been on many discussions with many of my friends with alternate belief systems. I did not criticize or evaluate their belief system with my rational thinking process, instead I just listened. I got to know so much of information that I did not know before. One such discussion was about people having different experiences with Dhyanalinga's energy. Thanks to Dinesh for providing me the complete picture of the process that was involved in creating this Dhyanalinga. Though I did not understand many of the concepts - I know now, the rough idea behind this structure. I decided to find that out by myself.  
   
 Me, Sangavi, Arthi and three of her friends set out to Dhyanalinga in a car and a bike. The route to this place was really lovely with green trees/vegetation on both sides. We reached the place in mid noon with scorching sun above our head. This place has to maintained in complete silence. So they collected the cameras, cellphones other items in the entrance itself. It's free.I have used the pictures I got from Internet on this blog to give you a visual experience.  
   
@@ -46,14 +46,14 @@ src="{{site.url}}/img/LingaBhairavi-Temple.jpg"/>
 
 There are volunteers everywhere to guide you to the places and to answer your questions. The old volunteer in front of this temple, explained that this is the feminine form of Lingam. You can worship Linga Bhairavi as you would do to other Hindu gods. There are requests made to her, in exchange for flowers and poojas. A typical Hindu establishment. I seriously do not see a need for this temple inside a meditation place.  
   
-I saw a lot of foreigners in saffron dresses doing poojas, offering flowers, doing meditations etc. A typical scene in any Ashram. She offered me Neem Leaves and Lilly flowers inside the temple. I was suppose to eat the Neem Leaves. It was the bitter than the Bitter Gourd. Luckily they sold *Pasiparuppu Payasam* just outside the temple for Rs. 10. With the help of the payasam, I could eat three neem leaves. Even though we knew the benefits of Neem leaves, this is my first successful attempt in eating them. I was proud !.   
+I saw a lot of foreigners in saffron dresses doing poojas, offering flowers, doing meditations etc. A typical scene in any Ashram. She offered me Neem Leaves and Lilly flowers inside the temple. I was suppose to eat the Neem Leaves. It was the bitter than the Bitter Gourd. Luckily they sold *Pasiparuppu Payasam* just outside the temple for Rs. 10. With the help of the payasam, I could eat three Neem leaves. Even though we knew the benefits of Neem leaves, this is my first successful attempt in eating them. I was proud !.   
   
 ### Nandhi  
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
 src="{{site.url}}/img/Dhyanalinga-Nandi.jpg"/>   
 
-We saw a small beautiful artificial pond with Lillies and Goldfishes, on the way to Dhyanalinga and spent some time walking around the pond, watching the flowers and fishes. It was good. A big 15 foot Nandi interrupted us on Dhyanalinga's entrance. Its made up of a metal alloy, filled with herbs inside, consecrated by a ceremony. It was painted in pitch black color and looks majestic than the Charging Bull in front of Newyork Stock Exchange.We were not allowed to touch or climb the Nandhi.  
+We saw a small beautiful artificial pond with Lillies and Goldfishes, on the way to Dhyanalinga and spent some time walking around the pond, watching the flowers and fishes. It was good. A big 15 foot Nandhi interrupted us on Dhyanalinga's entrance. Its made up of a metal alloy, filled with herbs inside, consecrated by a ceremony. It was painted in pitch black color and looks majestic than the Charging Bull in front of Newyork Stock Exchange.We were not allowed to touch or climb the Nandhi.  
   
 ### Sarva Tharma Sthamba  
   

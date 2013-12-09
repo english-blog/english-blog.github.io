@@ -22,7 +22,7 @@ src="{{site.url}}/img/Attract-Money-Now-Dr-Joe-Vitale.jpg"/>
   
 I knew [Dr. Joe Vitale](http://www.mrfire.com/) from the movie, [The Secret](http://thesecret.tv/). I use to follow his blogs for a while and lost touch in course of time. Way back in 2008, I had downloaded this book to read in future. This week was it. Its simply awesome. I wish I could have read this book much earlier in my life.  
   
-I have read many books which teaches the tips, tricks and possible means to earn more money or create additional income streams. Most of them were about setting up your own business. This book is different from such other books. This does not teach about business or getting a higher paying job. This book discusses nothing that is materialistic. It's all about our minds, they way we think about money and how to alter our thinking to our favour. This book does not say, *"Just sit and day dream - Money will flow to you"*. We still have to do the hard work. It just helps to keep our minds focussed on abundance, instead of scarcity - which will obviously help to achieve our goals.  
+I have read many books which teaches the tips, tricks and possible means to earn more money or create additional income streams. Most of them were about setting up your own business. This book is different from such other books. This does not teach about business or getting a higher paying job. This book discusses nothing that is materialistic. It's all about our minds, they way we think about money and how to alter our thinking to our favor. This book does not say, *"Just sit and day dream - Money will flow to you"*. We still have to do the hard work. It just helps to keep our minds focused on abundance, instead of scarcity - which will obviously help to achieve our goals.  
   
 One good thing about this book is that, it has "action steps" at the end of each chapter which will help you to recollect what you learnt in that chapter and also to reflect your current situation with respect to the topic discussed. Please follow them. Not just in your mind. Take a pen and a paper and do the exercises. Write them down. I found this enormously useful. When you start writing your thoughts, without stopping, you will be surprised to know the hidden side of yourself. I did.  
   
@@ -51,7 +51,7 @@ Spending to attract more money?. This is something that I never heard of. Joe Vi
   
 Asking for help is the fourth step to attracting money into your life. There is always someone out there who can help with your problems. Don't hesitate to ask for help. Just ask. Many people have resistance in asking for help, but would feel happy to help when asked. Isn't it?. This is the first level in asking for help.   
   
-The second level is to form a Mastermind Group of like-minded people with similar goals - who can support each other. Make sure that the group is small and meet regularly. Your group should be such that you can openly share your goals and get support from your group - no matter how ridiculous your goal is. This is the best idea of Nepolean Hill from the world famous book "*Think & Grow Rich*"  
+The second level is to form a Mastermind Group of like-minded people with similar goals - who can support each other. Make sure that the group is small and meet regularly. Your group should be such that you can openly share your goals and get support from your group - no matter how ridiculous your goal is. This is the best idea of Napoleon Hill from the world famous book "*Think & Grow Rich*"  
   
 ### Step 5: Nevillize Your Goals  
   
@@ -77,9 +77,9 @@ Thanks Dr. Joe Vitale for this book. I will try the steps described in this book
   
 [Attract Money Now - PDF version (Click to download the PDF for FREE)](http://www.attractmoneynow.com/)  
 
-[Attract Money Now - Audiobook (Click to buy from Amazon)](http://www.amazon.com/gp/product/159659599X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=159659599X&linkCode=as2&tag=booiverea-20)  
+[Attract Money Now - Audio book (Click to buy from Amazon)](http://www.amazon.com/gp/product/159659599X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=159659599X&linkCode=as2&tag=booiverea-20)  
   
-[Attract Money Now - Audiobook (Click to buy from Flipkart - Orders within India)](http://www.flipkart.com/attract-money-now/p/itmdyk9xpntvdypz?pid=9781596595996&affid=INPremkblo)  
+[Attract Money Now - Audio book (Click to buy from Flipkart - Orders within India)](http://www.flipkart.com/attract-money-now/p/itmdyk9xpntvdypz?pid=9781596595996&affid=INPremkblo)  
 
 Checkout the other books which I have read @ [Prem's Library]({{site.url}}/books/)  
 

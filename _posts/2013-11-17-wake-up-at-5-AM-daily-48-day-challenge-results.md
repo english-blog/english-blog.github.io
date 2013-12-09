@@ -14,14 +14,14 @@ category: challenges
 [robin-sharma-link]: http://www.robinsharma.com/blog/09/how-to-wake-up-early/
 [steve-link]: http://www.stevepavlina.com/blog/2005/05/how-to-become-an-early-riser/
 
-I got roughly 2-3 hours daily, which I used mostly for learning purposes, tapping exercises, self-realization exercises (where I probe deeply into myself with a lot of questions and writing down the answers in paper) etc. It was simply awesome. One important deviation from the original plan was that I started using facebook and internet for leisure activities during these morning hours. (Roughly 30 - 45 mins).  
+I got roughly 2-3 hours daily, which I used mostly for learning purposes, tapping exercises, self-realization exercises (where I probe deeply into myself with a lot of questions and writing down the answers in paper) etc. It was simply awesome. One important deviation from the original plan was that I started using facebook and internet for leisure activities during these morning hours. (Roughly 30 - 45 minutes).  
 
 Most of the changes that I experienced are internal - changes in my thought process and my perception of the world. I don't have the means to measure it or even to show that these changes are related to myself waking up early. But, I can simply attribute all the changes in the last few weeks to the new habit - "Rising Early" - based on the simple reasoning.  
 
 
 ### Internal Changes
 
-**Discovered my love for programming** - During my college days, I was crazy about C programming language. Graphics & Pointers are my favorite. I used to program just for the sake of programming till 3-4 AM in the morning, most of the days. I used to develop small utilities in Visual Basic for myself. Eventually along the way, 9 yrs in corporate world - I lost that interest and even started hating IT industry for the petty politics and exploitations at every level. There were days when I enjoyed working on interesting projects with AMEX, Toyota, Legal & General etc.  
+**Discovered my love for programming** - During my college days, I was crazy about C programming language. Graphics & Pointers are my favorite. I used to program just for the sake of programming till 3-4 AM in the morning, most of the days. I used to develop small utilities in Visual Basic for myself. Eventually along the way, 9 yrs in corporate world - I lost that interest and even started hating IT industry for the petty politics and exploitation at every level. There were days when I enjoyed working on interesting projects with AMEX, Toyota, Legal & General etc.  
 
 One fine day, Dinesh came home to discuss with me, about the design of the new J2EE application that he is building for a design competition in his company. We are free to choose the design & implement. We were happy and explored multiple options. Once the design discussion was over, the topic changed to my perception about IT industry.  
 
@@ -29,7 +29,7 @@ Dinesh is the MAN OF QUESTIONS. He asked so many questions, making me to think f
 
 Just that I did not do it in recent times and the petty politics in IT industry clouded my vision. Thanks to Dinesh.  
 
-**Stopped chasing money** - Before you make any decision about my decision, please wait. This does not mean that I wont do anything to earn money. (I need money to live anyway) Just that, I would not do anything / start anything with the sole purpose of earning money. There must be some sort of interest / passion associated with that activity. I should be able to do that specific activity even if I dont earn money from that activity (ex. blogging). Most people know that I crave for more money, actually a more luxurious and free lifestyle. I begin to see now that, it was not for choice of the lifestyle, it was a wish/hope to escape from the reality. I am pretty happy with my personal life, right now. I can attribute this to my hatred with IT industry.  
+**Stopped chasing money** - Before you make any decision about my decision, please wait. This does not mean that I wont do anything to earn money. (I need money to live anyway) Just that, I would not do anything / start anything with the sole purpose of earning money. There must be some sort of interest / passion associated with that activity. I should be able to do that specific activity even if I don't earn money from that activity (ex. blogging). Most people know that I crave for more money, actually a more luxurious and free lifestyle. I begin to see now that, it was not for choice of the lifestyle, it was a wish/hope to escape from the reality. I am pretty happy with my personal life, right now. I can attribute this to my hatred with IT industry.  
 
 When I discovered my love for programming, this change followed automatically. Now, I don't see any big difference in driving a Maruthi Alto or an Audi, as long as it takes me from Point A to Point B. However, If I have few million dollars in my bank account, I would definitely buy an Audi car. The point is - "When I don't have a million dollars, I am happy driving an Alto." - Such a relieving realization.  
 
@@ -47,7 +47,7 @@ One such assumption that I made along the way was - "I must switch from IT indus
 
 It works perfectly for me. It gives me more confident that I can put 100% of myself to any task that I get involved. But, there are impacts to others who are related to me. Most of the impact was on my wife. Be it raw vegan challenge or waking up 5 AM, her lifestyle impacted so much. She, being a night bird and me waking up early and sleeping early, we spent a very little time together during the weekdays. We did not like this. But, I started already - so, finished it.  
 
-Man being a social creature, must depend on others for life and love. I decided to consider her and minimize the impact on her with my challenges and experiments. I am going to experimentally try less than 100% from my next challenge onwards. Lets see how it goes.  
+Man being a social creature, must depend on others for life and love. I decided to consider her and minimize the impact on her with my challenges and experiments. I am going to experimentally try less than 100% from my next challenge onward. Lets see how it goes.  
 
 ### External Changes
 
@@ -70,7 +70,7 @@ Man being a social creature, must depend on others for life and love. I decided 
 [udemy-url]: https://www.udemy.com/official-udemy-instructor-course/
 [writer-url]: https://www.udemy.com/becoming-a-writer-exercises/
 
-* **Books** - I read these books [$100 Startup][startup-url], [Attract Money Now][attract-url], [Zero Limits][zero-limits-url] & [100 Ways to Motivate Yourself][motivate-url] during this challenge period. I spent a lot of time in other things, so reading frequency is reduced.  
+* **Books** - I read these books [$100 Start up][startup-url], [Attract Money Now][attract-url], [Zero Limits][zero-limits-url] & [100 Ways to Motivate Yourself][motivate-url] during this challenge period. I spent a lot of time in other things, so reading frequency is reduced.  
 
 [startup-url]: {{ site.url }}/100-dollars-startup-reinvent-the-way-you-make-a-living-do-what-you-love-and-create-a-new-future-chris-guillebeau-book-review/
 [attract-url]: {{ site.url }}/attract-money-now-audio-joe-vitale-book-review/
@@ -83,7 +83,7 @@ Man being a social creature, must depend on others for life and love. I decided 
 
 * **Personal Development** - I downloaded a lot of personal development workbooks / small booklets over the period of time. I spent a considerable amount of time, working on myself. I cannot give the complete list of small PDFs here.  
 
-* **Bed Time Stories** - I know this is completely irrelevant to the context here. But, we started reading out fiction stories to each other in the bed, before we sleep. We make sure we go to bed 30 mins earlier than usual. I kinda like this. Rekindling the story teller in each of us :)  
+* **Bed Time Stories** - I know this is completely irrelevant to the context here. But, we started reading out fiction stories to each other in the bed, before we sleep. We make sure we go to bed 30 minutes earlier than usual. I kinda like this. Rekindling the story teller in each of us :)  
 
 ### Any disadvantages?
 

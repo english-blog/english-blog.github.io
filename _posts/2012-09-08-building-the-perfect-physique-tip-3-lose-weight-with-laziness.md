@@ -11,7 +11,7 @@ category: health
 <img src="{{site.url}}/img/Garfield-Lazy-Dieting.jpg"/>
 </div>  
   
-This was the typical reaction when I first read about the claim. I did research further and found that this tip works for many people. It may work for me. The best part is, this personal experiment was conducted by Phil Libin, the CEO of EverNote, one of the fastest growing company in Silicon Valley and this tip is published in Timothy Ferris's [The 4 Hour Body](http://www.amazon.com/gp/product/030746363X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030746363X&linkCode=as2&tag=booiverea-20) as well.  
+This was the typical reaction when I first read about the claim. I did research further and found that this tip works for many people. It may work for me. The best part is, this personal experiment was conducted by Phil Libin, the CEO of EverNote, one of the fastest growing company in Silicon Valley and this tip is published in Timothy Ferriss [The 4 Hour Body](http://www.amazon.com/gp/product/030746363X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030746363X&linkCode=as2&tag=booiverea-20) as well.  
 
 ### Weight Awareness Experiment:   
 
@@ -43,7 +43,7 @@ Please [click here to download][xl-tracker-url] my excel sheet template to use f
 * In the 'Data' Worksheet, just add your current weight on 'Actual Weight' column every day  
 * Watch the graph to realize where you are and be thankful for that.  
 
-**PS:** I have lost 1.5 Kgs in two weeks, by following the below tips. I feel great and awesome !  
+**PS:** I have lost 1.5 Kg in two weeks, by following the below tips. I feel great and awesome !  
 
 [Tip 1: Eat breakfast within an hour of waking up !]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
 [Tip 2: Lose weight out of the blue !]({{site.url}}/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  

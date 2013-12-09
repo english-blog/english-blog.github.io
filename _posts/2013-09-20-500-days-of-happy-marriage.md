@@ -18,13 +18,13 @@ It started like any another day in the recent past. Woke up at 5 AM, brushed my 
   
 I found the second clue in the kitchen cabinet, third near the washing machine, fourth inside the shoe rack, fifth inside the freezer, sixth in my bike in the parking lot. While running down to the parking lot, I thought *"When did she planned all these things?"*. I came home early last evening, had early dinner and watched the whole movie "Jeans" with her and went to bed. It was a very relaxed evening and I was with her all the time, till we slept. But entire treasure hunt is planned before 5 AM in the morning. She must have done this after I slept. Hmm... *How did she guess that I will open the laptop first?* - I have no idea. May be she guessed it too. It worked !. I love you pondatti !!!  
   
-The seventh clue was under the kitchen floor mat, eighth clue was with Sruti, sleeping in the second bedroom. I was reluctant to wake her up at that time. But, it was mentioned in the clue and I have to follow it. As soon as I tapped her shoulder, she smiled and gave me the next clue. I knew that she was the partner in crime. The ninth clue under the sofa cushion and the tenth clue was under my wife's pillow. She was asleep. I took the clue carefully without waking her up. The final clue says *"Bedroom Attics are not only for Ghosts. Trick or Treat?"*   
+The seventh clue was under the kitchen floor mat, eighth clue was with Sruthi, sleeping in the second bedroom. I was reluctant to wake her up at that time. But, it was mentioned in the clue and I have to follow it. As soon as I tapped her shoulder, she smiled and gave me the next clue. I knew that she was the partner in crime. The ninth clue under the sofa cushion and the tenth clue was under my wife's pillow. She was asleep. I took the clue carefully without waking her up. The final clue says *"Bedroom Attics are not only for Ghosts. Trick or Treat?"*   
   
 <div style="text-align: center;">
 <img src="{{site.url}}/img/500-day-all-tips.jpg"/>
 </div>  
   
-You know what?. I did not know the meaning of the word "Attic". I did not know what to do. Google did not struck my mind. I woke up Sruti again and asked her. She explained and went back to bed. I saw a beautifully wrapped gift box with couple of envelopes in the bedrrom attic. *Yeahhhh... The hunt is over!.* I was about to tear off the gift wrapping and I realized that I do not know the reason still. One of the envelope had another piece of paper which said *"Happy 500th Day of Wedding - I Love You"*. I was smiling, blushing & loving her more than ever. The memories of our dating period flashed in my mind. *I love you forever, Pondatti.*  
+You know what?. I did not know the meaning of the word "Attic". I did not know what to do. Google did not struck my mind. I woke up Sruthi again and asked her. She explained and went back to bed. I saw a beautifully wrapped gift box with couple of envelopes in the bedroom attic. *Yeahhhh... The hunt is over!.* I was about to tear off the gift wrapping and I realized that I do not know the reason still. One of the envelope had another piece of paper which said *"Happy 500th Day of Wedding - I Love You"*. I was smiling, blushing & loving her more than ever. The memories of our dating period flashed in my mind. *I love you forever, Pondatti.*  
   
 The first envelope had the below caption. Only Me & Sangavi know the story behind it. Funny... he he he... Inside was a lovely greeting card.   
   
@@ -36,13 +36,13 @@ The first envelope had the below caption. Only Me & Sangavi know the story behin
 <img src="{{site.url}}/img/500-day-greeting-card-full.jpg"/>
 </div>  
   
-The other envelope has couple of other cards with few colored pieces of something. Each piece had a letter painted on it. On closer inspection, I found they were pista shells. I remember last night, Sruti eating a lot of pista and offering me as well. But painting each of the shell would have taken a lot of time. Sruti must have helped Sangavi. Thank you Sruti. :) Hmm... Now I have a tough decision to make. To open the gift or to solve the puzzle. Paused for a while and went on to solve the puzzle first.  
+The other envelope has couple of other cards with few colored pieces of something. Each piece had a letter painted on it. On closer inspection, I found they were pista shells. I remember last night, Sruthi eating a lot of pista and offering me as well. But painting each of the shell would have taken a lot of time. Sruthi must have helped Sangavi. Thank you Sruthi. :) Hmm... Now I have a tough decision to make. To open the gift or to solve the puzzle. Paused for a while and went on to solve the puzzle first.  
 
 <div style="text-align: center;">
 <img src="{{site.url}}/img/500-day-all-puzzle-clues.jpg"/>
 </div>  
   
-Each shell is coated with Red, Silver or Bronze color with an English alphabet on it. Both the sides of the shell were painted with different color and different alphabet. One clue says Concave and the other says Convex. I tried to recollect the physics formulae for focal length that I learned in school and later found myself that it denotes the shape of the pista shell. This one must be from Sruti. I know my wife's interest in physics :). Almost after 30 minutes, I solved both the puzzles.   
+Each shell is coated with Red, Silver or Bronze color with an English alphabet on it. Both the sides of the shell were painted with different color and different alphabet. One clue says Concave and the other says Convex. I tried to recollect the physics formula for focal length that I learned in school and later found myself that it denotes the shape of the pista shell. This one must be from Sruthi. I know my wife's interest in physics :). Almost after 30 minutes, I solved both the puzzles.   
   
 <div style="text-align: center;">
 <img src="{{site.url}}/img/500-day-puzzle-1.jpg"/>
@@ -52,7 +52,7 @@ Each shell is coated with Red, Silver or Bronze color with an English alphabet o
 **Puzzle 1:** *Your Heart is My Safe Heaven*  
 **Puzzle 2:** *500 Happy Days of Prem & Sang*  
   
-Now to the most awaited gift section. It was exactly what I was planning to get myself sometime in future. It was a smartphone from Micromax, *Canvas HD* and a Samsung Bluetooth headset. I saw this phone being used by Sounder & Karthiga and they gave me a positive review about this phone. Now, I can take up Udemy classes in the phone anytime, anywhere. Thank you pondatti for a lovely gift :)  
+Now to the most awaited gift section. It was exactly what I was planning to get myself sometime in future. It was a smart phone from Micromax, *Canvas HD* and a Samsung Bluetooth headset. I saw this phone being used by Sounder & Karthiga and they gave me a positive review about this phone. Now, I can take up Udemy classes in the phone anytime, anywhere. Thank you Pondatti for a lovely gift :)  
   
 <div style="text-align: center;">
 <img src="{{site.url}}/img/500-day-gifts.jpg"/>
@@ -65,6 +65,6 @@ You make me give, when I don't.
 You knock me down, when I am mean.  
 You cuddle me up, when I am high.  
   
-*Love you pondatti... Be with me forever !!!*  
+*Love you Pondatti... Be with me forever !!!*  
 
 

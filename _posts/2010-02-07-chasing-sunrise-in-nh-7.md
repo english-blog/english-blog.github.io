@@ -26,7 +26,7 @@ It is all mist and fog, the visibility is hardly 50 mtrs. Head lights are still 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
 src="{{site.url}}/img/grass-with-mist.jpg"/>   
 
-Its like an animated movie. Slowly the buildings vanishes to greenery. Its all green now. NH-7. He is out of silicon valley and in TamilNadu. He read out loud, the signboards in tamil. He felt at home, even though this is the first time, he is driving alone in this road. The power of mother tongue!.  
+Its like an animated movie. Slowly the buildings vanishes to greenery. Its all green now. NH-7. He is out of silicon valley and in Tamil Nadu. He read out loud, the signboards in tamil. He felt at home, even though this is the first time, he is driving alone in this road. The power of mother tongue!.  
 
 The fog spread over the grass like soft clouds. He stopped his machine to capture the beautiful scene.He took the camera bag off his shoulders and tried to click. "Oh my God! What happened to my fingers?", surprised about himself. He couldn't move his fingers at his will. Frost bitten. He saluted our heroes in Kashmir and the researchers in Antarctica. He put his hands in his Jeans pocket and started to rub his fingers. An old man who was walking on the way, stepped two feet away from him and gave him a strange look. "What am I doing in National Highways?" laughed at himself and took his hands out immediately. "Romba kuluru na", he said to the old man. The old man doesn't seem to mind it either. Click.. Click.. Click..  
 
