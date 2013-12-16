@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buying Gold Jewelry? - Know the facts first !
+title: Buying Gold Jewellery? - Know the facts first !
 date: 2012-04-12
 category: social
 ---
