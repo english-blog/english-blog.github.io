@@ -1,5 +1,6 @@
 ---
 layout: default
+date: 2013-12-12 00:00:00 +0530
 title: Self Improvement - Premkumar Masilamani's personal blog
 permalink: /category/self-improvement/
 ---

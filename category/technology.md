@@ -1,5 +1,6 @@
 ---
 layout: default
+date: 2013-12-12 00:00:00 +0530
 title: Technology - Premkumar Masilamani's personal blog
 permalink: /category/technology/
 ---

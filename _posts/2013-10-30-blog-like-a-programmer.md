@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog like a Programmer
-date: 30-10-2013
+date: 2013-10-30
 category: technology
 ---
 <div style="text-align: center;">

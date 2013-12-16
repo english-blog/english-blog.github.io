@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wake Up at 5 AM Daily - 48 Day Challenge Results
-date: 17-11-2013
+date: 2013-11-17
 category: challenges
 ---
 

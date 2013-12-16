@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Draft Post
-date: 30-12-2011
+date: 2011-01-30
 category: books
 category: personal
 category: social

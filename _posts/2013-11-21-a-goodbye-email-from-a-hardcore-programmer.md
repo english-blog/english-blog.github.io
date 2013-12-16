@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Goodbye Email from a Hardcore Programmer
-date: 21-11-2013
+date: 2013-11-21
 category: technology
 ---
 I quit TCS. Today is my last day. I wanted my final goodbye email to be very special, unique and resemble what I did in TCS. This is what I sent to my colleagues today :)  

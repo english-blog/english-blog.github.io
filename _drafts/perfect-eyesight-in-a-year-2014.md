@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Perfect Eyesight In A Year
-date: 10-12-2013
+date: 2013-12-16
 category: challenges
 ---
 
@@ -67,10 +67,12 @@ Merchants claim that wearing pinhole glasses for 15 mins a day will improve your
 
 ### Nutrition
 
-### Natural Supplements
-
-### Accu-Pressure
-
 ### Emotional Freedom Technique
 
+I have had good success with EFT in the past, with respect to the emotional aspect of living. There are claims that EFT can be used to release emotional blocks (fear, guilt, anger, shame etc) which could possibly cause defective vision. Carol Look, a famous EFT practitioner has conducted an experiment to treat people with eyesight problems, by teaching them EFT and helping them to release the pent up emotions. Amazingly 75% of the participants reported 15-75% improvement in their vision (as claimed in the book itself).  
 
+If you are new to EFT, please read this [blogpost]("{{site.url}}/") for an introduction to EFT. This EFT process takes about 15 mins a day. Anytime of the day will do. I am going to try this as well in my pursuit of perfect vision. Here is the link to the book, if you are interested in trying this technique.  
+
+[Improve Your Eyesight with EFT] (http://www.amazon.com/gp/product/1425949584/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1425949584&linkCode=as2&tag=booiverea-20)  
+
+These are all the things in my mind

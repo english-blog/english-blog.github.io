@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soldier for Women
-date: 14-11-2013
+date: 2013-11-14
 category: social
 ---
 
