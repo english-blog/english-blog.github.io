@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Becoming a Writer - A Life time Challenge
-date: 2013-11-06
+date: 2013-12-06
 category: challenges
 ---
 
