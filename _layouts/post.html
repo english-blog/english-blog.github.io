@@ -7,7 +7,7 @@ layout: default
 	{% if page.authorname != null %}
 		<h6>by <a href="{{ page.authorpage }}">{{ page.authorname }}</a></h6>
 	{% else %}
-		<h6>by <a href="{{ site.url }}/about/">Premkumar Masilamani</a></h6>
+		<h6>by <a href="{{ site.url }}/about/">{{ site.name }}</a></h6>
 	{% endif %}
 
 	{{ content }}
