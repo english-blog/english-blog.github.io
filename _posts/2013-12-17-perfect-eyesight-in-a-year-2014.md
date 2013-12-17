@@ -59,7 +59,7 @@ Since I work with computers, I must wear glasses all the time while I am in offi
 
 ### Pinhole Glasses
 
-Merchants claim that wearing pinhole glasses for 15 minutes a day will improve your eyesight. Ophthalmologists refuse that this is not possible. Neither of them are ready to do a clinical trial. User reviews are mixed (as with any product or service). I dent know, if this would improve my eyesight and if that improvement would be permanent. The only way to find the truth is to try it. I ordered it. I will follow up with a review on this product. I am planning to use this glass while reading books (at least 15 Minos a day).  
+Merchants claim that wearing pinhole glasses for 15 minutes a day will improve your eyesight. Ophthalmologists refuse that this is not possible. Neither of them are ready to do a clinical trial. User reviews are mixed (as with any product or service). I dent know, if this would improve my eyesight and if that improvement would be permanent. The only way to find the truth is to try it. I ordered it. I will follow up with a review on this product. I am planning to use this glass while reading books (at least 15 Minutes a day).  
 
 <div style="text-align: center;">
 <img src="{{site.img-url}}/pinhole_glasses.jpg"/>
@@ -72,7 +72,7 @@ Just like bodybuilding, retraining the eyes to see normally requires more than j
 1. Vitamin A
 2. Vitamin C
 3. Vitamin E
-4. Latin-Jonathan
+4. Lutein-Zeaxanthin
 5. Zinc
 6. Essential Fatty Acids (Linoleic acid & Alpha-Linoleic acid)
 
