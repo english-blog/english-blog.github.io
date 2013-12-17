@@ -5,7 +5,7 @@ date: 2010-07-17
 category: books
 ---
 
-<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" src="{{site.url}}/img/the-leader-who-had-no-title-robin-sharma.jpg"/>   
+<img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" src="{{site.img-url}}/the-leader-who-had-no-title-robin-sharma.jpg"/>   
 
 **Book:** The Leader Who Had No Title  
 **Author:** Robin Sharma   

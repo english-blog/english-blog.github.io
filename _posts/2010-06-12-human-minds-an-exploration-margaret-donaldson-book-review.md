@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/human-minds-margaret-donaldson-book.jpg"/>  
+src="{{site.img-url}}/human-minds-margaret-donaldson-book.jpg"/>  
 
 **Title:** Human Minds - An Exploration  
 **Author:** Margaret Donaldson  

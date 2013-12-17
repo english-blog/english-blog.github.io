@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/the-laws-of-courage-ryuho-okawa.jpg" border="1"/>   
+src="{{site.img-url}}/the-laws-of-courage-ryuho-okawa.jpg" border="1"/>   
 
 **Book:** The Laws Of Courage  
 **Author:** Ryuho Okawa  

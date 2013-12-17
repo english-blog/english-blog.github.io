@@ -8,7 +8,7 @@ authorpage: http://penurheart.blogspot.com/
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/chicken-soup-for-the-indian-soul-jack-canfield.jpg"/>   
+src="{{site.img-url}}/chicken-soup-for-the-indian-soul-jack-canfield.jpg"/>   
 
 **Book:** Chicken Soup For The Indian Soul: A Book Of Miracles  
 **Author:** Raksha Bharadia, Jack Canfield, Mark Victor AndHansen  

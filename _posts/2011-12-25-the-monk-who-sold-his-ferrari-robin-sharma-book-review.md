@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/the-monk-who-sold-his-ferrari-robin-sharma.jpg"/>   
+src="{{site.img-url}}/the-monk-who-sold-his-ferrari-robin-sharma.jpg"/>   
 
 **Book:** The Monk Who Sold His Ferrari  
 **Author:** Robin Sharma  

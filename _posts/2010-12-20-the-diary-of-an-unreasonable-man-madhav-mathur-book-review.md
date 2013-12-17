@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/the-diary-of-an-unreasonable-man-madhav-mathur.jpg"/>   
+src="{{site.img-url}}/the-diary-of-an-unreasonable-man-madhav-mathur.jpg"/>   
 
 **Book:** The Diary Of An Unreasonable Man  
 **Author:** Madhav Mathur  

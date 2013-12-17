@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/the-greatness-guide-robin-sharma.jpg"/>   
+src="{{site.img-url}}/the-greatness-guide-robin-sharma.jpg"/>   
 
 **Book:** The Greatness Guide  
 **Author:** Robin S. Sharma  

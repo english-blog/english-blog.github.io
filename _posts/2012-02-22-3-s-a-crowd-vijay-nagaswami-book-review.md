@@ -8,7 +8,7 @@ authorpage: http://penurheart.blogspot.com/
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/3-s-a-crowd-vijay-nagaswami.jpg"/>   
+src="{{site.img-url}}/3-s-a-crowd-vijay-nagaswami.jpg"/>   
 
 **Book:** 3's A Crowd  
 **Author:** Vijay Nagaswami  

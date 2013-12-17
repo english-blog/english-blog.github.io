@@ -6,7 +6,7 @@ category: self-improvement
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.url}}/img/human-feelings.jpg"/>   
+src="{{site.img-url}}/human-feelings.jpg"/>   
 
 **Theist:** God's purpose is your purpose.  
 **Agnostic:** Should there be a purpose?. I don't mind.   
@@ -68,7 +68,7 @@ These questions resonates with what I am. If I look back into my life, I was too
 
 I can be a writer, poet, photographer, bodybuilder, raw vegan, entrepreneur, angel investor, social activist, politician etc., at some point in my life and do it exceptionally good. I can be the master of all trades that I get into. So, I can define my life's purpose as,  
 
-*Live life with an attitude that each goal of mine should be treated as the only purpose of my existence at that point in time. Keep changing the goals to push myself forward and help others to do the same.*
+> Live life with an attitude that each goal of mine should be treated as the only purpose of my existence at that point in time. Keep changing the goals to push myself forward and help others to do the same.
 
 ### What changes now?  
 

@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/i-have-a-dream-rashmi-bansal.jpg"/>   
+src="{{site.img-url}}/i-have-a-dream-rashmi-bansal.jpg"/>   
 
 **Book:** I Have A Dream  
 **Author:** Rashmi Bansal  

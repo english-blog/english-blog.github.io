@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/outliers-malcom-gladwell.jpg" border="1"/>   
+src="{{site.img-url}}/outliers-malcom-gladwell.jpg" border="1"/>   
 
 **Book:** Outliers: The Story Of Success  
 **Author:** Malcolm Gladwell  

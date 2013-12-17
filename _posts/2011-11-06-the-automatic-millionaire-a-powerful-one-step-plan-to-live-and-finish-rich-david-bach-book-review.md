@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/the-automatic-millionaire-david-bach.jpg"/>   
+src="{{site.img-url}}/the-automatic-millionaire-david-bach.jpg"/>   
 
 **Book:** The Automatic Millionaire: A Powerful One-Step Plan To Live And Finish Rich  
 **Author:** David Bach  

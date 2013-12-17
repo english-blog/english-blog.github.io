@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/become-a-magnet-to-money-bob-proctor.jpg"/>   
+src="{{site.img-url}}/become-a-magnet-to-money-bob-proctor.jpg"/>   
 
 **Book:** Become A Magnet To Money  
 **Author:** Bob Proctor, Michele Blood  

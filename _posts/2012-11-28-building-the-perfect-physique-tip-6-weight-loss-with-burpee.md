@@ -6,7 +6,7 @@ category: health
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/believe-while-others-are-doubting-william-arthur-ward.png"/>
+<img src="{{site.img-url}}/believe-while-others-are-doubting-william-arthur-ward.png"/>
 </div>  
 
 Seriously, its been hell of a three months. I was religiously following all the tips on every single day. I lost three kilograms of weight in the first month and slowly gained it back at the end of three months. Now, I am exactly at the same point where I started. This is not what you expect from me. Isn't it?. But, this is the truth. When I told this to my friends, everyone has their version of the same story. Hmm... Looks like a universal problem !  

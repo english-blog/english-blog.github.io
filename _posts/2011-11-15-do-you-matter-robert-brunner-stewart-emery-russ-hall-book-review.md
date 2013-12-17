@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/do-you-matter-robert-brunner-stewart-emery-russ-hall.jpg"/>   
+src="{{site.img-url}}/do-you-matter-robert-brunner-stewart-emery-russ-hall.jpg"/>   
 
 **Book:** Do You Matter?: How Great Design Will Make People Love Your Company  
 **Author:** Robert Brunner, Stewart Emery, Russ Hall  
@@ -28,21 +28,21 @@ The physical product or service is the central and most crucial part. But the su
   
 Lets check what's in this book.  
   
-### Design Matters:  
+### Design Matters  
 You get a new idea of *Customer experience supply chain*, with lots of real world examples. This definitely changes the way you think about design.  
   
-### Do You Matter:  
-     Every CEO should read this chapter (I wish). The author asks a lot of thought provoking questions which would be a real eye opener for many companies. *Why should people bother if you are out of business?. Why do you matter?*. Very simple question, but how many companies has an answer to this question. You matter, only if the customers believe that their world will be a darker place with you. How many companies achieved this level of emotional attachment with the customers?.  
+### Do You Matter  
+Every CEO should read this chapter (I wish). The author asks a lot of thought provoking questions which would be a real eye opener for many companies. **Why should people bother if you are out of business?. Why do you matter?** Very simple question, but how many companies has an answer to this question. You matter, only if the customers believe that their world will be a darker place with you. How many companies achieved this level of emotional attachment with the customers?.  
   
-### How To Matter:  
+### How To Matter  
 Robert explains how to use design to create a relationship with the customer that matters and how the design of products and services creates and emotional connection with the customers. Lots of examples as usual.  
   
-### Being Design Driven:  
+### Being Design Driven
 He again takes the example of Apple and explains how a design driven company like Apple functions and what are all the difficulties that may surface between the design, engineering and manufacturing departments.He gives us a preview of what your company would look like, if you are to change your model to a design driven model.  
   
 Next three chapters "Your Brand Is Not Your Logo", "Products As Portals" and "Your Products And Services Are Talking To People" essentially explains in detail what was discussed in the previous chapters. I feel all these three chapters are redundant and could have been accommodated to other chapters.  
   
-### Building A Design Driven Culture:  
+### Building A Design Driven Culture  
 When your company is working on a certain model and if you change it suddenly to an entirely different model, what do you expect?. He explains how the culture of the company should be changed and nurtured by the leadership to excel in design driven model. Remember design is everyone's job. Many companies outsource a whole bunch of their manufacturing, packaging and logistics to different vendors in different countries to reduce the cost. Robert gives suggestions to handle that scenario and again how Apple manages that. He talks a little bit about leadership and also how to hire creative talents and retain them. Basically, if you own a company, this chapter is a must read. Other can ignore this chapter.  
   
 If at all there is one thing that irritated me when I was reading this book, it would be the "Apple Example". The author has beaten the "Apple Example" to death in every chapter and for every concept that he discusses. Just because he is the Director of Industrial Design for Apple?. Well, in that case he could have changed the title to "Why Apple Matters?".  

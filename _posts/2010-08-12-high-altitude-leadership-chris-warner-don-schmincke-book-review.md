@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/high-altitude-leadership-chris-warner-don-schmincke.jpg"/>  
+src="{{site.img-url}}/high-altitude-leadership-chris-warner-don-schmincke.jpg"/>  
 
 **Title:** High Altitude Leadership - What The World's Most Forbidding Peaks Teach Us About Success  
 **Author:** Christopher Warner, Don Schmincke  

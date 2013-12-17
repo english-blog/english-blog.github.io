@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.url}}/img/on-desire-why-we-want-what-we-want-william-irvine.jpg"/>   
+src="{{site.img-url}}/on-desire-why-we-want-what-we-want-william-irvine.jpg"/>   
 
 **Book:** On Desire: Why We Want What We Want  
 **Author:** William B. Irvine  

@@ -14,4 +14,7 @@ category: travelogue
 category: health
 ---
 
+<div style="text-align: center;">
+<img src="{{site.img-url}}/Premkumar-Masilamani.jpg"/>
+</div>
 

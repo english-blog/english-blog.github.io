@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.url}}/img/100-Ways-to-Motivate-Yourself-Chandler-Steve.jpg"/>   
+src="{{site.img-url}}/100-Ways-to-Motivate-Yourself-Chandler-Steve.jpg"/>   
 
 **Book Name:** 100 Ways to Motivate Yourself - Change Your Life Forever (Audio CD)  
 **Author:** Steve Chandler  

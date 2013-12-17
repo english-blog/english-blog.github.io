@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/connect-the-dots-rashmi-bansal.jpg" border="1" />  
+src="{{site.img-url}}/connect-the-dots-rashmi-bansal.jpg" border="1" />  
 
 **Book:** Connect The Dots  
 **Author:** Rashmi Bansal   

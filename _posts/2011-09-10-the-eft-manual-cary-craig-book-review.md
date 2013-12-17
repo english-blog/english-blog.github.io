@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/the-EFT-manual-cary-craig.jpg"/>   
+src="{{site.img-url}}/the-EFT-manual-cary-craig.jpg"/>   
 
 **Book:** The EFT Manual  
 **Author:** Gary Craig  

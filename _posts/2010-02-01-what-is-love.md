@@ -6,7 +6,7 @@ category: personal
 ---
 
 <div style="text-align: center;">
-	<img src="{{site.url}}/img/love-kiss-in-sunrise.jpg" />
+	<img src="{{site.img-url}}/love-kiss-in-sunrise.jpg" />
 </div>  
 
 Science says that its a side effect of few chemicals like oxytocin, vasopressin, dopamine, serotonin etc. If the release of these hormones is blocked, our LOVE fades away...Oops!!!... In other words, scientists can make two people fall in love with an injection?...(Cupid becomes jobless?). They can even find the exact love-genes of the individuals and produce specific chemicals to attract that specific person... Who knows, it could even become the fastest, easiest and safest way to fall in love, in this fast paced life...Scary and sounds more like a next century sci-fi movie...  

@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/wired-for-thought-jeffrey-stibel.jpeg"/>   
+src="{{site.img-url}}/wired-for-thought-jeffrey-stibel.jpeg"/>   
 
 **Book:** Wired For Thought: How The Brain Is Shaping The Future Of The Internet  
 **Author:** Jeffrey M. Stibel, Erik Calonius, Peter Delgrosso  

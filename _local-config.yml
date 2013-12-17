@@ -16,3 +16,4 @@ lsi: false
 permalink: /:title/
 relative_permalinks: false
 
+img-url: http://localhost:4000/img

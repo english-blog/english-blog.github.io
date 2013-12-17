@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.url}}/img/100-dollars-startup-chris-guillebeau.jpg"/>   
+src="{{site.img-url}}/100-dollars-startup-chris-guillebeau.jpg"/>   
 
 **Book Name:** $100 Start up - Reinvent the Way You Make a Living, Do What You Love and Create a New Future  
 **Author:** Chris Guillebeau  

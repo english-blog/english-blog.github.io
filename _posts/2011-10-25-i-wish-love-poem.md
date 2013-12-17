@@ -5,7 +5,7 @@ date: 2011-10-25
 category: personal
 ---
 
-![Love Poem]({{site.url}}/img/man-woman-love-poem-riverside-sunset.jpg)  
+![Love Poem]({{site.img-url}}/man-woman-love-poem-riverside-sunset.jpg)  
   
 
 I wish I could hold time  

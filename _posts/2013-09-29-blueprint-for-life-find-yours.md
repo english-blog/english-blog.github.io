@@ -6,7 +6,7 @@ category: self-improvement
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/blueprint-for-life-smileprem-premkumar-masilamani.jpg"/>
+<img src="{{site.img-url}}/blueprint-for-life-smileprem-premkumar-masilamani.jpg"/>
 </div>  
 
 ### What is a Blueprint for Life?  

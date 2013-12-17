@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/how-to-become-a-highly-paid-programmer-paul-harkins.jpg"/>   
+src="{{site.img-url}}/how-to-become-a-highly-paid-programmer-paul-harkins.jpg"/>   
 
 **Book:** How To Become A Highly Paid Corporate Programmer  
 **Author:** Paul H. Harkins  

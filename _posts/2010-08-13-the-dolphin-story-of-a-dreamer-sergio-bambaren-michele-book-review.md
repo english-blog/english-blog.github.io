@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/the-dolphin-sergio-bambaren.jpg"/>  
+src="{{site.img-url}}/the-dolphin-sergio-bambaren.jpg"/>  
 
 **Book:** The Dolphin - Story Of A Dreamer  
 **Author:** Sergio Bambaren, Michele  

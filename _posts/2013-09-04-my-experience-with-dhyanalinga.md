@@ -6,7 +6,7 @@ category: travelogue
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/Inside-Dhyanalinga.jpg"/>
+<img src="{{site.img-url}}/Inside-Dhyanalinga.jpg"/>
 </div>  
 <br />
 ### What is Dhyanalinga?  
@@ -24,14 +24,14 @@ You are welcomed and greeted by the volunteers. If you are the first time visito
 ### TheerthKund   
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.url}}/img/suryakund.jpg"/>   
+src="{{site.img-url}}/suryakund.jpg"/>   
 
 Next is to have a dip in the holy pond to energize yourself and to dissipate the heat. You need to shower yourself before getting into the pond. They will provide you with saffron color towel. You are suppose to remove all the clothing and wear only this towel. They charge Rs. 20 for each person.   
   
 The pond called "<b>Surya Kund</b>" is constructed 30 feet below the ground level. The depth of the water is 5 feet. This pond has three consecrated Lingams and an artificial water fall. You are suppose to walk slowly into the pond, touch the Lingam with both your hands and take a dip in the water. The water is so chill and so clear - I could see the toes, nails on my feet. It was as if I am watching through a magnifying glass. Once you take the dip - your body is cooled down immediately with the cold water. This is a surreal experience. I thought this experience is worth the visit to Dhyanalinga.  
   
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/chandrakund.jpg"/>   
+src="{{site.img-url}}/chandrakund.jpg"/>   
 
 I walked though the pond slowly, touching the Lingams, taking dips in water, standing in the waterfall. *I did not feel anything spiritual - but it was a lovely experience. I did not feel any sort of energy passing through me.*  
   
@@ -42,7 +42,7 @@ I strongly suggest you to take a dip, whether you are religious or not. Its a lo
 ### Linga Bhairavi Temple  
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.url}}/img/LingaBhairavi-Temple.jpg"/>   
+src="{{site.img-url}}/LingaBhairavi-Temple.jpg"/>   
 
 There are volunteers everywhere to guide you to the places and to answer your questions. The old volunteer in front of this temple, explained that this is the feminine form of Lingam. You can worship Linga Bhairavi as you would do to other Hindu gods. There are requests made to her, in exchange for flowers and poojas. A typical Hindu establishment. I seriously do not see a need for this temple inside a meditation place.  
   
@@ -51,14 +51,14 @@ I saw a lot of foreigners in saffron dresses doing poojas, offering flowers, doi
 ### Nandhi  
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/Dhyanalinga-Nandi.jpg"/>   
+src="{{site.img-url}}/Dhyanalinga-Nandi.jpg"/>   
 
 We saw a small beautiful artificial pond with Lillies and Goldfishes, on the way to Dhyanalinga and spent some time walking around the pond, watching the flowers and fishes. It was good. A big 15 foot Nandhi interrupted us on Dhyanalinga's entrance. Its made up of a metal alloy, filled with herbs inside, consecrated by a ceremony. It was painted in pitch black color and looks majestic than the Charging Bull in front of Newyork Stock Exchange.We were not allowed to touch or climb the Nandhi.  
   
 ### Sarva Tharma Sthamba  
   
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.url}}/img/Dhyanalinga_Sarva_Dharma_Sthamba.JPG"/>   
+src="{{site.img-url}}/Dhyanalinga_Sarva_Dharma_Sthamba.JPG"/>   
 
 We saw *Sarva Tharma Sthamba*, just before the entrance, signifying singularity or union of all religions. This stone has the inscriptions of symbols of Hinduism, Islam, Christianity, Jainism, Taoism, Zoroastrianism, Judaism, Buddhism, and Shinto welcoming people from all religious beliefs. I am not sure how many people actually notice this Sthamba. I did not see a single person looking or checking this out. May be this should be placed in a more strategical place or should be made more attractive - to convey the message.  
   
@@ -67,7 +67,7 @@ We saw *Sarva Tharma Sthamba*, just before the entrance, signifying singularity 
 Finally we are into Dhyanalinga. The side walls on the path to Dhyanalinga has stone sculptures depicting many scenes in Hindu mythologies. This is not congruent with the Sarva Tharma Sthamba we saw outside. The volunteers allow people to go inside Dhyanalinga in batches, every five minutes. There are 27 enclosures on the side walls of Dhyanalinga. You can either sit inside the enclosures or in the open space for meditation. The five minute time is for the people who just came to visit. If you want to meditate longer, you can do it. No one will disturb your meditation.   
   
 <div style="text-align: center;">
-<img src="{{site.url}}/img/dhyanalinga-temple.jpg"/>
+<img src="{{site.img-url}}/dhyanalinga-temple.jpg"/>
 </div>  
   
 I was surprised to see the pillar-less construction of such a big dome. My surprise increased thousand times, when I heard that this was constructed with out Steel & Concrete. This was built with the ancient Indian technique with brick, mud, lime, clay and some herbs. It is properly ventilated and illuminated - perfect for meditation. It is said that this structure will withstand for at least 5000 years. There was such a silence inside Dhyanalinga where I could hear my wife's earring swinging. It was very serene.  

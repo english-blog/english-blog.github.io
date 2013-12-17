@@ -6,7 +6,7 @@ category: personal
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/Sangavi-Premkumar.jpg"/>
+<img src="{{site.img-url}}/Sangavi-Premkumar.jpg"/>
 </div>  
   
 This live broadcast is for for all our friends, who wanted to be with us in our most precious moment, but could not make it. You are never far from us. You can watch the Wedding and the Reception Live from your living room. Yeah!...  

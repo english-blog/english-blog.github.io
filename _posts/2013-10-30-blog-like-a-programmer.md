@@ -5,7 +5,7 @@ date: 2013-10-30
 category: technology
 ---
 <div style="text-align: center;">
-<img src="{{site.url}}/img/computer-programmer-hacking-screen.jpg"/>
+<img src="{{site.img-url}}/computer-programmer-hacking-screen.jpg"/>
 </div>  
 
 [If you are not a programmer, this article may not interest you. Please skip and do something useful]  
@@ -54,7 +54,7 @@ where all I need is
 {% highlight html wrap  %}
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.url}}/img/image.jpg"/>
+src="{{site.img-url}}/image.jpg"/>
 
 {% endhighlight %}  
   
@@ -121,7 +121,7 @@ I used the very basic template that comes with Jekyll. I have plans to customize
 **Feeling EPIC** - Yeah. Seriously. I fell in love with the character "Neo" in the Movie "The Matrix" when I saw it the first time (esp. the black console with green text flowing down). I even wrote matrix screen savers in C, during my college days to simulate that experience in my computer. Those good old days are back. This simple act of blogging like a programmer, brought back my love for programming. Write, Edit, Commit, Push - Viola, My blog is published. It's nostalgic. This is my console where I wrote this blog post.  
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/bloggin-from-vim.jpg"/>
+<img src="{{site.img-url}}/bloggin-from-vim.jpg"/>
 </div><div style="margin-bottom:1em;"></div>  
 
 

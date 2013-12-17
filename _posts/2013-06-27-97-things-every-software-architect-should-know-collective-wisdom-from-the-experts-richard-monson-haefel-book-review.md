@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.url}}/img/97-things-every-software-architect-should-know-richard-monson-haefel.jpg"/>   
+src="{{site.img-url}}/97-things-every-software-architect-should-know-richard-monson-haefel.jpg"/>   
 
 **Book Name:** 97 Things Every Software Architect Should Know  
 **Author:** Richard Monson-haefel  

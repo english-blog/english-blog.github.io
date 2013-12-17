@@ -6,7 +6,7 @@ category: health
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/oil-pulling-woman.jpg"/>
+<img src="{{site.img-url}}/oil-pulling-woman.jpg"/>
 </div>  
 
 The more I research about natural lifestyle, the more I come to know. The recent one is "Oil Pulling". I am excited !..  

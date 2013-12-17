@@ -6,7 +6,7 @@ category: social
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/buying-gold-jewellery.jpg"/>
+<img src="{{site.img-url}}/buying-gold-jewellery.jpg"/>
 </div>  
   
 Generally, I do not prefer Gold, in fact my engagement ring is the first gold ornament in my body. It's a custom in India for the bride & groom to wear Gold Jewels during wedding. I had no options but to buy. I head out to "Joy Alukkas". I was discussing about the Gold Jewelry Business in India, with the floor manager and I am surprised to know that majority of the people does not even understand the basics. In fact, my parents were cheated by "L.K.S Jewellers" when they bought 916 KDM Gold Rings few years back. So, this blog may be a beginner's first hand information, when you buy Gold Jewels in India.  
@@ -16,13 +16,13 @@ Generally, I do not prefer Gold, in fact my engagement ring is the first gold or
 **Carat (K):** Its the unit of purity of gold. As per the calculation below, 24K Gold is nearly 99.9% pure gold. 24K Gold is suggested for Golden Ornaments of more than 10 *Sovereigns* and remember there is no guarantee for the Jewels, since they may lose the shape even with normal usage.  
   
 <div style="text-align: center;">
-<img src="{{site.url}}/img/buying-gold-jewellery-carat-calculation-24k.jpg"/>
+<img src="{{site.img-url}}/buying-gold-jewellery-carat-calculation-24k.jpg"/>
 </div>  
 
 **916 KDM (or) 22K Gold:** Most of the Gold Jewels made in India are of 22K Gold. Cadmium or Kadium (KDM) use to be one of the metal mixed with Gold to make it strong, so that beautiful intricate designs can be made. Cadmium is safe in the finished gold products, but very dangerous in the manufacturing process. Some countries banned Cadmium to be used in gold ornaments. In that case, the alloy would be the combination of Silver, Copper and Zinc. (The % of these metals varies, depends on the manufacturer). 916 KDM Gold is a gold alloy of Gold and (Silver + Copper + Zinc) with roughly 91.6% of pure gold which is 22K Gold. Though we do not use Cadmium in most cases, we still use the name KDM. Look at the below calculation.  
   
 <div style="text-align: center;">
-<img src="{{site.url}}/img/buying-gold-jewellery-carat-calculation-22k.jpg"/>
+<img src="{{site.img-url}}/buying-gold-jewellery-carat-calculation-22k.jpg"/>
 </div>  
 
 **18K Gold:** 18K Gold is 75% of pure Gold and 25% of other metals. Using the above formula, you can decide the percentage of pure gold in your gold ornaments.  
@@ -30,7 +30,7 @@ Generally, I do not prefer Gold, in fact my engagement ring is the first gold or
 **BIS Hallmark:** The Government of India formed Bureau of Indian Standards (BIS) in the year 1987, which is the only institution in India, authorized to hallmark golden Jewelry. The Jewellers has to obtain a license from BIS for a fee and hallmark the jewel they make with BIS logo. BIS maintains market surveillance on the certified jewellers, on random basis. Market surveillance involves collection of Hallmarked Gold Jewelry from licensee's retail outlet/manufacturing premises and having it tested for conformity in BIS recognized hallmarking center. Deviations in degree of purity of gold and operation not in conformance to the system may result in cancellation of BIS license.  
   
 <div style="text-align: center;">
-<img src="{{site.url}}/img/buying-gold-jewellery-carat-BIS-Hallmark.jpg"/>
+<img src="{{site.img-url}}/buying-gold-jewellery-carat-BIS-Hallmark.jpg"/>
 </div>  
   
 Most of the Gold Smiths print the word "916" or "916 KDM" on the Jewels without the logo. Many jewellers will show you these printed numbers and claim that they are 916 KDM Jewels. Do not listen to the jewellers. Just look for the above logo. If you do not find the logo in the Jewels, it means that the specific Jewel is NOT verified for the purity of gold and you are being cheated.  
@@ -57,7 +57,7 @@ More than 13% -- You are being cheated.
 It was like this, when we bought *Thali Kodi* for my wife and a *Short Chain* for me. I saved my hard earned money of Rs. 3,816 from the Jewellers.  
   
 <div style="text-align: center;">
-<img src="{{site.url}}/img/buying-gold-jewellery-negotiation.jpg"/>
+<img src="{{site.img-url}}/buying-gold-jewellery-negotiation.jpg"/>
 </div>  
 
 ### Remember the below:  
@@ -83,7 +83,7 @@ We decided to exchange the unused rings and bangles for the new gold. Joy Alukka
 Once this is settled, another surprise was waiting for me. One of the Golden Ring (1 Sovereign) that my dad purchased from L.K.S Jewellers many years ago, with the printed word "916 KDM" failed in the purity test. It had only 80% gold and the rest was mixed with Silver!. This jewel is from one of established Jewellers in Chennai. Hard to believe right?. Joy Alukkas melted the ring and showed the proof in the purity meter. Here is the picture.  
   
 <div style="text-align: center;">
-<img src="{{site.url}}/img/LKS-Jewellery-916-KDM-cheat.jpg"/>
+<img src="{{site.img-url}}/LKS-Jewellery-916-KDM-cheat.jpg"/>
 </div>  
   
 My Dad used to buy most of the jewelry from one of the showrooms of L.K.S Jewelry, since it was close to our house. My dad trusted the jewelry shop so much that every single jewel in our house is from that shop. But, *L.K.S Jewellers cheated my dad and lost a loyal customer.*  

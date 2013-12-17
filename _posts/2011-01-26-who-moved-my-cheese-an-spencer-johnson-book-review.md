@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/who-moved-my-cheese-spencer-johnson.jpg"/>   
+src="{{site.img-url}}/who-moved-my-cheese-spencer-johnson.jpg"/>   
 
 **Book:** Who Moved My Cheese?  
 **Author:** Spencer Johnson  

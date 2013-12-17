@@ -6,7 +6,7 @@ category: health
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/thermal-diet-ice-cubes.jpg"/>
+<img src="{{site.img-url}}/thermal-diet-ice-cubes.jpg"/>
 </div>  
 
 Thermal Diet?. Yeah. It's from the book [The 4-Hour Body](http://www.amazon.com/gp/product/030746363X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030746363X&linkCode=as2&tag=booiverea-20) by my favorite author Timothy Ferriss.  

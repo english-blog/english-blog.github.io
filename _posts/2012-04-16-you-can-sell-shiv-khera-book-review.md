@@ -8,7 +8,7 @@ authorpage: http://penurheart.blogspot.com/
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/you-can-sell-shiv-khera.jpg"/>   
+src="{{site.img-url}}/you-can-sell-shiv-khera.jpg"/>   
   
 **Book:** You Can Sell  
 **Author:** Shiv Khera  

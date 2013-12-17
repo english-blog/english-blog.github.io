@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/creative-capitalism-michael-kinsley.jpg"/>   
+src="{{site.img-url}}/creative-capitalism-michael-kinsley.jpg"/>   
 
 **Book:** Creative Capitalism: A Conversation With Bill Gates, Warren Buffet, And Other Economic Leaders  
 **Author:** Michael Kinsley, Conor Clarke  

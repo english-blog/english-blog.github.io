@@ -6,7 +6,7 @@ category: health
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/Mind-Movie-Brain.jpg"/>
+<img src="{{site.img-url}}/Mind-Movie-Brain.jpg"/>
 </div>  
   
 ### What is a Mind Movie?  

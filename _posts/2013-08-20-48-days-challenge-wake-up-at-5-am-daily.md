@@ -6,7 +6,7 @@ category: challenges
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/early_raiser_wakeup_5am.jpg"/>
+<img src="{{site.img-url}}/early_raiser_wakeup_5am.jpg"/>
 </div>  
 
 **5 AM Club** - Robin Sharma mentions the importance of rising early in almost all of his books/speeches/blog etc. I tried to join the 5 AM club before with little success. I was very inconsistent and eventually stopped it. Steve Pavlina suggested a simple but powerful tip in this blog post [How to Become an Early Riser](http://www.stevepavlina.com/blog/2005/05/how-to-become-an-early-riser/), which helped me to wake up at 6 AM daily for about 6 months, until I came back to India.  

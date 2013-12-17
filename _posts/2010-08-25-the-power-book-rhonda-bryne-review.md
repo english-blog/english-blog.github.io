@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/the-power-rhonda-bryne.jpg"/>   
+src="{{site.img-url}}/the-power-rhonda-bryne.jpg"/>   
 
 **Book:** The Power  
 **Author:** Rhonda Byrne  

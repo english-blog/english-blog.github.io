@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.url}}/img/the-thrive-diet-brendan-brazier.jpg" border="1"/>   
+src="{{site.img-url}}/the-thrive-diet-brendan-brazier.jpg" border="1"/>   
 
 **Book:** The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life  
 **Author:** Brendan Brazier  

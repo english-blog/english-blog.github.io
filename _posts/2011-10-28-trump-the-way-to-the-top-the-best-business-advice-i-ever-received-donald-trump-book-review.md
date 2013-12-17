@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/trump-the-way-to-the-top-the-best-business-advice-i-ever-received-donald-trump.jpg"/>   
+src="{{site.img-url}}/trump-the-way-to-the-top-the-best-business-advice-i-ever-received-donald-trump.jpg"/>   
 
 **Book:** Trump - The Way To The Top - The Best Business Advice I Ever Received  
 **Author:** Donald J. Trump  

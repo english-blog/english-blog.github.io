@@ -6,7 +6,7 @@ category: personal
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/premkumar-masilamani-lungi.jpg" />
+<img src="{{site.img-url}}/premkumar-masilamani-lungi.jpg" />
 </div>  
 
 "What a beautiful day!.." - A Song from rock band U2 kept playing in my mind, when I sit in a comfy sofa and wander what to do next. This is not new for me, I do this very often. Somehow today, I felt like Tom Hanks in "Cast Away". Yeah.. really.. What do you call a guy who is wearing a week old dirty lungi and a brand new yellow color Reebok T-Shirt supporting "Chennai Super Kings", has not brushed till 10.30 AM, has no wallet, has no mobile phone, and hungry?. Hmm.. that's me, today March 24, 2010.  

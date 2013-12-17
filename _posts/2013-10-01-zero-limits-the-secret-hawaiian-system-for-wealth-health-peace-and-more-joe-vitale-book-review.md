@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.url}}/img/Zero-Limits-Joe-Vitale-Ihaleakala-Hew-Len.jpg"/>   
+src="{{site.img-url}}/Zero-Limits-Joe-Vitale-Ihaleakala-Hew-Len.jpg"/>   
   
 **Book Name:** Zero Limits - The Secret Hawaiian System for Wealth, Health, Peace, and More  
 **Author:** Joe Vitale, Ihaleakala Hew Len  

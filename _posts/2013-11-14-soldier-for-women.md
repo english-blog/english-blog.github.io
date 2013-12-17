@@ -16,7 +16,7 @@ To support this campaign, [blogadda](http://www.blogadda.com) launched a blog co
   
 <br/>
 <div style="text-align: center;">
-<img src="{{site.url}}/img/Premkumar-Masilamani-Soldier-For-Women.jpg#sthash.E6xhsc9P.dpuf"/>
+<img src="{{site.img-url}}/Premkumar-Masilamani-Soldier-For-Women.jpg#sthash.E6xhsc9P.dpuf"/>
 <br>(Sruthi - Prem - Sangavi)
 </div>  
 

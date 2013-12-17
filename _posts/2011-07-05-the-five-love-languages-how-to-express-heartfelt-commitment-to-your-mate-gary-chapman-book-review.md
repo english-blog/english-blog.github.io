@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/the-five-love-languages-gary-chapman.jpg"/>   
+src="{{site.img-url}}/the-five-love-languages-gary-chapman.jpg"/>   
 
 **Book:** The Five Love Languages  
 **Author:** Gary Chapman  

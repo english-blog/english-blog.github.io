@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/the-purpose-driven-life-rick-warren.jpg"/>   
+src="{{site.img-url}}/the-purpose-driven-life-rick-warren.jpg"/>   
 
 **Book:** The Purpose Driven® Life: What on Earth Am I Here For?  
 **Author:** Rick Warren  

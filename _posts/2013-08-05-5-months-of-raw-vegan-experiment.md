@@ -6,7 +6,7 @@ category: challenges
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/premkumar-masilamani-5-months-raw-vegan-transformation.jpg"/>
+<img src="{{site.img-url}}/premkumar-masilamani-5-months-raw-vegan-transformation.jpg"/>
 </div>  
 
 25th August 2012 - Some seemingly very unimportant event happened in my life. I couldn't tie my shoe laces while sitting in a chair. I was huffing & puffing when I am done. Yeah. I had a big belly. I could not believe the condition of my physique. I started thinking. Just like the butterfly effect in Chaos Theory, this event triggered a series of events in my life, which led me to change my lifestyle drastically. I started doing one little thing at a time. Below are the list of changes that I attempted from last year.  
@@ -44,7 +44,7 @@ Some of the raw vegan recipes that I prepared and enjoyed are in my [raw-vegan-r
   
 ### Was the experiment successful?  
   
-I do have a lot of obese/overweight friends who complain about the impossibility of losing weight. The whole idea behind this experiment is to find a reliable and healthy mean to lose weight and when I lose weight, my friends will get inspired. I did lose weight. Very funny thing is that, my friends still complains about overweight and ignored me and my diet plan as "*Outcasts*". I am no longer an ordinary human being with an ordinary appetite. I laughed at myself. Nevertheless, I was blogging the efforts along the way. If it inspires one person in the world, I would consider my experiment a successful one. I don't know at this point. The comments in this blog may help establish it.  
+I do have a lot of obese/overweight friends who complain about the impossibility of losing weight. The whole idea behind this experiment is to find a reliable and healthy mean to lose weight and when I lose weight, my friends will get inspired. I did lose weight. Very funny thing is that, my friends still complain about being overweight and ignored me and my diet plan as **Outcasts**. I am no longer an ordinary human being with an ordinary appetite. I laughed at myself. Nevertheless, I was blogging the efforts along the way. If it inspires one person in the world, I would consider my experiment a successful one. I don't know at this point. The comments in this blog may help establish it.  
   
 ### What's Next?  
   

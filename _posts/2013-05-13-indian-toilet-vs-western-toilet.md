@@ -13,11 +13,11 @@ It's not that I am new to Indian Toilets. I was using it from my childhood. I st
   
   
 <div style="text-align: center;">
-<img src="{{site.url}}/img/anal-rectal-angle-sitting-squatting-comparison.jpg"/>
+<img src="{{site.img-url}}/anal-rectal-angle-sitting-squatting-comparison.jpg"/>
 </div>  
   
 <div style="text-align: center;">
-<img src="{{site.url}}/img/Indian-vs-Western-Toilet.jpg"/>
+<img src="{{site.img-url}}/Indian-vs-Western-Toilet.jpg"/>
 </div>  
 
 ### History of Western Toilets:

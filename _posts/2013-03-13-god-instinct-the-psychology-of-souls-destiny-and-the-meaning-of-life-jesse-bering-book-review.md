@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.url}}/img/the-god-instinct-jesse-bering.jpg"/>   
+src="{{site.img-url}}/the-god-instinct-jesse-bering.jpg"/>   
 
 **Book:** God Instinct - The Psychology of Souls, Destiny and the Meaning of Life  
 **Author:** Jesse Bering  

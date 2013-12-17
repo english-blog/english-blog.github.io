@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/happier-than-god-neale-donald-walsch.jpg"/>   
+src="{{site.img-url}}/happier-than-god-neale-donald-walsch.jpg"/>   
 
 **Book:** Happier Than God - Turn Ordinary Life Into An Extraordinary Experience  
 **Author:** Neale Donald Walsch  

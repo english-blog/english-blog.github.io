@@ -8,7 +8,7 @@ authorpage: http://penurheart.blogspot.com/
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/rosy-transgender-1.jpg"/>
+<img src="{{site.img-url}}/rosy-transgender-1.jpg"/>
 </div>  
   
 It was a gloomy Sunday afternoon. I was on the way to the weekly meeting at Sangama Office. I saw a bird flying from tree to tree looking for an apt place to set its nest. It somehow seemed like my life. I’m a homeless wanderer right now seeking a nest. With so many thoughts flooding the mind, I reached the office. It was warm to see known faces and lovely smiles spread across those faces.   
@@ -69,7 +69,7 @@ I started drinking everyday from then on. My only precious thing was gone and wh
 ### THE WAY AHEAD:  
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/rosy-transgender-2.jpg"/>   
+src="{{site.img-url}}/rosy-transgender-2.jpg"/>   
 
 This is for my past and present. Now for the future: I adopted a baby girl. She is five months old now. I got her from a prostitute. She gave birth to this girl and was not in a condition to look after her. There is no law for people like us to adopt children. They say it’s unsafe and we cannot to take care of them. But what do they know about our motherhood?. We can take care of kids better than many women. As I cannot adopt the baby legally, I bought her for five thousand rupees. I’m homeless right now and I know that she won’t be fine in my hands for now. I have left her with a sister in Pondichery church. Every month I send 1000 rupees to sister to take care of my girl. Also, remember about a sister of mine who is affected with brain fever. All I want to do is take care of these two souls as much as I can. When my baby turns a year old, I will bring her here and keep her with myself and will bring her up.  
 

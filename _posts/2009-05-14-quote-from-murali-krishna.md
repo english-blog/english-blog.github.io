@@ -7,7 +7,7 @@ category: self-improvement
 
 
 <div style="text-align: center;">
-	<img src="{{site.url}}/img/driving-motorcycle-sunrise.jpg"/>
+	<img src="{{site.img-url}}/driving-motorcycle-sunrise.jpg"/>
 </div>  
 
 > When you are the fastest, you don't need rear view mirrors.  

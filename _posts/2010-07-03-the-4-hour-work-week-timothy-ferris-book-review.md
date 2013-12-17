@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/the-4-hour-workweek-timothy-ferris.jpg"/>   
+src="{{site.img-url}}/the-4-hour-workweek-timothy-ferris.jpg"/>   
 
 **Title:** The 4-Hour Workweek  
 **Author:** Timothy Ferriss  

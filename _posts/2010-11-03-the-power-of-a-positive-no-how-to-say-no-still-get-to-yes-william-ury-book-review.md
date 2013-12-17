@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/the-power-of-a-positive-no-william-ury.jpg"/>   
+src="{{site.img-url}}/the-power-of-a-positive-no-william-ury.jpg"/>   
 
 **Book:** The Power Of A Positive No  
 **Author:** William Ury  

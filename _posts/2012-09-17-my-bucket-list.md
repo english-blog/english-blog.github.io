@@ -6,7 +6,7 @@ category: personal
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/premkumar-masilamani-bucket-list.jpg"/>
+<img src="{{site.img-url}}/premkumar-masilamani-bucket-list.jpg"/>
 </div><br />  
 
 1. The Perfect Six-Pack Beach Body  

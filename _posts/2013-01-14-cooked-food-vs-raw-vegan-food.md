@@ -15,7 +15,7 @@ I believed in this myth for a very long time. Who wants to be skinny and vulnera
 Let's analyze from evolution point of view.  
   
 <img style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" 
-src="{{site.url}}/img/evolution-human-brain.jpg"/>   
+src="{{site.img-url}}/evolution-human-brain.jpg"/>   
 
 Many scientists believe that the cooked food in human diet is responsible for the evolution of a bigger brain. Human brain consumes roughly 20% of the calories that goes into the body. Cooked foods are packed with more calories, easy to chew, tastes better and could sustain few more days, which gave our ancestor the advantage of having more time to socialize and less time in searching for food. Since human brain is nourished with more food and given more time to think, it is increased in size.  
   

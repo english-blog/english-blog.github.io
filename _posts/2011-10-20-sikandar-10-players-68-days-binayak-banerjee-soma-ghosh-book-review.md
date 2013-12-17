@@ -8,7 +8,7 @@ authorpage: http://penurheart.blogspot.com/
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/sikandar-10-players-68-days-binayak-banarjee-soma-ghosh.jpg"/>   
+src="{{site.img-url}}/sikandar-10-players-68-days-binayak-banarjee-soma-ghosh.jpg"/>   
 
 **Book:** Sikandar - 10 Players, 68 Days  
 **Author:** Binayak Banerjee, Soma Ghosh  

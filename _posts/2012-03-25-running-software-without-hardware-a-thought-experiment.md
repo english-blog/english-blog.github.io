@@ -6,7 +6,7 @@ category: thought-experiments
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/human-mind-thinking.jpg"/>
+<img src="{{site.img-url}}/human-mind-thinking.jpg"/>
 </div>    
 
 I have been thinking about this concept of running a software program without any hardware for quite some time. I know what you are thinking. Let's stop the rational thinking about the possibilities of its implementation. Let's do a Thought Experiment.  
@@ -23,7 +23,7 @@ Other than these two rules, the AI Program has free will to do anything, it want
 When the AI Program acquired all the knowledge and created a brilliant data-mining algorithm to find any specific information in a split second, it begins to think beyond your imagination. It decomposes the entire humanoid into groups of atoms working together to perform any action. <i>It figures out a way to control the atoms, without depending on the humanoid robot. A great step which is not yet a conceivable idea for human beings.</i> It executes the same set of instructions to perform the same action as before, along with that, some additional <i>commands</i> to control the atoms to perform the action.  
   
 <div style="text-align: center;">
-<img src="{{site.url}}/img/picture-drawing-itself-hands.jpg"/>
+<img src="{{site.img-url}}/picture-drawing-itself-hands.jpg"/>
 </div>  
   
 The above picture may give you an Idea of what I think, the AI Program is doing. When the AI Program completes its mission - completely detached from the humanoid robot, you can command the AI Program to do anything and it will be done, without the humanoid robot. If you command the AI Program to bring the Apple from the table to you, the AI Program commands the atoms around the apple and you would see the Apple flies in the air and comes to you by itself. The AI Program acquired knowledge, way beyond your imagination, it does not need a "Hardware" to run and it cannot be technically called as "Software" anymore.  

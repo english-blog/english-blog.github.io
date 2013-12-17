@@ -8,7 +8,7 @@ authorpage: http://penurheart.blogspot.com/
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/resident-dormitus-vikas-rathi.jpg"/>   
+src="{{site.img-url}}/resident-dormitus-vikas-rathi.jpg"/>   
 
 **Book:** Resident Dormitus  
 **Author:** Vikas Rathi  

@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/the-golden-motorcycle-gang-jack-canfield.jpg"/>   
+src="{{site.img-url}}/the-golden-motorcycle-gang-jack-canfield.jpg"/>   
 
 **Book:** The Golden Motorcycle Gang: A Story Of Transformation  
 **Author:** Jack Canfield, William Gladstone  

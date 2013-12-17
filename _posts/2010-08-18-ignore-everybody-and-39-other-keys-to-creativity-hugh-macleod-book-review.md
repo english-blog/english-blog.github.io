@@ -6,7 +6,7 @@ category: books
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 
-src="{{site.url}}/img/ignore-everybody-hugh-macleod.jpg" border="1"/>   
+src="{{site.img-url}}/ignore-everybody-hugh-macleod.jpg" border="1"/>   
 
 **Book:** Ignore Everybody - And 39 Other Keys To Creativity  
 **Author:** Hugh Macleod  

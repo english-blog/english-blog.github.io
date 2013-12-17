@@ -6,7 +6,7 @@ category: challenges
 ---
 
 <div style="text-align: center;">
-<img src="{{site.url}}/img/becoming-a-writer.jpg"/>
+<img src="{{site.img-url}}/becoming-a-writer.jpg"/>
 </div>  
 
 > "I hate writing, I love having written." ― **Dorothy Parker**
