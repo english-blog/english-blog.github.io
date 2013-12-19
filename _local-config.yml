@@ -17,3 +17,4 @@ permalink: /:title/
 relative_permalinks: false
 
 img-url: http://localhost:4000/img
+download-url: http://localhost:4000/downloads

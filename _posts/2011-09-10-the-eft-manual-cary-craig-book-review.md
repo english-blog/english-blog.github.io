@@ -41,7 +41,7 @@ Gary Craig gave out all the information that he "invented" for free to the world
   
 [The Official EFT Website](http://www.eftuniverse.com/)  
   
-[The modified EFT Manual (Free)](http://www.spiritual-web.com/downloads/eftmanual.pdf)  
+[The modified EFT Manual (Free)]({{site.download-url}}/eftmanual.pdf)  
   
 [Seven Power Tips for using EFT](http://www.eftuniverse.com/SevenPowerTips.pdf)  
   

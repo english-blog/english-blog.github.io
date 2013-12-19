@@ -76,7 +76,7 @@ Just like bodybuilding, retraining the eyes to see normally requires more than j
 5. Zinc
 6. Essential Fatty Acids (Linoleic acid & Alpha-Linoleic acid)
 
-I am planning to have at least one meal or snack everyday which has all of these nutrients. I collected the top 10 foods in each nutrient and put them together in this [text file]({{ site.url }}/downloads/Nutrients-for-Eyesight.txt). Please feel free to use this file as a reference.  
+I am planning to have at least one meal or snack everyday which has all of these nutrients. I collected the top 10 foods in each nutrient and put them together in this [text file]({{ site.download-url }}/Nutrients-for-Eyesight.txt). Please feel free to use this file as a reference.  
 
 ### Emotional Freedom Technique
 

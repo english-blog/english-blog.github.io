@@ -37,7 +37,7 @@ Looking at the results, I decided to try this. I created my own excel sheet base
   
 Please [click here to download][xl-tracker-url] my excel sheet template to use for your experiment. Here are the instructions to use.  
 
-[xl-tracker-url]: {{site.url}}/downloads/Weight-Tracker.xls
+[xl-tracker-url]: {{site.download-url}}/Weight-Tracker.xls
 
 * In the 'Graph' worksheet, please enter your name, current weight and your ideal weight (what you think, you can achieve in 3 months)  
 * In the 'Data' Worksheet, just add your current weight on 'Actual Weight' column every day  
