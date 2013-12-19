@@ -25,7 +25,7 @@ permalink: /categories/
 
 <p><a href="{{ site.url }}/category/travelogue/">Travelogue</a></p>
 
-<p><a href="{{ site.url }}/category/thought-experiments/"> Thought Experiments</a></p>
+<p><a href="{{ site.url }}/category/thought-experiments/">Thought Experiments</a></p>
 
 <p><a href="{{ site.url }}/category/science/">Science</a></p>
 
