@@ -8,6 +8,8 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.StringTokenizer;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class GAData {
 
@@ -18,7 +20,7 @@ public class GAData {
 	public static String[] UNWANTED_URLS = { "Page", "/", "/archive/",
 			"/about/", "/best-of/", "/books/", "/?m=1",
 			"/2010/02/01/what-is-love/", "/search/label/Social",
-			"/2013_01_01_archive.html", "/page4/", "/page2/" };
+			"/2013_01_01_archive.html", "/page4/", "/page2/","/category/books/" };
 
 	public static String[] UNWANTED_PAGES = { "404" };
 
@@ -77,6 +79,11 @@ public class GAData {
 		} catch (IOException e) {
 			System.out.println("IOException " + e.toString());
 		}
+		
+		// Change the date in the front matter
+		bestPagesTemplate.replace(bestPagesTemplate.indexOf("DATE"),
+				bestPagesTemplate.indexOf("DATE") + "DATE".length(),
+				new SimpleDateFormat("yyyy-MM-dd HH:mm:SS Z").format(new Date()));
 
 		// Embed the HTML in the best-of.md file
 		bestPagesTemplate.replace(bestPagesTemplate.indexOf("BEST_OF"),
