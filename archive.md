@@ -7,6 +7,8 @@ permalink: /archive/
 
 <div class="post">
     <h3>Blog Archive</h3>
+    <br/>
+    {% include google-cse.html %}
 
     {% for post in site.posts %}
 
