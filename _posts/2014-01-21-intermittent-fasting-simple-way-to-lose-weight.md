@@ -7,7 +7,7 @@ category: health
 
 Last night, when we were about to retire to bed, Sangavi said, "Mama, Shall we eat raw vegan twice a week?".  
 
-I was flabergasted and asked her why?. She said, "Earlier, I would fit into every type of dress out there in the market. But today, I rejected few dresses, because I may not look good in them. I did not like that. I stopped for a moment and reflected on my physical condition. I decided to get back to my original shape. Suggest me what to do."  
+I was flabbergasted and asked her why?. She said, "Earlier, I would fit into every type of dress out there in the market. But today, I rejected few dresses, because I may not look good in them. I did not like that. I stopped for a moment and reflected on my physical condition. I decided to get back to my original shape. Suggest me what to do."  
 
 The only time in my life, I am so happy that my wife went shopping :)  
 
@@ -36,9 +36,9 @@ There are hundreds of ways to do Intermittent Fasting. Google it. The one I am i
 * Start your first meal about 1 PM (afternoon) and finish your meal before 9 PM (night). Essentially, your feeding window (the time you can eat) is 8 hours. You can choose your convenient time as long as it is within 8 hours.
 * Typical IF diets includes only two meals a day. Still, you can eat as many meals as you can within the feeding window.
 * Drink a lot of water and if very hungry, you can eat any food within 50 Calories.
-* It would be very beneficial, if you do weight training during the Fasted State. It would be tiring in the begining, but your body would adopt sooner than you think.
+* It would be very beneficial, if you do weight training during the Fasted State. It would be tiring in the beginning, but your body would adopt sooner than you think.
 
-Below diagram depicts the typical week of an intermitent fasting.  
+Below diagram depicts the typical week of an intermittent fasting.  
 
 <div style="text-align: center;">
 <img src="{{site.img-url}}/leangains-daily-intermittent-fasting.jpg" width="100%"/>
