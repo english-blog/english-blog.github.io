@@ -18,7 +18,7 @@ src="{{site.img-url}}/the-hero-rhonda-bryne.jpeg"/>
 **Binding:** Hardcover   
 **Number of Pages:** 240 Pages   
 
-
+I read all the books by Rhonda Bryne. The first book "The Secret" gives a glimpse of "The Law of Attraction". The second book "The Power" talks about "The Law of Love" - love, gratitude, giving & belief. This is essentially the same LOA in a different flavour. The third book "The Magic"
 
 
 

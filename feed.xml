@@ -16,6 +16,9 @@ date: 2013-12-12 00:00:00 +0530
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+	  			<media:content type="image/jpeg"> 	  
+					<media:thumbnail url="{{ site.url }}/img/drew-barrymore.jpg" />	  
+	  			</media:content>
 			</item>
 		{% endfor %}
 	</channel>
