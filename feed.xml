@@ -17,7 +17,7 @@ date: 2013-12-12 00:00:00 +0530
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 	  			<media:content type="image/jpeg"> 	  
-					<media:thumbnail url="{{ site.url }}/img/drew-barrymore.jpg" />	  
+					<media:thumbnail url="{{ site.url }}/img/drew-barrymore.jpg"/> </media:thumbnail>	  
 	  			</media:content>
 			</item>
 		{% endfor %}
