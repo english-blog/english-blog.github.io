@@ -3,7 +3,7 @@ layout: none
 date: 2013-12-12 00:00:00 +0530
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
 		<title>{{ site.name }}</title>
 		<link>{{ site.url }}</link>
@@ -19,7 +19,6 @@ date: 2013-12-12 00:00:00 +0530
 		<managingEditor>prem@smileprem.com</managingEditor>
 		<webMaster>prem@smileprem.com</webMaster>
 		<author>prem@smileprem.com</author>
-		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
 		{% for post in site.posts %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
