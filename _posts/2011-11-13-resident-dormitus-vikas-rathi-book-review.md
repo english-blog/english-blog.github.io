@@ -3,8 +3,8 @@ layout: post
 title: Resident Dormitus
 date: 2011-11-13
 category: books
-authorname: Sruthi Kitcha
-authorpage: http://penurheart.blogspot.com/
+author: Sruthi Kitcha
+authorpage: http://penurheart.blogspot.com
 ---
 
 <img style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;" 

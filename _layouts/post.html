@@ -4,10 +4,10 @@ layout: default
 <h2>{{ page.title }}</h2>
 
 <div class="post">
-	{% if page.authorname != null %}
-		<h6>by <a href="{{ page.authorpage }}">{{ page.authorname }}</a></h6>
+	{% if page.author != null %}
+		<h6>by <a href="{{ page.authorpage }}">{{ page.author }}</a></h6>
 	{% else %}
-		<h6>by <a href="{{ site.url }}/about/">{{ site.name }}</a></h6>
+		<h6>by <a href="{{ site.url }}/about/">{{ site.author }}</a></h6>
 	{% endif %}
 
 	{{ content }}

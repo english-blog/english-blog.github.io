@@ -1,7 +1,9 @@
-name: Premkumar Masilamani
+name: smileprem
 description: On a journey called Life
 title: Premkumar Masilamani's Personal Blog
 url: http://localhost:4000
+author: Premkumar Masilamani
+email: prem@smileprem.com
 
 paginate: 10
 

@@ -6,10 +6,10 @@ date: 2013-12-12 00:00:00 +0530
   
   {% for post in site.posts limit:1 %}
 	<h2>{{ post.title }}</h2>
-	{% if post.authorname == "" %}
-		<h6>by <a href="{{ post.authorpage }}">{{ post.authorname }}</a>.</h6>
+	{% if post.author == "" %}
+		<h6>by <a href="{{ post.authorpage }}">{{ post.author }}</a>.</h6>
 	{% else %}
-		<h6>by <a href="{{ site.url }}/about/">{{ site.name }}</a>.</h6>
+		<h6>by <a href="{{ site.url }}/about/">{{ site.author }}</a>.</h6>
 	{% endif %}
 
 	{{ post.content }}

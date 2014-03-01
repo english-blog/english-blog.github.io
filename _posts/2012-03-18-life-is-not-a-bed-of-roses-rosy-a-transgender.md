@@ -3,8 +3,8 @@ layout: post
 title: Life is not a bed of roses - Rosy, A Transgender !
 date: 2012-03-18
 category: social
-authorname: Sruthi Kitcha
-authorpage: http://penurheart.blogspot.com/
+author: Sruthi Kitcha
+authorpage: http://penurheart.blogspot.com
 ---
 
 <div style="text-align: center;">
