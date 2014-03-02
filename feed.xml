@@ -32,7 +32,6 @@ date: 2013-12-12 00:00:00 +0530
 				<category>{{ post.category }}</category>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-				<enclosure url="{{ site.url }}/img/drew-barrymore.jpg" type="image/jpeg" />
 			</item>
 		{% endfor %}
 	</channel>
