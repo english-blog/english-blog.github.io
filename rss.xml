@@ -3,7 +3,7 @@ layout: none
 date: 2013-12-12 00:00:00 +0530
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:media = "http://search.yahoo.com/mrss/" version="2.0">
 	<channel>
 		<title>{{ site.title }}</title>
 		<link>{{ site.url }}</link>
@@ -30,6 +30,12 @@ date: 2013-12-12 00:00:00 +0530
 				<author>{{ site.author }}</author>
 			{% endif %}
 				<category>{{ post.category }}</category>
+				<!-- added for testing media RSS -->
+				<media:content type="image/jpeg"> 	  
+					<media:title>Drew Barrymore</media:title>
+					<media:description>Gorgeous Drew Barrymore</media:description>
+					<media:thumbnail url="{{site.url}}/img/drew-barrymore.jpg" height="1200" width="1920"> </media:thumbnail>	  
+				</media:content>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 			</item>
