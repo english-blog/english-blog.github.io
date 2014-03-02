@@ -12,7 +12,7 @@ date: 2013-12-12 00:00:00 +0530
 		<copyright>Uncopyrighted. Free to the world.</copyright>
 		<image>
 			<url>{{site.url}}/img/Premkumar_Masilamani.jpg</url>
-			<title>{{ site.title }}</title>
+			<title>{{ site.author }}</title>
 			<link>{{ site.url }}</link>
 		</image>
 		<language>en-us</language>
@@ -24,8 +24,15 @@ date: 2013-12-12 00:00:00 +0530
 				<title>{{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<description>{{ post.content | xml_escape }}</description>
+			{% if post.author != null %}
+				<author>{{ post.author }}</author>
+			{% else %}
+				<author>{{ site.author }}</author>
+			{% endif %}
+				<category>{{ post.category }}</category>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+				<enclosure url="{{ site.url }}/img/drew-barrymore.jpg" type="image/jpeg" />
   				<media:content medium="image" type="image/jpeg" url="{{ site.url }}/img/drew-barrymore.jpg">
                 			<media:title>drew-barrymore</media:title>
                 			<media:description />
