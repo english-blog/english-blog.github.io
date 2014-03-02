@@ -18,7 +18,7 @@ date: 2014-03-02 00:00:00 +0530
 	</author>
 	<category term="blogs"/>
 	<icon>{{ site.url }}/favicon/favicon-195.png</icon>
-	<logo>{{site.url}}/img/Premkumar_Masilamani.jpg</logo>
+	<logo>{{ site.url }}/img/Premkumar_Masilamani.jpg</logo>
 
 	{% for post in site.posts %}
 	<entry>
@@ -34,8 +34,7 @@ date: 2014-03-02 00:00:00 +0530
 			<email>{{ site.email }}</email>
 		</author>
 		<category term="{{ post.category }}"/>
-		<content type="html" xml:lang="en" xml:base="{{ site.url }}">{{ post.content | xml_escape }}</content>
-		<summary type="html">{{ post.content | xml_escape }}</summary>
+		<content type="html" xml:lang="en" xml:base="{{ site.url }}{{ post.url }}">{{ post.content | xml_escape }}</content>
 	</entry>
 	{% endfor %}
 </feed>
