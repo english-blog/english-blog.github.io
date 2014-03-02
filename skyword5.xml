@@ -1,0 +1,28 @@
+---
+layout: none
+date: 2013-12-12 00:00:00 +0530
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media = "http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>test</title>
+    <link>test</link>
+    <description>test</description>
+    <language>en-us</language>
+    <item>
+      <title>test</title>
+      <link>http://priceless-caribbean.com/where-to-find-the-best-upscale-caribbean-hot-spots/</link>
+      <description>test</description>
+      <category>test</category>
+	  <media:content type="image/jpeg"> 	  
+	        <media:title>test</media:title>
+			<media:description>test</media:description>
+			<media:thumbnail url="http://upload.wikimedia.org/wikipedia/commons/7/72/MasterCard_early_1990s_logo.png" height="120" width="160"> </media:thumbnail>	  
+	  </media:content>
+
+      <pubDate>Mon, 24 Feb 2014 18:25:21 GMT</pubDate>
+      <guid>http://priceless-caribbean.com/where-to-find-the-best-upscale-caribbean-hot-spots/</guid>
+    </item>
+  </channel>
+</rss>
+
