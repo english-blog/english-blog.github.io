@@ -3,7 +3,7 @@ layout: none
 date: 2013-12-12 00:00:00 +0530
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:media = "http://search.yahoo.com/mrss/" version="2.0">
 	<channel>
 		<title>{{ site.title }}</title>
 		<link>{{ site.url }}</link>
@@ -30,13 +30,13 @@ date: 2013-12-12 00:00:00 +0530
 				<author>{{ site.author }}</author>
 			{% endif %}
 				<category>{{ post.category }}</category>
+	  <media:content type="image/jpeg"> 	  
+	        <media:title>Grilling Steaks for Summer</media:title>
+			<media:description>Get perfectly done steaks every time</media:description>
+			<media:thumbnail url="http://upload.wikimedia.org/wikipedia/commons/7/72/MasterCard_early_1990s_logo.png" height="120" width="160"> </media:thumbnail>	  
+	  </media:content>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-<media:content type="image/jpeg">
-<media:title>Grilling Steaks for Summer</media:title>
-<media:description>Get perfectly done steaks every time</media:description>
-<media:thumbnail url="http://upload.wikimedia.org/wikipedia/commons/7/72/MasterCard_early_1990s_logo.png" height="120" width="160"></media:thumbnail>
-</media:content>
 			</item>
 		{% endfor %}
 	</channel>
