@@ -2,7 +2,7 @@
 layout: post
 title: Indian Toilet vs Western Toilet
 date: 2013-05-13
-category: social
+category: health
 ---
 
 I came back from UK recently and have to stay in my friend's home which has only Indian Toilet (Squatting Type). When I was using Indian Toilet - Whooooshhh... the whole business took less than 2 minutes and it was effortless. I normally take 5 - 10 minutes while using a Western Toilet. Once I moved to my own apartment which has Western Toilet (Sitting Type), going to the bathroom was not a breeze anymore. That triggered this research about the natural human defecating postures.  
@@ -47,8 +47,7 @@ Dr. Rad concluded that the use of the squat toilet "is a more comfortable and ef
 ### What's Next:  
 
 * Install an Indian toilet (or any eastern type squatting toilet) in your home. (Best &amp; Recommended)  
-* Use a Squat Toilet Utility like [Squatty Potty](http://www.squattypotty.com/Articles.asp?ID=267).You don't need to pay so much for a simple device. There are cheaper alternatives available in market. Just google. I never used this personally. So, I cannot comment on this. Just try, if you cannot do option 1.  
-  
+* Use a Squat Toilet Utility like [Squatty Potty](http://www.squattypotty.com/?Click=48367).You don't need to pay so much for a simple device. There are cheaper alternatives available in market. Just google. I never used this personally. So, I cannot comment on this. Just try, if you cannot do option 1.  
 
 **References:**  
 [Health Benefits of the Natural Squatting Position](http://www.naturesplatform.com/health_benefits.html)  
