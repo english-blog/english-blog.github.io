@@ -18,22 +18,22 @@ Out of nowhere, I got the idea for the below posture. Theists can call it - "Div
 ###Posture 1
 
 <div style="text-align: center;">
-<img src="{{site.img-url}}/Premkumar_Masilamani.jpg"/>
+<img src="{{site.img-url}}/using-western-toilets-posture-1.jpg"/>
 </div>
 
-When you try this posture, please keep your legs as wide as possible. You can rest your palms on your legs or on the floor, if the floor is clean. Since you keep your legs wide, you will have to remove your pants. Yeah. Since you are alone in the loo, that should be OK. Right?. This posture is very comfortable and I use this posture, most of the time. There are some minor inconvenience when you start this posture.
+When you try this posture, please keep your legs as wide as possible. You can rest your palms on your legs or on the floor, if the floor is clean. Since you keep your legs wide, you will have to remove your pants. Yeah. Since you are alone in the loo, that should be OK. Right?. This posture is very comfortable and I use this posture, most of the time. There are some minor inconvenience when you start this method.
 
-1. Its your mind. You feel like someone's fucking you from behind. I felt that. It was awkward. This feeling goes off in few days. You will get used to this posture.
+1. It's in your mind. You feel like someone's fucking you from behind. I felt that. It was awkward. This feeling goes off in few days. You will get used to this posture.
 2. If you are in this posture for a long time, you can feel the strain in your arms. I suggest to sit in normal position and only when you get the urge, move to this position to defecate. Its effective.
-3. If you have a big belly or pregnant or having high BP, please don't attempt this posture. This is not for you guys. 
+3. If you have a big belly or high BP or pregnant, please don't attempt this posture. This is not for you guys. 
 
 ###Posture 2
 
 <div style="text-align: center;">
-<img src="{{site.img-url}}/Premkumar_Masilamani.jpg"/>
+<img src="{{site.img-url}}/using-western-toilets-posture-2.jpg"/>
 </div>
 
-This is the enhanced version of the previous posture. This posture reduces the strain on your arms. You can use a bucket or any other object that you have in your bathroom. So far, I have not faced any inconveniences using this posture. Please let me know, if there are any.  
+This is the enhanced version of the previous posture. This posture reduces the strain on your arms. You can use a bucket or any other object that you have in your bathroom. Please make sure that you bend forward as much as you could (i.e.) use a small bucket or stool. So far, I have not faced any inconveniences using this posture. Please let me know, if there are any.  
 
 Both of these postures will not work, if you are overweight or could not bend down for some reason. Squatty Potty may help.
 
@@ -52,5 +52,6 @@ To try this option, please go to the website [www.squattypotty.com](http://www.s
 
 **If you know any other better/easy options, please let the readers know in the comments section.**
 
- 
+Pencil Sketches by [K. Samuel](https://www.facebook.com/pages/K-Samuel/797805280247182)  
+
  
