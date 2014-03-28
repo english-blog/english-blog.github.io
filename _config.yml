@@ -1,0 +1,22 @@
+name: smileprem
+description: On a journey called Life
+title: Premkumar Masilamani's Personal Blog
+url: http://blog.smileprem.com
+author: Premkumar Masilamani
+email: prem@smileprem.com
+
+paginate: 10
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+pygments: true
+safe: false
+lsi: false
+
+permalink: /:title/
+relative_permalinks: false
+
+img-url: http://blog.smileprem.com/img
+download-url: http://blog.smileprem.com/downloads

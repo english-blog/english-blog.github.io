@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	{% if page.title == null %}
+        	<title>{{ site.title }}</title>
+	{% else %}
+	        <title>{{ page.title }}</title>
+	{% endif %}
+	
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+	<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}" />
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Zenhabits Style CSS -->
+        <link rel="stylesheet" href="/css/style.css">
+
+	{% include favicon.html %}
+	{% include analytics.html %}
+
+    </head>
+    <body>
+
+	<div class="container">
+	  <div class="top">
+	    <h1><a href="/">{{ site.name }}</a> : 
+	    <a id="tagline" href="http://tamil.smileprem.com/">&#x0b95;&#x0ba9;&#x0bb5;&#x0bc1;</a></h1>
+	  </div>
+
+          {{ content }}
+
+	  <div class="footer">
+		<p><a href="{{ site.url }}/best-of/">Best Of</a> :: 
+		<a href="{{ site.url }}/archive/">Archive</a> ::
+		<a href="{{ site.url }}/categories/">Categories</a> ::
+		<a href="{{ site.url }}/category/books/">Books</a> ::
+  		<a href="{{ site.url }}/about/">About</a> ::  
+		<a href="{{ site.url }}/contact/">Contact</a> :: 
+		<a href="{{ site.url }}/uncopyright/">Uncopyright</a></p><br/><br/>
+	  </div>
+	</div>
+    </body>
+</html>
