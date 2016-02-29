@@ -1,0 +1,90 @@
+Vitamin A:
+**********
+#1: Liver
+#2: Paprika, Red Pepper, Cayenne, Chili Powder
+#3: Sweet Potatoes 
+#4: Carrots 
+#5: Dark Leafy Greens 
+#6: Butternut Squash 
+#7: Dried Herbs - Dried Parsley, Dried Basil, Dried Marjoram, Dill and Oregano
+#8: Lettuce 
+#9: Dried Apricots 
+#10: Cantaloupe 
+
+Vitamin C:
+**********
+#1: Red and Green Hot Chili Peppers
+#2: Guavas
+#3: Bell Peppers
+#4: Fresh Herbs (Thyme and Parsley)
+#5: Dark Leafy Greens (Kale, Mustard Greens, Garden Cress)
+#6: Broccoli, Cauliflower, Brussels Sprouts
+#7: Kiwi Fruits (Chinese Gooseberries)
+#8: Papayas (aka: Lechoza, Mamão, Pawpaw)
+#9: Oranges and Clementines (Tangerines)
+#10: Strawberries
+
+Vitamin E:
+**********
+#1: Tofu (Light, Silken)
+#2: Spinach, Swiss Chard, Turnip Greens, Collards, and Kale
+#3: Nuts - Almonds, Hazelnuts, Pistachios, Pecans, and Walnuts
+#4: Sunflower Seeds, Pumpkin & Squash Seeds and Sesame Seeds
+#5: Avocados
+#6: Shellfish - Shrimp, Crayfish and Oysters
+#7: Fish - Rainbow Trout, Swordfish, Herring, Smoked Salmon, and Salmon
+#8: Plant Oils - Olive Oil, Wheat Germ, Sunflower, Grapeseed, Canola, and Corn Oil
+#9: Broccoli 
+#10: Squash & Pumpkin (Cooked Butternut Squash)
+
+Lutein-Zeaxanthin
+*****************
+#1: Kale
+#2: Spinach
+#3: Dandelion greens
+#4: Paprika
+#5: Pepper (red or cayenne)
+#6: Turnip greens
+#7: Garden Cress
+#8: Swiss Chard
+#9: Collards
+#10: Chicory greens
+
+Zinc:
+*****
+#1: Seafood (Cooked Oysters) Crab, and Lobster
+#2: Beef and Lamb (Cooked Lean Beef Shortribs) Lean Foreshank, Lean Shoulder and Lean Cubed Lamb for Stewing
+#3: Wheat Germ (Toasted)
+#4: Spinach Amaranth Leaves, cooked, and Endive and Radiccio, raw
+#5: Pumpkin and Squash Seeds Sunflower, Chia, and Flaxseeds
+#6: Nuts (Cashews) Pine nuts, Pecans, Almonds, Walnuts, Peanuts, and Hazelnuts
+#7: Cocoa and Chocolate (Cocoa Powder)
+#8: Pork & Chicken (Cooked Lean Pork Shoulder)
+#9: Beans (Cooked Mung Beans) Baked Beans, Adzuki, Chickpeas and Kidney Beans
+#10: Mushrooms (Cooked White Mushrooms)
+
+Essential Fatty Acids (Linoleic acid)
+*************************************
+#1: Salicornia oil
+#2: Safflower oil
+#3: Evening Primrose oil
+#4: Poppyseed oil
+#5: Grape seed oil
+#6: Sunflower oil
+#7: Hemp oil
+#8: Corn oil
+#9: Wheat germ oil
+#10: Cottonseed oil
+
+Essential Fatty Acids (Alpha-Linoleic acid)
+*************************************
+#1: Chia
+#2: Kiwifruit seeds
+#3: Perilla
+#4: Flaxseed
+#5: Lingonberry
+#6: Camelina
+#7: Purslane
+#8: Seaberry
+#9: Hemp
+#10: Rapeseed

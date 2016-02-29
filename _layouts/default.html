@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/Blog" lang="en-US">
+  {% include head.html %}
+  <body bgcolor="#f1f1f1">
+    <center>
+    <h1>
+      <a href="/" title="Home">{{ site.title }}</a><br>
+      <small>{{ site.tagline }}</small>
+    </h1>
+    {% include header.html %}
+    <hr>
+    {{ content }}
+  </body>
+</html>

@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<div>
+  <h2>{{ page.title }}</h2>
+  {{ page.date | date_to_string }}
+  <br/><br/>
+  <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/{{ page.category }}">{{ page.category | camelcase }}</a>
+  <br/><br/>
+  {{ content }}
+  {% include amazon-affiliate.html %}
+  You are here : <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/{{ page.category }}">{{ page.category | camelcase }}</a>  
+</div>
+<div>
+  <br/>
+  {% include social_share.html %}
+  <br/>
+</div>
+<div>
+  {% if page.previous.url %} 
+    <a href="{{page.previous.url}}">&lt;&lt; Older</a>
+  {% else %}
+    Older
+  {% endif %}
+  {% if page.next.url %} 
+    <a href="{{page.next.url}}">Newer &gt;&gt;</a>
+  {% else %}
+    Newer
+  {% endif %}
+</div>
+<div>
+  <br/>
+  {% include subscribe.html %}
+  <br/>
+</div>
+

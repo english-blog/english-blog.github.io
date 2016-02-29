@@ -1,0 +1,10 @@
+---
+layout: default
+date: DATE
+title: Best of
+permalink: /best-of/
+---
+<span><a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/best-of">best of</a></span>
+
+BEST_OF
+

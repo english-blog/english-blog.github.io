@@ -1,0 +1,22 @@
+title:            disrupting the known &amp; the unknown 
+tagline:          on a journey called life
+url:              http://blog.smileprem.com
+copyright:        copyleft @ 2009. free to all.
+
+author:           homo sapien
+email:            contact@smileprem.com
+mobile:           xxx-xxx-xxxx 
+tamil:            http://tamil.smileprem.com
+rawvegan:         http://www.raw-vegan-recipes.com
+facebook:         https://www.facebook.com/id-does-not-exist
+twitter:          https://twitter.com/id-does-not-exist
+linkedin:         http://www.linkedin.com/in/premkumarmasilamani
+
+gems:             [jekyll-paginate]
+paginate:         10
+
+permalink:        /:title/
+
+img-path:         http://blog.smileprem.com/public/img
+download-path:    http://blog.smileprem.com/public/downloads
+
