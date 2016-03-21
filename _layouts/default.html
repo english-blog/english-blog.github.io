@@ -3,12 +3,10 @@
   {% include head.html %}
   <body bgcolor="#f1f1f1">
     <center>
-    <h1>
-      <a href="/" title="Home">{{ site.title }}</a><br>
-      <small>{{ site.tagline }}</small>
-    </h1>
-    </center>
-    {% include header.html %}
+		<h1><a href="/" title="Home">{{ site.title }}</a></h1>
+		<h2>{{ site.tagline }}</h2>        
+		{% include header.html %}
+	</center>
     <hr>
     {{ content }}
   </body>
