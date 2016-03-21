@@ -3,12 +3,6 @@ layout: default
 date: 2013-12-12 00:00:00 +0530
 ---
 
-<p>I love to run, lift weights, eat healthy, think, write, read, question, learn, travel, meet new people, repeatedly challenge myself on various aspects of living, become a guinea pig for my own experiments and indulge in monologues/debates when I have nothing else to do.</p>
-
-<p>This blog summarizes everything that I am. This blog details some of my experiences, experiments and thought processes which may help you to live a better life. So, Go ahead. Dive In.</p>
-
-<h2>Latest Posts</h2>
-
 {% for post in paginator.posts %}
   <p>&#149;&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></p>
 {% endfor %}
