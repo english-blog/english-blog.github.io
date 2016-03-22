@@ -2,7 +2,7 @@
 layout: post
 title: A Crazy Experiment In Blogging
 date: 2015-07-20
-category: challenges
+category: technology
 ---
 
 If I could read your thoughts..
