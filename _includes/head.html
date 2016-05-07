@@ -36,7 +36,7 @@
   <!-- ATOM -->
   <link rel="alternate" type="application/atom+xml" title="ATOM 1.0 Feed - disrupting the known &amp; the unknown" href="{{ site.url }}/atom.xml">  
 
-<script type="text/javascript">
+  <script type="text/javascript">
 function scale_images() {
   var maxw = window.innerWidth;
   var maxh = window.innerHeight;
@@ -57,9 +57,11 @@ function scale_images() {
     img.style.width  = w + "px";
     img.style.height = h + "px";
   }
+  alert('resized');
 }
 document.body.onload = scale_images;
 document.body.onresize = scale_images;
 document.body.onorientationchange = scale_images;
 </script>
+
 </head>  
