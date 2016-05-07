@@ -15,10 +15,8 @@ permalink: /sitemap/
                {% for post in posts %}
                  {% if post.url %}
                    <li>
-                    <a href="{{ post.url }}">                      
-                      {{ post.title }}
-                    </a>
-                  </li>
+						<p><a href="{{ post.url }}">{{ post.title }}</a></p>
+                   </li>
                 {% endif %}
               {% endfor %}
             {% endfor %}
