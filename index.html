@@ -3,10 +3,12 @@ layout: page
 date: 2016-03-22 00:00:00 +0530
 title: Latest Articles
 ---
-
+<ul>
 {% for post in paginator.posts %}
-  <p>&#149;&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></p>
+	<li>
+		<p><a href="{{ post.url }}">{{ post.title }}</a></p>
+	</li>
 {% endfor %}
-
+</ul>
 {% include subscribe.html %}
 <br><br>

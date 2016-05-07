@@ -8,34 +8,36 @@ permalink: /categories/
 
 <p><a href="{{ site.url }}">home</a> &nbsp;&gt;&nbsp; <a href="{{ site.url }}/categories">categories</a></p>
 
-<p>This blog is segmented into multiple categories depending on the content of each blog post. Please click any of the categories below to view the blog posts exclusive to that specific category</p>
+<ul>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/running/">Running</a></p>
+<li><p><a href="{{ site.url }}/category/running/">Running</a></p></li>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/bucket-list/">Bucket List</a></p>
+<li><p><a href="{{ site.url }}/category/bucket-list/">Bucket List</a></p></li>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/books/">Library</a></p>
+<li><p><a href="{{ site.url }}/category/books/">Library</a></p></li>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/apps/">Apps</a></p>
+<li><p><a href="{{ site.url }}/category/apps/">Apps</a></p></li>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/health/">Health</a></p>
+<li><p><a href="{{ site.url }}/category/health/">Health</a></p></li>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/social/">Social</a></p>
+<li><p><a href="{{ site.url }}/category/social/">Social</a></p></li>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/self-improvement/">Self Improvement</a></p>
+<li><p><a href="{{ site.url }}/category/self-improvement/">Self Improvement</a></p></li>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/challenges/">Challenges</a></p>
+<li><p><a href="{{ site.url }}/category/challenges/">Challenges</a></p></li>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/technology/">Technology</a></p>
+<li><p><a href="{{ site.url }}/category/technology/">Technology</a></p></li>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/personal/">Personal</a></p>
+<li><p><a href="{{ site.url }}/category/personal/">Personal</a></p></li>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/travelogue/">Travelogue</a></p>
+<li><p><a href="{{ site.url }}/category/travelogue/">Travelogue</a></p></li>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/thought-experiments/">Thought Experiments</a></p>
+<li><p><a href="{{ site.url }}/category/thought-experiments/">Thought Experiments</a></p></li>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/spirituality/">Spirituality</a></p>
+<li><p><a href="{{ site.url }}/category/spirituality/">Spirituality</a></p></li>
 
-<p>&#149;&nbsp;&nbsp;<a href="{{ site.url }}/category/review/">Reviews</a></p>
+<li><p><a href="{{ site.url }}/category/review/">Reviews</a></p></li>
+
+</ul>
 
 </div>
