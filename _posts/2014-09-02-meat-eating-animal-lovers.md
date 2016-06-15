@@ -10,7 +10,6 @@ category: social
 ---
 
 ![Why Love One But Eat Another]({{site.img-path}}/why-love-one-but-eat-the-other.png)  
-<small>Photo Credit: [beveg.ca](http://www.beveg.ca/index.php)</small>  
 
 First, let me be clear.
 
@@ -112,7 +111,6 @@ OK. Here is a vegan calisthenics expert Frank Medrano.
 Yes. I chose to show Frank Medrano, because we were slim for millions of years. If we cannot run, we die. Evolution rule doesn't apply here?. Is it?. Still, there are a lot of natural bodybuilders, even raw vegan bodybuilders who built such a big physique. Here is Jim Morris. a vegan bodybuilder at 61 & 71 yrs of age.  
 
 ![Jim Morris at 61 yrs]({{site.img-path}}/jim-morris-age-61-age-71.png)  
-<small>Photo Credit: [Jim Morris](http://www.gymmorris.com/)</small>  
 
 *Who are you to say this to me?.*
 
