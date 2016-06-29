@@ -45,7 +45,7 @@ There is a new measure of success associated with the blogs. "hits, visits, page
 
 I wish things stayed as simple as it was. 
 
-###The Crazy Blog Experiment
+### The Crazy Blog Experiment
 
 What happens when I take a relatively **successful** blog (approx. 300 - 400 readers per day) and tear apart all the components which are considered to fuel the "so-called success" of this blog?.
 
