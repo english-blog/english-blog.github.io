@@ -41,7 +41,7 @@ Now, It's different. Too much of noise out there. Blogs are content providers an
 
 There is a new measure of success associated with the blogs. "hits, visits, page views". They are not called readers anymore. Only visitors. Who cares. All I need is the incoming traffic to my blog and viral shares. The more traffic I get, the more money I can make out of it. The recent trend is collecting emails and spamming your Inbox. Email List = Money.
 
-> Have you seen any decent blog recently - which does not ask for your email, does not sell you a product and does provide full feed in RSS/Atom?. A blog which is not interested in web traffic? 
+> Have you seen any decent blog recently - which does not ask for your email, does not sell you a product and **does provide full feed** in RSS/Atom?. A blog which is not interested in web traffic? 
 
 I wish things stayed as simple as it was. 
 
