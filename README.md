@@ -1,6 +1,6 @@
 ## disrupting the known &amp; the unknown
 
-This website is built with Jekyll, hosted on GitHub pages with HTML only. (Not even CSS)  
+My [blog](http://blog.smileprem.com) is built with Jekyll, hosted on GitHub pages with HTML only. (Not even CSS)  
   
 All the artifacts in this repository are opensource. You can fork this repo and use it as you wish.  
 
