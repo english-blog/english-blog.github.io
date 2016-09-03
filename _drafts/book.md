@@ -15,3 +15,5 @@ category: books
 **Number of Pages:**   
 **Language:** English  
 
+
+Please buy the book from your local bookstore. [Reasons not to buy from Amazon](https://stallman.org/amazon.html)<br/><br/>

@@ -28,23 +28,23 @@ Surprisingly, the first chapter starts with a quote from an atheist, analytic ph
   
 Rick wants all the Christians to know and follow the god's five purposes.  
   
-###Purpose #1: You were planned for God's pleasure.  
+### Purpose #1: You were planned for God's pleasure.
 
 Seriously, I was excited on reading the chapter's title. But its not what I thought though. he he he. This chapter teaches how to worship god, how to make him smile, how to surrender yourself, how to become god's friend etc. The entire chapter is summarized in the below sentence (page 75). God says *"You have no right to argue with your Creator. You are merely a clay pot shaped by a potter". *Great. I actually wanted to throw away this book at this point. But thought, there should be at least few lines of good wisdom that will be applicable to the entire human population.So, went ahead...  
   
-###Purpose #2: You were formed for God's family.  
+### Purpose #2: You were formed for God's family.
 
 *"Love others as you love yourselves"*. This is one of the most important teachings of Christianity that I love to even spread the message. *"No matter what I say, what I believe, and what I do, I'm bankrupt without love"*. This chapter tells us how to form relationships, love everyone (not just Christians. I likes this), why do you need church, the importance of the communities, experiencing the life together, restoring the broken fellowship and protecting the church. I would recommend even the non Christians to read this chapter. The world would be awesome & lovely, if everyone understands this one message.  
   
-###Purpose #3: You were created to become like Christ.  
+### Purpose #3: You were created to become like Christ.
 
 This chapter tells you how to grow like Christ. This chapter deals with understanding the Truth (?), handling the trouble as Jesus would (?), dealing with temptations and how to keep yourselves focused on doing good to others. Excellent work by Rick on the chapters dealing with temptations.  
   
-###Purpose #4: You were shaped for serving god.  
+### Purpose #4: You were shaped for serving god.
 
 You are commanded to serve like a servant, accept your weakness and request god to help you in all the troubled times. How to think and act like a servant and why you should not lead.   
   
-###Purpose #5: You were made for a mission.  
+### Purpose #5: You were made for a mission.
 
 To help (?) the god to find his lost children. To bring more people to the god, by telling the good news(?) to everyone. That's the only mission for which God created you from Clay. he he he.  
   
