@@ -3,10 +3,6 @@ layout: post
 title: The Monk Who Sold His Ferrari
 date: 2011-12-25
 category: books
-aff-in: http://www.amazon.in/gp/product/817992162X?ie=UTF8&camp=3626&creativeASIN=817992162X&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/0062515675?ie=UTF8&camp=1789&creativeASIN=0062515675&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/0006385125?ie=UTF8&camp=15121&creativeASIN=0006385125&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/0007179731?ie=UTF8&camp=1634&creativeASIN=0007179731&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** The Monk Who Sold His Ferrari  
@@ -117,6 +113,3 @@ The long winding path studded with millions of diamonds represents the final vir
 **Practice Gratitude:** Be grateful for all the small things that you have in life. Even if you are bankrupt, you can be grateful for being alive, being able to think and read. When you are in a grateful mood, you mind becomes very positive and optimistic and you start doing positive actions which would bring you success in whatever you desire.  
   
 I felt like writing an entire book, for writing just this review. Whooh. This is not just a book review, but a book-let version - for those who doesn't have the time to read. I will come back to this blog post often to remind me all the virtues. Some books are meant to be read again and again. This is one of them. Get your copy and start reading !  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  
-

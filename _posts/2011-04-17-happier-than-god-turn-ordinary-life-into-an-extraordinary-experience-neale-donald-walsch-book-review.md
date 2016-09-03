@@ -3,10 +3,6 @@ layout: post
 title: Happier Than God - Turn ordinary life into an extraordinary experience
 date: 2011-04-17
 category: books
-aff-in: http://www.amazon.in/gp/product/8179928802?ie=UTF8&camp=3626&creativeASIN=8179928802&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1571745769?ie=UTF8&camp=1789&creativeASIN=1571745769&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/1401933661?ie=UTF8&camp=15121&creativeASIN=1401933661&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1848505191?ie=UTF8&camp=1634&creativeASIN=1848505191&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** Happier Than God - Turn Ordinary Life Into An Extraordinary Experience  
@@ -54,5 +50,3 @@ Good read. Too big to explain in a short review of this book. If you liked *"The
 17. Know what to do when things are really bad  
   
 Some of these may not make sense at first. If you read the explanations, you would agree. Its is true that you will feel happier after reading this book. I closed this book with a smile on my face. I wish you should have similar experience. Order the book now !!!  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

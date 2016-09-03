@@ -3,13 +3,6 @@ layout: post
 title: Chicken Soup For The Indian Soul - A Book Of Miracles
 date: 2012-01-03
 category: books
-author-name: Sruthi Kitcha
-author-email: sruthikitcha.123@gmail.com
-author-site: http://penurheart.blogspot.com
-aff-in: http://www.amazon.in/gp/product/9381626367?ie=UTF8&camp=3626&creativeASIN=9381626367&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/B00GSO7PX2?ie=UTF8&camp=1789&creativeASIN=B00GSO7PX2&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/8189975439?ie=UTF8&camp=15121&creativeASIN=8189975439&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/8189975439?ie=UTF8&camp=1634&creativeASIN=8189975439&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** Chicken Soup For The Indian Soul: A Book Of Miracles  
@@ -69,5 +62,3 @@ Literary critic is a little difficult with respect to this particular book becau
 The book might be a really a book of miracles for those who really believe in a supreme power while might make the agnostics scratch their chins with skepticism. And for those trying to take a double stand, this book definitely has the potential to convince you to turn a believer of miracles. You can find conviction and genuineness in all the 101 stories. I would conclude that any event and every event in life is a miracle, for I consider: *Life itself is a MIRACLE.*  
   
 **PS:** This review is a part of the [Book Reviews Program](http://blog.blogadda.com/2011/05/04/indian-bloggers-book-reviews) at [BlogAdda.com](http://www.blogadda.com/). Participate now to get free books!  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

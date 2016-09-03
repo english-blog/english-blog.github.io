@@ -3,10 +3,6 @@ layout: post
 title: As A Man Thinketh
 date: 2013-07-28
 category: books
-aff-in: http://www.amazon.in/gp/product/B0082VKK5Y/ref=as_li_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B0082VKK5Y&linkCode=as2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/B0082VKK5Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0082VKK5Y&linkCode=as2&tag=smileprem-us-20&linkId=2DW25DGCIMLXKREX
-aff-ca: http://www.amazon.ca/gp/product/B0082VKK5Y/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B0082VKK5Y&linkCode=as2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/B0082VKK5Y/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0082VKK5Y&linkCode=as2&tag=smileprem-gb-21
 ---
 
 This is not a complete book, but a booklet. With this content, the author could have easily expanded into hundreds of pages. But, he wanted to make his point precisely in a short text - The Power of Thoughts. This is a much written upon subject in the market now. We could easily find hundreds of good books and thousands of junk books on this subject. This book, by James Allen is the pioneer to all of them. Even after so many decades this book is still being studied by most of the personal development gurus around the world. This book is being recommended again and again by many of my favorite authors.  
@@ -26,5 +22,3 @@ Like a gardener protecting his plants from weeds, we must continuously monitor a
 This book is clear on the concept that it tries to teach, but lacks the "how to" portion of it. James Allen says "Aimlessness is vice", to a world where most of the people do not know what they want. He does not give the instructions to conceive a purpose or to maintain good thoughts in minds. I think, if he had included those instructions in his book or at least give a pointer to those instructions, this would be a one stop book for all your personal development needs. There is no such thing right?.  
   
 Please do read this book and grow in your life !  
-  
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

@@ -3,10 +3,6 @@ layout: post
 title: The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life
 date: 2013-01-24
 category: books
-aff-in: http://www.amazon.in/gp/product/0143052365?ie=UTF8&camp=3626&creativeASIN=0143052365&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/0143052365?ie=UTF8&camp=1789&creativeASIN=0143052365&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/0143052365?ie=UTF8&camp=15121&creativeASIN=0143052365&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/0143052365?ie=UTF8&camp=1634&creativeASIN=0143052365&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life  
@@ -56,5 +52,3 @@ One "beaten to death" discussion against raw foods is the unavailability of Vita
 Some raw foodists, suggest to take vitamin supplements. I don't like medicine. So, I will not. But, I will try to eat a cup of curd / milk daily to compensate for Vitamin B12, till I get a reliable, consistent supply of natural sources of this vitamin. I am not for / against raw or cooked foods. I am looking for the perfect diet for human body. If the blend of both is the best, I will go for it.   
   
 I strongly suggest everyone to read this book, even if you don't have plans to eat raw food. If you eat cooked food, you MUST know what happens to your body. Ignorance is not bliss !!!  
-  
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

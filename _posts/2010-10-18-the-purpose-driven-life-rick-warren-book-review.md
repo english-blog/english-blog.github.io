@@ -3,10 +3,6 @@ layout: post
 title: The Purpose Driven® Life - What on Earth Am I Here For?
 date: 2010-10-18
 category: books
-aff-in: http://www.amazon.in/gp/product/0310205719?ie=UTF8&camp=3626&creativeASIN=0310205719&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/031032906X?ie=UTF8&camp=1789&creativeASIN=031032906X&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/031032906X?ie=UTF8&camp=15121&creativeASIN=031032906X&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/031032906X?ie=UTF8&camp=1634&creativeASIN=031032906X&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** The Purpose Driven® Life: What on Earth Am I Here For?  
@@ -59,5 +55,3 @@ If I was a God, I would have designed the world in a better way !
 This book has lots of wisdom, heavily flavored in Christianity. If you have the patience and time to read the entire book and grasp only the core ideas, this book is worth the pennies.  
   
 For Christians, this is a must read. That's what 25 million fellow Christians tell you. So, join the flock and enjoy your route to heaven. All the best !  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

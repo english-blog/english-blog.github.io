@@ -3,10 +3,6 @@ layout: post
 title: The Power of a Positive No - How to Say No & Still Get to Yes
 date: 2010-11-03
 category: books
-aff-in: http://www.amazon.in/gp/product/0553384260?ie=UTF8&camp=3626&creativeASIN=0553384260&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/0553384260?ie=UTF8&camp=1789&creativeASIN=0553384260&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/0553384260?ie=UTF8&camp=15121&creativeASIN=0553384260&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/0553384260?ie=UTF8&camp=1634&creativeASIN=0553384260&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** The Power Of A Positive No  
@@ -44,5 +40,3 @@ Confused?. Read the book. he he he.
 Ury explains these in detail with lots of real world situations. He guides us way from preparing, delivering and following-through our Positive NO. Lots of techniques like Going to Balcony, Name the Game, Use of I-statement, we-statements, the-statements, the acceptance speech test etc. and tips to say NO effectively are explained in detail which will make sure that a mutually beneficial agreement is reached.  
   
 I would recommend this book to everyone. Five stars !!!  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

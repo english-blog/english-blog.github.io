@@ -3,10 +3,6 @@ layout: post
 title: Birth Without Violence
 date: 2014-04-11
 category: books
-aff-in: http://www.amazon.in/gp/product/0394495810?ie=UTF8&camp=3626&creativeASIN=0394495810&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1594772975?ie=UTF8&camp=1789&creativeASIN=1594772975&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/1594772975?ie=UTF8&camp=15121&creativeASIN=1594772975&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1905177305?ie=UTF8&camp=1634&creativeASIN=1905177305&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** Birth Without Violence  
@@ -63,5 +59,3 @@ The whole books reads like a poem. Mesmerizing. I couldn't close the book. When 
 Me and my wife are glad that we got to know this before our first child. We are definitely going to make our child's entry to this world a very pleasant one. I am very much thankful for Frederick Leboyer for writing this book. I thank my friends Reba and Paul for successfully deliver a cute baby girl in the most natural way possible and all the information and encouragement that we received from them regarding child birth.  
 
 This book is a must read for all :)  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

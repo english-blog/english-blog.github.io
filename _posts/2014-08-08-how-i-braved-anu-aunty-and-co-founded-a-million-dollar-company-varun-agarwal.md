@@ -3,10 +3,6 @@ layout: post
 title: How I Braved Anu Aunty & Co-founded A Million Dollar Company
 date: 2014-08-08
 category: books
-aff-in: http://www.amazon.in/gp/product/812911979X?ie=UTF8&camp=3626&creativeASIN=812911979X&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/812911979X?ie=UTF8&camp=1789&creativeASIN=812911979X&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/812911979X?ie=UTF8&camp=15121&creativeASIN=812911979X&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/812911979X?ie=UTF8&camp=1634&creativeASIN=812911979X&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** How I Braved Anu Aunty & Co-founded A Million Dollar Company  
@@ -46,5 +42,3 @@ Enough of reading the review, just go ahead and order the book. Even if you are 
 [Varun Agarwal Personal Website](http://www.varunagarwal.in/)  
 [Varun Agarwal in Facebook](https://www.facebook.com/varun.agarwal1/)  
 [Varun Agarwal in Twitter](https://twitter.com/varun067)  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

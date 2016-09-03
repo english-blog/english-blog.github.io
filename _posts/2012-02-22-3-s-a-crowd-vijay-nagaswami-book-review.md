@@ -3,13 +3,6 @@ layout: post
 title: 3's A Crowd
 date: 2012-02-22
 category: books
-author-name: Sruthi Kitcha
-author-email: sruthikitcha.123@gmail.com
-author-site: http://penurheart.blogspot.com
-aff-in: http://www.amazon.in/gp/product/9381626278?ie=UTF8&camp=3626&creativeASIN=9381626278&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/9381626278?ie=UTF8&camp=1789&creativeASIN=9381626278&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/9381626278?ie=UTF8&camp=15121&creativeASIN=9381626278&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/9381626278?ie=UTF8&camp=1634&creativeASIN=9381626278&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** 3's A Crowd  
@@ -35,5 +28,3 @@ This is not a novel or a story to criticize from literary perspective analyzing 
 Guess I might write this review as big as a book in an attempt to pen down my thought flow. I would recommend this book to anyone irrespective of being in relationship or not, or for that matter married or not. Whichever category you fall in, this book is going to serve you as guide on how to react and live through the trauma of infidelity. Or unfortunately, if you have already faced one then it is going to alter most of your perceptions about affairs and break a few myths which you are clinging to. And hey, wait! Do not think that you will start suspecting your partner after reading this book. It is just going to make you bond more to him/her. In author's words: "Trust your partner, and more than that trust yourself."  
   
 **PS:** This review is a part of the [Book Reviews Program](http://blog.blogadda.com/2011/05/04/indian-bloggers-book-reviews) at [BlogAdda.com](http://www.blogadda.com/). Participate now to get free books!  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

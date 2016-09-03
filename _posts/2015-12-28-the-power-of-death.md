@@ -3,10 +3,6 @@ layout: post
 title: The Power Of Death
 date: 2015-12-28
 category: books
-aff-in: http://www.amazon.in/gp/product/B013IKX096/ref=as_li_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B013IKX096&linkCode=as2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1515019918/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1515019918&linkCode=as2&tag=smileprem-us-20&linkId=SI2HRY3J3PFV4PIX
-aff-ca: http://www.amazon.ca/gp/product/B013IKX096/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B013IKX096&linkCode=as2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1515019918/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1515019918&linkCode=as2&tag=smileprem-gb-21
 ---
 
 **Book:** The Power Of Death - A Radical Path to Personal Transformation and Spiritual Enlightenment  
@@ -35,5 +31,3 @@ I loved the chapter on ego. It struck me really hard at many levels. I am alread
 He discusses the possibility of experiencing psychological death while living on this earth and explains seven methods to face death. He also created "Defeat Death Meditation" - an audio course which will make you experience what you learnt in the book. He provides a free audio sample about the course. Please listen. If you are inspired enough, please go ahead and buy the audio course. The learning will not be complete without experiencing it. I am about to listen to the audio course. I cannot comment anything at the moment about the course. I will come back and update this review, if the Defeat Death meditation is extra-ordinary (which I hope to be the case).
 
 Nevertheless, it's a good read.
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

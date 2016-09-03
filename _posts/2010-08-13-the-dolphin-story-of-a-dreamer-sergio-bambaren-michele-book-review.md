@@ -3,10 +3,6 @@ layout: post
 title: The Dolphin - Story of a Dreamer
 date: 2010-08-13
 category: books
-aff-in: http://www.amazon.in/gp/product/1561703915?ie=UTF8&camp=3626&creativeASIN=1561703915&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/Dolphin-Story-Dreamer-Sergio-Bambaren/dp/1502847051?tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/1458757641?ie=UTF8&camp=15121&creativeASIN=1458757641&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1401918964?ie=UTF8&camp=1634&creativeASIN=1401918964&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** The Dolphin - Story Of A Dreamer  
@@ -49,10 +45,3 @@ In the book, "The Dolphin" I could also sense the impact of "The Alchemist" whic
 Sergio - Don't mistake me. This could be your authentic idea. But it was published already. I know you have written few other books. I will give my real feedback after those reading books ;)  
   
 I have read the reviews for this book, many people found this very spiritual and inspiring. Why don't you guys try it?.  
-
-[Jonathan Livingston Seagull (Click to buy from Amazon)](http://www.amazon.com/Jonathan-Livingston-Seagull-Richard-Bach/dp/0743278909?ie=UTF8&amp;tag=booiverea-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969)  
-  
-[Jonathan Livingston Seagull (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/jonathan-livingston-seagull-richard-bach-book-817223578x?affid=INPremkblo)  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  
-

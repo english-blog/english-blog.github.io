@@ -3,10 +3,6 @@ layout: post
 title: Zero Limits - The Secret Hawaiian System for Wealth, Health, Peace, and More
 date: 2013-10-01
 category: books
-aff-in: http://www.amazon.in/gp/product/0470402563?ie=UTF8&camp=3626&creativeASIN=0470402563&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/0470402563?ie=UTF8&camp=1789&creativeASIN=0470402563&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/B008L044DA?ie=UTF8&camp=15121&creativeASIN=B008L044DA&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/0470402563?ie=UTF8&camp=1634&creativeASIN=0470402563&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book Name:** Zero Limits - The Secret Hawaiian System for Wealth, Health, Peace, and More  
@@ -51,8 +47,6 @@ To learn more about the Ho'oponopono method, I suggest to look for the workshop 
   
 Thank you Dr. Ihaleakala Hew Len for the Ho'oponopono method and Thank you Dr. Joe Vitale for bringing this as a book to the world.  
 
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  
-
-**References:**  
+**References:**
 <http://hooponopono.org/>  
 <http://www.businessbyyou.com/>  

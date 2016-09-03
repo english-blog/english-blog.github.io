@@ -3,10 +3,6 @@ layout: post
 title: Human Minds - An Exploration
 date: 2010-06-12
 category: books
-aff-in: http://www.amazon.in/gp/product/0140170332?ie=UTF8&camp=3626&creativeASIN=0140170332&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/0713990813?ie=UTF8&camp=1789&creativeASIN=0713990813&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/0140170332?ie=UTF8&camp=15121&creativeASIN=0140170332&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/0140170332?ie=UTF8&camp=1634&creativeASIN=0140170332&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Title:** Human Minds - An Exploration  
@@ -34,5 +30,3 @@ I felt that I am in Margaret's class on Human Minds rather than reading a book. 
 Overall, I am happy that I came to know a lot about the human brain development. I would suggest you to read the first half of the book. The second half is your choice.  
 
 Let me know, if this review is helpful !!!  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

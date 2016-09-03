@@ -3,10 +3,6 @@ layout: post
 title: How To Become A Highly Paid Corporate Programmer
 date: 2010-12-06
 category: books
-aff-in: http://www.amazon.in/gp/product/8184041314?ie=UTF8&camp=3626&creativeASIN=8184041314&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/158347045X?ie=UTF8&camp=1789&creativeASIN=158347045X&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/158347045X?ie=UTF8&camp=15121&creativeASIN=158347045X&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/158347045X?ie=UTF8&camp=1634&creativeASIN=158347045X&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** How To Become A Highly Paid Corporate Programmer  
@@ -42,5 +38,3 @@ Also, he stresses that a private office and a silent workplace is a must for eff
 This section is for the programmers with an entrepreneurial bent. Mostly discusses on how to become a programming consultant, pros and cons of that career and how to develop your own company and market your own software product etc. He urges the importance of writing for the industry that you are working for. I like it very much. He sited examples of people shifting from programming to corporate positions in an interesting manner.  
   
 Even though this book targets four different categories of programmers, I would suggest everyone to read every chapter. Since I feel that's a logical career path for achieving programmers, unless you already planned your career path. This book has made a lasting impression on me and forced me to make some decisions in my life, which I would not have taken other wise. I am planning to blog on the mobile development arena. Thanks a lot Paul H. Harkins for writing this book for us.  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

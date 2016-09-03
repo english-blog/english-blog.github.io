@@ -3,10 +3,6 @@ layout: post
 title: Trump - The Way To The Top - The Best Business Advice I Ever Received
 date: 2011-10-28
 category: books
-aff-in: http://www.amazon.in/gp/product/1400050162?ie=UTF8&camp=3626&creativeASIN=1400050162&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1400050162?ie=UTF8&camp=1789&creativeASIN=1400050162&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/B000FC1N1S?ie=UTF8&camp=15121&creativeASIN=B000FC1N1S&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1400050162?ie=UTF8&camp=1634&creativeASIN=1400050162&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** Trump - The Way To The Top - The Best Business Advice I Ever Received  
@@ -42,7 +38,7 @@ Some of leaders answered in one sentence, some in a paragraph, some listed the a
   
 "Five Ps: Prior planning prevents poor performance" – Archie W.Dunham, Chairman of ConocoPhilips.  
   
-"Show me a person smarter than me, I’ll hire them" – Gerald D.Edwards, President& CEO of Engineered Plastic Products, Inc.  
+"Show me a person smarter than me, I’ll hire them" – Gerald D.Edwards, President & CEO of Engineered Plastic Products, Inc.
   
 "If you can’t write your strategy or idea on the back of your business card, it’s too complex to execute. Keep it simple" – Dawn Hudson, North America President of Pepsi-Cola, Inc.  
   
@@ -55,5 +51,3 @@ Some of leaders answered in one sentence, some in a paragraph, some listed the a
 "If they don’t have the authority to say yes, then they don’t have the authority to say no. Deal directly with the decision makers" – Roxanne Quimby, President of Burt’s Bees.  
 
 Happy reading !!!  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

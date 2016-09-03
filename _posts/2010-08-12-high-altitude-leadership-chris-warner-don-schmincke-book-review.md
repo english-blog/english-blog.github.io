@@ -3,10 +3,6 @@ layout: post
 title: High Altitude Leadership - What The World's Most Forbidding Peaks Teach Us About Success
 date: 2010-08-12
 category: books
-aff-in: http://www.amazon.in/gp/product/0470345039?ie=UTF8&camp=3626&creativeASIN=0470345039&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/0470345039?ie=UTF8&camp=1789&creativeASIN=0470345039&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/0470345039?ie=UTF8&camp=15121&creativeASIN=0470345039&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/0470345039?ie=UTF8&camp=1634&creativeASIN=0470345039&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Title:** High Altitude Leadership - What The World's Most Forbidding Peaks Teach Us About Success  
@@ -47,6 +43,3 @@ I felt like watching NGC, when Chris describes the events happened during the ex
 Few of the concepts discussed in the book are extremely opposite. Like - Fear of Death and Arrogance, Lone Heroism and cowardice. There is a silver line between these concepts, which could have been handled more efficiently. Many times these overlaps and I actually went back re-read the chapters to understand.  
   
 If your organization/team is in trouble and you need immediate help, please don't buy this book alone. This book is written in such a style that it hammers your thought with outright truth. You may not comprehend, if your mind is not open. Worth reading !!!  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  
-

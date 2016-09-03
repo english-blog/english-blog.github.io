@@ -3,10 +3,6 @@ layout: post
 title: The EFT Manual
 date: 2011-09-10
 category: books
-aff-in: http://www.amazon.in/gp/product/1604152141?ie=UTF8&camp=3626&creativeASIN=1604152141&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1604152141?ie=UTF8&camp=1789&creativeASIN=1604152141&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/B00HQZMBMM?ie=UTF8&camp=15121&creativeASIN=B00HQZMBMM&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1604152141?ie=UTF8&camp=1634&creativeASIN=1604152141&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** The EFT Manual  
@@ -45,5 +41,3 @@ Gary Craig gave out all the information that he "invented" for free to the world
 [The modified EFT Manual (Free)]({{site.download-path}}/eftmanual.pdf)  
   
 [Seven Power Tips for using EFT](http://www.eftuniverse.com/SevenPowerTips.pdf)  
-  
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

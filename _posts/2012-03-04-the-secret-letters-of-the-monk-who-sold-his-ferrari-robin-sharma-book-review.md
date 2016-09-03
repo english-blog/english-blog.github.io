@@ -3,10 +3,6 @@ layout: post
 title: The Secret Letters of the Monk Who Sold His Ferrari
 date: 2012-03-04
 category: books
-aff-in: http://www.amazon.in/gp/product/8184952929?ie=UTF8&camp=3626&creativeASIN=8184952929&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/0062226088?ie=UTF8&camp=1789&creativeASIN=0062226088&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/1443407313?ie=UTF8&camp=15121&creativeASIN=1443407313&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/0007321112?ie=UTF8&camp=1634&creativeASIN=0007321112&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** The Secret Letters of the Monk Who Sold His Ferrari  
@@ -63,5 +59,3 @@ How well you live come down to how much you love. The heart is wiser than your h
 There are no extra people alive today. Every single one of us are here for a reason, a special purpose - a mission. Yes, build a beautiful life for yourself and those you love.Yes, be happy and have a lot of fun. And yes, become successful on your own terms than on those suggested to you by society. But, above all else - Be Significant. Make your life matter - be of use. And be of service to as many people as possible. This is how each of us can shift from the realm of the ordinary to the heights of the extraordinary. And walk among the best who have ever lived.  
   
 I just wrote down the key messages from the book in Robin Sharma's words. I would suggest you to read the book. These message will go into your subconscious mind directly. Jesus understood the importance of stories, so does Robin. Thank you Robin, for this book and all the books that you are going to write in future.  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

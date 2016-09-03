@@ -3,10 +3,6 @@ layout: post
 title: Who Moved My Cheese? - An A-Mazing Way to Deal with Change in Your Work and in Your Life
 date: 2011-01-26
 category: books
-aff-in: http://www.amazon.in/gp/product/0091816971?ie=UTF8&camp=3626&creativeASIN=0091816971&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/0399144463?ie=UTF8&camp=1789&creativeASIN=0399144463&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/0399144463?ie=UTF8&camp=15121&creativeASIN=0399144463&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/0399144463?ie=UTF8&camp=1634&creativeASIN=0399144463&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** Who Moved My Cheese?  
@@ -40,5 +36,3 @@ I read out loud those words. Many times in our life, we hold on to some relation
 Reading more and more books and reasoning them, teaches me one simple lesson. Every book you read, has a message for you, if you are open to learn them.Many critics tells that this is just a simple story and people are very mad about this. Understand this please, its not the story which changes the readers life, its the individual's interpretation that causes the impact.  
   
 So, read this little book. If you get something out of this, Great. Else, read more books :)  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

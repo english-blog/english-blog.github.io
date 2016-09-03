@@ -3,10 +3,6 @@ layout: post
 title: Understand Philosophy of Science - A Teach Yourself Guide
 date: 2012-12-22
 category: books
-aff-in: http://www.amazon.in/gp/product/1444157655?ie=UTF8&camp=3626&creativeASIN=1444157655&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1444157655?ie=UTF8&camp=1789&creativeASIN=1444157655&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/0071747575?ie=UTF8&camp=15121&creativeASIN=0071747575&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1444104993?ie=UTF8&camp=1634&creativeASIN=1444104993&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** Understand Philosophy of Science - A Teach Yourself Guide  
@@ -45,5 +41,3 @@ Some of the key discussions in this book are ...
 These are just few of the concepts discussed in the book in early chapters. This book discusses a whole range of scientific questions like "Do we know things, or only our experience of them?", major scientific discoveries throughout the history, how the new theories challenged and replaced the old theories, the observations of those scientists which made them create the theories, the methodology used by them to conclude a theory, recent economic influences on scientific discoveries etc.  
   
 This book is a feast of information for those who wish to understand Science in totality. For casual readers, the first chapter **The history of Science** is good enough to get a grip of Science. I recommend this book for everyone.  
-  
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

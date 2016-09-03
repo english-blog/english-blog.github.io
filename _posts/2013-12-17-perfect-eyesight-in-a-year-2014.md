@@ -80,8 +80,6 @@ I have had good success with EFT in the past, with respect to the emotional aspe
 
 If you are new to EFT, please read this [blogpost]({{site.url}}/the-eft-manual-cary-craig-book-review/) for an introduction to EFT. This EFT process takes about 15 minutes a day. Anytime of the day will do. I am going to try this as well in my pursuit of perfect vision. Here is the link to the book, if you are interested in trying this technique.  
 
-[Improve Your Eyesight with EFT](http://www.amazon.com/gp/product/1425949584/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1425949584&linkCode=as2&tag=booiverea-20)  
-
 ### Other means?
 
 These are all the things that are in my mind, right now. I may add other practices, products for improving my eyesight as I get to know more. If you know any tips that could help me, please let me know.  

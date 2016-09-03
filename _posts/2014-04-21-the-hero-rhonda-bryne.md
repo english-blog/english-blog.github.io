@@ -3,10 +3,6 @@ layout: post
 title: The Hero
 date: 2014-04-21
 category: books
-aff-in: http://www.amazon.in/gp/product/1471133443?ie=UTF8&camp=3626&creativeASIN=1471133443&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1476758581?ie=UTF8&camp=1789&creativeASIN=1476758581&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/1476758581?ie=UTF8&camp=15121&creativeASIN=1476758581&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1471133443?ie=UTF8&camp=1634&creativeASIN=1471133443&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book Name:** The Hero  
@@ -19,7 +15,7 @@ aff-gb: http://www.amazon.co.uk/gp/product/1471133443?ie=UTF8&camp=1634&creative
 **Binding:** Hardcover   
 **Number of Pages:** 240 Pages   
 
-I read all the books by Rhonda Byrne. The first book ["The Secret"][secret] gives a glimpse of "The Law of Attraction". The second book ["The Power"][power] talks about "The Law of Love" - love, gratitude, giving & belief. This is essentially the same LOA in a different flavor. The third book ["The Magic"][magic] talks purely about gratitude and the practical ways to incorporate gratitude in all aspects of our life. All three books were theoretical, with few quotes from real people. The fourth book "The Hero" is completely different from the previous books.  
+I read all the books by Rhonda Byrne. The first book "The Secret" gives a glimpse of "The Law of Attraction". The second book "The Power" talks about "The Law of Love" - love, gratitude, giving & belief. This is essentially the same LOA in a different flavor. The third book "The Magic" talks purely about gratitude and the practical ways to incorporate gratitude in all aspects of our life. All three books were theoretical, with few quotes from real people. The fourth book "The Hero" is completely different from the previous books.
 
 **The Hero** talks about the life history of 12 very successful people living on the planet. The people who fought against all the odds and became successful in life. I am not sure, on what basis Rhonda chose these 12 people, I don't recognize many of them. As usual, most of them are from the US.
 
@@ -45,14 +41,6 @@ She analyzed the life history of all these 12 people and saw a common pattern - 
 
 The only difference is that - instead of narrating the complete story of one person, she takes a specific stage in "The Map" and explains what each of those 12 people did in those circumstances, how they fought the odds against them, how they seized the opportunities, how hard they worked and the freedom that they enjoy right now. The idea is good, but for some reason, I could not remember more than couple of stories.  
 
-She followed the same pattern, same layout, same designs, same fonts in her fourth book also. Its time to change that. When compared to ["The Secret"][secret], this book stands no where. She did attempt to inspire us with a map, but its not so successful in penetrating our mind. The book was sold so many copies, just for her name, not for its contents (simply the way, I bought this book).  
+She followed the same pattern, same layout, same designs, same fonts in her fourth book also. Its time to change that. When compared to "The Secret", this book stands no where. She did attempt to inspire us with a map, but its not so successful in penetrating our mind. The book was sold so many copies, just for her name, not for its contents (simply the way, I bought this book).
 
-If you really want to benefit from "Law of Attraction" concept, I would suggest reading ["The Secret"][secret] followed by ["The Magic"][magic]. Those are really good. This book is OK, if you want to read in your leisure time.  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  
-
-[secret]: http://www.amazon.com/gp/product/1582701709/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1582701709&linkCode=as2&tag=booiverea-20
-
-[magic]: http://www.amazon.com/gp/product/1451673442/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451673442&linkCode=as2&tag=booiverea-20
-
-[power]: http://www.amazon.com/gp/product/1439181780/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1439181780&linkCode=as2&tag=booiverea-20
+If you really want to benefit from "Law of Attraction" concept, I would suggest reading "The Secret" followed by "The Magic". Those are really good. This book is OK, if you want to read in your leisure time.

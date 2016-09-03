@@ -3,10 +3,6 @@ layout: post
 title: 100 Ways to Motivate Yourself - Change Your Life Forever
 date: 2013-10-20
 category: books
-aff-in: http://www.amazon.in/gp/product/1601632444?ie=UTF8&camp=3626&creativeASIN=1601632444&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1565114213?ie=UTF8&camp=1789&creativeASIN=1565114213&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/1565114213?ie=UTF8&camp=15121&creativeASIN=1565114213&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1601632444?ie=UTF8&camp=1634&creativeASIN=1601632444&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book Name:** 100 Ways to Motivate Yourself - Change Your Life Forever (Audio CD)  
@@ -56,5 +52,3 @@ Everybody needs motivation to achieve their goals. As humans, we cannot be high 
 15. **Be a List writer** - Break them down to lists. Anything. Be it a problem, solution, suggestion, ideas, planing for a trip. Anything. Just list them down to small activities. Once you write them down in paper in the form of lists, the task at hand seems simple and do-able. Just do it.  
   
 These are just a few of the 100 + bonus tips explained in this audio book. Get the book to explore more !!!  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

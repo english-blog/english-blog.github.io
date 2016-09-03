@@ -40,5 +40,3 @@ Izzy's life is a strong evidence of one thing. Dreams are possible. Which means 
 Thanks Izzy for a wonderful narration of your life, so far. I am inspired!.
 
 Izzy recommends [The 52-Week Life Passion Project](http://www.barriedavenport.com/passionbook/) by Barrie Davenport. I am planning to read that book next. Follow him at his [blog](http://30yearoldninja.com/) or [facebook](https://www.facebook.com/The30YearOldNinja) or his new website [Why not live an awesome life?](http://whynotliveanawesomelife.com/)  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

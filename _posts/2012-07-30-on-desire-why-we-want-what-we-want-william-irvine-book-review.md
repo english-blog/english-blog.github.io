@@ -3,10 +3,6 @@ layout: post
 title: On Desire - Why We Want What We Want
 date: 2012-07-30
 category: books
-aff-in: http://www.amazon.in/gp/product/0195327071?ie=UTF8&camp=3626&creativeASIN=0195327071&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/0195327071?ie=UTF8&camp=1789&creativeASIN=0195327071&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/0195327071?ie=UTF8&camp=15121&creativeASIN=0195327071&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/0195327071?ie=UTF8&camp=1634&creativeASIN=0195327071&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** On Desire: Why We Want What We Want  
@@ -38,5 +34,3 @@ For example, if you do not like Brinjal (Egg Plant), you can choose not to eat i
 We are not just slaves to our BIS (doing so, ensures our survival). We can, to some extent control our BIS. He discusses the various approaches, involving philosophical practices, religious practices etc. Some of the religious practices are interesting to know. Old Order Amish's submission to higher authority, Hutterites reluctance to progress and Shakers remarkable celibacy (no sex). Most of these communal groups try to suppress almost all of their basic desires for a rewarding after life. So, does the Christians and Buddhists to some extent. I actually enjoyed reading this chapter more than the other chapters.Thank you Irvine, for this book.  
   
 This book will have an impact on all things that you see, do and feel. This will radically change your perception on everything. This is not just another philosophical book. This book might save a lot of your time in chasing the desires that may not be relevant to what you are. Please do read.   
-  
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

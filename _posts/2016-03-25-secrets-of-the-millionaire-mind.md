@@ -3,10 +3,6 @@ layout: post
 title: Secrets of the Millionaire Mind
 date: 2016-03-25
 category: books
-aff-in: http://www.amazon.in/gp/product/B000FCJZ3G/ref=as_li_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B000FCJZ3G&linkCode=as2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/0060763280/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060763280&linkCode=as2&tag=smileprem-us-20&linkId=G6XHBFWEHCWARS5P
-aff-ca: http://www.amazon.ca/gp/product/B000FCJZ3G/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=B000FCJZ3G&linkCode=as2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/0060763280/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0060763280&linkCode=as2&tag=smileprem-gb-21
 ---
 
 **Book:** Secrets of the Millionaire Mind  
@@ -124,5 +120,3 @@ From the previous net worth calculation, it is clear that I need to learn to man
 * If you are willing to do only what is easy, life will be hard. But if you are willing to do what's hard, life will be easy.
 
 This book changed my lifestyle. I know that it is for good. This book may have something for you as well. Just read. I am so happy that I chose to read this book. Thank you Harv Eker. Meet you in the upcoming Millionaire Mind Intensive seminar. !!!
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

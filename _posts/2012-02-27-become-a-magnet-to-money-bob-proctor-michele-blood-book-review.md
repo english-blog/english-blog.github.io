@@ -3,10 +3,6 @@ layout: post
 title: Become A Magnet To Money
 date: 2012-02-27
 category: books
-aff-in: http://www.amazon.in/gp/product/8184951728?ie=UTF8&camp=3626&creativeASIN=8184951728&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1890679461?ie=UTF8&camp=1789&creativeASIN=1890679461&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/B001B16RS6?ie=UTF8&camp=15121&creativeASIN=B001B16RS6&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/8184951728?ie=UTF8&camp=1634&creativeASIN=8184951728&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** Become A Magnet To Money  
@@ -59,5 +55,3 @@ The Daily Action List could be.
 The idea is to make sure that one action can be completed comfortably in a day. Before you realize, you would have accomplished more that what you would have done without Daily Action List.  
   
 These are just a glimpse of what this book has to offer. If you are interested in abundant wealth, make this book your constant companion. You can get a copy of this book by clicking the below links.  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

@@ -3,10 +3,6 @@ layout: post
 title: The Leader Who Had No Title - A modern fable on real success in business and in life
 date: 2010-07-17
 category: books
-aff-in: http://www.amazon.in/gp/product/8184951191?ie=UTF8&camp=3626&creativeASIN=8184951191&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1439109133?ie=UTF8&camp=1789&creativeASIN=1439109133&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/1439109133?ie=UTF8&camp=15121&creativeASIN=1439109133&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1439109133?ie=UTF8&camp=1634&creativeASIN=1439109133&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** The Leader Who Had No Title  
@@ -49,5 +45,3 @@ This principle details about the personal life of a leader. The importance needs
 I am doing most of these and I know the importance of these first hand. Please try and transform.  
   
 This is not just another book, which you will read and stack it in your library. Make this a constant companion and keep it in your coffee table. Refer this book as often as you want. Its worth every penny.  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

@@ -3,10 +3,6 @@ layout: post
 title: Money Mastery - Principle Based Money Management
 date: 2013-07-22
 category: books
-aff-in: http://www.amazon.in/gp/product/1564146103?ie=UTF8&camp=3626&creativeASIN=1564146103&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1564146103?ie=UTF8&camp=1789&creativeASIN=1564146103&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/1564146103?ie=UTF8&camp=15121&creativeASIN=1564146103&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1564146103?ie=UTF8&camp=1634&creativeASIN=1564146103&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 Principle Based Money Management - The keywords which attracted me towards this audio book. With most of my income going towards the mortgages and loan EMI's, I thought I was pretty bad financially and wanted to manage the expenses in a well planned manner. The eventual search in internet made me to listen to this audio book.  
@@ -31,5 +27,3 @@ One surprising aspect is that - this is a very old Audio CD, but still relevant 
 I loved the principles 4 & 9. I love the idea of paying up the debts as well as building a fortune, a little by little at the same time. This is similar to the concepts discussed in [The Automatic Millionaire]({{site.url}}/the-automatic-millionaire-a-powerful-one-step-plan-to-live-and-finish-rich-david-bach-book-review/) book by David. I will start building the Emergency Fund. The 9th principle is something that I overlooked for many years. I could have saved thousands of rupees every year on taxes. Not anymore. I am going to do a complete analysis of Taxation Model in India for Salaried Individuals and max out the tax savings for this financial year. I will blog about it as well to help others.  
   
 Oops. I forgot to mention that this Audio CD comes with a software and workbook to plan your budget. Even, if you are wealthy right now, you may want to listen to this Audio CD in your free time. It may give you new ideas. Seriously, I am thinking about starting a bank :)  
-  
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

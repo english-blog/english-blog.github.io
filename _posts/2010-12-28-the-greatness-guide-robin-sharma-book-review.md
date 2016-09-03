@@ -3,10 +3,6 @@ layout: post
 title: The Greatness Guide
 date: 2010-12-28
 category: books
-aff-in: http://www.amazon.in/gp/product/8179925765?ie=UTF8&camp=3626&creativeASIN=8179925765&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1554684366?ie=UTF8&camp=1789&creativeASIN=1554684366&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/1554684366?ie=UTF8&camp=15121&creativeASIN=1554684366&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1554684366?ie=UTF8&camp=1634&creativeASIN=1554684366&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** The Greatness Guide  
@@ -79,5 +75,3 @@ Here are few of my favorites from his book.
 * Do a "101 things to do before I die" list. - I started preparing mine. What about you?.  
 
 I actually wanted to list down my favorite chapter, but ended up writing almost all. I took a lot of time to delete many of them from the list, just to give you a glimpse of the book. Trust me, this book is packed with much more wisdom that I listed here. Start the winning habit. Start reading. Grab this book.  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  
