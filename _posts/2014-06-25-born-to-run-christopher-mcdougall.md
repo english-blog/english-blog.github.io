@@ -7,13 +7,7 @@ category: books
 
 **Book:** Born to Run  
 **Author:** Christopher McDougall  
-**ISBN:** 1861978774  
-**ISBN-13:** 9781861978776  
-**Binding:** Paperback  
-**Publishing Date:** 2010  
-**Publisher:** Profile Books  
-**Number of Pages:** 304 Pages  
-**Language:** English  
+**ISBN-13:** 978-1861978776
 
 I read many books which inspired me to such an extent that changed my life forever, for good. This book happened in reverse order. I became a barefoot runner first, felt immediate improvements on my knee pain, started researching more about barefoot running and then got hold of this amazing book, "Born to Run" by Christopher McDougall. Now, I am 100% convinced and happy with the decision of becoming a barefoot runner. Thank you Christopher !!!
 

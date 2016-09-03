@@ -7,13 +7,8 @@ category: books
 
 **Book:** The Leader Who Had No Title  
 **Author:** Robin Sharma   
-**ISBN:** 8184951191   
-**ISBN-13:** 9788184951196, 978-8184951196   
-**Binding:** Paperback   
-**Publishing Date:** 2010   
-**Publisher:** Jaico   
-**Language:** English   
-  
+**ISBN-13:** 978-8184951196
+
 Should I really write a review for Robin Sharma's book?. His name stands better than the best book-review anyone could write for his book. Hmm... let me share some of the insights that are spread throughout this book. This book packs 15 yrs of his leadership advisory experience, which was once a closely guarded secret. Robin tried to make this book interesting by using the story of an Iraq war vet Blake Davis.  
   
 Blake served in Iraq war and is having tough time transitioning to civilian life. He is having trouble with the relationships and job. Tommy, his father's friend comes to his life and introduces him the philosophy of "LWT - Lead Without a Title". Blake gets introduced to four different teachers and learns the philosophy with at most interest. Transformation of Blake from playing victim-hood to leading is described very naturally.   

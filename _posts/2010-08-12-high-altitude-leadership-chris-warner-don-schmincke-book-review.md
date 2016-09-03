@@ -5,17 +5,10 @@ date: 2010-08-12
 category: books
 ---
 
-**Title:** High Altitude Leadership - What The World's Most Forbidding Peaks Teach Us About Success  
+**Book:** High Altitude Leadership - What The World's Most Forbidding Peaks Teach Us About Success
 **Author:** Christopher Warner, Don Schmincke  
-**FSN:** 9780470345030  
-**ISBN:** 0470345039  
-**ISBN-13:** 9780470345030  
-**Binding:** Hardcover  
-**Publishing Year:** Oct 2008  
-**Publisher:** Jossey-bass  
-**Number of Pages:** 210  
-**Language:** English  
-  
+**ISBN-13:** 9780470345030
+
 I buy most of the books through recommendations from authors, references from books, websites, word of mouth etc. I buy some books on an instinct, just by flipping through few pages. This is one of them. The title   & the cover picture implied adventure and praise from Ken Blanchard (author of One Minute Manager) made this book to my library.  
   
 Chris is a vivid mountaineer who is one of the nine American's who summited world's two tallest mountains Mt. Everest and K2. Don is a scientist and engineer who pioneered fourth generation medical imaging technology and researched on simulating timing systems for navy's nuclear missile systems. They both write a book on management & leadership?. Sounded crazy and started flipping immediately!.   

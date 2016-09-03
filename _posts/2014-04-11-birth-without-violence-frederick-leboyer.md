@@ -7,13 +7,7 @@ category: books
 
 **Book:** Birth Without Violence  
 **Author:** Frederick Leboyer M.D.  
-**ISBN:** 0892819839  
-**ISBN-13:** 9780892819836  
-**Binding:** paperback  
-**Publishing Date:** 2002  
-**Publisher:** Inner Traditions Bear And Company  
-**Number of Pages:** 144  
-**Language:** English  
+**ISBN-13:** 978-0892819836
 
 Should the child birth be a painful experience for both the mother and the child?.  
 

@@ -7,15 +7,8 @@ category: books
 
 **Book:** Who Moved My Cheese?  
 **Author:** Spencer Johnson  
-**ISBN:** 0091816971  
-**ISBN-13:** 9780091816971,978-0091816971  
-**Binding:** Paperback  
-**Publishing Date:** 1999  
-**Publisher:** Vermilion  
-**Edition:** 01  
-**Number of Pages:** 94  
-**Language:** English  
-  
+**ISBN-13:** 978-0091816971
+
 A little book with a little story. What's so special in this book, that it sold for more than 26 million copies and still being printed?. I knew this book almost 6 years back. I was not that much into reading back then. But, when I saw this book again in the library after so many years, I felt like the book voluntarily re-appeared in my life for a purpose, may be a message that I need it very badly. Sounds very silly, that too from an atheist. But that's what I felt for true. I started reading to figure out what it has for me.  
   
 The story is simple. There is a maze with cheeses stored somewhere and four characters. Two mice, "Sniff" & "Scurry" and two little men "Hem" and "Haw". All of them starts their day looking for cheese. All four characters are different.  

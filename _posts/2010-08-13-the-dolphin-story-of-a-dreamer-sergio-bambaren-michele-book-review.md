@@ -7,11 +7,8 @@ category: books
 
 **Book:** The Dolphin - Story Of A Dreamer  
 **Author:** Sergio Bambaren, Michele  
-**ISBN:** 9380480046  
-**ISBN-13:** 9789380480046,978-9380480046  
-**Binding:** Paperback  
-**Publisher:** Hay House  
-  
+**ISBN-13:** 978-9380480046
+
 The Dolphin, I saw this book in TCS library. #1 International Best Seller. More than 10 Million Copies sold world wide!!!. I became curious. What made this book to sell 10M copies???...  
   
 Its a story about a young dolphin, Daniel Alexander Dolphin - who has a dream. A dream to ride the perfect wave in the sea. As soon as I read the first few pages, I couldn't help myself - not to think about *Jonathan Livingston Seagull*. I felt that this dolphin is the same story told with a different character.  

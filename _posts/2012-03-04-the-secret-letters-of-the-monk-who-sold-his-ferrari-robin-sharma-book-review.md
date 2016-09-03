@@ -7,15 +7,8 @@ category: books
 
 **Book:** The Secret Letters of the Monk Who Sold His Ferrari  
 **Author:** Robin Sharma  
-**ISBN:** 8184952929  
-**ISBN-13:** 9788184952926, 978-8184952926  
-**Binding:** Paperback  
-**Publishing Date:** 2012  
-**Publisher:** Jaico Publishing House  
-**Edition:** 1st Edition  
-**Number of Pages:** 236  
-**Language:** English  
-  
+**ISBN-13:** 978-8184952926
+
 I became a die-hard fan of Robin Sharma after reading his book [The Monk Who Sold His Ferrari][monk-url]. I pre-ordered this book and was very excited to read his latest book. This book follows the same pattern as his earlier books (i.e) blend the life teachings in an interesting story. I could see a big difference. This book is more of a story which explains the teachings than the teachings explicitly. Each portion of the story comes with a summary. The story goes like this...  
 
 [monk-url]: {{site.url}}/the-monk-who-sold-his-ferrari-robin-sharma-book-review/

@@ -7,14 +7,8 @@ category: books
 
 **Book:** I Have A Dream  
 **Author:** Rashmi Bansal  
-**ISBN:** 9380658384  
-**ISBN-13:** 9789380658384,978-9380658384  
-**Binding:** Paperback  
-**Publishing Date:** 2011  
-**Publisher:** Westland And Tranquebar Press  
-**Number of Pages:** 361  
-**Language:** English  
-  
+**ISBN-13:** 978-9380658384
+
 "I Have A Dream" is the third book in Rashmi Bansal's very successful trilogy of "Stay Hungry Stay Foolish" and "[Connect The Dots][connect-dots-url]". All the three books were sold over 350,000 copies in India and translated into 8 languages. She secured a place for her in infibeam's list of [Famous Authors in India][author]. Congrats to her. In my last review about "[Connect The Dots][connect-dots-url]" book, I suggested her NOT to mix Hindi and English in the English version of the book, so that the book could inspire millions of Indians who doesn't understand Hindi. But, the same continued in this book as well. Many of my North Indian friends told me that the mix of Hindi gives them the feel of locality and connection with the person, when reading. What about me who doesn't understand Hindi?. - Its irritating. I generally do not skip even a single line, while reading any book. But this trilogy from Rashmi Bansal is the exception.  
 
 [connect-dots-url]: {{site.url}}/connect-the-dots-rashmi-bansal-book-review/

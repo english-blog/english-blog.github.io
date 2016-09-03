@@ -5,15 +5,9 @@ date: 2014-04-21
 category: books
 ---
 
-**Book Name:** The Hero  
+**Book:** The Hero
 **Author:** Rhonda Byrne  
-**Publisher:** Simon & Schuster  
-**Publication Year:** 2013 November  
-**ISBN-13:** 9781471133442  
-**ISBN-10:** 1471133443  
-**Language:** English   
-**Binding:** Hardcover   
-**Number of Pages:** 240 Pages   
+**ISBN-13:** 978-1471133442
 
 I read all the books by Rhonda Byrne. The first book "The Secret" gives a glimpse of "The Law of Attraction". The second book "The Power" talks about "The Law of Love" - love, gratitude, giving & belief. This is essentially the same LOA in a different flavor. The third book "The Magic" talks purely about gratitude and the practical ways to incorporate gratitude in all aspects of our life. All three books were theoretical, with few quotes from real people. The fourth book "The Hero" is completely different from the previous books.
 

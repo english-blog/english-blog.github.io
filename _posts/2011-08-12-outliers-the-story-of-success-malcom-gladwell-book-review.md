@@ -7,15 +7,8 @@ category: books
 
 **Book:** Outliers: The Story Of Success  
 **Author:** Malcolm Gladwell  
-**ISBN:** 0141036249  
-**ISBN-13:** 9780141036243, 978-0141036243  
-**Binding:** Paperback  
-**Publishing Date:** 2008  
-**Publisher:** Penguin Books India  
-**Edition:** 01  
-**Number of Pages:** 736  
-**Language:** English  
-  
+**ISBN-13:** 978-0141036243
+
 I knew Malcom Gladwell through his earlier book "Blink". This guy always thinks out of the box and gives a new perspective to the well known things. He always amazes me. In his new book Outliers, he gives us a different perspective on Why successful people are successful?.  The general notion is that the successful people became so, because of who they are. But, Gladwell tells us that its more because of where they are from?. Sounds confusing?. For me too, when I started. Not anymore :)
 
 He starts off with the analysis of the hockey players in Canadian teams. One interesting fact is that most of the best players in the team are born in the first three months (Jan, Feb, Mar). He concludes that its because of the selection procedure followed in Canada and the additional playing time these kids get in their early years. This is definitely a different insight and he suggest the alternate means as well.

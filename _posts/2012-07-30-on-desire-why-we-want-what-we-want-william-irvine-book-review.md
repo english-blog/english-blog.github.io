@@ -7,14 +7,8 @@ category: books
 
 **Book:** On Desire: Why We Want What We Want  
 **Author:** William B. Irvine  
-**ISBN:** 0195327071  
-**ISBN-13:** 9780195327076, 978-0195327076  
-**Binding:** Paperback  
-**Publishing Date:** 2007-06-01  
-**Publisher:** Oxford University Press, USA  
-**Number of Pages:** 322  
-**Language:** English  
-  
+**ISBN-13:** 978-0195327076
+
 We all have desires. Isn't it?. I desire everything that attracts me. If I like an activity, I want to do it. If I like a product, I want to have it. If I like a person, I want to have a relationship with him/her. I believe, many are like me. Ever wondered, Why do we have desire to do anything at all?. What triggers these desires?. Why some desires are stronger than others?. Why do people even risk their life for love, power or money?. This book has answers for these questions, in a way that is tough to digest.  
   
 The author William Irvine is a professor of Philosophy at Wright State University. This book shows his rich experience in philosophy. He is able to take us from the ground level to the level where we can understand what he has to say. All his discussions are based on philosophy, reasoning, Darwinism and a lot of scientific evidences. He starts the book with the basic discussions on desire and moves on to the science and evolution of desire and finishes the book with the dealing of desires. He uses a lot of examples to explain each and every concept clearly.  

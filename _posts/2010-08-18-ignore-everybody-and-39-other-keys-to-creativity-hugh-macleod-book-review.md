@@ -7,14 +7,8 @@ category: books
 
 **Book:** Ignore Everybody - And 39 Other Keys To Creativity  
 **Author:** Hugh Macleod  
-**ISBN:** 159184259X  
-**ISBN-13:** 9781591842590,978-1591842590  
-**Binding:** Hardcover  
-**Publishing Date:** Jun 2009  
-**Publisher:** Portfolio  
-**Number of Pages:** 159  
-**Language:** English  
-  
+**ISBN-13:** 978-1591842590
+
 Hugh Macleod is a copywriter, cartoonist, avid blogger, writer (this is his first book), CEO of Stormhoek USA, which markets South African wine in the States. I thought that this book is all about creativity. Guess, I was wrong. This book doesn't tell you, how to become creative, instead it guides you, if you are already creative, have some good ideas and don't know how to proceed with your ideas.  
   
 Hugh developed the habit of drawing in the back of the business cards with cartoons and sarcastically humorous content, while he was waiting for his date, in the NYC bars. He started a blog gapingvoid.com and started publishing these business card cartoons. He has opinion on everything that you can think about. This book is nothing but selected 39 blogs from his website. You can read all of them in his website.  

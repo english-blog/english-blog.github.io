@@ -7,15 +7,8 @@ category: books
 
 **Book:** The Power Of A Positive No  
 **Author:** William Ury  
-**ISBN:** 0340923806  
-**ISBN-13:** 9780340923801, 978-0340923801  
-**Binding:** Paperback  
-**Publishing Date:** 04/03/08  
-**Publisher:** Mobius  
-**Edition:** 01  
-**Number of Pages:** 272  
-**Language:** English  
-  
+**ISBN-13:** 978-0340923801
+
 The author William Ury is a master negotiator, public speaker and a trained anthropologist. Over the past three decades, he has mediated in conflicts ranging from coal strikes, to boardroom battles to civil wars around the world. He was the part of the team, mediated the 1962 Cuban nuclear missile crisis, which had 99% possibility of becoming a nuclear world war 3 (thanks to Che Guevara - my hero) just to site an example for his credibility.   
   
 I still remember the *two words* which I said to my client in a conference call, during a heated discussion and a whole bunch of bitter stories after wards. There were better negotiators in my team who backed me up, otherwise I would have been with a different organization now. Nevertheless, its a practical lesson. The master reveals his secrets to all of us. May be I should have read him well before. Guys, trust my words. Read him right away.  

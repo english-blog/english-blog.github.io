@@ -7,14 +7,8 @@ category: books
 
 **Book:** Great Speeches  
 **Author:** Edward Humphreys  
-**ISBN:** 1848372922  
-**ISBN-13:** 9781848372924, 978-1848372924  
-**Binding:** Paperback  
-**Publishing Date:** 2010  
-**Publisher:** Arcturus  
-**Number of Pages:** 208  
-**Language:** English  
-  
+**ISBN-13:** 978-1848372924
+
 I got this book as a birthday gift from a friend. I really don't have a clue, how my friends know exactly what I want. Thanks a lot to all my lovely friends. I like listening to speeches by great men. When I was in Florida during the 2008 presidential campaign, I followed each and every speech by Barack Obama. He inspired me very much. I want to become the best orator and with my speech I want to bring the best out of every human and spread love. There are many books available with similar titles, collection of great speeches by great men. This is one among them and is a collection of 42 speeches in English, arranged in chronological order.  
   
 I would call any book as a good book, if leaves an impact on you, if it changes your perception about something, if it stays in your memory for a long time, if you feel bad that the book is over and if you want to read it again and again. Surprisingly this book does everything. I cannot contribute all to the author Edward Humphreys, because he just collected all the speeches and put together in one single book. But, definitely my thanks to him for his effort.  

@@ -7,15 +7,8 @@ category: books
 
 **Book:** The Power  
 **Author:** Rhonda Byrne  
-**ISBN:** 0857201700  
-**ISBN-13:** 9780857201706,978-0857201706  
-**Binding:** Hardcover  
-**Publishing Date:** 17th August, 2010  
-**Publisher:** Simon & Schuster  
-**Edition:** 2010th  
-**Number of Pages:** 272  
-**Language:** English  
-  
+**ISBN-13:** 978-0857201706
+
 > "You are meant to have an amazing life"  
   
 Irish-Australian writer Rhonda Byrne, was once a producer of reality-TV shows in Australia who is now a multi-millionaire living in a Beverley Hills mansion, next door to Oprah Winfrey. She became so, with her best selling book & DVD, "The Secret". She comes with a sequel "The Power", which is expected to sell at least 20 million copies, out of which 2 million copies are printed and almost sold out. So, whats in this book?. Lets do a fair, really fair review of the book.  

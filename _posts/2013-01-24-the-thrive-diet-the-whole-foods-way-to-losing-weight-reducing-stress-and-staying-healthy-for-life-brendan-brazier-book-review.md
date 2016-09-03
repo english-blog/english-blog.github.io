@@ -7,14 +7,8 @@ category: books
 
 **Book:** The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life  
 **Author:** Brendan Brazier  
-**ISBN-13:** 9780143052364  
-**ISBN-10:** 0143052365  
-**Publisher:** Penguin Books Canada  
-**Publication Year:** 2008  
-**Binding:** Paperback  
-**Number of Pages:** 288 Pages  
-**Language:** English  
-  
+**ISBN-13:** 978-0143052364
+
 A Vegan book review from a voracious meat eater?. Yeah. I had the assumption that meat eaters are stronger and have more endurance than vegans. I always assumed that vegans lack protein from plant based diet. Until, I saw this [video]({{site.url}}/cooked-food-vs-raw-vegan-food/) and heard that the author of this book Brendan Brazier, is an Iron man athlete, who lives on 100% plant based diet. Whoohooh... (*An Iron man Triathlon is a race consisting of a 2.4-mile (3.86 km) swim, a 112-mile (180.25 km) bicycle ride and a marathon 26.2-mile (42.2 km) run, raced in that order and without a break.*)  
 
 A raw vegan food eater, Brendan can complete this race within 9 hours (on par with the worlds best athletes, who eat meat and supplements). This intrigued me so much that I decided to try this diet for three months. Let's measure this book's claims after three months. Let's see the gist of what this is book has in store for us.  

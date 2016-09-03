@@ -5,17 +5,10 @@ date: 2013-06-27
 category: books
 ---
 
-**Book Name:** 97 Things Every Software Architect Should Know  
+**Book:** 97 Things Every Software Architect Should Know
 **Author:** Richard Monson-haefel  
-**Publisher:** O'Reilly  
-**Publication Year:** 2009  
-**ISBN-13:** 9788184046892  
-**ISBN-10:** 8184046898  
-**Language:** English  
-**Edition:** 1st Edition  
-**Binding:** Paperback  
-**Number of Pages:** 236 Pages  
-  
+**ISBN-13:** 978-8184046892
+
 By experience I know that, given the same requirement for a brand new application - no two architects design it with the same architecture (technology choice, platform, frameworks, patterns etc). How can there be a definite "97 things" that every software architects should know?. That too is a collective wisdom from the experts?. Those were the question popped into my mind when I picked this book from library. I read it completely to understand it.  
   
 If you are a Tech Lead, transitioning to perform the Architect role in any project, then you should read this book to get the general idea behind software architecture. This book is a collection of two page articles from many software architects. Many architects contributed multiple articles to this book. All of these articles touch upon a specific case or feature of software architecture. None of these article discuss in detail about any specific item. Much like free blog posts. When I see a book with a title like this, I expect more in-depth analysis or case study of software architecture. I am disappointed in this front. If you are already an architect, this book would be a good casual read.  

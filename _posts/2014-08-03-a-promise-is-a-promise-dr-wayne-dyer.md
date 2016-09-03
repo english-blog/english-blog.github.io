@@ -7,13 +7,7 @@ category: books
 
 **Book:** A Promise Is A Promise  
 **Author:** Dr. Wayne W.Dyer  
-**ISBN:** 8189988115  
-**ISBN-13:** 9788189988111  
-**Binding:** Paperback  
-**Publishing Year:** 2009  
-**Publisher:** HAY HOUSE  
-**Number of Pages:** 128 Pages  
-**Language:** English  
+**ISBN-13:** 978-8189988111
 
 **Unconditional Love** - We heard thousands of quotes about unconditional love and seen various depictions of it in many movies. I am not sure about you, but I believed so firmly that I knew what an unconditional love is - until I read this book.
 

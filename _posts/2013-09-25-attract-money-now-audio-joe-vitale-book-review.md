@@ -7,16 +7,8 @@ category: books
 
 **Book:** Attract Money Now (Audio CD)  
 **Authors:** Joe Vitale  
-**Read By:** Don Hagen  
-**Publisher:** HACHETTE AUDIO  
-**Imprint:** Your Coach In A Box  
-**Publication Year:** 2010  
-**ISBN-13:** 9781596595996  
-**ISBN-10:** 159659599X  
-**Language:** English  
-**Edition:** Unabridged  
-**Binding:** Audio CD  
-  
+**ISBN-13:** 978-1596595996
+
 I knew [Dr. Joe Vitale](http://www.mrfire.com/) from the movie, [The Secret](http://thesecret.tv/). I use to follow his blogs for a while and lost touch in course of time. Way back in 2008, I had downloaded this book to read in future. This week was it. Its simply awesome. I wish I could have read this book much earlier in my life.  
   
 I have read many books which teaches the tips, tricks and possible means to earn more money or create additional income streams. Most of them were about setting up your own business. This book is different from such other books. This does not teach about business or getting a higher paying job. This book discusses nothing that is materialistic. It's all about our minds, they way we think about money and how to alter our thinking to our favor. This book does not say, *"Just sit and day dream - Money will flow to you"*. We still have to do the hard work. It just helps to keep our minds focused on abundance, instead of scarcity - which will obviously help to achieve our goals.  

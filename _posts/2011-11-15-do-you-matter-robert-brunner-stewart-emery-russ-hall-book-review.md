@@ -7,14 +7,8 @@ category: books
 
 **Book:** Do You Matter?: How Great Design Will Make People Love Your Company  
 **Author:** Robert Brunner, Stewart Emery, Russ Hall  
-**ISBN:** 013706506X  
-**ISBN-13:** 9780137065066, 978-0137065066  
-**Binding:** Paperback  
-**Publishing Date:** Aug 2006  
-**Publisher:** Ft Press  
-**Number of Pages:** 236  
-**Language:** English  
-  
+**ISBN-13:** 978-0137065066
+
 Interesting title. I liked the book design also. Simple but different from the other books. Every chapter begins with a deep orange color page with a bold chapter number on the other side. The book is filled with lots of images, white space to make notes, readable font, good quality paper and it's very nice to hold and read. So, I decided to read the book without even reading a chapter from this book.  
   
 After reading this book, your perception about design would change drastically as it happened to me. Before this book, I thought design is designer's job. Period. But that's not true. Here the author Robert introduces a concept called "Customer experience supply chain". I will let the author explain in his words,  

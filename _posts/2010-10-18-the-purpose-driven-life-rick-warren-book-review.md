@@ -7,15 +7,8 @@ category: books
 
 **Book:** The Purpose Driven® Life: What on Earth Am I Here For?  
 **Author:** Rick Warren  
-**ISBN:** 0310210747  
-**ISBN-13:** 9780310210740, 978-0310210740  
-**Binding:** Paperback  
-**Publishing Date:** 2002  
-**Publisher:** Zondervan Publishing House  
-**Edition:** New Ed  
-**Number of Pages:** 336  
-**Language:** English  
-  
+**ISBN-13:** 978-0310210740
+
 I normally get curious of ALL the books that sells more than a million copy. This one reached 25 million prints, and still goes on. I decided to find out what ticks with the readers. This book was presented to my room-mate Shanmuga on his birthday by one of our mutual Christian friend. This is a book by a Christian for other Christians. NOT for anyone else. Since Christianity and Islam runs for the biggest religion race, no wonder 25 million Christian readers bought this book. I believe 0.000001% of those books were gifted to non-Christians :)  
   
 Cool... Lets get into the core of this book. What this book is all about?  

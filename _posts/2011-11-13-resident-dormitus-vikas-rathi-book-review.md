@@ -7,12 +7,8 @@ category: books
 
 **Book:** Resident Dormitus  
 **Author:** Vikas Rathi  
-**ISBN:** 8129117541  
-**ISBN-13:** 9788129117540,978-8129117540  
-**Binding:** Paperback  
-**Publishing Date:** 2011  
-**Publisher:** Rupa & Company-new Delhi  
-  
+**ISBN-13:** 978-8129117540
+
 Could a person be always nonchalant and care-free? That too a boy who was born and brought up in the culture rich India? Well, that's what Achet is, our hero. I started reading the book with no expectations and an open mind. Rupa & Co's publishing hiked the credibility even before I started reading. Vikas definitely has a dark sense of humor and a deep philosophical insight.  
   
 The story starts with a guy entering into corporate world afresh and reckless. The very first day he boozes and misses the training. My eyes literally popped out at this! Now, you can imagine what sort of character he could be to do such stuff. To be honest, I can never even imagine doing something like that. While Achet is like this, there is Dev who is an icon of spoiled brat. Then come Arjuna, Alex and Bala. This could be anyone's story except for few of the eye rolling factors. I was able to connect to every character in some or other way and that made me go deeper into the plot.  

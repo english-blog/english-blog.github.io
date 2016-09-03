@@ -7,15 +7,8 @@ category: books
 
 **Book:** Trump - The Way To The Top - The Best Business Advice I Ever Received  
 **Author:** Donald J. Trump  
-**ISBN:** 1400050162  
-**ISBN-13:** 9781400050161,978-1400050161  
-**Binding:** Hardcover  
-**Publishing Date:** 05/2004  
-**Publisher:** Crown Publishing Group  
-**Edition:** First Edition  
-**Number of Pages:** 256  
-**Language:** English  
-  
+**ISBN-13:** 978-1400050161
+
 Donald J.Trump. Who doesn't know him in the business circle? He is an excellent example of American business success story, who had his hands on real estate, gaming, sports and Entertainment. He is one of the New York Times bestselling author as well. What if Donald Trump goes to the best & brightest business men and women, who run companies ranging from Fortune 500 Corporations to the family-run local businesses and ask them ONLY ONE question.  
   
 "What is the best business advice you ever received?"  
