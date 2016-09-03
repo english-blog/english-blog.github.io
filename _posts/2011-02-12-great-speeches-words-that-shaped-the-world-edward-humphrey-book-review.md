@@ -3,10 +3,6 @@ layout: post
 title: Great Speeches - Words That Shaped The World
 date: 2011-02-12
 category: books
-aff-in: http://www.amazon.in/gp/product/1848372922?ie=UTF8&camp=3626&creativeASIN=1848372922&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1848372922?ie=UTF8&camp=1789&creativeASIN=1848372922&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/1848372922?ie=UTF8&camp=15121&creativeASIN=1848372922&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1848372922?ie=UTF8&camp=1634&creativeASIN=1848372922&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** Great Speeches  
@@ -57,5 +53,3 @@ Oops... The review is becoming very long. You guys read the rest by yourself. Yo
 5. Pope John Paul II  
   
 So, grab the book and enjoy. Here are the links to buy them.  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

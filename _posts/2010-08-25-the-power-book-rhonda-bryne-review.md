@@ -3,10 +3,6 @@ layout: post
 title: The Power
 date: 2010-08-25
 category: books
-aff-in: http://www.amazon.in/gp/product/0857201700?ie=UTF8&camp=3626&creativeASIN=0857201700&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1439181780?ie=UTF8&camp=1789&creativeASIN=1439181780&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/1439181780?ie=UTF8&camp=15121&creativeASIN=1439181780&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1439181780?ie=UTF8&camp=1634&creativeASIN=1439181780&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** The Power  
@@ -73,18 +69,3 @@ Why is that a book review about a most sought after positive thinking book, soun
 Once you are done with these, please read "*The Power*" by Rhonda Byrne and I am sure you would share my thoughts. Here is one interesting review about this book. Very funny. Please read all the comments as well :)  
   
 [http://gawker.com/5613843/the-secret-the-power-and-the-scam-that-never-ends](http://gawker.com/5613843/the-secret-the-power-and-the-scam-that-never-ends)  
-  
-**Links to buy the items:-**  
-
-[The Secret - DVD](http://store.thesecret.tv/content/The-Secret-Film.htm)  
-
-[The Missing Secret (Click to buy from Amazon)](http://www.amazon.com/The-Missing-Secret/dp/B000PSISQA?ie=UTF8&tag=booiverea-20&link_code=btl&camp=213689&creative=392969)  
-
-[The Missing Secret (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/missing-secret-joe-vitale-use-book-0743576179?affid=INPremkblo)   
-
-[The Answer (Click to buy from Amazon)](http://www.amazon.com/Answer-Business-Achieve-Financial-Extraordinary/dp/B002PJ4IQQ?ie=UTF8&tag=booiverea-20&link_code=btl&camp=213689&creative=392969)  
-
-[The Answer (Click to buy from Flipkart - orders within India)](http://www.flipkart.com/answer-john-assaraf-murray-smith-book-1847372147?affid=INPremkblo)   
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  
-

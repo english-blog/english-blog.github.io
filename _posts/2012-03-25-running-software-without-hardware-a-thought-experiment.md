@@ -1,10 +1,6 @@
 ---
 layout: post
 title: Running Software Without Hardware - A Thought Experiment
-image-name: 
-image-alt-text: 
-photographer-name: 
-photographer-site: 
 date: 2012-03-25
 category: thought-experiments
 ---

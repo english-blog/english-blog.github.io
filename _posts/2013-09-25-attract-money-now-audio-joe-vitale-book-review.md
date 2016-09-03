@@ -3,10 +3,6 @@ layout: post
 title: Attract Money Now
 date: 2013-09-25
 category: books
-aff-in: http://www.amazon.in/gp/product/159659599X?ie=UTF8&camp=3626&creativeASIN=159659599X&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/159659599X?ie=UTF8&camp=1789&creativeASIN=159659599X&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/159659599X?ie=UTF8&camp=15121&creativeASIN=159659599X&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/159659599X?ie=UTF8&camp=1634&creativeASIN=159659599X&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** Attract Money Now (Audio CD)  
@@ -77,5 +73,3 @@ More than this, there is huge list of personal development books listed at the e
 Thanks Dr. Joe Vitale for this book. I will try the steps described in this book and see what happens !  
   
 [Attract Money Now - PDF version (Click to download the PDF for FREE)](http://www.attractmoneynow.com/)  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

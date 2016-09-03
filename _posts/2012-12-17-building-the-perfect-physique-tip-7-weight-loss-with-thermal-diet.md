@@ -5,7 +5,7 @@ date: 2012-12-17
 category: health
 ---
 
-Thermal Diet?. Yeah. It's from the book [The 4-Hour Body](http://www.amazon.com/gp/product/030746363X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030746363X&linkCode=as2&tag=booiverea-20) by my favorite author Timothy Ferriss.  
+Thermal Diet?. Yeah. It's from the book "The 4-Hour Body" by my favorite author Timothy Ferriss.
 
 Everyone knows the basic fact that our body temperature is maintained at 98.6 °F. When the outside temperature falls below that, our body does quite a few things like goosebumps, shivering, burning more calories to produce the additional heat to bring the core temperature back to normal. The hypothalamus in the brain controls the body temperature with the help of the temperature receptors in the skin. We are interested in leveraging the option of "burning more calories for heat" to our weight loss program.  
 

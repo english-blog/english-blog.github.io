@@ -3,10 +3,6 @@ layout: post
 title: The Five Love Languages - How to Express Heartfelt Commitment to Your Mate
 date: 2011-07-05
 category: books
-aff-in: http://www.amazon.in/gp/product/8186775099?ie=UTF8&camp=3626&creativeASIN=8186775099&linkCode=xm2&tag=smileprem-in-21
-aff-us-na: http://www.amazon.com/gp/product/B00F4KBJ8I?ie=UTF8&camp=1789&creativeASIN=B00F4KBJ8I&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/0802473156?ie=UTF8&camp=15121&creativeASIN=0802473156&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/0802473156?ie=UTF8&camp=1634&creativeASIN=0802473156&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** The Five Love Languages  
@@ -58,5 +54,3 @@ Dr. Chapman provides a quiz & scoring system for men and women at the end to hel
 3. Words of Affirmation - 6  
 4. Receiving Gifts - 3  
 5. Acts of Service - 1  
-  
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)

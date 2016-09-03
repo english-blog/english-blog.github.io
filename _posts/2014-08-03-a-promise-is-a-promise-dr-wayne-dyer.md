@@ -3,10 +3,6 @@ layout: post
 title: A Promise Is A Promise
 date: 2014-08-03
 category: books
-aff-in: http://www.amazon.in/gp/product/1561703486?ie=UTF8&camp=3626&creativeASIN=1561703486&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1561708720?ie=UTF8&camp=1789&creativeASIN=1561708720&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/B004A8ZSBO?ie=UTF8&camp=15121&creativeASIN=B004A8ZSBO&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1561708720?ie=UTF8&camp=1634&creativeASIN=1561708720&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** A Promise Is A Promise  
@@ -65,5 +61,3 @@ If unconditional love is braveness, she is a mighty warrior.
 [Comatose since Christmas 1969: A tale of unconditional love and miracles](http://edition.cnn.com/2012/12/23/us/longest-living-coma-patient-dies/index.html?hpt=hp_c2)
 
 [Longest coma patient ever passes away after 42 YEARS](http://www.dailymail.co.uk/news/article-2237593/Floridas-Sleeping-Snow-White-dies-42-YEARS-coma--longest-recorded----mother-sister-left-side.html)
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

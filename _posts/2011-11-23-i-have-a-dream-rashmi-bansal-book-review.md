@@ -3,10 +3,6 @@ layout: post
 title: I Have A Dream
 date: 2011-11-23
 category: books
-aff-in: http://www.amazon.in/gp/product/9380658389?ie=UTF8&camp=3626&creativeASIN=9380658389&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/9380658389?ie=UTF8&camp=1789&creativeASIN=9380658389&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/B005L2HTQA?ie=UTF8&camp=15121&creativeASIN=B005L2HTQA&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/9380658389?ie=UTF8&camp=1634&creativeASIN=9380658389&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** I Have A Dream  
@@ -43,6 +39,3 @@ Those who cannot just accept what is wrong and make every possible step to chang
 These are highly educated guys from IIT's and IIM's who felt that the service to others and the purity of the self is the way to achieve eternal liberation from this cycle of birth and death, thus renounced their material world. With the strong education background, they redefined the way service is done. Vinayak Lohani - "Parivaar Ashram" - a residential facility for orphans, tribals and the daughters of prostitutes. Madhu Pandit Dasa - "Akshaya Patra" from ISKON Bangalore who feeds one million hungry children every day, in and around Bangalore. I met Madhu Pandit Dasa in one of the bloggers meet happened in Bangalore. I am so happy to read his story and felt the connection with him.  
   
 I would say Rashmi Bansal is one of the smartest female in the world, who created herself a chance to interview all those successful people in India. I suspect her next book, would go way beyond India. She would collect the inspiring stories around the world, not just who made it big, but those who made a small difference in a big way. We already have Rashmi Bansal's series competing with "Chicken soup for the soul" series. To make it big, impact millions around the world and to make a real difference beyond the boundary lines, she must go International. But again - No local language please !!!  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  
-

@@ -3,13 +3,6 @@ layout: post
 title: You Can Sell
 date: 2012-04-16
 category: books
-author-name: Sruthi Kitcha
-author-email: sruthikitcha.123@gmail.com
-author-site: http://penurheart.blogspot.com
-aff-in: http://www.amazon.in/gp/product/9381626510?ie=UTF8&camp=3626&creativeASIN=9381626510&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/8129116006?ie=UTF8&camp=1789&creativeASIN=8129116006&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/B00KMVPPE8?ie=UTF8&camp=15121&creativeASIN=B00KMVPPE8&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/8129116006?ie=UTF8&camp=1634&creativeASIN=8129116006&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** You Can Sell  
@@ -42,5 +35,3 @@ Who is not a salesperson? Anyone who markets himself or his idea or a product or
 * When a sales person realizes that the profession is not only about making sales, but involves helping others and solving problems, he becomes a professional.  
 
 Though I'm generally not in favor of self-help books there are always exceptions. This book is one such exception. I never found this book manipulative or misleading. It just states the facts and principles for a good salesperson. I would recommend this book to every salesperson and even to those who have taken marketing as a subject in MBA or in any equivalent course.  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

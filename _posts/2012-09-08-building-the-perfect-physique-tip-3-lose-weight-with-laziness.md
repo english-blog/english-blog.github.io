@@ -7,7 +7,7 @@ category: health
 
 > "The title sounds crazy. If you can lose weight by being lazy, everyone in the world would be slim and fit. This guy is wrong. He will deceive me to buy useless products. I am not going to waste my time reading this post."  
  
-This was the typical reaction when I first read about the claim. I did research further and found that this tip works for many people. It may work for me. The best part is, this personal experiment was conducted by Phil Libin, the CEO of EverNote, one of the fastest growing company in Silicon Valley and this tip is published in Timothy Ferriss [The 4 Hour Body](http://www.amazon.com/gp/product/030746363X/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030746363X&linkCode=as2&tag=booiverea-20) as well.  
+This was the typical reaction when I first read about the claim. I did research further and found that this tip works for many people. It may work for me. The best part is, this personal experiment was conducted by Phil Libin, the CEO of EverNote, one of the fastest growing company in Silicon Valley and this tip is published in Timothy Ferriss "The 4 Hour Body" as well.
 
 ### Weight Awareness Experiment
 

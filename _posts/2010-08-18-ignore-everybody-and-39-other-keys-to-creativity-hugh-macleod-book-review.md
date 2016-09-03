@@ -3,10 +3,6 @@ layout: post
 title: Ignore Everybody - And 39 Other Keys To Creativity
 date: 2010-08-18
 category: books
-aff-in: http://www.amazon.in/gp/product/159184259X?ie=UTF8&camp=3626&creativeASIN=159184259X&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/159184259X?ie=UTF8&camp=1789&creativeASIN=159184259X&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/159184259X?ie=UTF8&camp=15121&creativeASIN=159184259X&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/159184259X?ie=UTF8&camp=1634&creativeASIN=159184259X&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** Ignore Everybody - And 39 Other Keys To Creativity  
@@ -42,6 +38,3 @@ Few of my favorite blogs/chapters from this book are :
 I wont suggest that this is a must-read. But its worth casual read on the weekends. Who knows, you may pickup your crayons, after this book. Just try it !!!  
   
 [Author's website GapingVoid.com](http://gapingvoid.com/)  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  
-

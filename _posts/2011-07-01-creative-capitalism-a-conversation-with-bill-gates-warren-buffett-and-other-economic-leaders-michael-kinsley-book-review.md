@@ -3,10 +3,6 @@ layout: post
 title: Creative Capitalism - A Conversation with Bill Gates, Warren Buffet, and Other Economic Leaders
 date: 2011-07-01
 category: books
-aff-in: http://www.amazon.in/gp/product/1847374107?ie=UTF8&camp=3626&creativeASIN=1847374107&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/1416599428?ie=UTF8&camp=1789&creativeASIN=1416599428&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/B001M5B0G0?ie=UTF8&camp=15121&creativeASIN=B001M5B0G0&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/1847394205?ie=UTF8&camp=1634&creativeASIN=1847394205&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** Creative Capitalism: A Conversation With Bill Gates, Warren Buffet, And Other Economic Leaders  
@@ -41,5 +37,3 @@ But Gates proposes a different approach, where the businesses using its technolo
 Hundreds of pages discussing about each and every specific good and bad things in Gates speech. How is it different from Corporate Social Responsibility (CSR)?. Why do we need a different form of capitalism?. etc. I feel good about Bill Gates intention to eradicate poverty in the world through Creative Capitalism. But just the intention is not enough. A complete real world implementation plan is needed to make that a reality. Apart from the speech made at Davos, what else has been done in the past three years?. Where are we in this idea?. What Gates has done other than making a speech?.  
   
 We need more people like Gates to come together and persist in the idea, so that it becomes a goal of every corporation in this world. I would suggest everyone interested in business or has that entrepreneurial instincts to read this book. It will prepare you to help others and at the same time, survive the competition.  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

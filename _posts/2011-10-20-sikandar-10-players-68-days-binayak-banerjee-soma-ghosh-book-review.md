@@ -3,13 +3,6 @@ layout: post
 title: Sikandar - 10 Players, 68 Days
 date: 2011-10-20
 category: books
-author-name: Sruthi Kitcha
-author-email: sruthikitcha.123@gmail.com
-author-site: http://penurheart.blogspot.com
-aff-in: http://www.amazon.in/gp/product/9380658737?ie=UTF8&camp=3626&creativeASIN=9380658737&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/B008593P4G?ie=UTF8&camp=1789&creativeASIN=B008593P4G&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/B008593P4G?ie=UTF8&camp=15121&creativeASIN=B008593P4G&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/9380658737?ie=UTF8&camp=1634&creativeASIN=9380658737&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** Sikandar - 10 Players, 68 Days  
@@ -31,5 +24,3 @@ To add to the tousled story, comes an unsolved murder and a scandal. Pace at whi
 To sum up in a single line 'Sikandar is a kaleidoscope'. It shows different colors and patterns but no value or moral to back up. Can be chosen to read casually or for a train journey.  
   
 **PS:** This review is a part of the [Book Reviews Program](http://blog.blogadda.com/2011/05/04/indian-bloggers-book-reviews) at [BlogAdda.com](http://www.blogadda.com/). Participate now to get free books!  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  

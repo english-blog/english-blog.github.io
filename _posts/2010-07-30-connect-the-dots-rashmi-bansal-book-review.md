@@ -3,10 +3,6 @@ layout: post
 title: Connect the Dots
 date: 2010-07-30
 category: books
-aff-in: http://www.amazon.in/gp/product/9381626707?ie=UTF8&camp=3626&creativeASIN=9381626707&linkCode=xm2&tag=smileprem-in-21
-aff-us: http://www.amazon.com/gp/product/9381626707?ie=UTF8&camp=1789&creativeASIN=9381626707&linkCode=xm2&tag=smileprem-us-20
-aff-ca: http://www.amazon.ca/gp/product/8190453025?ie=UTF8&camp=15121&creativeASIN=8190453025&linkCode=xm2&tag=smileprem-ca-20
-aff-gb: http://www.amazon.co.uk/gp/product/9381626707?ie=UTF8&camp=1634&creativeASIN=9381626707&linkCode=xm2&tag=smileprem-gb-21
 ---
 
 **Book:** Connect The Dots  
@@ -33,6 +29,3 @@ I must tell you this. I actually picked up this book, just because it had a stor
 Rashmi - I have a serious feedback to you. Your writing style is awesome. But its a horrible mix of English and Hindi. Very horrible. I have no idea of any word in Hindi. You are a famous writer now and please target your audience now. Those are not just Hindi speaking people. Please get the language straight.  
   
 Guys - Its a must read for everyone.  
-
-Checkout the other books which I have read @ [my library]({{site.url}}/category/books/)  
-
