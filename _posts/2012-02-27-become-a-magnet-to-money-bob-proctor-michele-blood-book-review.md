@@ -7,14 +7,7 @@ category: books
 
 **Book:** Become A Magnet To Money  
 **Author:** Bob Proctor, Michele Blood  
-**ISBN:** 8184951728  
-**ISBN-13:** 9788184951721, 978-8184951721  
-**Binding:** Paperback  
-**Publishing Date:** 2010  
-**Publisher:** Jaico Publishing House  
-**Edition:** 1st Edition  
-**Number of Pages:** 196  
-**Language:** English  
+**ISBN-13:** 978-8184951721
 
 I knew Bob Proctor from the movie *The Secret* way back in 2008. I have watched lot of his videos and interviews in the internet. He has 40+ years of experience in motivating others to reach their goals and accumulate abundant wealth. I happened to see this book in the new book store opened next to my office and I grabbed this book as soon as I saw Bob's name in it. This is the first book from Bob that I read.  
   

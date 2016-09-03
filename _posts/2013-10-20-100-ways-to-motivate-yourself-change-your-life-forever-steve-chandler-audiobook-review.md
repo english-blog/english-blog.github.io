@@ -5,15 +5,9 @@ date: 2013-10-20
 category: books
 ---
 
-**Book Name:** 100 Ways to Motivate Yourself - Change Your Life Forever (Audio CD)  
+**Book:** 100 Ways to Motivate Yourself - Change Your Life Forever (Audio CD)
 **Author:** Steve Chandler  
-**Publisher:** High Bridge Company  
-**Publication Year:** May 26, 2001  
-**Language:** English  
-**ISBN-10:** 1565114213  
-**ISBN-13:** 978-1565114210  
-**Edition:** Unabridged  
-**Product Dimensions:** 4.9 x 5.7 inches  
+**ISBN-13:** 978-1565114210
 
 [Steve Chandler](http://www.stevechandler.com/index.html) is one of the most sought after personal development guru in America and the best selling author of over 30 books. This audio book in his own voice is more than a decade old, but still holds good to this world.  
   

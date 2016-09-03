@@ -7,15 +7,8 @@ category: books
 
 **Book:** The Automatic Millionaire: A Powerful One-Step Plan To Live And Finish Rich  
 **Author:** David Bach  
-**ISBN:** 0767923820  
-**ISBN-13:** 9780767923828,978-0767923828  
-**Binding:** Paperback  
-**Publishing Date:** 12/2005  
-**Publisher:** Crown Publishing Group  
-**Edition:** Reprint  
-**Number of Pages:** 252  
-**Language:** English  
-  
+**ISBN-13:** 978-0767923828
+
 Many books on Personal Finance Management gives a lot of tips, tricks & advice to manage our finances well. The main reasons why many people don't follow it through the years are, either the concepts explained are very abstract or it requires a lot of discipline to follow the advice year after year. There are other kinds of books which show you a literally non-existent route to become rich overnight. David Bach differs very much from the others. He shows us  
 
 * The practical proven techniques which will make you rich over the years.  

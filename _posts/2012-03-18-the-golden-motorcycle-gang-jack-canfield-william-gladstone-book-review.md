@@ -7,14 +7,8 @@ category: books
 
 **Book:** The Golden Motorcycle Gang: A Story Of Transformation  
 **Author:** Jack Canfield, William Gladstone  
-**ISBN:** 9381431146  
-**ISBN-13:** 9789381431146, 978-9381431146  
-**Binding:** Paperback  
-**Publishing Date:** 2011  
-**Publisher:** Hay House India  
-**Number of Pages:** 256  
-**Language:** English  
-  
+**ISBN-13:** 978-9381431146
+
 My friend read this book and said, *Its a boring story. I didn't even complete the book*. But, one of my favorite author Neale Donald Walsch said, *Wonderfully entertaining, emotionally uplifting and spiritually enlightening story*. Conflicting reviews. Yet, I decided to read the book anyway.  
   
 This is the autobiography of the author Jack Canfield who frequently gets a strange dream or a vision.  

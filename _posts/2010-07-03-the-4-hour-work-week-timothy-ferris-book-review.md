@@ -5,13 +5,9 @@ date: 2010-07-03
 category: books
 ---
 
-**Title:** The 4-Hour Workweek  
+**Book:** The 4-Hour Workweek
 **Author:** Timothy Ferriss  
-**Hardcover:** 416 pages  
-**Publisher:** Crown; Exp Upd edition (December 15, 2009)  
-**Language:** English  
-**ISBN-10:** 0307465357  
-**ISBN-13:** 978-0307465351  
+**ISBN-13:** 978-0307465351
 
 "The 4-hour work week - Escape the 9-5, live anywhere and join the new rich." The book, which transformed few of my beliefs, addressed the fears that I had in me, without me knowing that. Tim painted new colors in my dream picture, with his own and I love it.  
 

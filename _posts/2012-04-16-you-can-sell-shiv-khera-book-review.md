@@ -7,14 +7,8 @@ category: books
 
 **Book:** You Can Sell  
 **Author:** Shiv Khera  
-**ISBN:** 9381626511  
-**ISBN-13:** 9789381626511,978-9381626511  
-**Binding:** paperback  
-**Publishing Date:** 2012  
-**Publisher:** Westland  
-**Number of Pages:** 328  
-**Language:** English  
-  
+**ISBN-13:** 978-9381626511
+
 "As long as you have your eyes on the goal, you don't see obstacles". These are the very opening words of the book 'You can sell' by Shiv Khera. For a person who is passionate about marketing (of course, me!) this book came as a juicy piece of cake to read and review. What better can I ask for? So, here is the review for the book 'You can sell'.  
   
 Right in the preface Mr. Khera tells what kind of book this is and for whom it is. I would strongly recommend following his instructions in the preface, for that is the best way to read this book. This isn't a novel which can be read on the go or taken for light reading just like that. Do not expect to read this book for passing time. Please do have a highlighter and a pen throughout the reading, as there are many points which you might need to highlight for future reference. Pen is for the exercise at the end of every chapter. What a way to reinforce the thoughts in the chapter in the minds of readers! The work book ranges from personal SWOT analysis to a few psychometric tests to explaining the points read in the previous chapter.  

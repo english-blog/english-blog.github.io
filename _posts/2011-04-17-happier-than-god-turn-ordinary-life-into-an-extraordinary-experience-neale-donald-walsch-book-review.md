@@ -7,14 +7,8 @@ category: books
 
 **Book:** Happier Than God - Turn Ordinary Life Into An Extraordinary Experience  
 **Author:** Neale Donald Walsch  
-**ISBN:** 1571745807  
-**ISBN-13:** 9781571745804,978-1571745804  
-**Binding:** Paperback  
-**Publishing Date:** Apr 2010  
-**Publisher:** Hampton Roads Publishing Company  
-**Number of Pages:** 261  
-**Language:** English  
-  
+**ISBN-13:** 978-1571745804
+
 This book was waiting for me in a book shop in Kolkata and found me finally. At least that's what the author Neale Donald Walsh says in the first few pages of the book. I have read his earlier book "Conversations with God". His writing style is such that he will ask many thought provoking questions, makes you think and finally leaves you confused. You need to read his text again and again to get him right. I have not got him right yet. But, you get the core message at some level. Just as I did.  
   
 > "Life was meant to be happy".  

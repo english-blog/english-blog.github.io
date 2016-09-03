@@ -5,13 +5,9 @@ date: 2010-06-12
 category: books
 ---
 
-**Title:** Human Minds - An Exploration  
+**Book:** Human Minds - An Exploration
 **Author:** Margaret Donaldson  
-**Paperback:** 320 pages  
-**Publisher:** Penguin (Non-Classics) (December 1, 1993)  
-**Language:** English  
-**ISBN-10:** 0140170332  
-**ISBN-13:** 978-0140170337  
+**ISBN-13:** 978-0140170337
 
 Margaret Donaldson is Emeritus Professor of Developmental Psychology at the University of Edinburgh. In this book, she discusses in detail about the development of the human brain from childhood. She defines and explains the four important modes in which our brain develops and functions. Point-mode, Line-mode, Construct-mode and Transcendent-mode with lots of research data from the well known scientists in this field.  
 

@@ -7,14 +7,8 @@ category: books
 
 **Book:** How To Become A Highly Paid Corporate Programmer  
 **Author:** Paul H. Harkins  
-**ISBN:** 8184041314  
-**ISBN-13:** 9788184041316, 978-8184041316  
-**Binding:** Paperback  
-**Publishing Date:** 2004  
-**Publisher:** Shroff/Mc Press  
-**Edition:** 1st  
-**Number of Pages:** 215  
-  
+**ISBN-13:** 978-8184041316
+
 Finally I found THE BOOK for the programmers. I would call this book 'A Programmer's Bible'. I suggested to procure multiple copies of this book in TCS library. This book has invaluable wisdom accumulated by Paul H. Harkins over 4 decades of his corporate career in programming. Even though it has serious concepts, it reads like a collection of small stories, his experiences, the situations he encountered, his colleagues etc. You wouldn't get bored even in a single chapter. This guy is programming from the dawn of the computers. Mainly into RPG. Most of the java/other technology developers out there can take the message out of this book's examples and apply it to their respective streams.  
   
 This book is divided into four sections, each deals with a specific purpose. The target audience of this book are from the freshers to the veterans in the top of their career hierarchy. The best part is that, every chapter has a summary at the end. If you are too busy to read a book, you could just flip through the "Bottom Line" summary at the end of each chapter.  

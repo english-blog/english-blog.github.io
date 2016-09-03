@@ -7,14 +7,8 @@ category: books
 
 **Book:** God Instinct - The Psychology of Souls, Destiny and the Meaning of Life  
 **Author:** Jesse Bering  
-**Publisher:** Nicholas Brealey Publishing  
-**Publication Year:** 2010-11-01  
-**ISBN-13:** 9781857885606  
-**ISBN-10:** 1857885600  
-**Language:** English  
-**Binding:** Hardcover  
-**Number of Pages:** 272 Pages  
-  
+**ISBN-13:** 978-1857885606
+
 What is God?. Why do I keep stumbling upon books which discusses the concept of God. The more I declare that I don't believe in god, the more books I get to read about God. I don't think much about 'God'. But when I do, I got lost in a very lengthy monologue.I thank the author Jesse Bering for a different insight to the God concept.  
   
 This book, "The God Instinct" uses hard science to show that God is not a delusion, but a sophisticated cognitive illusion.  

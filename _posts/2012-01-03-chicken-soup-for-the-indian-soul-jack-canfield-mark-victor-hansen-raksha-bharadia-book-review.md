@@ -7,14 +7,8 @@ category: books
 
 **Book:** Chicken Soup For The Indian Soul: A Book Of Miracles  
 **Author:** Raksha Bharadia, Jack Canfield, Mark Victor AndHansen  
-**ISBN:** 9381626368  
-**ISBN-13:** 9789381626368, 978-9381626368  
-**Binding:** Paperback  
-**Publishing Date:** 2011  
-**Publisher:** Westland  
-**Number of Pages:** 367  
-**Language:** English  
-  
+**ISBN-13:** 978-9381626368
+
 This is the first book I read in Chicken Soup series. The title "A book of miracles" made me raise eye brows, wondering what I could expect in this book. The excerpt at back cover confirmed my guess that it's superficial yet true incidents that happened in people's life. Though the secret was revealed, my curiosity took over me and I found myself reading the book ardently.  
   
 Sometimes you meet someone somewhere and the incident seems to have happened before. And you wonder how it is possible. You try to tell this to your friends and most of the times you get skeptic looks and mock laughs behind the back. Well, I'm a person who has experienced those. Though I have a different rationale for the miracles and coincidences, I do believe that MIRACLES DO HAPPEN IN LIFE.  

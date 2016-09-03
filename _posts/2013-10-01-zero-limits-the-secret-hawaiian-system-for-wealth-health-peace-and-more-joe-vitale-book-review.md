@@ -5,15 +5,9 @@ date: 2013-10-01
 category: books
 ---
 
-**Book Name:** Zero Limits - The Secret Hawaiian System for Wealth, Health, Peace, and More  
+**Book:** Zero Limits - The Secret Hawaiian System for Wealth, Health, Peace, and More
 **Author:** Joe Vitale, Ihaleakala Hew Len  
-**Publisher:** John Wiley & Sons  
-**Publication Year:** 2008  
-**ISBN-13:** 9780470402566  
-**ISBN-10:** 0470402563  
-**Language:** English  
-**Binding:** Paperback  
-**Number of Pages:** 256 Pages  
+**ISBN-13:** 978-0470402566
 
 The previous book that I read, [Attract Money Now]({{site.url}}/attract-money-now-audio-joe-vitale-book-review/) lead me to this extra-ordinary book "Zero Limits". I must say that I am impressed with the "Ho'oponopono"concepts discussed in this book. This is something that I never heard of before. Ho'oponopono is an modern version of an ancient Hawaiian healing system. This modern version is called *Self I-Dentity through Ho'oponopono* (SITH). I am still trying to grasp the idea even hours after reading this book.  
   

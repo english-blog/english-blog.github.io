@@ -7,15 +7,8 @@ category: books
 
 **Book:** Understand Philosophy of Science - A Teach Yourself Guide  
 **Author:** Mel Thompson  
-**ISBN-13:** 9781444157659  
-**ISBN-10:** 1444157655  
-**Binding:** Paperback  
-**Publication Date:** 27/04/2012  
-**Publisher:** HODDER EDUCATION  
-**Imprint:** TEACH YOURSELF  
-**Number of Pages:** 208 Pages  
-**Language:** English  
-  
+**ISBN-13:** 978-1444157659
+
 We all know what "Science" is. But, what does it mean to say that something is "scientific"?. Astronomy is science. What about Astrology?. Main stream medicine is science. What about faith healing? Or energy meridian tapping?. What does the label "scientifically proven" mean to us?. How do we verify the claims of science and the theories proposed by scientists?. If these questions pops up in your mind when you look at the title, then you must read this book.  
   
 On the other hand, Philosophy is all about asking questions, examining arguments and getting clear with the reality. Do you know that Science emerged from Philosophy?. In one way, I could say that Science is a specialized branch of philosophy. Yes. Science was initially called as "Natural Philosophy" until eighteenth century. I did not know that. I love science, read about all possible latest inventions in science. But, never traced the origin of Science. I am so happy to have read this book. Otherwise, my knowledge about understanding of science would never be complete.  

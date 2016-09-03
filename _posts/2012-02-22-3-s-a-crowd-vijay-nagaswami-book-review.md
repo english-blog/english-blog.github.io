@@ -7,14 +7,8 @@ category: books
 
 **Book:** 3's A Crowd  
 **Author:** Vijay Nagaswami  
-**ISBN:** 9381626276  
-**ISBN-13:** 9789381626276,978-9381626276  
-**Binding:** Paperback  
-**Publishing Date:** 2011  
-**Publisher:** Westland  
-**Number of Pages:** 308  
-**Language:** English  
-  
+**ISBN-13:** 978-9381626276
+
 India is a place where still uttering words like "infidelity" will make people roll their eyes. Affairs - irrespective of being extra-marital or pre-marital are a taboo to be talked upon. Even if someone sees you reading a book on anything to do with relationship, you will be seen as a person with some different morale. As much as we portray ourselves as very civilized and traditional group, so much of affairs keep happening around us. Every now and then a scandal or rumor arises about affairs. But as long as it doesn't happen to us or people in our close circle, we tend to look at it as information or a juicy chunk of gossip. These affairs carry with it a lot of assumptions and myths. The very cover of the book shatters the ever told myth: "It's common that men stray". But who do they have affair with? I told myself, "Okay, that's a point."  
   
 All of us tend to believe that infidelity or affair could happen only for others. Mine is a perfect relationship. But even those who face the infidelity think the same before discovering it. The point is: It might happen in any relationship or marriage. Vijay has artfully put this book together. I would call it "A-Z infidelity". He has begun with how monogamy is a discipline we follow and not the nature of our species, connecting to the infidelity in history and its changes in the modern times. Another myth proven wrong is: "affairs are those when physical relationship involves". Author has penned the various types of affairs and the driving factors behind them. For example, even emotional intimacy with opposite gender other than your spouse which detracts your marriage qualifies as an affair.  

@@ -7,15 +7,8 @@ category: books
 
 **Book:** The Monk Who Sold His Ferrari  
 **Author:** Robin Sharma  
-**ISBN:** 817992162X  
-**ISBN-13:** 9788179921623,978-8179921623  
-**Binding:** Paperback  
-**Publishing Date:** 2003  
-**Publisher:** Jaico Publishing House  
-**Edition:** 1st Edition  
-**Number of Pages:** 216  
-**Language:** English  
-  
+**ISBN-13:** 978-8179921623
+
 > "When the student is ready, the teacher appears".  
 
 Sounds superficial?. Not to me. This book was released 14 years ago and I saw this book in every book store, everyone told me that this book is awesome, but some how this book eluded me, even though I wanted to read it. I did not bother much then. In recent days, my life was not happening as I wanted it to happen. Everything was out of my control and I wanted to discipline my life. Viola... The book appears next to my bed. My room mate bought the book. So, I started reading...  

@@ -8,13 +8,6 @@ category: books
 **Book:** The Power Of Death - A Radical Path to Personal Transformation and Spiritual Enlightenment  
 **Author:** Gabriel Dee  
 **ISBN-13:** 978-1515019916  
-**ISBN-10:** 1515019918  
-**ASIN:** B013IKX096  
-**Publisher:** CreateSpace Independent Publishing Platform  
-**Publication Date:** July 31, 2015  
-**Format:** Kindle Edition  
-**Print Length:** 149 pages  
-**Language:** English  
 
 I generally don't read any books that sounds negative. I simply don't want to waste my time reading half of the book and then close it. This book is an exception. I did not go after this book. The author contacted me and asked if I am willing to read the book and review. I paused for a moment and said OK.
 

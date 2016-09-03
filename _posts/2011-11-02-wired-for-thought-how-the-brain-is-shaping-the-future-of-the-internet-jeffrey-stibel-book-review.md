@@ -7,15 +7,8 @@ category: books
 
 **Book:** Wired For Thought: How The Brain Is Shaping The Future Of The Internet  
 **Author:** Jeffrey M. Stibel, Erik Calonius, Peter Delgrosso  
-**ISBN:** 1422146642  
-**ISBN-13:** 9781422146644,978-1422146644  
-**Binding:** Hardcover  
-**Publishing Date:** Sep 2009  
-**Publisher:** Harvard Business School Publishing  
-**Edition:** 1st  
-**Number of Pages:** 202  
-**Language:** English  
-  
+**ISBN-13:** 978-1422146644
+
 Jeffrey Stibel is a brain scientist and entrepreneur, who is the chairman of [BrainGate][braingate], a brain-implant company that allows people to use their thoughts to control electrical devices and also the president of [web.com][web] which helps entrepreneurs to grow their business in the web. Most importantly, this book is recommended by my all time favorite author [John Assaraf][john]. What else you need to read this book?.  
   
 [braingate]: http://www.braingate.com/

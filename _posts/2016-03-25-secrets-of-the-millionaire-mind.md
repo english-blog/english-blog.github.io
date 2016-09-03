@@ -7,13 +7,7 @@ category: books
 
 **Book:** Secrets of the Millionaire Mind  
 **Author:** Harv Eker  
-**ISBN:** 0061336459  
-**ISBN-13:** 978-0061336454  
-**Binding:** Paperback  
-**Publishing Year:** 2009  
-**Publisher:** HarperCollins  
-**Number of Pages:** 224 Pages  
-**Language:** English  
+**ISBN-13:** 978-0061336454
 
 This book is organized into  
   

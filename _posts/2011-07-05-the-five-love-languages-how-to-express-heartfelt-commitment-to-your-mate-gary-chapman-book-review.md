@@ -7,14 +7,8 @@ category: books
 
 **Book:** The Five Love Languages  
 **Author:** Gary Chapman  
-**ISBN:** 8186775099  
-**ISBN-13:** 9788186775097, 978-8186775097  
-**Binding:** Paperback  
-**Publishing Date:** 2009  
-**Publisher:** Manjul Publishing House Pvt. Ltd.  
-**Edition:** 1st Edition  
-**Language:** English  
-  
+**ISBN-13:** 978-8186775097
+
 Thank You...Thank You...Thank You...Thank You...Thank You...  
   
 This is all I can say to Dr. Gary Chapman for writing such a beautiful, much needed book. I would recommend this book to ALL, irrespective of whether you are in love, married, living together or whatever is your marital status. This book packs a lot of real wisdom which can potentially save a lot of marriages from the brink of divorce. Imagine, what this book can do to the already amazing marriages and couples?. Dr. Gary Chapman guides us to identify the means to communicate your heart felt love to your spouse.  

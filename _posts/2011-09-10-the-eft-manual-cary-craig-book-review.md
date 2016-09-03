@@ -7,15 +7,8 @@ category: books
 
 **Book:** The EFT Manual  
 **Author:** Gary Craig  
-**ISBN:** 1604150661  
-**ISBN-13:** 9781604150667, 978-1604150667  
-**Binding:** Paperback  
-**Publishing Date:** Mar 2011  
-**Publisher:** Energy Psychology Press  
-**Edition:** 2nd Edition  
-**Number of Pages:** 280  
-**Language:** English  
-  
+**ISBN-13:** 978-1604150667
+
 If a picture is worth thousand words, how about a video then?. Here is an introductory video to EFT (Emotional Freedom Technique). It is very essential that you know about EFT, before reading the review about this book. I found this is the best video that was ever made for EFT. Watch it completely before you scroll down for the book review.  
 
 <iframe width="600" height="400"

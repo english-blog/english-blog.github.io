@@ -7,14 +7,8 @@ category: books
 
 **Book:** Sikandar - 10 Players, 68 Days  
 **Author:** Binayak Banerjee, Soma Ghosh  
-**ISBN:** 9380658735  
-**ISBN-13:** 9789380658735, 978-9380658735  
-**Binding:** Paperback  
-**Publishing Date:** 2011  
-**Publisher:** Westland  
-**Number of Pages:** 238  
-**Language:** English  
-  
+**ISBN-13:** 978-9380658735
+
 Alexander the Great was known and called as "Sikandar" in India after his invasion. So, wait! Is the book "Sikandar" penned by Binayak Banerjee in Bengali and translated to English by Soma Ghosh about Alexander or some Indian king? Curiosity led me to book back. As soon as I read the gist of the story from the last page, I could not help thinking about Stone Cold Steve Austin's movie "The Condemned". The story of the movie is that 10 condemned criminals will be left to fight in an island and only one will survive. The plot of this novel is similar, where the author has attempted to portray 10 tangled personalities, the turmoil and vehemence between them, who are locked under the same roof contesting in a reality show. This could be Binayak’s original idea, but a movie was already made out of this idea. I thought *Let's read anyway*.  
   
 The story begins with a news broadcast where the newsreader does a live report with the participants. What is so quizzing is that how come a news broadcast focuses so much only this program details that too even before it begins. For crying out loud, there is no trace about the program’s public response and popularity considering the hype given in the beginning. Each character introduces them giving a brief background. The one who leaves the house last will be declared as true "Sikandar". The contestants are diversified. They range from a prominent politician to a poor guy, leaving the reader snooping who the winner will be. Author has beautifully portrayed the other side of celebrities giving us a look into their fears, passion, greed and humanity. However, there are high chances that the reader might get lost in the over populated characters and it's pretty hard to track and remember character as the story progress.  

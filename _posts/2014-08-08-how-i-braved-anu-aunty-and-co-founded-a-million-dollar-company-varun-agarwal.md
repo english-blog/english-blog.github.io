@@ -7,13 +7,7 @@ category: books
 
 **Book:** How I Braved Anu Aunty & Co-founded A Million Dollar Company  
 **Author:** Varun Agarwal  
-**ISBN:** 812911979X  
-**ISBN-13:** 9788129119797  
-**Binding:** Paperback  
-**Publishing Year:** 2012  
-**Publisher:** Rupa Publication India  
-**Number of Pages:** 256 Pages  
-**Language:** English  
+**ISBN-13:** 978-8129119797
 
 It's been a long time that I read a book, cover to cover in one evening. I simply could not put this book aside without completing it. When I was done, I had a big smile on my face and felt happy for what this young man has achieved.  
 

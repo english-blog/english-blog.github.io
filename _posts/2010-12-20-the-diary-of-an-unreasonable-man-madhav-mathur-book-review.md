@@ -7,15 +7,8 @@ category: books
 
 **Book:** The Diary Of An Unreasonable Man  
 **Author:** Madhav Mathur  
-**ISBN:** 0143065440  
-**ISBN-13:** 9780143065449, 978-0143065449  
-**Binding:** Paperback  
-**Publishing Date:** 11/14/2009  
-**Publisher:** Penguin Books India  
-**Edition:** 01  
-**Number of Pages:** 208  
-**Language:** English  
-  
+**ISBN-13:** 978-0143065449
+
 I generally read books on human psychology, self improvements, philosophy etc and refrain from reading novels. I don't intend to avoid novels, just that I give importance to other genres. "The Story Of An Unreasonable Man" from Madhav Mathur is exceptionally fast paced. I liked the writing style. He used a rich vocabulary throughout this book, which I do not expect in a novel. However, you will get used to it in the first few chapters. Thanks to Sumit for introducing Madhav Mathur to me.  
   
 When I started the novel, I felt this is gonna be like "The White Tiger", a negative poverty seller kind. But it is not. The story line is different and well framed. This Novel is about a guy named "Pranav Kumar" who doesn't like the way things are and want to change the way the world operates. He decides that he could no more sell soaps, just for the sake of selling and quits his highly paid marketing executive job. He tries to get published and wanted to change the world with his pen, but the publishers didn't mind him. When all the doors are closed, he teams up with his friends and comes up with novel ways to get his messages across the country, shakes the world and be heard as "The Anarchists of Mumbai". Read the novel to witness the action.  

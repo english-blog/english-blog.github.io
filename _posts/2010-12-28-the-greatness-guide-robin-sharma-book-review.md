@@ -7,14 +7,7 @@ category: books
 
 **Book:** The Greatness Guide  
 **Author:** Robin S. Sharma  
-**ISBN:** 8179925765  
-**ISBN-13:** 9788179925768, 978-8179925768  
-**Binding:** Paperback  
-**Publishing Date:** 2006  
-**Publisher:** Jaico Publishing House  
-**Edition:** 1st Edition  
-**Number of Pages:** 240  
-**Language:** English  
+**ISBN-13:** 978-8179925768
 
 Back to Robin Sharma again. Every now and then, if you don't read Robin's book, you are definitely missing something from your life. He is the guiding star for me. Providing me the wisdom I need and miraculously at the right time. You call it co-incidence or whatever. Thanks Robin.  
 

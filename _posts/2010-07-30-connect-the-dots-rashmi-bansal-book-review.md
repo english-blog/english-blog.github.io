@@ -7,13 +7,8 @@ category: books
 
 **Book:** Connect The Dots  
 **Author:** Rashmi Bansal   
-**ISBN:** 8190453025   
-**ISBN-13:** 9788190453028, 978-8190453028   
-**Binding:** Paperback   
-**Publishing Date:** April 2010   
-**Publisher:** Eklavya Foundation   
-**Language:** English   
-  
+**ISBN-13:** 9788190453028, 978-8190453028
+
 This book is a sequel to "Stay Hungry, Stay Foolish" from our own local author Rashmi Bansal. The awesome stories of 20 individuals who made it big in the business with out an MBA. Each story is so compelling that you cannot put the book down, without completing it. Also, the pace of the book is amazing. You can finish this book faster than you could think of. Rashmi is gifted with such an interesting conversational writing style.  
   
 This book is very much needed at this time to inspire and create more entrepreneurs. "If they can do it, why not me?". That's the question that comes to your mind after reading each story. The very first story is about Prem Ganapathy, who went to Mumbai without even a rupee, but established "Dosa Plaza" - the most popular food chain in Mumbai. This book is not just about IT success stories, it has wide variety of stories.   

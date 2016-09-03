@@ -7,14 +7,8 @@ category: books
 
 **Book:** Creative Capitalism: A Conversation With Bill Gates, Warren Buffet, And Other Economic Leaders  
 **Author:** Michael Kinsley, Conor Clarke  
-**ISBN:** 141659941X  
-**ISBN-13:** 9781416599418, 978-1416599418  
-**Binding:** Hardcover  
-**Publishing Date:** Dec 2008  
-**Publisher:** Simon & Schuster  
-**Number of Pages:** 315  
-**Language:** English  
-  
+**ISBN-13:** 978-1416599418
+
 January 24, 2008 - The World Economic Forum, Davos, Switzerland. A speech by Bill Gates, one of the most successful entrepreneur & philanthropist created a whirl wind in the business circles. Gates proposed a new idea of making capitalism work for the poor and needy in the developing world. He coined the term "Creative Capitalism". This book is a compilation of discussions, blogs, critics by 43 well known successful business leaders, economists etc around the topic. Micheal Kinsley did a pretty good job in compiling 300+ pages with thought provoking ideas, approaches to Creative Capitalism. Many of you may have seen Gates speech on YouTube or read the transcription in Microsoft website. But, after reading this entire book, you will have a complete knowledge, different thinking and a birds eye view of this topic. About the pros and cons of what was proposed by Bill Gates. Many of the business leaders do not agree with his idea of Creative Capitalism (with valid statistics and business ethics). Some, do agree with Bill Gates.  
   
 [Bill Gates: World Economic Forum 2008](http://news.microsoft.com/2008/01/24/bill-gates-world-economic-forum-2008/)  
