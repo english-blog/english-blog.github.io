@@ -205,6 +205,8 @@ I quit TCS. Today is my last day. I wanted my final goodbye email to be very spe
 
 <font color="#ffffff">&nbsp;&nbsp;</font><font color="#7f0055"><b>public&nbsp;static&nbsp;</b></font><font color="#7f0055"><b>void&nbsp;</b></font><font color="#000000">pleaseKeepInTouch</font><font color="#000000">()&nbsp;{</font><br />
 
+<font color="#3f7f5f">&nbsp;&nbsp;&nbsp;&nbsp;// Please use the contact form</font><br />
+
 <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaEmail</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="mailto:{{ site.email }}?Subject=Goodbye%20E-Mail" target="_top">{{site.email}}</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
 <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaBlog</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="{{site.url}}" target="_blank">{{site.url}}</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
