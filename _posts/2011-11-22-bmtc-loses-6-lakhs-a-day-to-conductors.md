@@ -29,7 +29,7 @@ Yes. I know what you are thinking. Not all the conductors are like that. OK. Als
   
 You might save few bucks traveling without tickets, but see how much BMTC is losing?. Who are they to steal our hard-earned money? We are not talking about the few bucks. We are talking about crores of rupees. With proper re-investments, we can have better infrastructure and may be even reduction in the ticket price. Would you stand with me?  
   
-###What to do, if you find any irregularity with the BMTC?  
+### What to do, if you find any irregularity with the BMTC?
 
 * Make sure that you get your ticket first. (whatever the case, not issuing tickets, abusing etc)  
 * Inform him/her that you are going to file an online complaint with BTIS.  
@@ -39,7 +39,7 @@ You might save few bucks traveling without tickets, but see how much BMTC is los
 * Make sure that you complaint every time, you come across a situation.  
 
 
-###What could BMTC do to stop the irregularities?
+### What could BMTC do to stop the irregularities?
 
 * BTIS could give us a compliant number rather than a simple "Thank You". It would be easy to track or to use RTI to get the updates.  
 * Frequent Ticket Checking on the routes where you receive more complaints would be needed.  

@@ -17,24 +17,24 @@ This book includes speeches by the Kings, Queens, Pastors, Political Leaders, Re
   
 I do not know many people in this book. Glad to know them now. Let me give you a gist of the speeches in this book.  
   
-###Elizabeth I - The Golden Speech.
+### Elizabeth I - The Golden Speech.
 
 This speech is considered one of the greatest of all English Monarch. I opened the book with lots of curiosity, but you know what?. I was disappointed. I expected a speech that shows power and authority, but its very humble and down to earth. Like a sermon from a pastor. Sucks !  
 But If you read Margaret Thatcher's speech *"The Lady's Not For Turning"*, you can feel the power, command and authority in it.  
   
-###James Wolfe - Speech Before The Battle Of The Plains Of Abraham.
+### James Wolfe - Speech Before The Battle Of The Plains Of Abraham.
 
 The man who brought about the end of New France. *"The impossibility of retreat makes no difference in the situation of men resolved to conquer or die; and, believe me friends, if your conquest be bought with the blood of your general, he would most cheerfully resign a life which he has long devoted to his country"*. He died and won the battle. Very inspiring.  
   
-###Patrick Henry - Give Me Liberty Or Give Me Death
+### Patrick Henry - Give Me Liberty Or Give Me Death
 
 This man and his speech started the American Revolutionary War. *"Is life so dear, or peace so sweet, as to be bought at the price of chains and slavery?. Forbid it, Almighty God! I know not what course others may take; but for me, give me liberty, or give me death!"*. Each and every line is inspiring.  
   
-###Tecumseh
+### Tecumseh
 
 The Shawnee Chief, challenging the Treaty of Fort Wayne in 1810. *"Sell a Country! Why not sell the air, the clouds and the Great Sea, as well as the earth?. Did not the Great Good Spirit make them all for the use of his children?"*. Thought provoking speech from a Red Indian, which shows the ugly face of the origin of America.  
   
-###Sojourner Truth - Ain't I a woman?
+### Sojourner Truth - Ain't I a woman?
 
 This small speech by a former black slave at the two day Convention devoted to the rights of woman, is very emotional. Not any facts, Not any wisdom. Just the plain emotional venting of years of torture and slavery. But, one of the best !  
   

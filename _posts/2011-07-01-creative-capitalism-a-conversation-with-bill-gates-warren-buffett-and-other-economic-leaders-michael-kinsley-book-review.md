@@ -13,7 +13,7 @@ January 24, 2008 - The World Economic Forum, Davos, Switzerland. A speech by Bil
   
 [Bill Gates: World Economic Forum 2008](http://news.microsoft.com/2008/01/24/bill-gates-world-economic-forum-2008/)  
   
-###Here is the cheat sheet of Creative Capitalism 
+### Here is the cheat sheet of Creative Capitalism
 
 1. Markets respond only to "demand", not to "need".  
 2. The world is getting better, but not fast enough and not for everyone. For ex., Climate change will impose the worst effect on those least responsible for it.  

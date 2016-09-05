@@ -6,7 +6,7 @@ category: books
 ---
 
 **Book:** Chicken Soup For The Indian Soul: A Book Of Miracles  
-**Author:** Raksha Bharadia, Jack Canfield, Mark Victor AndHansen  
+**Author:** Raksha Bharadia, Jack Canfield, Mark Victor Hansen
 **ISBN-13:** 978-9381626368
 
 This is the first book I read in Chicken Soup series. The title "A book of miracles" made me raise eye brows, wondering what I could expect in this book. The excerpt at back cover confirmed my guess that it's superficial yet true incidents that happened in people's life. Though the secret was revealed, my curiosity took over me and I found myself reading the book ardently.  

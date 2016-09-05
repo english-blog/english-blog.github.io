@@ -42,5 +42,5 @@ To learn more about the Ho'oponopono method, I suggest to look for the workshop 
 Thank you Dr. Ihaleakala Hew Len for the Ho'oponopono method and Thank you Dr. Joe Vitale for bringing this as a book to the world.  
 
 **References:**
-<http://hooponopono.org/>  
-<http://www.businessbyyou.com/>  
+[http://hooponopono.org]([http://hooponopono.org])
+[http://www.businessbyyou.com](http://www.businessbyyou.com)

@@ -1,12 +1,9 @@
 ---
 layout: post
 title: HDFC Bank - "We understand your world" - Really?
-image-name: hdfc-bank-logo.jpg
 date: 2011-10-24
 category: social
 ---
-
-![HDFC Bank Logo]({{site.img-path}}/{{page.image-name}})  
 
 Why this post?. What is it that I want to communicate to the world about HDFC Bank?. Just my recent bitter experiences with HDFC. I have been banking with HDFC for the past 7 years. I am one of the high value card member who always pays in full and never defaulted a single payment in my life. Here is what happened...  
   
@@ -30,7 +27,8 @@ So far so good. Mr. Prakash promised me to accompany to the Police station and f
 
 He said, *"The card was lost near ITPL and you stay in Marathahalli. Both the areas does not come under this police station. So, they cannot file an FIR. The HAL Police won't be of much help. That's why I brought you here. If you don't like, pay the entire amount to HDFC Bank. Your choice !".*   
 
-I was little surprised when Mr. Madhu asked me to pay Rs.3000 to the police to start the investigation. The question put to me by the bank representative was   
+I was little surprised when Mr. Madhu asked me to pay Rs.3000 to the police to start the investigation. The question put to me by the bank representative was
+
 > Would you like to pay Rs. 1 lakh to the bank or Rs. 3000 to the police?. Since they do this for you off the record, you need to pay for their travel expenses.  
 
 Argument from Mr. Madhu (an HDFC Bank Representative). I paid to Mr.Venkata Swamy @ Airport Road Police Station. Yes. I did. I just wanted this to get over. But the Police is still searching the thief (as of 23-Oct-2011).  
@@ -51,7 +49,7 @@ Both the HDFC Bank and I know that, it was a fraud on my card. *I don't want HDF
 * I suggest to get a credit card and use it ONLY for emergencies and make sure that you pay it off in FULL. Never ever get into revolving mode. You get stuck !.  
 * Never pay anything to the Police. It does not make any big difference. Go to the court, if you have time.  
 
-###What HDFC Bank Could have done better?
+### What HDFC Bank Could have done better?
   
 * For a high value transaction for Rs.38,500 @ Chemmanur Jewelry, HDFC Bank tried to send an SMS and followed by a phone call. The main reason for phone call verification is to avoid credit card fraud. When you are not able to reach the customer, please pro-actively make efforts to reach the customer. You could have sent an email and / or temporarily block the card. I would be more than happy rather than pissed off.  
 * Integrate all your internal systems (statement systems, RCU etc) and make sure that you know everything before calling the customer.  

@@ -13,7 +13,7 @@ twitter:          https://twitter.com/i-do-not-use-twitter
 linkedin:         http://www.linkedin.com/in/premkumarmasilamani
 
 gems:             [jekyll-paginate]
-paginate:         30
+paginate:         10
 
 permalink:        /:title/
 
