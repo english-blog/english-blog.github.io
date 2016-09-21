@@ -105,6 +105,34 @@
 							</xsl:for-each>
 						</tbody>
 					</table>
+					<br/>
+					<table id="sitemap" cellpadding="3">
+						<thead>
+							<tr>
+								<th width="80%">Blog Pages</th>
+								<th width="20%">Last Updated On</th>
+							</tr>
+						</thead>
+						<tbody>
+							<xsl:variable name="lower" select="'abcdefghijklmnopqrstuvwxyz'"/>
+							<xsl:variable name="upper" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'"/>
+							<xsl:for-each select="sitemap:urlset/sitemap:url">
+								<tr>
+									<td>
+										<xsl:variable name="itemURL">
+											<xsl:value-of select="sitemap:loc"/>
+										</xsl:variable>
+										<a href="{$itemURL}">
+											<xsl:value-of select="sitemap:loc"/>
+										</a>
+									</td>
+									<td>
+										<xsl:value-of select="concat(substring(sitemap:lastmod,0,11),concat(' ', substring(sitemap:lastmod,12,5)))"/>
+									</td>
+								</tr>
+							</xsl:for-each>
+						</tbody>
+					</table>
 				</div>
 			</body>
 		</html>
