@@ -81,10 +81,10 @@
 					<table id="sitemap" cellpadding="3">
 						<thead>
 							<tr>
-								<th width="75%">URL</th>
+								<th width="80%">URL</th>
 								<th width="5%">Priority</th>
-								<th width="5%">Change Freq.</th>
-								<th width="15%">Updated On</th>
+								<th width="5%">Change Frequency</th>
+								<th width="10%">Last Updated On</th>
 							</tr>
 						</thead>
 						<tbody>
