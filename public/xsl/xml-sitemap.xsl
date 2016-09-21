@@ -81,10 +81,8 @@
 					<table id="sitemap" cellpadding="3">
 						<thead>
 							<tr>
-								<th width="80%">URL</th>
-								<th width="5%">Priority</th>
-								<th width="5%">Change Frequency</th>
-								<th width="10%">Last Updated On</th>
+								<th width="80%">Blog Posts</th>
+								<th width="20%">Last Updated On</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -101,10 +99,32 @@
 										</a>
 									</td>
 									<td>
-										<xsl:value-of select="concat(sitemap:priority*100,'%')"/>
+										<xsl:value-of select="concat(substring(sitemap:lastmod,0,11),concat(' ', substring(sitemap:lastmod,12,5)))"/>
 									</td>
+								</tr>
+							</xsl:for-each>
+						</tbody>
+					</table>
+					<br/>
+					<table id="sitemap" cellpadding="3">
+						<thead>
+							<tr>
+								<th width="80%">Blog Pages</th>
+								<th width="20%">Last Updated On</th>
+							</tr>
+						</thead>
+						<tbody>
+							<xsl:variable name="lower" select="'abcdefghijklmnopqrstuvwxyz'"/>
+							<xsl:variable name="upper" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'"/>
+							<xsl:for-each select="sitemap:urlset/sitemap:url">
+								<tr>
 									<td>
-										<xsl:value-of select="concat(translate(substring(sitemap:changefreq, 1, 1),concat($lower, $upper),concat($upper, $lower)),substring(sitemap:changefreq, 2))"/>
+										<xsl:variable name="itemURL">
+											<xsl:value-of select="sitemap:loc"/>
+										</xsl:variable>
+										<a href="{$itemURL}">
+											<xsl:value-of select="sitemap:loc"/>
+										</a>
 									</td>
 									<td>
 										<xsl:value-of select="concat(substring(sitemap:lastmod,0,11),concat(' ', substring(sitemap:lastmod,12,5)))"/>
