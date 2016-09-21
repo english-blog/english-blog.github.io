@@ -2,7 +2,7 @@
 layout: page
 date: 2015-03-01 00:00:00 +0530
 title:  Bucket List
-permalink: /category/bucket-list/
+permalink: /bucket-list/
 ---
  
 [home]({{ site.url }}) &nbsp;&gt;&nbsp; [categories]({{ site.url }}/categories)  
