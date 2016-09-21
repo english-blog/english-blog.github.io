@@ -84,7 +84,7 @@
 								<th width="75%">URL</th>
 								<th width="5%">Priority</th>
 								<th width="5%">Change Freq.</th>
-								<th width="15%">Last Change</th>
+								<th width="15%">Updated On</th>
 							</tr>
 						</thead>
 						<tbody>
