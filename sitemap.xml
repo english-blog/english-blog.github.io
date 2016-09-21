@@ -7,26 +7,22 @@ date: 2013-12-12 00:00:00 +0530
 
 <!-- blog posts -->
 {% for post in site.posts %}
-    {% if post.category == true %}
-        <url>
-            <loc>{{ site.url }}{{ post.url }}</loc>
-            <lastmod>{{ post.date }}</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
+	<url>
+	    <loc>{{ site.url }}{{ post.url }}</loc>
+	    <lastmod>{{ post.date }}</lastmod>
+	    <changefreq>weekly</changefreq>
+	    <priority>1.0</priority>
 	</url>
-    {% endif %}
 {% endfor %}
 
 <!-- pages -->
 {% for page in site.pages %}
-    {% if page.category == false %}
-        <url>
-            <loc>{{ site.url }}{{ page.url }}</loc>
-            <lastmod>{{ page.date }}</lastmod>
+	<url>
+	    <loc>{{ site.url }}{{ page.url }}</loc>
+	    <lastmod>{{ page.date }}</lastmod>
 	    <changefreq>monthly</changefreq>
 	    <priority>0.5</priority>
-        </url>
-    {% endif %}
+	</url>
 {% endfor %}
 
 </urlset>
