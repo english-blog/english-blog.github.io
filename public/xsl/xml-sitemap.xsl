@@ -14,7 +14,8 @@
 				<script type="text/javascript" src="http://blog.smileprem.com/public/js/jquery.tablesorter.min.js"></script>
 				<script	type="text/javascript"><![CDATA[
 					$(document).ready(function() { 
-				        $("#sitemap").tablesorter( { widgets: ['zebra'] } ); 
+				        $("#sitemap-posts").tablesorter( { widgets: ['zebra'] } ); 
+				        $("#sitemap-pages").tablesorter( { widgets: ['zebra'] } ); 
 					});
 				]]></script>
 				<style type="text/css">
@@ -27,15 +28,24 @@
 						border: none;
 						border-collapse: collapse;
 					}
-					#sitemap tr.odd {
+					#sitemap-posts tr.odd {
 						background-color: #eee;
 					}
-					#sitemap tbody tr:hover {
+					#sitemap-posts tbody tr:hover {
 						background-color: #ccc;
 					}
-					#sitemap tbody tr:hover td, #sitemap tbody tr:hover td a {
+					#sitemap-posts tbody tr:hover td, #sitemap tbody tr:hover td a {
 						color: #000;
 					}
+					#sitemap-pages tr.odd {
+						background-color: #eee;
+					}
+					#sitemap-pages tbody tr:hover {
+						background-color: #ccc;
+					}
+					#sitemap-pages tbody tr:hover td, #sitemap tbody tr:hover td a {
+						color: #000;
+					}					
 					#content {
 						margin: 0 auto;
 						width: 1000px;
@@ -78,7 +88,7 @@
 					<p class="expl">
 						This sitemap contains <xsl:value-of select="count(sitemap:urlset/sitemap:url)"/> URLs.
 					</p>			
-					<table id="sitemap" cellpadding="3">
+					<table id="sitemap-posts" cellpadding="3">
 						<thead>
 							<tr>
 								<th width="80%">Blog Posts</th>
@@ -106,7 +116,7 @@
 						</tbody>
 					</table>
 					<br/>
-					<table id="sitemap" cellpadding="3">
+					<table id="sitemap-pages" cellpadding="3">
 						<thead>
 							<tr>
 								<th width="80%">Blog Pages</th>
