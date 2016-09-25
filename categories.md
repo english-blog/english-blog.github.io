@@ -10,10 +10,6 @@ permalink: /categories/
 
 <ul>
 
-<li><p><a href="{{ site.url }}/category/running/">Running</a></p></li>
-
-<li><p><a href="{{ site.url }}/category/bucket-list/">Bucket List</a></p></li>
-
 <li><p><a href="{{ site.url }}/category/books/">Library</a></p></li>
 
 <li><p><a href="{{ site.url }}/category/apps/">Apps</a></p></li>
