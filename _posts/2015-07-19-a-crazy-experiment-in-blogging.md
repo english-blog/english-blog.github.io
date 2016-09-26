@@ -71,4 +71,4 @@ I already started reaping the benefit of this experiment even before I publish t
 
 I hope to see a change in the reader's count. Good or Bad. I want to retain this blog design at least for an year.
 
-If you want to know the "free" tech stack that's running this blog, please read this article [Blog like a Programmer]({{site.url}}/blog-like-a-programmer/). If that sounds too technical, you may want to try blogger (free).
+If you want to know the "free" tech stack that's running this blog, please read this article [Blog like a Programmer]({{site.url}}/blog-like-a-programmer/). If that sounds too technical, you may want to try blogger.com.

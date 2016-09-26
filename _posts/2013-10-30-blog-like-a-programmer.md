@@ -110,7 +110,7 @@ Below is that technology stack that runs this blog.
 
 I used the very basic template that comes with Jekyll. I have plans to customize it in future and also to add a custom search engine to my blog. I explored private pay-as-you-go hosting options as well. I found <http://www.hostingreborn.com> to be very good. I may move my blog to private hosting sometime in future, when the blog grows big or if there are issues with GitHub hosting. But, that migration would be a breeze for me.  
 
-If this sounds too technical, you may want to try the wordpress blog from [bluehost](http://www.bluehost.com/track/smileprem/) (paid) or the [blogger](http://www.blogger.com) (free).
+If this sounds too technical, you may want to try the blogger.com.
 
 ### What difference did it make to my writing?
 
