@@ -74,9 +74,7 @@ How sure I am about her age being 71?. 0%. Yes. This is just a video uploaded in
 
 **Resources:**  
 
-[What Makes Us Human? Cooking, Study Says](http://news.nationalgeographic.co.uk/news/2012/10/121026-human-cooking-evolution-raw-food-health-science/)  
-[When Fire Met Food, The Brains Of Early Humans Grew Bigger](http://www.npr.org/blogs/health/2010/07/30/128877628/meat-fire-and-the-evolution-of-man)  
+[When Fire Met Food, The Brains Of Early Humans Grew Bigger](http://www.npr.org/blogs/health/2010/07/30/128877628/meat-fire-and-the-evolution-of-man)
 [Evolutionary Increase in Size of the Human Brain Explained](http://www.sciencedaily.com/releases/2012/08/120816141537.htm)  
 [The Protein Domain DUF1220](http://en.wikipedia.org/wiki/DUF1220)  
 [Neanderthals Were Nifty at Controlling Fire](http://www.sciencedaily.com/releases/2011/03/110314152917.htm)  
-[Raw vs. Cooked?](http://www.drfuhrman.com/faq/question.aspx?sid=16&qindex=4)  

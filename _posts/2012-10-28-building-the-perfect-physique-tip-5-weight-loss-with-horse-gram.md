@@ -44,9 +44,7 @@ Please click the below links for the recipes;
   
 [Kollu Paruppu Sundal](http://www.sharmispassions.com/2012/05/kollu-rasam-kollu-sundal-kollu-recipes.html)  
 
-[Kollu Podimas](http://rivr.sulekha.com/kollu-podimas_592638_blog)  
-  
-**Update from previous tips:**  
+**Update from previous tips:**
   
 So far, we were trying to make simple lifestyle changes to maintain the ideal weight for as long as we live. I don't prefer to lose the weight quick and gain it back. With the previous tips, I was able to lose 1.5 kg in the beginning and I hit a plateau. My weight fluctuates on a daily basis, but I average around the same weight range. The weight does not seem to shed off automatically. So, I am going to change my diet a little bit with this. Let's see what happens.  
   

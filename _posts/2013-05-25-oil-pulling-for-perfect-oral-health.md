@@ -61,7 +61,6 @@ This is a very simple and cheap therapy. There is no harm in trying this. Please
   
 **References:**  
 [Effect of oil pulling on plaque induced gingivitis: A randomized, controlled, triple-blind study](http://www.ijdr.in/article.asp?issn=0970-9290;year=2009;volume=20;issue=1;spage=47;epage=51;aulast=Asokan)  
-[Tooth brushing, oil pulling and tissue regeneration: A review of holistic approaches to oral health](http://www.jaim.in/article.asp?issn=0975-9476;year=2011;volume=2;issue=2;spage=64;epage=68;aulast=Singh)  
-[Mechanism of oil-pulling therapy -In vitro study](http://www.ijdr.in/article.asp?issn=0970-9290;year=2011;volume=22;issue=1;spage=34;epage=37;aulast=Asokan)  
+[Mechanism of oil-pulling therapy -In vitro study](http://www.ijdr.in/article.asp?issn=0970-9290;year=2011;volume=22;issue=1;spage=34;epage=37;aulast=Asokan)
 <http://oilpulling.com/freeoilpullingbook.htm>  
 
