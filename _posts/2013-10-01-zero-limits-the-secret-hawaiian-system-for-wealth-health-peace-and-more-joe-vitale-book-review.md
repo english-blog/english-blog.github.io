@@ -40,7 +40,3 @@ I already started using Ho'oponopono method and felt peace in mind, the very fir
 To learn more about the Ho'oponopono method, I suggest to look for the workshop conducted by Dr. Hew Len in Hawaii, US, Europe etc. Check the reference at the end of this blog. Another item to my Bucket List - *Attend Ho'oponopono workshop in Hawaii with Dr. Hew Len.*  
   
 Thank you Dr. Ihaleakala Hew Len for the Ho'oponopono method and Thank you Dr. Joe Vitale for bringing this as a book to the world.  
-
-**References:**
-[http://hooponopono.org](http://hooponopono.org)
-[http://www.businessbyyou.com](http://www.businessbyyou.com)
