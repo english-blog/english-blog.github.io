@@ -39,16 +39,12 @@ Thanks to that realization. I switched back to my current phone Nokia 1280 and n
 
 Now the phone is dumb. Did I become smart?. That's too dumb a question to ask. I am simply learning & growing everyday without depending too much on external gadgets. When I forget my mobile phone at home, I don't miss it at office. It's just a gadget to me, as it is supposed to be. 
 
-What a relief man!!!. At least, I know for sure that I will never have [Smartphone Separation Anxiety](http://www.geekwire.com/2015/smartphone-separation-anxiety-affecting-health/). Too bad that the scientists have coined a new word for this madness. This is real. Check the references section below for the link to the actual research article.
+What a relief man!!!. At least, I know for sure that I will never have Smartphone Separation Anxiety. Too bad that the scientists have coined a new word for this madness. This is real. Check the references section below for the link to the actual research article.
 
 ### Conclusion?
 
-There is a miniscule population of smart users who actually use smartphones for better productivity. Let them go on. For the rest of us, we could try making our phone [distraction-free](https://medium.com/life-hacks/my-year-with-a-distraction-free-iphone-and-how-to-start-your-own-experiment-6ff74a0e7a50) for few days and see if that helps.  
+There is a miniscule population of smart users who actually use smartphones for better productivity. Let them go on. For the rest of us, we could try making our phone distraction free for few days and see if that helps.
 
 Better, if we could use a basic model phone.  
 
 Much better, if we could be phone-free.  
-
-### References
-1. [The Extended iSelf: The Impact of iPhone Separation on Cognition, Emotion, and Physiology](http://onlinelibrary.wiley.com/doi/10.1111/jcc4.12109/full)  
-

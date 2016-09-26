@@ -76,19 +76,3 @@ category: social
 **Me:** ???
 
 > **Divine Cows** - Sounds like an oxymoron.
-
-No species in the world produces milk for another species. Cow's milk is not meant for humans. We, humans exploit these gentle animals and suck the milk out of them. Every single drop of milk that you drink was meant for a poor dead calf which probably ended up as veal in someone's plate.  
-
-If you think you believe in God or follow Hinduism as your way of life and you love cows - Please STOP drinking milk. That would be the most powerful act of kindness that you can show to your divine animal.   
-
-If you are like me, don't believe in the existence of a super power or God, you can still avoid drinking milk for the right reasons. It's more of a poison these days. Check out the references.  
-
-Let's help the poor animal.
-
-[Milk Is Dangerous for Your Health](http://drhyman.com/blog/2013/10/28/milk-dangerous-health/)  
-[12 Frightening Facts About Milk](http://nutritionstudies.org/12-frightening-facts-milk/)  
-[Cow's Milk is the Perfect Food for Baby Calves](http://www.waoy.org/9.html)  
-[Debunking The Milk Myth: Why Milk Is Bad For You And Your Bones](http://saveourbones.com/osteoporosis-milk-myth/)  
-[Human Milk 4 Human Babies](http://hm4hb.net/)  
-
-

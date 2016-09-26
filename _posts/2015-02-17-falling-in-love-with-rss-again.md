@@ -19,13 +19,13 @@ I enjoyed reading it everyday, whenever I find time.
 
 I generally browse through my feeds in the morning to get the daily dose of inspiration.
 
-It was [RSS](http://en.wikipedia.org/wiki/RSS) with Google Reader. 
+It was RSS with Google Reader.
 
 Good or bad, nothing lasts forever, right?.
 
 The day was July 1, 2013.
 
-Google shutdown its RSS aggregator [Google Reader](http://googlereader.blogspot.in/2013/07/a-final-farewell.html), the only service which kept me hooked on to google for hours everyday. I was like a panic stricken chicken, waiting for his turn. Frantically looking for alternates to google reader.
+Google shutdown its RSS aggregator Google Reader, the only service which kept me hooked on to google for hours everyday. I was like a panic stricken chicken, waiting for his turn. Frantically looking for alternates to google reader.
 
 Trust me, I didn't like any of the alternatives available at that time. Nothing came close to Google Reader. 
 
@@ -74,6 +74,4 @@ Email = Communication.
 
 Why can't life be simpler like good old RSS days?
 
-I started looking for alternatives again. This time, I liked [feedly](https://feedly.com). I liked the mobile app, web interface and the synchronization of both. I can use it with Amazon Kindle. All my books and blogs in one place. Love it.
-
-Check it out. [Feedly](https://feedly.com)
+I started looking for alternatives again. This time, I liked **feedly**. I liked the mobile app, web interface and the synchronization of both. I can use it with Amazon Kindle. All my books and blogs in one place. Love it.

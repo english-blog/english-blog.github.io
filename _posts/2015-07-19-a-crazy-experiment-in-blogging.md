@@ -17,7 +17,7 @@ I googled, "I want to start a new blog" and reviewed the top 10 search results. 
 
 * Pick a blogging platform
 * Find a domain name
-* Choose a web host (eg. [bluehost](http://www.bluehost.com/track/smileprem))
+* Choose a web host
 * Design your blog
 * Install additional plugins
 * Configure SEO for your blog
@@ -71,4 +71,4 @@ I already started reaping the benefit of this experiment even before I publish t
 
 I hope to see a change in the reader's count. Good or Bad. I want to retain this blog design at least for an year.
 
-If you want to know the "free" tech stack that's running this blog, please read this article [Blog like a Programmer]({{site.url}}/blog-like-a-programmer/). If that sounds too technical, you may want to try the wordpress blog from [bluehost](http://www.bluehost.com/track/smileprem/) (paid) or the [blogger](http://www.blogger.com) (free).
+If you want to know the "free" tech stack that's running this blog, please read this article [Blog like a Programmer]({{site.url}}/blog-like-a-programmer/). If that sounds too technical, you may want to try blogger (free).

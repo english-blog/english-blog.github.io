@@ -122,8 +122,3 @@ Should there be one for every article?. If you wish so, let this be the conclusi
 
 ![A Vegan is a pioneer of a new world... a less violent one - M Butterflies Katz]({{site.img-path}}/vegan-less-violent-m-butterflies-katz.jpg)  
 <small>Photo Credit: [Evolve Campaigns](http://evolvecampaigns.org.uk/)</small>  
-
-### References
-<http://www.veganbodybuilding.com>  
-[Frank Medrano Fitness](http://www.thefrankmedrano.com/)  
-[78-Year-Old Vegan Male Bodybuilder, Jim Morris, Will Make You Reconsider Your Diet](http://www.huffingtonpost.co.uk/2014/03/29/vegan-male-bodybuilder_n_4560059.html)  
