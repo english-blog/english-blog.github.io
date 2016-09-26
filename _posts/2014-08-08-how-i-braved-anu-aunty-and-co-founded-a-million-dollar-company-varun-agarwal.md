@@ -30,9 +30,3 @@ src="http://www.youtube.com/embed/nMPqsjuXDmE?autoplay=0">
 </iframe> 
 
 Enough of reading the review, just go ahead and order the book. Even if you are not an entrepreneur, you are going to love this kid's story.  
-
-### Connect with him
-[Alma Matter](http://www.almamaterstore.in/)  
-[Varun Agarwal Personal Website](http://www.varunagarwal.in/)  
-[Varun Agarwal in Facebook](https://www.facebook.com/varun.agarwal1/)  
-[Varun Agarwal in Twitter](https://twitter.com/varun067)  

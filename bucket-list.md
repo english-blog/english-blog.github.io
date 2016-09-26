@@ -29,15 +29,10 @@ permalink: /bucket-list/
   <li><p>Location Independent Lifestyle</p></li>
   <li><p>Learn Swimming</p></li>
   <li><p>Inspiring TED Talk</p></li>
-  <li><p>Bungee Jumping from Royal Gorge Bridge, Colorado, USA</p></li>
+  <li><p>Bungee Jumping</p></li>
   <li><p>Mountain Gliding</p></li>
   <li><p>Space Jumping</p></li>
   <li><p>Complete a marathon</p></li>
-  <li><p>Complete an ultra-marathon of 100+ miles</p></li>
   <li><p>Complete a triathlon</p></li>
   <li><p>Get a half-body tattoo</p></li>
-  <li><p>Run in <a href="http://www.icemarathon.com/">Antarctic Ice Marathon</a></p></li>
-  <li><p>Run in <a href="http://www.npmarathon.com/">North Pole Marathon</a></p></li>
-  <li><p>Run in <a href="http://www.volcanomarathon.com/">Volcano Marathon</a></p></li>
-  <li><p>Run in <a href="http://www.worldmarathonchallenge.com/">World Marathon Challenge - 7 Marathons 7 Continents 7 Days</a></p></li>
-</ol>  
+</ol>

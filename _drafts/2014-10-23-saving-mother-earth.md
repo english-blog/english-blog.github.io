@@ -5,9 +5,7 @@ date: 2014-10-23
 category: social
 ---
 
-![Mother Earth](http://2.bp.blogspot.com/-ONrlbWf8I88/UDFtPBFaPlI/AAAAAAAAU9I/ha-IEq8DUUI/s160012345/earth.gif)  
-
-Saving Mother Earth! 
+Saving Mother Earth!
 
 The necessity of the moment. 
 
@@ -19,9 +17,7 @@ But wait!. Does mother Earth need our help?. Is the planet really dying?. Let's 
 
 Our blue little planet was nothing but solar nebula - the disc-shaped cloud of gas and dust left over from the Sun's formation, around 4.6 billion years ago. It took 10 - 20 million years for that cloud to form as the planet Earth and life appeared on its surface within one billion years. We took the form of humans around 200,000 years ago. Life on Earth is highly dependent on the Sun. But, the Sun is not going to last forever. This is the predicted life cycle of our sun. 
 
-![Solar Life Cycle](http://1.bp.blogspot.com/-VTfY4k3MaNk/UDHyvE0utJI/AAAAAAAAU9g/EPAGCnoKjqQ/s1600/700px-Solar_Life_Cycle.svg.png)  
-
-If we (humans) survive long enough, we must find another planet to live, and may be keep on switching planets, if needed.  
+If we (humans) survive long enough, we must find another planet to live, and may be keep on switching planets, if needed.
 
 What if there are already some species doing that?.  
 
