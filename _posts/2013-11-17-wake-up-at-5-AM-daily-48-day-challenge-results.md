@@ -5,10 +5,7 @@ date: 2013-11-17
 category: challenges
 ---
 
-"Thank you" [Robin Sharma][robin-sharma-link] for making me understand the importance of waking up early and [Steve Pavlina][steve-link] for giving me the practical tip to wake up early. I started this challenge on 20-Aug-2013 and missed to wake up early on 29-Sep-2013. I am human right?. I restarted the challenge and finished it successfully on 10-Nov-2013. Past few weeks were the most productive weeks in my life. I was able to achieve more than I thought was possible. Though, I did not become a celebrity in the last few weeks (obviously that was not my goal), I am better/matured than who I was before.  
-
-[robin-sharma-link]: http://www.robinsharma.com/blog/09/how-to-wake-up-early/
-[steve-link]: http://www.stevepavlina.com/blog/2005/05/how-to-become-an-early-riser/
+"Thank you" Robin Sharma for making me understand the importance of waking up early and Steve Pavlina for giving me the practical tip to wake up early. I started this challenge on 20-Aug-2013 and missed to wake up early on 29-Sep-2013. I am human right?. I restarted the challenge and finished it successfully on 10-Nov-2013. Past few weeks were the most productive weeks in my life. I was able to achieve more than I thought was possible. Though, I did not become a celebrity in the last few weeks (obviously that was not my goal), I am better/matured than who I was before.  
 
 I got roughly 2-3 hours daily, which I used mostly for learning purposes, tapping exercises, self-realization exercises (where I probe deeply into myself with a lot of questions and writing down the answers in paper) etc. It was simply awesome. One important deviation from the original plan was that I started using facebook and internet for leisure activities during these morning hours. (Roughly 30 - 45 minutes).  
 
@@ -53,18 +50,9 @@ Man being a social creature, must depend on others for life and love. I decided 
 
 [epic-link]: {{ site.url }}/blog-like-a-programmer/
 
-* **Started learning new programming languages** - Started learning [Ruby][ruby-url] & [Dart][dart-url] and started using [GitHub][github-url] as the repository for my open source projects.  
+* **Started learning new programming languages** - Started learning Ruby & Dart and started using GitHub as the repository for my open source projects.  
 
-[dart-url]: https://www.dartlang.org/
-[ruby-url]: https://www.ruby-lang.org/en/
-[github-url]: https://github.com/
-
-* **Udemy courses** - Completed 3 courses in Udemy Online learning Portal. [How to Create a Udemy Course][udemy-url], [How to Get and Keep the Job of Your Dreams][job-url], [How to Start a Profitable Wordpress Blog][wordpress-url] & [Becoming A Writer][writer-url].  
-
-[job-url]: https://www.udemy.com/job-of-your-dreams/
-[wordpress-url]: https://www.udemy.com/how-to-start-a-wordpress-blog-that-works/
-[udemy-url]: https://www.udemy.com/official-udemy-instructor-course/
-[writer-url]: https://www.udemy.com/becoming-a-writer-exercises/
+* **Udemy courses** - Completed 3 courses in Udemy Online learning Portal.   
 
 * **Books** - I read these books [$100 Start up][startup-url], [Attract Money Now][attract-url], [Zero Limits][zero-limits-url] & [100 Ways to Motivate Yourself][motivate-url] during this challenge period. I spent a lot of time in other things, so reading frequency is reduced.  
 

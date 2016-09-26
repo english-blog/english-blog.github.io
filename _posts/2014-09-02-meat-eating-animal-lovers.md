@@ -92,19 +92,16 @@ No. We were not 100% meat eaters. We were opportunistic eaters. We ate anything 
 *I don't believe that. We still have the remains of the canine teeth.*
 
 ![Gorilla showing Canine Teeth]({{site.img-path}}/gorilla-canine-teeth.jpg)  
-<small>Photo Credit: [Evolve Campaigns](http://evolvecampaigns.org.uk/)</small>  
 
 *Modern science says that we need meat protein for development of muscles.*  
 
 ![Gorilla Protein Question]({{site.img-path}}/gorilla-protein-question.jpg)  
-<small>Photo Credit: [Dan Piraro](http://bizarrocomics.com/)</small>  
 
 *We are not the same as the Gorilla.*  
 
 OK. Here is a vegan calisthenics expert Frank Medrano.  
 
 ![Frank Medrano]({{site.img-path}}/frank-medrano.jpg)  
-<small>Photo Credit: [Frank Medrano](http://www.thefrankmedrano.com/)</small>  
 
 *He is slim. Haven't you seen the meat eating bodybuilders?.*
 
@@ -121,4 +118,5 @@ I am just another human being, experiencing life. I was a voracious meat eater a
 Should there be one for every article?. If you wish so, let this be the conclusion.  
 
 ![A Vegan is a pioneer of a new world... a less violent one - M Butterflies Katz]({{site.img-path}}/vegan-less-violent-m-butterflies-katz.jpg)  
-<small>Photo Credit: [Evolve Campaigns](http://evolvecampaigns.org.uk/)</small>  
+
+

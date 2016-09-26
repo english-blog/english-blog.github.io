@@ -25,7 +25,7 @@ We took our bikes that day, scanned the roads near Doddanekundi/Karthik Nagar ar
 
 Next day, early morning 6 AM. All of us  woke up, warmed up, filled up enough water in bottles and started running. Trust me, running in treadmill was very easy. None of us could complete 2 kms. Finished the run, thirsty & exhausted. We thought we could never complete a 10K.  
 
-We googled on different "Couch to 5K" programs and stumbled across Timed Running. (i.e. Run for X mins and walk for Y mins, repeat). We used [HIIT Interval Timer](https://play.google.com/store/apps/details?id=sk.halmi.itimer&hl=en) for alerting us between walk and run, [Nike+ app](https://play.google.com/store/apps/details?id=com.nike.plusgps&hl=en) for measuring the distance and some music to cheer us up.  We started with 2:1 (2 mins of running and 1 min of walking). Viola, it was awesome. We could complete 3K comfortably. I slowly tweaked the timings and ended up @ 4:1, which was fast and comfortable for me. We charted our own "Couch to 10K" program and started following it.  
+We googled on different "Couch to 5K" programs and stumbled across Timed Running. (i.e. Run for X mins and walk for Y mins, repeat). We used "HIIT Interval Timer" for alerting us between walk and run, "Nike+ app" for measuring the distance and some music to cheer us up.  We started with 2:1 (2 mins of running and 1 min of walking). Viola, it was awesome. We could complete 3K comfortably. I slowly tweaked the timings and ended up @ 4:1, which was fast and comfortable for me. We charted our own "Couch to 10K" program and started following it.  
 
 All was well, until it happened.  
 
@@ -71,10 +71,3 @@ I completed my first ever athletic event - TCS World 10K @ 18-May-2014, in baref
 
 **PPS:** I stopped using mobile phone, apps or music while running. Trust me, you will enjoy your run more and feel connected to running without music. I use my breathing as an indicator to pause/start the run. I completed the second and third 10K without using any device. Our body has an amazing, intuitive feedback system. I am trying to re-learn and master that system now :)   
 
-**Questions:**  
-I am still an amateur, learning the tricks of the trade. Please follow the below hyperlinks to get most of your questions answered.
-
-[Christopher McDougall's Blog](http://www.chrismcdougall.com/blog/category/barefoot-running/)  
-[Barefoot Running - A Study by Harvard University](http://www.barefootrunning.fas.harvard.edu/6FAQ.html)  
-[Ken Bob's Original Running Barefoot](http://barefootrunning.com/)  
-[The Barefoot Professor](https://www.youtube.com/watch?v=7jrnj-7YKZE)  

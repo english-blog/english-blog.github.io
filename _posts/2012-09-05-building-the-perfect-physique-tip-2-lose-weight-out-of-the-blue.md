@@ -47,6 +47,3 @@ We know the color that reduces appetite and obviously we would like to know the 
 
 [Tip 1: Eat breakfast within an hour of waking up !]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
 
-**Sources:**  
-<http://www.huffingtonpost.com/2012/04/02/blue-sunglasses-weight-loss_n_1397364.html>  
-<http://www.colormatters.com/color-and-the-body/color-and-appetite-matters>  

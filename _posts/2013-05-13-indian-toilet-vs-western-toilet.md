@@ -42,9 +42,5 @@ Dr. Rad concluded that the use of the squat toilet "is a more comfortable and ef
 ### What's Next
 
 * Install an Indian toilet (or any eastern type squatting toilet) in your home. (Best &amp; Recommended)  
-* Use a Squat Toilet Utility like [Squatty Potty](http://www.squattypotty.com/?Click=48367).You don't need to pay so much for a simple device. There are cheaper alternatives available in market. Just google. I never used this personally. So, I cannot comment on this. Just try, if you cannot do option 1.  
-
-**References:**  
-[Health Benefits of the Natural Squatting Position](http://www.naturesplatform.com/health_benefits.html)  
-[Human defecation postures](http://en.wikipedia.org/wiki/Human_defecation_postures)  
+* Use a Squat Toilet Utility like Squatty Potty.You don't need to pay so much for a simple device. There are cheaper alternatives available in market. Just google. I never used this personally. So, I cannot comment on this. Just try, if you cannot do option 1.  
 

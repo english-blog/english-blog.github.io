@@ -59,7 +59,7 @@ The purpose here is not to accomplish any goal, but to develop the habit of writ
 
 **Why now?**  
 
-I recently became the member of the facebook group [Live Your Legend - Creators Guild](https://www.facebook.com/groups/LYLcreatorsguild/), created by Scott Dinsmore. I was inspired by so many people starting to write. Along with that, few of my facebook friends and one of my real-life friend "Sruthi Pandarinathan" are writing books (novels, stories, poems etc) now. All of them are first time authors. They are going to struggle and travel the same path that I am going to travel. Why not travel together?. I hope to get a lot of support and feedback from everyone and I may be able to provide same to others.  
+I recently became the member of the facebook group "Live Your Legend - Creators Guild", created by Scott Dinsmore. I was inspired by so many people starting to write. Along with that, few of my facebook friends and one of my real-life friend "Sruthi Pandarinathan" are writing books (novels, stories, poems etc) now. All of them are first time authors. They are going to struggle and travel the same path that I am going to travel. Why not travel together?. I hope to get a lot of support and feedback from everyone and I may be able to provide same to others.  
 
 **Any of you want to join me in this life time challenge?**  
 

@@ -106,12 +106,3 @@ Many people that I know, would bargain with street vendors, fish markets etc for
 * Ego. You feel small, when you are negotiating in a jewelry shop. You don't want others to think that you do not have enough money or you are a miser. Just a self thought by few people.   
 * Arguing / negotiating reduces the value of the occasion (wedding or valentine's day gift etc). If you buy the gold at the said price without negotiation, you value the occasion more than the money. You feel great. Crap!. Isn't it?. But, it is a true for few people that I know. When you buy the items like "Thali Kodi" or idol of any god, many jewellers advise you not to argue and surprisingly, people listen.  
 
-**Thanks to the sources:**  
-
-[Carat (purity)](http://en.wikipedia.org/wiki/Carat_(purity))  
-[Sovereign (British_coin)](http://en.wikipedia.org/wiki/Sovereign_(British_coin))  
-[http://en.wikipedia.org/wiki/Bureau_of_Indian_Standards](http://en.wikipedia.org/wiki/Bureau_of_Indian_Standards)  
-[Bureau of Indian Standards (BIS) website](http://www.bis.org.in/cert/hallbiscert.htm)  
-[Singapore Assay Office Website](http://www.assayoffice.com.sg/)  
-[Gold Alloy Combinations](http://chemistry.about.com/od/jewelrychemistry/a/goldalloys.htm)  
-

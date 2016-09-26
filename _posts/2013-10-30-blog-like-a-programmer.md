@@ -61,10 +61,7 @@ You see the point?. Most don't mind this additional markups. I do mind, when I e
 
 Static Site Generator is a program which generates a complete HTML website as output. The input would be few configuration files, layout files and markdown or simple html files. You can simply upload these HTML files to any web-server and your blog is live. whooh...  
 
-I could find hundreds of SSGs written in various languages (ruby, python, node.js, javascript, java etc) in the open source area. Since I do not know most of the programming languages, but decided to learn any one of them - I choose the most widely used SSG. [Jekyll][jekyl-url], which powers [GitHub][github-url]. Seeing hundreds of plugins / websites out there for Jekyll already, I was confident that I would not be stuck any problem for a long time.  
-
-[jekyl-url]: http://jekyllrb.com
-[github-url]: http://github.com
+I could find hundreds of SSGs written in various languages (ruby, python, node.js, javascript, java etc) in the open source area. Since I do not know most of the programming languages, but decided to learn any one of them - I choose the most widely used SSG. Jekyll, which powers GitHub. Seeing hundreds of plugins / websites out there for Jekyll already, I was confident that I would not be stuck any problem for a long time.  
 
 ### Markdown
 
@@ -108,7 +105,7 @@ Below is that technology stack that runs this blog.
 10. GitHub - A free hosting service which serves the HTML for this website  
 11. BigRock - The DNS registrar in which the domain name smileprem.com is registered  
 
-I used the very basic template that comes with Jekyll. I have plans to customize it in future and also to add a custom search engine to my blog. I explored private pay-as-you-go hosting options as well. I found <http://www.hostingreborn.com> to be very good. I may move my blog to private hosting sometime in future, when the blog grows big or if there are issues with GitHub hosting. But, that migration would be a breeze for me.  
+I used the very basic template that comes with Jekyll. I have plans to customize it in future and also to add a custom search engine to my blog. I explored private pay-as-you-go hosting options as well. I may move my blog to private hosting sometime in future, when the blog grows big or if there are issues with GitHub hosting. But, that migration would be a breeze for me.  
 
 If this sounds too technical, you may want to try the blogger.com.
 

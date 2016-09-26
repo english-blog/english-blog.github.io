@@ -58,7 +58,7 @@ Many people claim to have reversed the chronic diseases like diabetes, heart dis
 
 ### Extreme Endurance with Raw Vegan Foods
 
-Once I saw the above video and inspired to know more about raw foods, I stumbled upon [Brendan Brazier](http://en.wikipedia.org/wiki/Brendan_Brazier), who is the author of "The Thrive Diet" and a professional Iron man Triathlon athlete. (It's a triathlon race consisting of a 3.86 km swim, a 180.25 km bicycle ride and a marathon 42.2 km run, raced in that order and without a break. He could complete this race within 9 hours. I never knew such things are possible with Vegan foods.  
+Once I saw the above video and inspired to know more about raw foods, I stumbled upon Brendan Brazier, who is the author of "The Thrive Diet" and a professional Iron man Triathlon athlete. (It's a triathlon race consisting of a 3.86 km swim, a 180.25 km bicycle ride and a marathon 42.2 km run, raced in that order and without a break. He could complete this race within 9 hours. I never knew such things are possible with Vegan foods.  
 
 ### Anti-Aging with Raw Foods:  
 
@@ -72,9 +72,3 @@ How sure I am about her age being 71?. 0%. Yes. This is just a video uploaded in
 
 > I am going to try Raw Vegan Foods for 3 months. If it brings the benefits that it claims, I will continue. Else, I will return back to the cooked foods.  
 
-**Resources:**  
-
-[When Fire Met Food, The Brains Of Early Humans Grew Bigger](http://www.npr.org/blogs/health/2010/07/30/128877628/meat-fire-and-the-evolution-of-man)
-[Evolutionary Increase in Size of the Human Brain Explained](http://www.sciencedaily.com/releases/2012/08/120816141537.htm)  
-[The Protein Domain DUF1220](http://en.wikipedia.org/wiki/DUF1220)  
-[Neanderthals Were Nifty at Controlling Fire](http://www.sciencedaily.com/releases/2011/03/110314152917.htm)  

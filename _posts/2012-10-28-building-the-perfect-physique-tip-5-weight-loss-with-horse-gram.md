@@ -5,7 +5,7 @@ date: 2012-10-28
 category: health
 ---
 
-There is a very old saying/proverb in Tamil "&#2951;&#2995;&#3016;&#2980;&#3021;&#2980;&#2997;&#2985;&#3009;&#2965;&#3021;&#2965;&#3009; &#2958;&#2995;&#3021;&#2995;&#3009;, &#2965;&#3018;&#2996;&#3009;&#2980;&#3021;&#2980;&#2997;&#2985;&#3009;&#2965;&#3021;&#2965;&#3009; &#2965;&#3018;&#2995;&#3021;&#2995;&#3009;" which means "Feed [Sesame seed](http://en.wikipedia.org/wiki/Sesame_seed) to a skinny person, [Horse gram](http://en.wikipedia.org/wiki/Horse_gram) to an obese person".  
+There is a very old saying/proverb in Tamil "&#2951;&#2995;&#3016;&#2980;&#3021;&#2980;&#2997;&#2985;&#3009;&#2965;&#3021;&#2965;&#3009; &#2958;&#2995;&#3021;&#2995;&#3009;, &#2965;&#3018;&#2996;&#3009;&#2980;&#3021;&#2980;&#2997;&#2985;&#3009;&#2965;&#3021;&#2965;&#3009; &#2965;&#3018;&#2995;&#3021;&#2995;&#3009;" which means "Feed Sesame seed to a skinny person, Horse gram to an obese person".  
   
 Horse gram is called Kollu (&#2965;&#3018;&#2995;&#3021;&#2995;&#3009;) in Tamil. This use to be one of the regular ingredients in South Indian food for so many centuries; fading away slowly for pizzas and burgers. This is mainly fed as fodder to horses for it's nutritional values. Horses and us eat the same food?. I don't mind. Since, most men secretly desire to have few "features" of horses. he he he :) Jokes apart, I am surprised at the medicinal aspects of Horse gram and regretted that I never ate Kollu in my life. I wish I had. Here are they;  
   
@@ -28,22 +28,6 @@ I am going to drink a glass of water mixed with two teaspoons of horse gram powd
   
 **Warning:** Excessive consumption may increase the body heat. If you are planning to start this diet, Please consult with your physician for your medical condition before starting this diet. I would suggest two times a week. You can increase gradually as you get yourself comfortable with this diet.  
   
-Please click the below links for the recipes;  
-  
-[Horse gram powder](http://rascookbook.blogspot.co.uk/2012/04/kollu-podi-horsegram-powder.html)  
-
-[Horse gram Sprouts](http://marudhuskitchen.com/www/making-sproutshow-to-make-horse-gram-sprouts/)  
-  
-[Horse gram Rasam (Indian soup)](http://rascookbook.blogspot.co.uk/2012/02/kolluhoresgram-rasam.html)  
-  
-[Sprouted Horse gram Rasam (Indian soup)](http://en.petitchef.com/recipes/sprouted-horsegram-kollu-rasam-without-rasam-powder-fid-1056568)  
-
-[Kollu Chutney](http://www.sashirecipes.com/kollu-chutney-horse-gram-chutney.html)  
-  
-[Kollu Kadayal](http://www.ohtastensee.com/2010/09/24/kollu-kadayal-and-kollu-rasamhorsegram-dal-and-soup/)  
-  
-[Kollu Paruppu Sundal](http://www.sharmispassions.com/2012/05/kollu-rasam-kollu-sundal-kollu-recipes.html)  
-
 **Update from previous tips:**
   
 So far, we were trying to make simple lifestyle changes to maintain the ideal weight for as long as we live. I don't prefer to lose the weight quick and gain it back. With the previous tips, I was able to lose 1.5 kg in the beginning and I hit a plateau. My weight fluctuates on a daily basis, but I average around the same weight range. The weight does not seem to shed off automatically. So, I am going to change my diet a little bit with this. Let's see what happens.  

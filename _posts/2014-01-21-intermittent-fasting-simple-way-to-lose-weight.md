@@ -29,7 +29,7 @@ I guess you would have got an hint, by now. This "Intermittent Fasting" is not a
 
 ### Daily Intermittent Fasting
 
-There are hundreds of ways to do Intermittent Fasting. Google it. The one I am interested in is the Daily Intermittent Fasting (LeanGains Method), promoted by [Martin Berkhan](http://www.leangains.com/2011/03/intermittent-fasting-for-weight-loss.html). In a nutshell, below is the schedule.
+There are hundreds of ways to do Intermittent Fasting. Google it. The one I am interested in is the Daily Intermittent Fasting (LeanGains Method), promoted by Martin Berkhan. In a nutshell, below is the schedule.
 
 * Start your first meal about 1 PM (afternoon) and finish your meal before 9 PM (night). Essentially, your feeding window (the time you can eat) is 8 hours. You can choose your convenient time as long as it is within 8 hours.
 * Typical IF diets includes only two meals a day. Still, you can eat as many meals as you can within the feeding window.
@@ -49,7 +49,7 @@ I am not skipping the breakfast. I am eating a late breakfast. (i.e.) breaking t
 As long as it is within 50 Calories, your body continues to be in fasted state. So, Coffee/Tea should not be a problem. I suggest to drink a lot of water.  
 
 3) **Weight training while fasting?**  
-I do not have personal experience doing this. But, I know few people ([Martin Berkhan](http://www.leangains.com/), [James Clear](http://jamesclear.com)) with better bodies do this regularly. So, I am going to try this. May be after one or two years, I will be in a position to explain you.  
+I do not have personal experience doing this. But, I know few people (Martin Berkhan, James Clear) with better bodies do this regularly. So, I am going to try this. May be after one or two years, I will be in a position to explain you.  
 
 4) **I generally get hungry at night. What should I do?**  
 Go to bed early. Eat a heavy last meal (within that 8 hour feeding window). If you wake up, see if drinking a lot of water suffice your hunger. Otherwise the same 50 Calorie rules applies here. It may take a while for your body to adjust to this feeding style.  

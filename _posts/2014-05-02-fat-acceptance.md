@@ -5,9 +5,9 @@ date: 2014-05-02
 category: health
 ---
 
-I recently stumbled upon this blog post [The Body Love Blog](http://thebodyloveblog.tumblr.com/post/32881501880/warning-picture-might-be-considered-obscene) where a young lady posted the bikini pose of her big body with fuming comments about what other people have told about her body. I am sorry for what she has gone through and I strongly object anyone who mock at obese people. You can of course provide constructive feedback and help. This blog post triggered a series of thoughts and I dug a little into the fat world and found that a lot of activities are going on which I am not aware of.  
+I recently stumbled upon this blog "The Body Love Blog" where a young lady posted the bikini pose of her big body with fuming comments about what other people have told about her body. I am sorry for what she has gone through and I strongly object anyone who mock at obese people. You can of course provide constructive feedback and help. This blog post triggered a series of thoughts and I dug a little into the fat world and found that a lot of activities are going on which I am not aware of.  
 
-Fat Acceptance, Fat Liberation, Fat Activism, Fat Power Movement, Fat Feminism etc. There is even an association formed, way back in 1967 - [NAFFA National Association to Advance Fat Acceptance](http://www.naafaonline.com) - which fights the discrimination due to size. There are contention within the Fat Acceptance community itself. Some fat activists define Fat Acceptance as fighting for equal rights, opportunities and freedom from social stigma, whilst remaining open to the pursuit of weight reduction. Other fat activists define Fat Acceptance more strictly, applying that phrase only to fat people who are not trying to lose weight. 
+Fat Acceptance, Fat Liberation, Fat Activism, Fat Power Movement, Fat Feminism etc. There is even an association formed, way back in 1967 - NAFFA - "National Association to Advance Fat Acceptance" - which fights the discrimination due to size. There are contention within the Fat Acceptance community itself. Some fat activists define Fat Acceptance as fighting for equal rights, opportunities and freedom from social stigma, whilst remaining open to the pursuit of weight reduction. Other fat activists define Fat Acceptance more strictly, applying that phrase only to fat people who are not trying to lose weight. 
 
 Great. But, Why do we react so much to the symptoms (discrimination), but not to the core issue (being overweight)?
 
@@ -80,11 +80,7 @@ I am the same person. But three different lifestyles of mine, results in three d
 
 <iframe width="600" height="400"
 src="http://www.youtube.com/embed/qX9FSZJu448?autoplay=0">
-</iframe> 
+</iframe>  
 
-**References:**  
-[The Body Love Blog](http://thebodyloveblog.tumblr.com/post/32881501880/warning-picture-might-be-considered-obscene)  
-[I love Fat! A fat acceptance blog](http://ilovefat.tumblr.com/)  
-[THINGS NO ONE WILL TELL FAT GIRLS...SO I WILL ](http://www.themilitantbaker.com/2013/03/things-no-one-will-tell-fat-girls-so-i.html)  
-[I've Only Got 1 Thing To Say To Folks Who Don't Understand Fat Acceptance](http://www.xojane.com/healthy/ive-only-got-1-thing-to-say-to-folks-who-dont-understand-fat-acceptance)  
-[Fitness-obsessed mom banned from Facebook](http://www.nydailynews.com/life-style/health/fitness-obsessed-mom-banned-facebook-article-1.1530755)  
+
+

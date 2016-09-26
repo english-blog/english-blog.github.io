@@ -75,7 +75,3 @@ I occupied one of enclosures and started to meditate. I expected some sort of en
 * You can book in advance and stay in the Dhyanalinga premises for several courses on yoga, meditation and mindful living.  
 
 Though I did not experience what I wanted to experience, I will try once more. Next time, I am planning to stay in Dhyanalinga for a week or two to learn yoga, meditation etc., May be I will experience something new or never. Who knows !  
-  
-**References:**  
-[http://www.dhyanalinga.org](http://www.dhyanalinga.org)
-[http://www.ishafoundation.org](http://www.ishafoundation.org)

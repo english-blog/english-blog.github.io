@@ -48,15 +48,15 @@ When the message gets to your subconscious mind, you will be automatically inspi
   
 ### A gift for you  
 
-I spent couple of weeks to create two mind movies (for men and women) to help achieve the perfect health. I did not concentrate too much on the weight loss, but on the perfect health (staying positive). There are costly software available from the creator Ryan on his [official website](http://www.mindmovies.com/). However, I used [Picasa 3.0](http://picasa.google.com/) to create these movies for free. I can tell you how to do it yourself in the next blog probably. If you have good internet connection, you can watch these movies either on my blog or on YouTube. If you don't, I suggest you to download the movie to your computer (google to figure out how)  
+I spent couple of weeks to create two mind movies (for men and women) to help achieve the perfect health. I did not concentrate too much on the weight loss, but on the perfect health (staying positive). There are costly software available from the creator Ryan on his website. However, I used Picasa software to create these movies for free. I can tell you how to do it yourself in the next blog probably. If you have good internet connection, you can watch these movies either on my blog or on YouTube. If you don't, I suggest you to download the movie to your computer (google to figure out how)  
   
-[Perfect Health for Women](http://www.youtube.com/watch?v=A2etnchpxIU)  
+Perfect Health for Women  
 
 <iframe width="600" height="400"
 src="http://www.youtube.com/embed/A2etnchpxIU?autoplay=0">
 </iframe>
   
-[Perfect Health for Men](http://www.youtube.com/watch?v=ZaZWxnNH0gQ)  
+Perfect Health for Men  
 
 <iframe width="600" height="400"
 src="http://www.youtube.com/embed/ZaZWxnNH0gQ?autoplay=0">

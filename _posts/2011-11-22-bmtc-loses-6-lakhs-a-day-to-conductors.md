@@ -35,9 +35,8 @@ You might save few bucks traveling without tickets, but see how much BMTC is los
 * Inform him/her that you are going to file an online complaint with BTIS.  
 * If possible, try to capture his/her picture or at least get his/her name.  
 * Please note the Route No and the Bus Registration No.  
-* Go to this link [http://www.btis.in/](http://www.btis.in/) and file a complaint.
+* Go to this link www.btis.in and file a complaint.
 * Make sure that you complaint every time, you come across a situation.  
-
 
 ### What could BMTC do to stop the irregularities?
 
