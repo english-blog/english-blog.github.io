@@ -17,4 +17,3 @@ To add to the tousled story, comes an unsolved murder and a scandal. Pace at whi
   
 To sum up in a single line 'Sikandar is a kaleidoscope'. It shows different colors and patterns but no value or moral to back up. Can be chosen to read casually or for a train journey.  
   
-**PS:** This review is a part of the [Book Reviews Program](http://blog.blogadda.com/2011/05/04/indian-bloggers-book-reviews) at [BlogAdda.com](http://www.blogadda.com/). Participate now to get free books!  

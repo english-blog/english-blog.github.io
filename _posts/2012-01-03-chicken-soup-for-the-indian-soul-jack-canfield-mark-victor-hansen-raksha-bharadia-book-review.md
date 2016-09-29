@@ -55,4 +55,3 @@ Literary critic is a little difficult with respect to this particular book becau
   
 The book might be a really a book of miracles for those who really believe in a supreme power while might make the agnostics scratch their chins with skepticism. And for those trying to take a double stand, this book definitely has the potential to convince you to turn a believer of miracles. You can find conviction and genuineness in all the 101 stories. I would conclude that any event and every event in life is a miracle, for I consider: *Life itself is a MIRACLE.*  
   
-**PS:** This review is a part of the [Book Reviews Program](http://blog.blogadda.com/2011/05/04/indian-bloggers-book-reviews) at [BlogAdda.com](http://www.blogadda.com/). Participate now to get free books!  

@@ -9,7 +9,7 @@ category: books
 **Authors:** Joe Vitale  
 **ISBN-13:** 978-1596595996
 
-I knew [Dr. Joe Vitale](http://www.mrfire.com/) from the movie, [The Secret](http://thesecret.tv/). I use to follow his blogs for a while and lost touch in course of time. Way back in 2008, I had downloaded this book to read in future. This week was it. Its simply awesome. I wish I could have read this book much earlier in my life.  
+I knew Dr. Joe Vitale from the movie, The Secret. I use to follow his blogs for a while and lost touch in course of time. Way back in 2008, I had downloaded this book to read in future. This week was it. Its simply awesome. I wish I could have read this book much earlier in my life.  
   
 I have read many books which teaches the tips, tricks and possible means to earn more money or create additional income streams. Most of them were about setting up your own business. This book is different from such other books. This does not teach about business or getting a higher paying job. This book discusses nothing that is materialistic. It's all about our minds, they way we think about money and how to alter our thinking to our favor. This book does not say, *"Just sit and day dream - Money will flow to you"*. We still have to do the hard work. It just helps to keep our minds focused on abundance, instead of scarcity - which will obviously help to achieve our goals.  
   
@@ -64,4 +64,3 @@ More than this, there is huge list of personal development books listed at the e
   
 Thanks Dr. Joe Vitale for this book. I will try the steps described in this book and see what happens !  
   
-[Attract Money Now - PDF version (Click to download the PDF for FREE)](http://www.attractmoneynow.com/)  
