@@ -5,9 +5,7 @@ date: 2013-12-17
 category: challenges
 ---
 
-![Wearing Glasses]({{site.img-path}}/wearing-glasses.jpg)  
-
-I still remember the day me & my brother Pradeep tried to read the smallest text from farthest distance. I could read a very fine print from 4 feet away. My eyesight was better than my younger brothers. Two decades later, he still has a very good vision; but mine deteriorated to -3.5 diopters in both eyes (Myopia). I never imagined that this would happen.  
+I still remember the day me & my brother tried to read the smallest text from farthest distance. I could read a very fine print from 4 feet away. My eyesight was better than my younger brother's. Two decades later, he still has a very good vision; but mine deteriorated to -3.5 diopters in both eyes (Myopia). I never imagined that this would happen.  
 
 I regularly misplace my eyeglasses somewhere in our house and would need my wife's help to find the glasses. Worst thing is that, without glasses I cant even recognize my wife from six feet away. I am tired of this dependency with glasses. I am going to get the perfect 20/20 vision or better by the end of 2014. I am going to achieve this by natural means only (eye exercises, nutrition, mental conditioning, natural healing methods etc).   
 
