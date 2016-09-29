@@ -33,16 +33,13 @@ This is the enhanced version of the previous posture. This posture reduces the s
 
 Both of these postures will not work, if you are overweight or could not bend down for some reason. Squatty Potty may help.
 
-### [Squatty Potty](http://www.squattypotty.com/?Click=48367)
+### Squatty Potty
 
 ![Squatty Potty]({{site.img-path}}/squatty-potty.jpg)  
 
-[Squatty Potty](http://www.squattypotty.com/?Click=48367) works on the same principle of bringing the torso closer to the thighs. I didn't order Squatty Potty. But tested the concept with a sturdy plastic stool. It works as promised. If you are big and heavy, this is the most viable option for you. It also has minor inconveniences. 
+Squatty Potty works on the same principle of bringing the torso closer to the thighs. I didn't order Squatty Potty. But tested the concept with a sturdy plastic stool. It works as promised. If you are big and heavy, this is the most viable option for you. It also has minor inconveniences. 
 
 1. If you are thin or average built like me, you may feel like sinking into the toilet seat. Few of my friends who are actively using this technique doesn't feel that way. It could be just my feeling.
 2. You cannot carry the squatty potty to all the places. Its better that you practice the other two postures for emergency use.
 
-To try this option, please go to the website [www.squattypotty.com](http://www.squattypotty.com/?Click=48367), order the potty of your choice and let me know if it works well for you.  
-
-Pencil Sketches by [K. Samuel](https://www.facebook.com/pages/K-Samuel/797805280247182)    
-
+Pencil Sketches by Samuel.  

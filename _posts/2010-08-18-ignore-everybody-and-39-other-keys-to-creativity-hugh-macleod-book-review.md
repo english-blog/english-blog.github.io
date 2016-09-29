@@ -31,4 +31,3 @@ Few of my favorite blogs/chapters from this book are :
   
 I wont suggest that this is a must-read. But its worth casual read on the weekends. Who knows, you may pickup your crayons, after this book. Just try it !!!  
   
-[Author's website GapingVoid.com](http://gapingvoid.com/)  

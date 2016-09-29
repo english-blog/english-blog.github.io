@@ -48,10 +48,3 @@ This book is a must read for everyone !!!.
 
 If unconditional love is braveness, she is a mighty warrior.  
 
-**References:**  
-
-[42 Years In a Coma: Edwarda O'Bara Dies At 59](http://www.isciencetimes.com/articles/4073/20121123/42-years-coma-edwarda-obara-dies-59.htm)  
-
-[Comatose since Christmas 1969: A tale of unconditional love and miracles](http://edition.cnn.com/2012/12/23/us/longest-living-coma-patient-dies/index.html?hpt=hp_c2)
-
-[Longest coma patient ever passes away after 42 YEARS](http://www.dailymail.co.uk/news/article-2237593/Floridas-Sleeping-Snow-White-dies-42-YEARS-coma--longest-recorded----mother-sister-left-side.html)

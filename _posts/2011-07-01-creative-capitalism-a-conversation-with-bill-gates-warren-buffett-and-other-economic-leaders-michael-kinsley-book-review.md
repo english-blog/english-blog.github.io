@@ -11,8 +11,6 @@ category: books
 
 January 24, 2008 - The World Economic Forum, Davos, Switzerland. A speech by Bill Gates, one of the most successful entrepreneur & philanthropist created a whirl wind in the business circles. Gates proposed a new idea of making capitalism work for the poor and needy in the developing world. He coined the term "Creative Capitalism". This book is a compilation of discussions, blogs, critics by 43 well known successful business leaders, economists etc around the topic. Micheal Kinsley did a pretty good job in compiling 300+ pages with thought provoking ideas, approaches to Creative Capitalism. Many of you may have seen Gates speech on YouTube or read the transcription in Microsoft website. But, after reading this entire book, you will have a complete knowledge, different thinking and a birds eye view of this topic. About the pros and cons of what was proposed by Bill Gates. Many of the business leaders do not agree with his idea of Creative Capitalism (with valid statistics and business ethics). Some, do agree with Bill Gates.  
   
-[Bill Gates: World Economic Forum 2008](http://news.microsoft.com/2008/01/24/bill-gates-world-economic-forum-2008/)  
-  
 ### Here is the cheat sheet of Creative Capitalism
 
 1. Markets respond only to "demand", not to "need".  
@@ -31,3 +29,4 @@ But Gates proposes a different approach, where the businesses using its technolo
 Hundreds of pages discussing about each and every specific good and bad things in Gates speech. How is it different from Corporate Social Responsibility (CSR)?. Why do we need a different form of capitalism?. etc. I feel good about Bill Gates intention to eradicate poverty in the world through Creative Capitalism. But just the intention is not enough. A complete real world implementation plan is needed to make that a reality. Apart from the speech made at Davos, what else has been done in the past three years?. Where are we in this idea?. What Gates has done other than making a speech?.  
   
 We need more people like Gates to come together and persist in the idea, so that it becomes a goal of every corporation in this world. I would suggest everyone interested in business or has that entrepreneurial instincts to read this book. It will prepare you to help others and at the same time, survive the competition.  
+

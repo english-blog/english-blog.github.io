@@ -21,12 +21,4 @@ In one party night, when he was drunk, he made a business plan for customized T-
 
 The best part of the book is Anu Aunty. The very same hurdle that Varun Agarwal has to cross, has become the brand ambassador for his business. Varun is planning to creating merchandise with Anu Aunty character. It's nothing short of amazing, how you can turn around things in life.  
 
-He has become a very good speaker and now tours the world, speaking in the best conferences and top MNCs and guest lectures in major business schools. Remember he is not even 30 yrs old.
-
-One of his speech in the INK Conference.
-
-<iframe width="600" height="400"
-src="http://www.youtube.com/embed/nMPqsjuXDmE?autoplay=0">
-</iframe> 
-
-Enough of reading the review, just go ahead and order the book. Even if you are not an entrepreneur, you are going to love this kid's story.  
+He has become a very good speaker and now tours the world, speaking in the best conferences and top MNCs and guest lectures in major business schools. Remember he is not even 30 yrs old. Enough of reading the review, just go ahead and order the book. Even if you are not an entrepreneur, you are going to love this kid's story.  

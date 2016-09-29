@@ -59,6 +59,5 @@ Why is that a book review about a most sought after positive thinking book, soun
 2. The Missing Secret - Audio book by Dr. Joe Vitale  
 3. The Answer - Book by John Assaraf  
   
-Once you are done with these, please read "*The Power*" by Rhonda Byrne and I am sure you would share my thoughts. Here is one interesting review about this book. Very funny. Please read all the comments as well :)  
+Once you are done with these, please read *The Power* by Rhonda Byrne and I am sure you would share my thoughts. 
   
-[http://gawker.com/5613843/the-secret-the-power-and-the-scam-that-never-ends](http://gawker.com/5613843/the-secret-the-power-and-the-scam-that-never-ends)  

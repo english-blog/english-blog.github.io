@@ -13,18 +13,18 @@ I read all the books by Rhonda Byrne. The first book "The Secret" gives a glimps
 
 **The Hero** talks about the life history of 12 very successful people living on the planet. The people who fought against all the odds and became successful in life. I am not sure, on what basis Rhonda chose these 12 people, I don't recognize many of them. As usual, most of them are from the US.
 
-1. [Liz Murray (US)](http://en.wikipedia.org/wiki/Liz_Murray)
-2. [G.M. Rao (India)](http://en.wikipedia.org/wiki/Grandhi_Mallikarjuna_Rao)
-3. [Laird Hamilton (US)](http://en.wikipedia.org/wiki/Laird_Hamilton)
-4. [Anastasia Soare (Romania - settled in US)](https://www.facebook.com/ABHcosmetics)
-5. [Paul Orfalea (US)](http://en.wikipedia.org/wiki/Paul_Orfalea)
-6. [Peter Burwash (Canada)](http://en.wikipedia.org/wiki/Peter_Burwash)
-7. [Mastin Kipp (US)](http://thedailylove.com/)
-8. [Pete Carroll (US)](http://en.wikipedia.org/wiki/Pete_Carroll)
-9. [Michael Acton Smith (England)](http://en.wikipedia.org/wiki/Michael_Acton_Smith)
-10. [Layne Beachley (Australia)](http://en.wikipedia.org/wiki/Layne_Beachley)
-11. [John Paul Dejoria (US)](http://en.wikipedia.org/wiki/John_Paul_DeJoria)
-12. Peter Foyo (US)  
+1. Liz Murray (USA)
+2. G.M. Rao (India)
+3. Laird Hamilton (USA)
+4. Anastasia Soare (Romania - settled in USA)
+5. Paul Orfalea (USA)
+6. Peter Burwash (Canada)
+7. Mastin Kipp (USA)
+8. Pete Carroll (USA)
+9. Michael Acton Smith (England)
+10. Layne Beachley (Australia)
+11. John Paul Dejoria (USA)
+12. Peter Foyo (USA)
 
 She analyzed the life history of all these 12 people and saw a common pattern - which she calls "The Map". If you follow the map, you will be successful too. That's her idea. Every stage of the map, falls into one of these four category. You will feel that the map is similar to the regular rags-to-riches kinda story.
 

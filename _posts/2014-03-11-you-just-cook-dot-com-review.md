@@ -28,7 +28,7 @@ It would be amazing. Isn't it?.
 
 Yeah. The time has come. The place is none other than our own Bangalore.  
 
-### [www.youjustcook.com](http://www.youjustcook.com)  
+### www.youjustcook.com  
 
 Go to this website. Choose the recipe. Choose the no.of people. Order. You are done.
 
@@ -42,7 +42,7 @@ My wife is extra cautious while cooking meat. She makes sure that the meat is cl
 
 Trust me, the taste was amazing. Not sure, if that's because of my wife's touch or because of their service. I would vote for my wife though :P
 
-What made my wife happy was the follow-up call from [youjustcook.com](http://www.youjustcook.com) to check if the recipe had come out well. I am surprised too !. We are planning to order regularly.
+What made my wife happy was the follow-up call from youjustcook.com to check if the recipe had come out well. I am surprised too !. We are planning to order regularly.
 
 ### Who is running the show?
 
@@ -50,7 +50,7 @@ This service is started by two Software Engineers **Suyesh & Hashi** who are ver
 
 > "The idea has been brewing in my head for a quite a few years now and being a typical Sunday Cook and I like to experiment with cooking different kinds of dishes. The constant pain was getting the right ingredients and an overflowing kitchen cabinet with all sorts of sauces, spices and other things which were used only once or twice and just waiting for the expiry date to get over.  
 
-> After I quit my job as a marketing professional at Dell India, I decided to pursue this dream and turn it into reality. I started talking to people and Hashi was one of them. Hashi who is a very good cook and a friend decided to team up with me and start [youjustcook.com](http://www.youjustcook.com). We floated a company built the website added the recipes and opened up for business.  
+> After I quit my job as a marketing professional at Dell India, I decided to pursue this dream and turn it into reality. I started talking to people and Hashi was one of them. Hashi who is a very good cook and a friend decided to team up with me and start youjustcook.com. We floated a company built the website added the recipes and opened up for business.  
 
 > Initially we talked about it to our family and friends, get them to order and give feedback. The feedback and response was encouraging. We learnt a lot in the initial phase  and then we slowly expanded. With about 4 months into the process we are now ready to go to the market with all burners burning."   -- **Suyesh & Hashi**  
 
