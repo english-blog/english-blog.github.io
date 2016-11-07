@@ -15,21 +15,21 @@ Think about these scenarios.
 
 * Replace your boss with a voice. An audible voice. You are a medical transcriptionist. You hear something and type it. Who writes now?. It's someone else, whom you do not even know. You are helping them to write.
 
-* Replace that audible voice with an image or a movie. You need to interpret what you see and write down in your own words. What you write depends on what you see. You do have the choice to use the words you like and frame the sentences in a way you like. When there is no image, there is nothing to write. Who writes now?. May be, you and whoever shows those images to you?. Great!.
+* Replace that audible voice with an image or a movie. You need to interpret what you see and write down in your own words. What you write depends on what you see. You do have the choice to use the words you like. When there is no image, there is nothing to write. Who writes now?. May be, you and whoever shows those images to you?. Great!.
 
 * Now, there is no image. Only your thoughts. Who writes now?. Definitely you. Right?. Because, no one else is involved. 
 
-If I may ask, how those thoughts are originated?. Who/What put those vivid images/scenes in your mind as "thoughts"?. Can you voluntarily bring about a completely new thought in your mind?.
+If I may ask, how those thoughts are originated?. Who/What put those vivid images/scenes in your mind as "thoughts"?. Can you voluntarily bring about a completely new thought in your mind?.  
 
-A major chunk of your creation (let's assume writing) are thoughts in your mind. The act of translation to a language is minor. If you do not know how the major chunk happens, can you claim ownership of your creation?. 
+A major chunk of your creation (let's say writing) are thoughts in your mind. The act of translation to a language is minor. If you do not know how the major chunk happens, can you claim ownership of your creation?. 
 
-I don't. I am being a tool to express the words which likes to be expressed.
+I don't. I am simply being a tool to express the words which likes to be expressed.
 
-Never bother about what you write, as long as you are truthful to yourself. Don't tie yourself to those words. Let go of the ownership. Feel Free.
+Never bother about what you write, as long as you are truthful to yourself. 
 
-I also observed that,
+Don't tie yourself to those words. 
 
-> The quality of your thought is directly proportional to the quantity of your writing.
+Let go of the ownership. 
 
-So, keep writing. Be in the zone !!!.
+Feel Free !!!.
 
