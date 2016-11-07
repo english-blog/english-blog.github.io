@@ -20,6 +20,8 @@ permalink: /categories/
 
 <li><p><a href="{{ site.url }}/category/self-improvement/">Self Improvement</a></p></li>
 
+<li><p><a href="{{ site.url }}/category/writing/">Writing</a></p></li>
+
 <li><p><a href="{{ site.url }}/category/challenges/">Challenges</a></p></li>
 
 <li><p><a href="{{ site.url }}/category/technology/">Technology</a></p></li>

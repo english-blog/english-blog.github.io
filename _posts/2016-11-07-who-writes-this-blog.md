@@ -2,7 +2,7 @@
 layout: post
 title: Who writes this blog?
 date: 2016-11-07
-category: self-improvement
+category: writing
 ---
 
 > Who writes this blog?.
