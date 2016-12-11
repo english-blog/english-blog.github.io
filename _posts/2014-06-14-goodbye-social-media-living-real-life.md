@@ -119,9 +119,9 @@ I will also retain my [LinkedIn]({{site.linkedin}}) account for my professional 
 
 I have the below three pages - for the above three blogs. I will hand over the admin responsibility to someone else in those respective groups.
 
-1. [Smile](https://www.facebook.com/pages/Smile/198951406823334) - 387 Likes
-2. [&#2965;&#2985;&#2997;&#3009;](https://www.facebook.com/pages/%E0%AE%95%E0%AE%A9%E0%AE%B5%E0%AF%81/191412134244330) - 217 Likes
-3. [Raw Vegan Recipes](https://www.facebook.com/pages/Raw-Vegan-Recipes/433202373429107) - 85 Likes
+1. Smile
+2. &#2965;&#2985;&#2997;&#3009;
+3. Raw Vegan Recipes
 
 ### What happens to the facebook groups?
 
