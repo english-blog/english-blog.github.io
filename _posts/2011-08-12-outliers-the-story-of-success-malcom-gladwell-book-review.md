@@ -23,10 +23,10 @@ He concludes that these Outliers were present in the right time in the right pla
   
 I thought about the book "The Secret" by Rhonda Byrne when I read Gladwell's conclusion. Gladwell says that Outliers are successful, because of the opportunities they got. But, Rhonda Byrne says that you will create opportunities when you are determined in what you want to achieve, according to the "Law Of Attraction". Gladwell explains why things are the way they are. Rhonda Byrne tells us how to create things.
 
-Do you see the some correlation?. I do. I would suggest you to read the book "[The Secret][secreturl]" after reading this book.  
+Do you see the some correlation?. I do. I would suggest you to read the book "The Secret" after reading this book.  
   
 In further chapters, he discusses about the "Culture of Honor", why plane crashes happens and its relation to the culture they belong to, rice paddy fields and its relations to maths skills etc.  
 
 Very interesting !...  
   
-Overall, a very good book. But I cannot agree with everything that he says. Its worth reading :)  
+Overall, a very good book. But I cannot agree with everything that he says. It's worth reading :)  
