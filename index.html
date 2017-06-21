@@ -4,7 +4,7 @@ date: 2016-03-22 00:00:00 +0530
 title: Latest Articles
 ---
 <ul>
-{% for post in posts %}
+{% for post in paginator.posts %}
 	<li>
 		<p><a href="{{ post.url }}">{{ post.title }}</a></p>
 	</li>
