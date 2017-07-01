@@ -1,0 +1,7 @@
+jekyll:
+    image: jekyll/jekyll:pages
+    command: jekyll serve --watch --incremental --config _local-config.yml
+    ports:
+        - 4000:4000
+    volumes:
+        - .:/srv/jekyll
