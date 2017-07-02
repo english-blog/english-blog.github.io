@@ -1,7 +1,7 @@
 ---
 layout: page
 date: 2013-12-12 00:00:00 +0530
-title: Archive
+title: 
 permalink: /archive/
 ---
 <div>

@@ -7,10 +7,10 @@
   <meta property="og:title" content="{{ page.title }}" />
   <meta itemprop="name" content="{{ page.title }}" />
   {% else %}
-  <title>{{ site.title }} &middot; {{ site.tagline }}</title>
-  <meta name="twitter:title" content="{{ site.title }} &middot; {{ site.tagline }}" />
-  <meta property="og:title" content="{{ site.title }} &middot; {{ site.tagline }}" />
-  <meta itemprop="name" content="{{ site.title }} &middot; {{ site.tagline }}" />
+  <title>{{ site.title }} - {{ site.tagline }}</title>
+  <meta name="twitter:title" content="{{ site.title }} - {{ site.tagline }}" />
+  <meta property="og:title" content="{{ site.title }} - {{ site.tagline }}" />
+  <meta itemprop="name" content="{{ site.title }} - {{ site.tagline }}" />
   {% endif %}
 
   <meta name="author" content="{{ site.author }}" />
@@ -23,6 +23,6 @@
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}" />
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS 2.0 Feed - disrupting the known &amp; the unknown" href="{{ site.url }}/rss.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0 Feed - {{ site.title }} - {{ site.tagline }}" href="{{ site.url }}/rss.xml">
   <!-- ATOM -->
-  <link rel="alternate" type="application/atom+xml" title="ATOM 1.0 Feed - disrupting the known &amp; the unknown" href="{{ site.url }}/atom.xml">  
+  <link rel="alternate" type="application/atom+xml" title="ATOM 1.0 Feed - {{ site.title }} - {{ site.tagline }}" href="{{ site.url }}/atom.xml">  

@@ -1,7 +1,7 @@
 ---
 layout: page
 date: 2013-12-12 00:00:00 +0530
-title: Categories
+title: 
 permalink: /categories/
 ---
 <div>
@@ -10,9 +10,7 @@ permalink: /categories/
 
 <ul>
 
-<li><p><a href="{{ site.url }}/category/books/">Library</a></p></li>
-
-<li><p><a href="{{ site.url }}/category/apps/">Apps</a></p></li>
+<li><p><a href="{{ site.url }}/category/books/">Book Reviews</a></p></li>
 
 <li><p><a href="{{ site.url }}/category/health/">Health</a></p></li>
 
@@ -35,6 +33,8 @@ permalink: /categories/
 <li><p><a href="{{ site.url }}/category/spirituality/">Spirituality</a></p></li>
 
 <li><p><a href="{{ site.url }}/category/review/">Reviews</a></p></li>
+
+<li><p><a href="{{ site.url }}/category/apps/">Apps</a></p></li>
 
 </ul>
 

@@ -19,8 +19,6 @@ date: 2014-03-02 00:00:00 +0530
 		<email>{{ site.email }}</email>
 	</author>
 	<category term="blogs"/>
-	<icon>{{ site.url }}/favicon/favicon-195.png</icon>
-	<logo>{{ site.url }}/favicon/favicon-195.png</logo>
 
 	{% for post in site.posts limit:10 %}
 	<entry>
