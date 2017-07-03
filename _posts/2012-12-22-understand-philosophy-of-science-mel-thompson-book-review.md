@@ -2,7 +2,7 @@
 layout: post
 title: Understand Philosophy of Science - A Teach Yourself Guide
 date: 2012-12-22
-category: books
+category: book-reviews
 ---
 
 **Book:** Understand Philosophy of Science - A Teach Yourself Guide  

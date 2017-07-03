@@ -2,7 +2,7 @@
 layout: post
 title: Connect the Dots
 date: 2010-07-30
-category: books
+category: book-reviews
 ---
 
 **Book:** Connect The Dots  

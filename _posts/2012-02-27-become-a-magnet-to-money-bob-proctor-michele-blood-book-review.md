@@ -2,7 +2,7 @@
 layout: post
 title: Become A Magnet To Money
 date: 2012-02-27
-category: books
+category: book-reviews
 ---
 
 **Book:** Become A Magnet To Money  

@@ -2,7 +2,7 @@
 layout: post
 title: Money Mastery - Principle Based Money Management
 date: 2013-07-22
-category: books
+category: book-reviews
 ---
 
 Principle Based Money Management - The keywords which attracted me towards this audio book. With most of my income going towards the mortgages and loan EMI's, I thought I was pretty bad financially and wanted to manage the expenses in a well planned manner. The eventual search in internet made me to listen to this audio book.  

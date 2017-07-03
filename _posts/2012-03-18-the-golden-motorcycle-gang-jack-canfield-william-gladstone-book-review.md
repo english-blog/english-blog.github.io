@@ -2,7 +2,7 @@
 layout: post
 title: The Golden Motorcycle Gang
 date: 2012-03-18
-category: books
+category: book-reviews
 ---
 
 **Book:** The Golden Motorcycle Gang: A Story Of Transformation  

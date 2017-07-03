@@ -2,7 +2,7 @@
 layout: post
 title: As A Man Thinketh
 date: 2013-07-28
-category: books
+category: book-reviews
 ---
 
 This is not a complete book, but a booklet. With this content, the author could have easily expanded into hundreds of pages. But, he wanted to make his point precisely in a short text - The Power of Thoughts. This is a much written upon subject in the market now. We could easily find hundreds of good books and thousands of junk books on this subject. This book, by James Allen is the pioneer to all of them. Even after so many decades this book is still being studied by most of the personal development gurus around the world. This book is being recommended again and again by many of my favorite authors.  

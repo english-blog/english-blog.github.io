@@ -2,7 +2,7 @@
 layout: post
 title: Secrets of the Millionaire Mind
 date: 2016-03-25
-category: books
+category: book-reviews
 ---
 
 **Book:** Secrets of the Millionaire Mind  

@@ -2,7 +2,7 @@
 layout: post
 title: The Greatness Guide
 date: 2010-12-28
-category: books
+category: book-reviews
 ---
 
 **Book:** The Greatness Guide  

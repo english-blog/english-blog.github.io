@@ -3,7 +3,7 @@ layout: post
 title: Draft Post
 date: 2015-01-05
 category: apps
-category: books
+category: book-reviews
 category: health
 category: social
 category: personal
@@ -12,7 +12,7 @@ category: challenges
 category: technology
 category: travelogue
 category: thought-experiments
-category: review
+category: reviews
 category: bucket-list
 category: spirituality
 ---

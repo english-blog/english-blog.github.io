@@ -2,7 +2,7 @@
 layout: post
 title: The Diary Of An Unreasonable Man
 date: 2010-12-20
-category: books
+category: book-reviews
 ---
 
 **Book:** The Diary Of An Unreasonable Man  

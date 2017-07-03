@@ -2,7 +2,7 @@
 layout: post
 title: The Secret Letters of the Monk Who Sold His Ferrari
 date: 2012-03-04
-category: books
+category: book-reviews
 ---
 
 **Book:** The Secret Letters of the Monk Who Sold His Ferrari  

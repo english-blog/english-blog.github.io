@@ -2,7 +2,7 @@
 layout: post
 title: I Have A Dream
 date: 2011-11-23
-category: books
+category: book-reviews
 ---
 
 **Book:** I Have A Dream  

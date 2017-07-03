@@ -2,7 +2,7 @@
 layout: post
 title: Outliers - The Story Of Success
 date: 2011-08-12
-category: books
+category: book-reviews
 ---
 
 **Book:** Outliers: The Story Of Success  

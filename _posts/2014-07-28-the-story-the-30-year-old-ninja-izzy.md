@@ -2,7 +2,7 @@
 layout: post
 title: The Story - The 30 Year Old Ninja
 date: 2014-07-28
-category: books
+category: book-reviews
 ---
 
 **Name:** Ismael Arkin (aka Izzy)  

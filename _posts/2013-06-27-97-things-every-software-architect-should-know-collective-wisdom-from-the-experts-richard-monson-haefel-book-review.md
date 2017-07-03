@@ -2,7 +2,7 @@
 layout: post
 title: 97 Things Every Software Architect Should Know - Collective Wisdom from the Experts
 date: 2013-06-27
-category: books
+category: book-reviews
 ---
 
 **Book:** 97 Things Every Software Architect Should Know

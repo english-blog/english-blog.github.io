@@ -2,7 +2,7 @@
 layout: post
 title: Chicken Soup For The Indian Soul - A Book Of Miracles
 date: 2012-01-03
-category: books
+category: book-reviews
 ---
 
 **Book:** Chicken Soup For The Indian Soul: A Book Of Miracles  

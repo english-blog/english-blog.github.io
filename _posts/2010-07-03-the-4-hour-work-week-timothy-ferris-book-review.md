@@ -2,7 +2,7 @@
 layout: post
 title: The 4-Hour Work Week
 date: 2010-07-03
-category: books
+category: book-reviews
 ---
 
 **Book:** The 4-Hour Workweek

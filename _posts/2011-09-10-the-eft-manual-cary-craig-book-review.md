@@ -2,7 +2,7 @@
 layout: post
 title: The EFT Manual
 date: 2011-09-10
-category: books
+category: book-reviews
 ---
 
 **Book:** The EFT Manual  

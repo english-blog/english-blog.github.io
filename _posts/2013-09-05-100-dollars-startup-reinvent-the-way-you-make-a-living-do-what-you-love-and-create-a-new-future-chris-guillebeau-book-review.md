@@ -2,7 +2,7 @@
 layout: post
 title: $100 Start up - Reinvent the Way You Make a Living, Do What You Love and Create a New Future
 date: 2013-09-05
-category: books
+category: book-reviews
 ---
 
 **Book:** $100 Start up - Reinvent the Way You Make a Living, Do What You Love and Create a New Future

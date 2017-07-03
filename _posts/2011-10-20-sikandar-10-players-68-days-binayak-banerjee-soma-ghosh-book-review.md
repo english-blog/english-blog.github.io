@@ -2,7 +2,7 @@
 layout: post
 title: Sikandar - 10 Players, 68 Days
 date: 2011-10-20
-category: books
+category: book-reviews
 ---
 
 **Book:** Sikandar - 10 Players, 68 Days  

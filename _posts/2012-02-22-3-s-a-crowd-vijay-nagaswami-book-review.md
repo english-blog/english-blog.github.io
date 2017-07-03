@@ -2,7 +2,7 @@
 layout: post
 title: 3's A Crowd
 date: 2012-02-22
-category: books
+category: book-reviews
 ---
 
 **Book:** 3's A Crowd  

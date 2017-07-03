@@ -10,7 +10,7 @@ permalink: /categories/
 
 <ul>
 
-<li><p><a href="{{ site.url }}/category/books/">Book Reviews</a></p></li>
+<li><p><a href="{{ site.url }}/category/book-reviews/">Book Reviews</a></p></li>
 
 <li><p><a href="{{ site.url }}/category/health/">Health</a></p></li>
 
@@ -32,7 +32,7 @@ permalink: /categories/
 
 <li><p><a href="{{ site.url }}/category/spirituality/">Spirituality</a></p></li>
 
-<li><p><a href="{{ site.url }}/category/review/">Reviews</a></p></li>
+<li><p><a href="{{ site.url }}/category/reviews/">Reviews</a></p></li>
 
 <li><p><a href="{{ site.url }}/category/apps/">Apps</a></p></li>
 

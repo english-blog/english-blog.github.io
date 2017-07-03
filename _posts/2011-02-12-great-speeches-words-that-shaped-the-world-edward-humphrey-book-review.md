@@ -2,7 +2,7 @@
 layout: post
 title: Great Speeches - Words That Shaped The World
 date: 2011-02-12
-category: books
+category: book-reviews
 ---
 
 **Book:** Great Speeches  

@@ -2,7 +2,7 @@
 layout: post
 title: The Automatic Millionaire - A Powerful One-Step Plan To Live And Finish Rich
 date: 2011-11-06
-category: books
+category: book-reviews
 ---
 
 **Book:** The Automatic Millionaire: A Powerful One-Step Plan To Live And Finish Rich  

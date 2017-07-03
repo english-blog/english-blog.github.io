@@ -2,7 +2,7 @@
 layout: post
 title: You Just Cook
 date: 2014-03-11
-category: review
+category: reviews
 ---
 
 You love cooking?. Great. Go on. Read. 

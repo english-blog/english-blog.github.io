@@ -2,7 +2,7 @@
 layout: post
 title: A Promise Is A Promise
 date: 2014-08-03
-category: books
+category: book-reviews
 ---
 
 **Book:** A Promise Is A Promise  

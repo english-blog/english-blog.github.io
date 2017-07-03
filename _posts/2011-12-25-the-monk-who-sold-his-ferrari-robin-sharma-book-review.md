@@ -2,7 +2,7 @@
 layout: post
 title: The Monk Who Sold His Ferrari
 date: 2011-12-25
-category: books
+category: book-reviews
 ---
 
 **Book:** The Monk Who Sold His Ferrari  

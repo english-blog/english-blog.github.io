@@ -2,7 +2,7 @@
 layout: post
 title: Ignore Everybody - And 39 Other Keys To Creativity
 date: 2010-08-18
-category: books
+category: book-reviews
 ---
 
 **Book:** Ignore Everybody - And 39 Other Keys To Creativity  

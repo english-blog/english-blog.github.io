@@ -2,7 +2,7 @@
 layout: post
 title: The Power
 date: 2010-08-25
-category: books
+category: book-reviews
 ---
 
 **Book:** The Power  

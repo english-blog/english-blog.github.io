@@ -2,7 +2,7 @@
 layout: post
 title: The Power Of Death
 date: 2015-12-28
-category: books
+category: book-reviews
 ---
 
 **Book:** The Power Of Death - A Radical Path to Personal Transformation and Spiritual Enlightenment  

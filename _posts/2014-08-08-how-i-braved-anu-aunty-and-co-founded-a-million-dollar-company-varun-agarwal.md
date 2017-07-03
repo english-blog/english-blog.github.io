@@ -2,7 +2,7 @@
 layout: post
 title: How I Braved Anu Aunty & Co-founded A Million Dollar Company
 date: 2014-08-08
-category: books
+category: book-reviews
 ---
 
 **Book:** How I Braved Anu Aunty & Co-founded A Million Dollar Company  

@@ -2,7 +2,7 @@
 layout: post
 title: The Five Love Languages - How to Express Heartfelt Commitment to Your Mate
 date: 2011-07-05
-category: books
+category: book-reviews
 ---
 
 **Book:** The Five Love Languages  

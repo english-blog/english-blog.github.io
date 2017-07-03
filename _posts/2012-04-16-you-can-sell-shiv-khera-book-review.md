@@ -2,7 +2,7 @@
 layout: post
 title: You Can Sell
 date: 2012-04-16
-category: books
+category: book-reviews
 ---
 
 **Book:** You Can Sell  

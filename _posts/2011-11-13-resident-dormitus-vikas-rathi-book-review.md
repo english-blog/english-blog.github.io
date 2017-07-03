@@ -2,7 +2,7 @@
 layout: post
 title: Resident Dormitus
 date: 2011-11-13
-category: books
+category: book-reviews
 ---
 
 **Book:** Resident Dormitus  

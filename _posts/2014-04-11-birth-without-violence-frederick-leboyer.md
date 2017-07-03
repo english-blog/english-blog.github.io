@@ -2,7 +2,7 @@
 layout: post
 title: Birth Without Violence
 date: 2014-04-11
-category: books
+category: book-reviews
 ---
 
 **Book:** Birth Without Violence  

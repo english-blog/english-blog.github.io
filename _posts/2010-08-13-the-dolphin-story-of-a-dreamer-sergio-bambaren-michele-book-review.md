@@ -2,7 +2,7 @@
 layout: post
 title: The Dolphin - Story of a Dreamer
 date: 2010-08-13
-category: books
+category: book-reviews
 ---
 
 **Book:** The Dolphin - Story Of A Dreamer  
