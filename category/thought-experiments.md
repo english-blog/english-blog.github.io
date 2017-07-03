@@ -6,7 +6,7 @@ permalink: /category/thought-experiments/
 ---
 
 <div>
-    <a href="{{ site.url }}">home</a> &nbsp;&gt;&nbsp; <a href="{{ site.url }}/categories">categories</a>
+    <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/thought-experiments/">thought-experiments</a>
   	
 	<ul>
     {% for post in site.categories.thought-experiments %}

@@ -6,7 +6,7 @@ permalink: /category/review/
 ---
 
 <div>
-    <a href="{{ site.url }}">home</a> &nbsp;&gt;&nbsp; <a href="{{ site.url }}/categories">categories</a>
+    <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/review/">review</a>
   	
 	<ul>
     {% for post in site.categories.review %}

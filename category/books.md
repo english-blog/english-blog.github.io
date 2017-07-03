@@ -6,7 +6,7 @@ permalink: /category/books/
 ---
 
 <div>
-    <a href="{{ site.url }}">home</a> &nbsp;&gt;&nbsp; <a href="{{ site.url }}/categories">categories</a>
+    <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/books/">books</a>
 
 	<ul>
 		<li><p>Gandhi: A Life Inspired</p></li>

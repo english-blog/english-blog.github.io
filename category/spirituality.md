@@ -6,7 +6,7 @@ permalink: /category/spirituality/
 ---
 
 <div>
-    <a href="{{ site.url }}">home</a> &nbsp;&gt;&nbsp; <a href="{{ site.url }}/categories">categories</a>
+    <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/spirituality/">spirituality</a>
   	
 	<ul>
     {% for post in site.categories.spirituality %}
