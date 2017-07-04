@@ -37,7 +37,7 @@ Once you completed the evaluation of that specific value in your blueprint, move
   
 As long as you live, you will encounter new experiences, meet new people that will change your perception about your life, drastically. When you feel the urge to change from inside, Change!!!. Refine your blueprint. Live with the new one. Don't hold to your old beliefs/values. I would never suggest to resist all the changes. I suggest that when you change, change consciously.  
   
-###Other's values in your blueprint  
+### Other's values in your blueprint  
   
 There many be some values in your blueprint which are imposed by others. There may be some things that you always wanted to do, but prohibited by your religion, society, family, friends, relatives etc. Those are not your values. Check the relevance of that value in your current life. Will that help you to progress in your life?. Will that keep you happy?. If yes, adhere to it and thank to whoever imposed it on you. If not, refine that value with something new and thank yourself.  
   

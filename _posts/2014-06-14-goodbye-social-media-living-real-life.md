@@ -110,8 +110,8 @@ Losing contacts does not mean losing friends. I am simply severing one of the co
 No. I love writing. I will continue to blog at the below websites. You can subscribe to these blogs, if you find them useful.
 
 1. [{{site.title}}]({{site.url}})
-2. [&#2965;&#2985;&#2997;&#3009;]({{site.tamil}})
-3. [Raw Vegan Recipes]({{site.rawvegan}})
+2. [&#2965;&#2985;&#2997;&#3009;](http://tamil.smileprem.com)
+3. [Raw Vegan Recipes](http://raw-vegan-recipes.blogspot.com/)
 
 I will also retain my [LinkedIn]({{site.linkedin}}) account for my professional growth.
 

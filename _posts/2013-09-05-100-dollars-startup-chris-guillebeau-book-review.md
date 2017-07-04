@@ -5,7 +5,7 @@ date: 2013-09-05
 category: book-reviews
 ---
 
-**Book:** $100 Start up - Reinvent the Way You Make a Living, Do What You Love and Create a New Future
+**Book:** $100 Start up - Reinvent the Way You Make a Living, Do What You Love and Create a New Future  
 **Author:** Chris Guillebeau  
 **ISBN-13:** 978-0307951526
 

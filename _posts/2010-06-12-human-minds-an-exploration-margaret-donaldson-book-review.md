@@ -5,7 +5,7 @@ date: 2010-06-12
 category: book-reviews
 ---
 
-**Book:** Human Minds - An Exploration
+**Book:** Human Minds - An Exploration  
 **Author:** Margaret Donaldson  
 **ISBN-13:** 978-0140170337
 

@@ -27,7 +27,9 @@ In 2002, an Iranian radiologist, Dr. Saeed Rad, published a study which compared
 
 Using squat toilets, all the subjects reported "complete" evacuation. "Puborectalis relaxation occurred easily and straightening of the rectum and anal canal facilitated evacuation. The anal canal became wide open and no folding was noticed in the terminal rectum." In the sitting position, "a remarkable folding was created in the terminal rectum predisposing it to rectocele formation, and puborectalis relaxation was incomplete." All the subjects reported that elimination felt "incomplete" in the sitting position.  
 
-Dr. Rad concluded that the use of the squat toilet "is a more comfortable and efficient method of bowel evacuation" than the sitting toilet.  
+Dr. Saeed Rad concluded that the use of the squat toilet "is a more comfortable and efficient method of bowel evacuation" than the sitting toilet.  
+
+Details of the study: [IMPACT OF ETHNIC HABITS ON DEFECOGRAPHIC MEASUREMENTS](http://www.ams.ac.ir/AIM/0252/0252115.pdf)
 
 ### Advantages of Indian Toilets
 

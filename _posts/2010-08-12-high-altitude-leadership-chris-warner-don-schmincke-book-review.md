@@ -5,7 +5,7 @@ date: 2010-08-12
 category: book-reviews
 ---
 
-**Book:** High Altitude Leadership - What The World's Most Forbidding Peaks Teach Us About Success
+**Book:** High Altitude Leadership - What The World's Most Forbidding Peaks Teach Us About Success  
 **Author:** Christopher Warner, Don Schmincke  
 **ISBN-13:** 9780470345030
 

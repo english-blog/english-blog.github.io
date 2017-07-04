@@ -5,7 +5,7 @@ date: 2010-07-03
 category: book-reviews
 ---
 
-**Book:** The 4-Hour Workweek
+**Book:** The 4-Hour Workweek  
 **Author:** Timothy Ferriss  
 **ISBN-13:** 978-0307465351
 

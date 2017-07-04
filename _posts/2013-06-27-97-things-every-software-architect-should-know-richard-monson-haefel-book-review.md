@@ -5,7 +5,7 @@ date: 2013-06-27
 category: book-reviews
 ---
 
-**Book:** 97 Things Every Software Architect Should Know
+**Book:** 97 Things Every Software Architect Should Know  
 **Author:** Richard Monson-haefel  
 **ISBN-13:** 978-8184046892
 

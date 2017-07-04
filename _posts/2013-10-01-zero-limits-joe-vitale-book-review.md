@@ -5,7 +5,7 @@ date: 2013-10-01
 category: book-reviews
 ---
 
-**Book:** Zero Limits - The Secret Hawaiian System for Wealth, Health, Peace, and More
+**Book:** Zero Limits - The Secret Hawaiian System for Wealth, Health, Peace, and More  
 **Author:** Joe Vitale, Ihaleakala Hew Len  
 **ISBN-13:** 978-0470402566
 
