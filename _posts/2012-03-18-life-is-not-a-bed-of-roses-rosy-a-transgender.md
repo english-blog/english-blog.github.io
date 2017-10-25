@@ -7,6 +7,8 @@ category: social
 
 ![Transgender Rosy]({{site.img-path}}/rosy-transgender-1.jpg)  
   
+** This is a guest post by Shruthi. Read her [here](http://penurheart.blogspot.com/) **  
+
 It was a gloomy Sunday afternoon. I was on the way to the weekly meeting at Sangama Office. I saw a bird flying from tree to tree looking for an apt place to set its nest. It somehow seemed like my life. I’m a homeless wanderer right now seeking a nest. With so many thoughts flooding the mind, I reached the office. It was warm to see known faces and lovely smiles spread across those faces.   
   
 My eyes fell on the two strangers talking to my peers and typing the conversations in a laptop. Our head Karunakaran introduced me to those strangers. He said, "They want to understand about us and help us in some way. They will ask you few questions. Please answer them". With these words he left me with these two people in a separate cabin.   
