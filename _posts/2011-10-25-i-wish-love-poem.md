@@ -41,7 +41,7 @@ I'll go back to sleep
 And pretend its still tonight  
 
 Down the lanes of future  
-I'll smile though my tears  
+I'll smile through my tears  
 When I look back at you  
 And embrace the memories of tonight  
 
