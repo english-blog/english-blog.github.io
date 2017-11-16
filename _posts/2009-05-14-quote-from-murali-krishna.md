@@ -9,9 +9,9 @@ category: self-improvement
 
 Murali told me this sentence during our ECR trip to IG Resorts. He mentioned this sentence about bike driving in heavy traffic in Chennai roads. This provoked a lot of thoughts in me. Even after three days, I am thinking about this sentence.
 
-This applies to our day to day life also. When you fear that some one else might be speeding than you, you look at the rear view mirror, instead of the road ahead for you !!!
+This applies to our day to day life also. When you fear that someone else might be faster than you, you look in the rearview mirror, instead of the road ahead for you !!!
 
-Imagine that you are in an empty race track or a infinite landscape. You are driving your favorite power machine, with no roads, no traffic, no other distractions. Would you look back?. NO !!!. You would be enjoying each second of your drive. No fears. No set backs. 
+Imagine that you are on an empty race track or an infinite landscape. You are driving your favorite power machine, with no roads, no traffic, no other distractions. Would you look back?. NO !!!. You would be enjoying each second of your drive. No fears. No setbacks. 
 
 That's how our life should be. Our life is not about competing with others. No one competes with you unless you think so. We have more than enough of resources, wealth, choices and opportunities for everyone. We should let our creativity juice to enrich this world.
 
