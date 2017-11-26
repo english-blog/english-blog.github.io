@@ -9,19 +9,19 @@ category: book-reviews
 **Author:** Donald J. Trump  
 **ISBN-13:** 978-1400050161
 
-Donald J.Trump. Who doesn't know him in the business circle? He is an excellent example of American business success story, who had his hands on real estate, gaming, sports and Entertainment. He is one of the New York Times bestselling author as well. What if Donald Trump goes to the best & brightest business men and women, who run companies ranging from Fortune 500 Corporations to the family-run local businesses and ask them ONLY ONE question.  
+Donald J.Trump. Who doesn't know him in the business circle? He is an excellent example of American business success story, who had his hands on real estate, gaming, sports, and Entertainment. He is one of the New York Times bestselling author as well. What if Donald Trump goes to the best & brightest business men and women, who run companies ranging from Fortune 500 Corporations to the family-run local businesses and ask them ONLY ONE question.  
   
 "What is the best business advice you ever received?"  
   
 And compiled them into one book? Wouldn't that be a Wikipedia of most common of the problems, solutions, strategies, ethics, work culture, leadership, people management etc in business?. Exactly. And, this book has the collective wisdom gained by those who are already in the top. This book will definitely help you NOT to make the same mistakes made by those who traveled ahead of you. If you are an entrepreneur seriously interested to find your way to the top, this book should be in your book-shelf.  
   
-After reading the answers from Presidents, CEOs, CFOs, COOs, MDs, I could sense that their best advice comes from various sources. Majority are from their seniors (in major corporations), from their fathers (in family-run businesses), from their juniors, from their mom in their childhood, from an occasional talk in a party etc. It comes from people from all walks of life. Many leaders hold on to these advises which brought them success. So, along with reading this book, you should listen to people and watch for any lessons that you may get.  
+After reading the answers from Presidents, CEOs, CFOs, COOs, MDs, I could sense that their best advice comes from various sources. The majority are from their seniors (in major corporations), from their fathers (in family-run businesses), from their juniors, from their mom in their childhood, from an occasional talk in a party etc. It comes from people from all walks of life. Many leaders hold on to these advises which brought them success. So, along with reading this book, you should listen to people and watch for any lessons that you may get.  
   
-Some of leaders answered in one sentence, some in a paragraph, some listed the advises that guides them and some explains the actual experience from their business life where& how the advice actually helped them. Some of my favorites are here.  
+Some of the leaders answered in one sentence, some in a paragraph, some listed the advises that guides them and some explain the actual experience from their business life where& how the advice actually helped them. Some of my favorites are here.  
   
-"Put yourself in the customer’s shoes. Sell the medicine as if they would be used by my family, my friends or myself" - George Abercrombie, President and CEO of Roche North American Pharmaceuticals Operations  
+"Put yourself in the customer’s shoes. Sell the medicine as if they would be used by my family, my friends or myself" - George Abercrombie, President, and CEO of Roche North American Pharmaceuticals Operations  
   
-"Trust, but verify" – Napoleon Barragan, Chairman and CEO of 1-800-MATTRESS  
+"Trust, but verify" – Napoleon Barragan, Chairman, and CEO of 1-800-MATTRESS  
   
 "The sun doesn’t shine forever. During an upturn, prepare for the downturn" – Barbara G.Berger, President of Food City markets, Inc.  
   
@@ -29,7 +29,7 @@ Some of leaders answered in one sentence, some in a paragraph, some listed the a
   
 "Strive to satisfy the customer. The bottom line will always follow" – Jim Cantalupo, Chairman& CEO of McDonald’s corporation.  
   
-"Five Ps: Prior planning prevents poor performance" – Archie W.Dunham, Chairman of ConocoPhilips.  
+"Five Ps: Prior planning prevents poor performance" – Archie W.Dunham, Chairman of ConocoPhillips.  
   
 "Show me a person smarter than me, I’ll hire them" – Gerald D.Edwards, President & CEO of Engineered Plastic Products, Inc.
   
