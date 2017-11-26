@@ -25,21 +25,21 @@ Many of us wake up an hour or so before the work time and hurry up the morning r
   
 > Never ever skip the breakfast.  
   
-That's one of the surest way to gain weight. Eating breakfast early resets the metabolism. Think this, you have been fasting for 8+ hour and you must break it. Isn't it?  
+That's one of the surest ways to gain weight. Eating breakfast early resets the metabolism. Think this, you have been fasting for 8+ hour and you must break it. Isn't it?  
   
 ### Protein Rich breakfast
   
-Generally I tend to eat simple breakfast with lot of carbohydrates (to give us energy throughout the day). I do that till today. I would say, I was ignorant of the importance of protein in the breakfast. I would stack up protein in the lunch and the dinner, but not in the breakfast. Tim suggests us otherwise.  
+Generally, I tend to eat simple breakfast with a lot of carbohydrates (to give us energy throughout the day). I do that until today. I would say, I was ignorant of the importance of protein in the breakfast. I would stack-up the protein in the lunch and the dinner, but not in the breakfast. Tim suggests us otherwise.  
   
-> The more protein you eat in breakfast, the more fat you will lose.  
+> The more protein you eat for breakfast, the more fat you will lose.  
   
 That's amazing. Isn't it?. Eat early breakfast with at least 40% of protein. The simplest way to reduce weight. One important thing is that you must never be hungry. Eat till you are full. I am planning to add 4 hard boiled eggs to my breakfast. (A bowl of Muesli + Cold Milk + 4 Hard Boiled Eggs). I will post an update as soon as I have some noticeable effect of this simple tip.  
   
 ### Drink more water and more often
   
-*The protein rich meal is not good for the kidneys* - Heard of this statement?. Don't let this stop you. There is no evidence to prove this statement, and yet the myth lives. But, if you have a serious medical condition, please consult with your doctor. To ensure optimal liver function for fat loss, increased hydration is a must. Make special efforts to drink more water everyday.  
+*The protein-rich meal is not good for the kidneys* - Heard of this statement?. Don't let this stop you. There is no evidence to prove this statement, and yet the myth lives. But, if you have a serious medical condition, please consult with your doctor. To ensure optimal liver function for fat loss, increased hydration is a must. Make special efforts to drink more water every day.  
   
-I take one liter bottle to Office everyday and complete the bottle twice (1 - morning till afternoon, 2 - afternoon till evening). I feel the need to urinate often, when I do this, which is actually good for my body. This gives me break from the glazing at the monitor continuously, which is a good thing.  
+I take a one-liter bottle to Office every day and complete the bottle twice (1 - morning till afternoon, 2 - afternoon till evening). I feel the need to urinate often when I do this, which is actually good for my body. This gives me a break from the glazing at the monitor continuously, which is a good thing.  
   
 So, today's tip is very simple. Here is the summary.  
   
