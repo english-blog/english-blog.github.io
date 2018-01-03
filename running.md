@@ -11,6 +11,7 @@ permalink: /running/
 
 <ol>
   <li><p><a href="{{site.img-path}}/running/2015-coimbatore-marathon-21k.jpg">Coimbatore Marathon</a> (04-Oct-2015)</p></li>
+  <li><p><a href="{{site.img-path}}/running/2017-tiburon-marathon-21k.jpg">Tiburon Half Marathon</a> (04-Oct-2015)</p></li>
 </ol>  
 
 ### Barefoot 10K Runs
