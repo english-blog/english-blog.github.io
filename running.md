@@ -17,7 +17,7 @@ permalink: /running/
 ### Barefoot 10K Runs
 
 <ol>
-  <li><p><a href="{{site.img-path}}/running/2014-tcs-10k-big.jpg">TCS World 10K</a> (18-May-2014)</p></li>
+  <li><p><a href="{{site.img-path}}/running/2014-tcs-10k.jpg">TCS World 10K</a> (18-May-2014)</p></li>
   <li><p><a href="{{site.img-path}}/running/2014-trort-006_10k.jpg">TRORT 006</a> (26-Jul-2014)</p></li>
   <li><p><a href="{{site.img-path}}/running/2014-run-for-a-beat_10k.jpg">Run for a Beat</a> (10-Aug-2014)</p></li>
   <li><p><a href="{{site.img-path}}/running/2014-snap-run_10k.jpg">Snap Run</a> (24-Aug-2014)</p></li>
