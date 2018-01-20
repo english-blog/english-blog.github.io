@@ -18,7 +18,7 @@ category: challenges
 [Building the Perfect Physique - Tip 6: Weight Loss with Burpee]({{site.url}}/building-the-perfect-physique-tip-6-weight-loss-with-burpee/)  
 [Building the Perfect Physique - Tip 7: Weight Loss with Thermal Diet]({{site.url}}/building-the-perfect-physique-tip-7-weight-loss-with-thermal-diet/)  
 [Cooked Food Vs Raw Vegan Food]({{site.url}}/cooked-food-vs-raw-vegan-food/)  
-[The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life]({{site.url}}/the-thrive-diet-the-whole-foods-way-to-losing-weight-reducing-stress-and-staying-healthy-for-life-brendan-brazier-book-review/)  
+[The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life]({{site.url}}/the-thrive-diet-brendan-brazier-book-review/)  
   
 The last change - going raw vegan was very drastic and very very effective. I was a voracious meat eater. Switching immediately to the opposite side of the spectrum would be very tough. So, I did stop eating meat from Jan 1, 2013. After a month, I started eating raw vegan food for the breakfast for two weeks, then two weeks for the dinner and eventually for all three meals in the day. From 1st March 2013, I was on 100% raw vegan diet. After being on this diet for 5 months, you can see the results in the above picture.  
   

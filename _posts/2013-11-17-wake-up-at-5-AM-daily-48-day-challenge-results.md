@@ -56,9 +56,9 @@ Man being a social creature, must depend on others for life and love. I decided 
 
 * **Books** - I read these books [$100 Start up][startup-url], [Attract Money Now][attract-url], [Zero Limits][zero-limits-url] & [100 Ways to Motivate Yourself][motivate-url] during this challenge period. I spent a lot of time in other things, so reading frequency is reduced.  
 
-[startup-url]: {{ site.url }}/100-dollars-startup-reinvent-the-way-you-make-a-living-do-what-you-love-and-create-a-new-future-chris-guillebeau-book-review/
+[startup-url]: {{ site.url }}/100-dollars-startup-chris-guillebeau-book-review/
 [attract-url]: {{ site.url }}/attract-money-now-audio-joe-vitale-book-review/
-[zero-limits-url]: {{ site.url }}/zero-limits-the-secret-hawaiian-system-for-wealth-health-peace-and-more-joe-vitale-book-review/
+[zero-limits-url]: {{ site.url }}/zero-limits-joe-vitale-book-review/
 [motivate-url]: {{ site.url }}/100-ways-to-motivate-yourself-change-your-life-forever-steve-chandler-audiobook-review/
 
 * **Blogs** - I have written 10 blog posts during this period. Started writing posts on Personal Development.  
