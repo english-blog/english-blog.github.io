@@ -25,9 +25,10 @@ When I showed this app to a couple of my friends, they were very interested to s
 
 That's when I felt this simple app may help you too and hosted this app online. This is a very simple app. Just log in with your Facebook credentials and authorize the application. Your friends work history will be loaded into a sortable table format. I provided links to your friend's Facebook page, so you can message them directly. This app will NOT list your friend's name if he/she has not updated their work info on facebook. 
 
-Please click here for the web app --> [Where do my friends work?](http://apps.smileprem.com/where-do-my-friends-work/)  
-
 I am surprised to see that I have friends working in **313 different companies** across the globe. I never realized that I have so many connections and I could use them to help people. WOW !!!... Find out the power of your connections :)
 
 Please check and let me know your feedback/suggestions etc.
 
+**Apologies. I deleted all my social accounts and the apps associated.**
+
+Please feel free to implement the idea.
