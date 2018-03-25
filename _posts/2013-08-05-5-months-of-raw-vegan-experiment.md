@@ -7,20 +7,9 @@ category: challenges
 
 ![5 Months Raw Vegan Transformation]({{site.img-path}}/5-months-raw-vegan-transformation.jpg)  
 
-25th August 2012 - Some seemingly very unimportant event happened in my life. I couldn't tie my shoelaces while sitting in a chair. I was huffing & puffing when I am done. Yeah. I had a big belly. I could not believe the condition of my physique. I started thinking. Just like the butterfly effect in Chaos Theory, this event triggered a series of events in my life, which led me to change my lifestyle drastically. I started doing one little thing at a time. Below is the list of changes that I attempted from last year.  
+25th August 2012 - Some seemingly very unimportant event happened in my life. I couldn't tie my shoelaces while sitting in a chair. I was huffing & puffing when I am done. Yeah. I had a big belly. I could not believe the condition of my physique. I started thinking. Just like the butterfly effect in Chaos Theory, this event triggered a series of events in my life, which led me to change my lifestyle drastically. I started doing one little thing at a time. 
   
-[Building The Perfect Physique]({{site.url}}/building-the-perfect-physique/)  
-[Building the Perfect Physique - Tip 1: Eat breakfast within an hour of waking up]({{site.url}}/building-the-perfect-physique-tip-1-eat-breakfast-within-an-hour-of-waking-up/)  
-[Building the Perfect Physique - Tip 2: Lose weight out of the blue]({{site.url}}/building-the-perfect-physique-tip-2-lose-weight-out-of-the-blue/)  
-[Building the Perfect Physique - Tip 3: Lose Weight with Laziness]({{site.url}}/building-the-perfect-physique-tip-3-lose-weight-with-laziness/)  
-[Building the Perfect Physique - Tip 4: Weight Loss with Mind Movies]({{site.url}}/building-the-perfect-physique-tip-4-weight-loss-with-mind-movies/)  
-[Building the Perfect Physique - Tip 5: Weight Loss with Horse Gram]({{site.url}}/building-the-perfect-physique-tip-5-weight-loss-with-horse-gram/)   
-[Building the Perfect Physique - Tip 6: Weight Loss with Burpee]({{site.url}}/building-the-perfect-physique-tip-6-weight-loss-with-burpee/)  
-[Building the Perfect Physique - Tip 7: Weight Loss with Thermal Diet]({{site.url}}/building-the-perfect-physique-tip-7-weight-loss-with-thermal-diet/)  
-[Cooked Food Vs Raw Vegan Food]({{site.url}}/cooked-food-vs-raw-vegan-food/)  
-[The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life]({{site.url}}/the-thrive-diet-brendan-brazier-book-review/)  
-  
-The last change - going raw vegan was very drastic and very very effective. I was a voracious meat eater. Switching immediately to the opposite side of the spectrum would be very tough. So, I did stop eating meat from Jan 1, 2013. After a month, I started eating raw vegan food for the breakfast for two weeks, then two weeks for the dinner and eventually for all three meals in the day. From 1st March 2013, I was on 100% raw vegan diet. After being on this diet for 5 months, you can see the results in the above picture.  
+The change - going raw vegan was drastic and very effective. I was a voracious meat eater. Switching immediately to the opposite side of the spectrum would be very tough. So, I did stop eating meat from Jan 1, 2013. After a month, I started eating raw vegan food for the breakfast for two weeks, then two weeks for the dinner and eventually for all three meals in the day. From 1st March 2013, I was on 100% raw vegan diet. After being on this diet for 5 months, you can see the results in the above picture.  
   
 ### How does that feel?. Good or Bad?  
   
@@ -36,17 +25,8 @@ The last change - going raw vegan was very drastic and very very effective. I wa
   
 This is a problem specific to India and surrounding countries with related culture. So, does not apply to all.  
   
-**Self-Confidence:** Especially when you know that you can do something which 99% of the people around you cannot do, your self-confidence soars to the high sky. Overcoming social pressure is the next plateau for your self-confidence. You will know you can do things even if the whole world is against your idea. This raw vegan diet brought me self-control, reduced procrastination, improved my self-confidence greatly. Following Raw Vegan Diet equals reading hundreds of self-development books. Seriously. Trust me.  
-  
-Some of the raw vegan recipes that I prepared and enjoyed are here  [raw-vegan-recipes blog](http://www.raw-vegan-recipes.com/). Read and Enjoy!  
+**Self-Confidence:** Especially when you know that you can do something which 99% of the people around you cannot do, your self-confidence soars to the high sky. Overcoming social pressure is the next plateau for your self-confidence. You will know you can do things even if the whole world is against your idea. This raw vegan diet brought me self-control, reduced procrastination, improved my self-confidence greatly. Following Raw Vegan Diet equals reading hundreds of self-development books. Trust me.  
   
 ### Was the experiment successful?  
   
-I do have a lot of obese/overweight friends who complain about the impossibility of losing weight. The whole idea behind this experiment is to find a reliable and healthy mean to lose weight and when I lose weight, my friends will get inspired. I did lose weight. Very funny thing is that my friends still complain about being overweight and ignored me and my diet plan as **Outcasts**. I am no longer an ordinary human being with an ordinary appetite. I laughed at myself. Nevertheless, I was blogging the efforts along the way. If it inspires one person in the world, I would consider my experiment a successful one. I don't know at this point. The comments in this blog may help establish it.  
-  
-### What's Next?  
-  
-**Gain muscle !**. Yeah. right. I do know many skinny persons in the world. I am going to show them how to gain muscle mass and retain it in a healthy way. I am going to make it as simple as I could. If you would like to follow along, please subscribe to the blog posts. All the best !.  
-
-**Did any of my posts/recipes in raw vegan diet helped you in any way?**  
-
+I do have a lot of obese/overweight friends who complain about the impossibility of losing weight. The whole idea behind this experiment is to find a reliable and healthy mean to lose weight and when I lose weight, my friends will get inspired. I did lose weight. Very funny thing is that my friends still complain about being overweight and ignored me and my diet plan as **Outcasts**. I am no longer an ordinary human being with an ordinary appetite. I laughed at myself. Nevertheless, I was blogging the efforts along the way. If it inspires one person in the world, I would consider my experiment a successful one. 
