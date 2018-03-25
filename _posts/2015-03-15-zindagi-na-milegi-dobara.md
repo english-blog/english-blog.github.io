@@ -25,7 +25,7 @@ Why can't we simply live?.
 
 I am not asking everyone to stop everything and backpack to Europe or Australia. I just wish if everyone could do only the things that make them happy from inside. (at least most of the time).
 
-**What inspired me the most from this movie? **
+**What inspired me the most from this movie?**
 
 I liked the entire movie, but one question struck me hard... really hard that I paused and sunk into deep thoughts.
 
