@@ -94,7 +94,6 @@ From the previous net worth calculation, it is clear that I need to learn to man
 
 **Wealth principle 17** - Rich people constantly learn and grow. Poor people think they already know.
 
-
 ### Interesting quotes from the book:
 
 * Never have a ceiling on your income.
@@ -113,4 +112,4 @@ From the previous net worth calculation, it is clear that I need to learn to man
 
 * If you are willing to do only what is easy, life will be hard. But if you are willing to do what's hard, life will be easy.
 
-This book changed my lifestyle. I know that it is for good. This book may have something for you as well. Just read. I am so happy that I chose to read this book. Thank you, Harv Eker. Meet you in the upcoming Millionaire Mind Intensive seminar. !!!
+This book changed my lifestyle. I know that it is for good. This book may have something for you as well. Just read. I am so happy that I chose to read this book. Thank you, Harv Eker. 
