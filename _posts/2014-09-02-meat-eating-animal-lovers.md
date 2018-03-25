@@ -49,7 +49,7 @@ The Predator or The Scavenger?.
 
 > Could you look an animal in the eyes and say to it, 'My appetite is more important than your suffering'? ~ **Moby**
 
-If you can... great !!!. You simply live by your predator instinct. Please continue. Also, take care of your health.  
+If you can... great !!!. You simply live by your predator instinct. Please continue. 
 
 If you cannot, would you like to explore why?.  
 
@@ -105,7 +105,7 @@ OK. Here is a vegan calisthenics expert Frank Medrano.
 
 *He is slim. Haven't you seen the meat-eating bodybuilders?*
 
-Yes. I chose to show Frank Medrano because we were slim for millions of years. If we cannot run, we die. Evolution rule doesn't apply here?. Is it?. Still, there are a lot of natural bodybuilders, even raw vegan bodybuilders who built such a big physique. Here is Jim Morris. a vegan bodybuilder at 61 & 71 yrs of age.  
+Yes. I chose to show Frank Medrano because we were slim for millions of years. Still, there are a lot of natural bodybuilders, even raw vegan bodybuilders who built such a big physique. Here is Jim Morris. a vegan bodybuilder at 61 & 71 yrs of age.  
 
 ![Jim Morris at 61 yrs]({{site.img-path}}/jim-morris-age-61-age-71.png)  
 
@@ -115,8 +115,4 @@ I am just another human being, experiencing life. I was a voracious meat eater a
 
 *So, what's the conclusion?*
 
-Should there be one for every article?. If you wish so, let this be the conclusion.  
-
-![A Vegan is a pioneer of a new world... a less violent one - M Butterflies Katz]({{site.img-path}}/vegan-less-violent-m-butterflies-katz.jpg)  
-
-
+Should there be one for every article?. 
