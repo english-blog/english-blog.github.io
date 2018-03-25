@@ -16,5 +16,3 @@ Imagine that you are on an empty race track or an infinite landscape. You are dr
 That's how our life should be. Our life is not about competing with others. No one competes with you unless you think so. We have more than enough of resources, wealth, choices and opportunities for everyone. We should let our creativity juice to enrich this world.
 
 When we understand that there is no competition for us, we can move forward !!!. We can choose our own road and travel as fast as we love to :)
-
-Let me know your thoughts !!!  
