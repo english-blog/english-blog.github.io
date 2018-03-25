@@ -22,8 +22,3 @@ It's an ancient Ayurvedic practice for maintaining perfect oral health. As soon 
   
 The most immediate one that you will notice in a weeks time is whiter teeth and free from bad breath. I am doing this for the past one week and I could already see my teeth getting whiter. Though there is not much of scientific study or clinical trials with oil pulling, there is a compelling collection of data from peoples testimonials (highly unreliable, but there are too many to simply discard). I have read a whole bunch of articles about the Ayurvedic notion of mouth being linked with other organs of the body. They claim that the perfect oral health helps to cure many diseases of the body. I am not convinced with the idea. You can try and see for yourself.
   
-### Why did I start doing Oil Pulling?
-  
-After moving back to India, there was quite a big change to my raw vegan diet. I traveled a lot and missed a lot of meals during that time. I missed lunches in office due to work. I could not get Good Spinach for Smoothies. The greens available here are too heavy for smoothies. I was surviving mostly on fruits & vegetables only. I know, I need to get back on track. Currently, I am researching Indian raw vegan recipes.  
-  
-Among all these, One of my tooth in the front lower jaw started bleeding a little regularly during brushing. Out of nowhere, I got to know about Oil Pulling and I started immediately. Believe me or not, the bleeding stopped on the third day !!!. I will continue to do oil pulling as much as I can and post a follow-up blog after few months.  
