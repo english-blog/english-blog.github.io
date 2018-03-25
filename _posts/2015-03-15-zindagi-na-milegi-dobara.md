@@ -33,35 +33,9 @@ I liked the entire movie, but one question struck me hard... really hard that I 
 
 **Do you write anything to feed your own soul?**
 
-I always thought myself as a writer. A fearless writer, who writes for his soul. But, when I confronted this explicit question - I couldn't say YES with my whole heart.
+I always thought myself as a writer. A fearless writer. But, when I confronted this explicit question - I couldn't say YES with my whole heart.
 
-I felt connected to my soul when I wrote poems for my love.
-
-I felt connected to my soul when I wrote my experiences, experiments in life.
-
-I felt connected to my soul, when I wrote about the topic which is close to my heart - being vegan, experiencing god and science, running etc.
-
-Along with that,
-
-I write tech blogs - which does not interest me, but I do it for my professional growth.
-
-I write book reviews - which was interesting in the beginning but slowly becoming a mandatory event after reading every book.
-
-I wrote and deleted many blog posts - simply because many of them are about controversial topics, time-sensitive, non-conclusive, exhibits negativity, may not be helpful to anyone etc. 
-
-I can say now, that I write for my soul and also for others.
-
-The question now is,
-
-**Should I write for others? **
-
-Why not?.
-
-**Should this thought of "writing for others" limit my writings? **
-
-No. Definitely No.
-
-**What does this mean to this blog?**
+**What does this mean?**
 
 I am going to make this blog as a creative outlet for my thirst to write. It's going to record every aspect of me and my thoughts. It could be trash most of the time. I don't care.  The trash is not for you. There could be golden nuggets here and there. If that interests you, read it, enjoy it. Else, just ignore this blog and do something worthy.
 
