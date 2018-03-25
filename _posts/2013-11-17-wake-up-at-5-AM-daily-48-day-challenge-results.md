@@ -87,6 +87,4 @@ Yes. I would not stick to 100%. I will think through the possible obstacles to t
 
 ### Was this Challenge Successful?
 
-A hell YES. This is not a challenge that needs to be completed and thrown away. This is a habit that should be developed and adhered to until the end of our life. I would follow an easy version of this challenge for the rest of my life. (hopefully)  
-
-Thanks to everyone who supported this challenge!  
+A hell YES. This is not a challenge that needs to be completed and thrown away. This is a habit that should be developed and adhered to until the end of our life. I would follow an easy version of this challenge for the rest of my life. 
