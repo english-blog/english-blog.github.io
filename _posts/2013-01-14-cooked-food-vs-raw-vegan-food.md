@@ -13,10 +13,6 @@ src="http://www.youtube.com/embed/SbEUHCU_GtM?autoplay=0">
   
 I believed in this myth for a very long time. Who wants to be skinny and vulnerable?. Not me. Just like any other man, I always wanted to be big and strong. If I get options to either live for 30 years, big and strong or live for 100 years skinny but very healthy, I will always choose the first option. But, if I can be big, strong, healthy and can live for 100 years, why would not I say YES?. The next question is how?. The above video explains it all. All claims in this video are true?. I do not know at this point. But there is strong supporting evidence.  
   
-Let's analyze from the evolution point of view.  
-  
-<img src="{{site.img-path}}/evolution-human-brain.jpg" alt="Human Brain Evolution"/>   
-
 Many scientists believe that the cooked food in the human diet is responsible for the evolution of a bigger brain. Human brain consumes roughly 20% of the calories that go into the body. Cooked foods are packed with more calories, easy to chew, tastes better and could sustain few more days, which gave our ancestor the advantage of having more time to socialize and less time in searching for food. Since the human brain is nourished with more food and given more time to think, it is increased in size.  
   
 A sensible and logical conclusion from fossil evidence. Somehow, I could not agree with this. If you compare the brain size of the apes between 3.5 million years and 1.8 million years (roughly when Homo erectus started cooking), you can see the increase in brain size. (i.e) evolution is already started.  
