@@ -24,5 +24,3 @@ I feel that the author drifted away from what I expected from the book and tried
 I felt that I am in Margaret's class on Human Minds rather than reading a book. The writing style could be improved, avoiding long sentences and with proper punctuation. If you have the habit of reading out loud, then you will gasp for oxygen, while reading :)  
 
 Overall, I am happy that I came to know a lot about the human brain development. I would suggest you read the first half of the book. The second half is your choice.  
-
-Let me know if this review is helpful !!!  
