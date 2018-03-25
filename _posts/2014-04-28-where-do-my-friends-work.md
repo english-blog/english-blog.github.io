@@ -27,8 +27,6 @@ That's when I felt this simple app may help you too and hosted this app online. 
 
 I am surprised to see that I have friends working in **313 different companies** across the globe. I never realized that I have so many connections and I could use them to help people. WOW !!!... Find out the power of your connections :)
 
-Please check and let me know your feedback/suggestions etc.
-
-**Apologies. I deleted all my social accounts and the apps associated.**
+**Apologies. I deleted all my social accounts and the associated apps.**
 
 Please feel free to implement the idea.
