@@ -43,6 +43,3 @@ I may find some other distractions to my To-Do list in the coming 48 days. I wil
 I am beginning to feel contentment with myself, happy with my life (Thanks to Sangavi). A thought of unknown origin tells me - It's time to give back. But, I don't know what to give or how to give. I am searching for a meaning for my life, even though my conscious atheist self, says that there is no meaning. I want to organize my lifestyle and channel my energy in proper ways, so I may find many excellent & exciting ideas/opportunities that my entire life would not be enough to complete them. Feeling excited as I write this.  
   
 **PS:** Today I woke up at 4.47 AM and did tasks 0 - 5 :)  
-  
-**Would you be interested to take up this challenge?. What are the tasks on your morning list?**  
-
