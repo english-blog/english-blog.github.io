@@ -23,7 +23,7 @@ It's not the waking up time that makes you successful, but what you do in those 
 1. Brush the teeth and empty the bowels.  
 2. Drink one liter of water.  
 3. Meditate for 30 minutes (I wanted to meditate for many many years)  
-4. [Emotional Freedom Technique]({{site.url}}/the-eft-manual-cary-craig-book-review/) with the Choices Method for 30 minutes (I really want to test this on myself)  
+4. Emotional Freedom Technique with the Choices Method for 30 minutes (I really want to test this on myself)  
 5. Read a book or Listen to an audiobook or Write a blog post  
 6. Work on any personal projects, either technical or personal development.  
   
