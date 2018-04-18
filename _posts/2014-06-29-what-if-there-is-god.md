@@ -9,7 +9,7 @@ Saturday evening, the Soccer game is yet to start and unfortunately, there are n
 
 **Assumption:** God exists. He creates, manages and destroys everything that we know. (Definitely not in a way that **any religion** preaches)
 
-**Explanation:** This is an "abductive argument" which tries to infer a reason for a present phenomenon. I just explain one of the million other possibilities. The "Logical Positivists" will discard this argument immediately. However, going by "the theory of falsification" we should not discard a theory just because there is a sound evidence against your theory. It simply means that there is something out there, which the theory cannot account for. (To know more about science, please read [Understand Philosophy of Science]({{site.url}}/understand-philosophy-of-science-mel-thompson-book-review/) by Mel Thompson)
+**Explanation:** This is an "abductive argument" which tries to infer a reason for a present phenomenon. I just explain one of the million other possibilities. The "Logical Positivists" will discard this argument immediately. However, going by "the theory of falsification" we should not discard a theory just because there is a sound evidence against your theory. It simply means that there is something out there, which the theory cannot account for. (To know more about science, please read *Understand Philosophy of Science* by Mel Thompson)
 
 The theory of the god or the origin of everything is not completely known. It's an abstract concept at this moment. It is impossible to explain an abstract concept to another person without using an analogy. So, I picked up an analogy. - The Video Games and Artificial Intelligence. Please relate the analogy with the world that we live in. 
 

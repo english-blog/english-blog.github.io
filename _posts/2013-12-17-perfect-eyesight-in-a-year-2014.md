@@ -76,8 +76,6 @@ I am planning to have at least one meal or snack every day which has all of thes
 
 I have had good success with EFT in the past, with respect to the emotional aspect of living. There are claims that EFT can be used to release emotional blocks (fear, guilt, anger, shame etc) which could possibly cause defective vision. Carol Look, a famous EFT practitioner has conducted an experiment to treat people with eyesight problems, by teaching them EFT and helping them to release the pent-up emotions. Amazingly 75% of the participants reported 15-75% improvement in their vision (as claimed in the book itself).  
 
-If you are new to EFT, please read this [blog post]({{site.url}}/the-eft-manual-cary-craig-book-review/) for an introduction to EFT. This EFT process takes about 15 minutes a day. Any time of the day will do. I am going to try this as well in my pursuit of a perfect vision. Here is the link to the book, if you are interested in trying this technique.  
-
 ### Other means?
 
 These are all the things that are in my mind, right now. I may add other practices, products for improving my eyesight as I get to know more. If you know any tips that could help me, please let me know.  

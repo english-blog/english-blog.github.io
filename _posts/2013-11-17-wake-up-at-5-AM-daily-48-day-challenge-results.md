@@ -54,12 +54,7 @@ Man being a social creature, must depend on others for life and love. I decided 
 
 * **Udemy courses** - Completed 3 courses in Udemy Online Learning Portal.   
 
-* **Books** - I read these books [$100 Start up][startup-url], [Attract Money Now][attract-url], [Zero Limits][zero-limits-url] & [100 Ways to Motivate Yourself][motivate-url] during this challenge period. I spent a lot of time in other things, so reading frequency is reduced.  
-
-[startup-url]: {{ site.url }}/100-dollars-startup-chris-guillebeau-book-review/
-[attract-url]: {{ site.url }}/attract-money-now-audio-joe-vitale-book-review/
-[zero-limits-url]: {{ site.url }}/zero-limits-joe-vitale-book-review/
-[motivate-url]: {{ site.url }}/100-ways-to-motivate-yourself-change-your-life-forever-steve-chandler-audiobook-review/
+* **Books** - I read these books $100 Start up, Attract Money Now, Zero Limits & 100 Ways to Motivate Yourself during this challenge period. I spent a lot of time in other things, so reading frequency is reduced.  
 
 * **Blogs** - I have written 10 blog posts during this period. Started writing posts on Personal Development.  
 

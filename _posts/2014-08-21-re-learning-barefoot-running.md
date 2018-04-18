@@ -57,7 +57,7 @@ This is what I wrote on Facebook, immediately after the first barefoot run.
 
 > I felt connected to the earth - felt the chillness of sand, roughness of tar road, water droplets of the grass, painful steps on the loose gravels, rhythmic motion of my feet. It was amazing !!! Decided to walk barefoot as much as I could :)
 
-From then on, there is no looking back. I did not wear a running shoe after that. Through some more reading on barefoot running, I got hold of [Born to Run]({{site.url}}/born-to-run-christopher-mcdougall/) book by Christopher McDougall. What can I say about that book?. It's a barefooter's bible. My belief about barefoot running strengthened 100X after reading this book. 
+From then on, there is no looking back. I did not wear a running shoe after that. Through some more reading on barefoot running, I got hold of *Born to Run* book by Christopher McDougall. What can I say about that book?. It's a barefooter's bible. My belief about barefoot running strengthened 100X after reading this book. 
 
 I can see hundreds of sponsored research on the internet which says running in barefoot is bad for you. Some research even says that human feet were not designed to run and we are not supposed to run without shoes. Funny. Isn't it?. Majority of the advertisements made now are fear based. I wish people could simply think and respond to those ads and research. My response would be.
 
