@@ -12,6 +12,7 @@ linkedin: http://www.linkedin.com/in/premkumarmasilamani
 
 plugins:
   - jekyll-paginate
+#  - jekyll-admin
 
 paginate: 150
 
@@ -19,4 +20,13 @@ permalink: /:title/
 
 img-path: http://localhost:4000/public/img
 download-path: http://localhost:4000/public/downloads
+
+#jekyll_admin:
+#  hidden_links:
+#    - posts
+#    - pages
+#    - staticfiles
+#    - datafiles
+#    - configuration
+
 

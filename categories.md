@@ -10,8 +10,6 @@ permalink: /categories/
 
 <ul>
 
-<li><p><a href="{{ site.url }}/category/book-reviews/">Book Reviews</a></p></li>
-
 <li><p><a href="{{ site.url }}/category/health/">Health</a></p></li>
 
 <li><p><a href="{{ site.url }}/category/social/">Social</a></p></li>

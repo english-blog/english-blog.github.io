@@ -1,7 +1,11 @@
-jekyll:
-    image: jekyll/jekyll:pages
-    command: jekyll serve --watch --incremental --config _local-config.yml
-    ports:
-        - 4000:4000
+#version: "3"
+#services:
+  site:
+    command: ["jekyll", "serve", "--watch", "--incremental", "--config", "_local-config.yml"]
+    image: jekyll/jekyll:latest
     volumes:
-        - .:/srv/jekyll
+      - .:/srv/jekyll
+    ports:
+      - 4000:4000
+      -   80:4000
+
