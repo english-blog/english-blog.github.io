@@ -3,7 +3,6 @@ layout: post
 title: Draft Post
 date: 2015-01-05
 category: apps
-category: book-reviews
 category: health
 category: social
 category: personal

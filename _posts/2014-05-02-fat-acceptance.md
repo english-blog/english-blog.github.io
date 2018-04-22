@@ -32,9 +32,7 @@ Everybody knows that. But, why many people are not willing to put in the extra e
 
 It's their personal choice. Who am I to comment?.  
 
-Right. I am writing this post, just to understand the reason behind it. Could this be the reason?. Maybe...
-  
-![Love to Eat]({{site.img-path}}/love-to-eat.jpg)  
+Right. I am writing this post, just to understand the reason behind it. 
 
 ### Do "fat acceptance" people love being fat?
 

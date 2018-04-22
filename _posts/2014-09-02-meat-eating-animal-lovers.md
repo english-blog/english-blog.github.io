@@ -9,8 +9,6 @@ date: 2014-09-02
 category: social
 ---
 
-![Why Love One But Eat Another]({{site.img-path}}/why-love-one-but-eat-the-other.png)  
-
 First, let me be clear.
 
 I am not here to judge you based on your eating habits.
@@ -75,44 +73,24 @@ After all, what else we are here in this world for?.
 
 > Don't eat anything you aren't willing to kill yourself. ~ **Lorene Lavora**
 
-### Some of the discussions with my friends.
+## Some of the discussions with my friends.
 
-*Some animals are here for us to eat and some are here for our companionship.*  
+**Some animals are here for us to eat and some are here for our companionship.**  
 
 No animal or species has evolved over millions of years, just to provide companionship for humans. We domesticated them, trained them and fed them for thousands of years - which makes the modern human to believe that both the species were evolved specifically to co-exist.  
 
-*I only eat humanely raised and slaughtered animals.*  
+**I only eat humanely raised and slaughtered animals.**  
 
 Well. That's a contradiction depends on your definition of "humanity". What difference does "humanely-raised" experience, make at the moment of slaughtering?. You still kill and eat them anyway.  
 
-*We were meat eaters for millions of years. How can I change suddenly?.*
+**We were meat eaters for millions of years. How can I change suddenly?.**
 
 No. We were not 100% meat eaters. We were opportunistic eaters. We ate anything and everything. Fruits, roots, vegetables, insects, small animals and occasionally large animals. We did not have the power or claws or large canine teeth to kill big animals. We killed animals by persistent hunting - which requires hours of coordinated effort and energy. If the vegan food was available, we didn't choose to hunt. So, technically a man can live with both vegan and meat-based food.  
 
-*I don't believe that. We still have the remains of the canine teeth.*
-
-![Gorilla showing Canine Teeth]({{site.img-path}}/gorilla-canine-teeth.jpg)  
-
-*Modern science says that we need meat protein for development of muscles.*  
-
-![Gorilla Protein Question]({{site.img-path}}/gorilla-protein-question.jpg)  
-
-*We are not the same as the Gorilla.*  
-
-OK. Here is a vegan calisthenics expert Frank Medrano.  
-
-![Frank Medrano]({{site.img-path}}/frank-medrano.jpg)  
-
-*He is slim. Haven't you seen the meat-eating bodybuilders?*
-
-Yes. I chose to show Frank Medrano because we were slim for millions of years. Still, there are a lot of natural bodybuilders, even raw vegan bodybuilders who built such a big physique. Here is Jim Morris. a vegan bodybuilder at 61 & 71 yrs of age.  
-
-![Jim Morris at 61 yrs]({{site.img-path}}/jim-morris-age-61-age-71.png)  
-
-*Who are you to say this to me?*
+**Who are you to say this to me?**
 
 I am just another human being, experiencing life. I was a voracious meat eater at some point in my life and a 100% raw vegan at some other time. Deep introspection and questioning move me closer to being a raw vegan.  
 
-*So, what's the conclusion?*
+**So, what's the conclusion?**
 
 Should there be one for every article?. 

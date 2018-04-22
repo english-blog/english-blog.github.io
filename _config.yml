@@ -1,23 +1,28 @@
 title: smileprem
 tagline: on a journey called life
 url: http://blog.smileprem.com
+#logo: add-some-logo-here
 copyright: copyleft @ 2009. free to all.
 
-author: homo sapien
+author: Premkumar Masilamani
 email: xxx@xxx.xxx
 mobile: xxx-xxx-xxxx
-facebook: http://www.facebook.com/i-do-not-use-fb
-twitter: http://twitter.com/i-do-not-use-twitter
-linkedin: http://www.linkedin.com/in/premkumarmasilamani
+
+social:
+  name: Premkumar Masilamani
+  links:
+    - http://www.linkedin.com/in/premkumarmasilamani
+    - https://github.com/smileprem
 
 plugins:
   - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 paginate: 150
 
 permalink: /:title/
 
-img-path: http://blog.smileprem.com/public/img
+img-path: http://blog.smileprem.com/public/images
 download-path: http://blog.smileprem.com/public/downloads
-
-

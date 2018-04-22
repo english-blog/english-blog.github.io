@@ -5,7 +5,7 @@ date: 2010-02-01
 category: personal
 ---
 
-Science says,"love a side effect of chemicals like oxytocin, vasopressin, dopamine, serotonin etc". If scientists could block these hormones, our LOVE fades away. Oops!!!. Can scientists make two people fall in love with an injection? (Cupid will become jobless). They can find the exact genes responsible for love. Produce specific chemicals targeted to attract the specific person. Who knows?. It could become the fastest, easiest and safest way to fall in love. Scary and sounds more like a next century sci-fiction movie.  
+Science says, *love is a side effect of chemicals like oxytocin, vasopressin, dopamine, serotonin etc*. If scientists could block these hormones, our LOVE fades away. Oops!!!. Can scientists make two people fall in love with an injection? (Cupid will become jobless). They can find the exact genes responsible for love. Produce specific chemicals targeted to attract the specific person. Who knows?. It could become the fastest, easiest and safest way to fall in love. Scary and sounds more like a next century sci-fiction movie.  
 
 But,  
 

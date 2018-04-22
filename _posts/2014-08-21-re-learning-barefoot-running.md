@@ -65,9 +65,5 @@ I can see hundreds of sponsored research on the internet which says running in b
 
 I completed my first ever athletic event - TCS World 10K @ 18-May-2014, in barefoot at 01:03 hrs. Good for a first-time runner, isn't?. Now, I can call myself an athlete :)
 
-![TCS World 10K - 2014]({{site.img-path}}/running/2014-tcs-10k.jpg)
-
-**PS:** At the time of writing, I completed 3 barefoot 10K runs [TCS World 10K]({{site.img-path}}/running/2014-tcs-10k-big.jpg), [TRORT - 006]({{site.img-path}}/running/2014-trort-006_10k.jpg) and [Run for a Beat]({{site.img-path}}/running/2014-run-for-a-beat_10k.jpg) and planning to run more.
-
-**PPS:** I stopped using mobile phone, apps or music while running. Trust me, you will enjoy your run more and feel connected to running without music. I use my breathing as an indicator to pause/start the run. I completed the second and third 10K without using any device. Our body has an amazing, intuitive feedback system. I am trying to re-learn and master that system now :)   
+**PS:** I stopped using mobile phone, apps or music while running. Trust me, you will enjoy your run more and feel connected to running without music. I use my breathing as an indicator to pause/start the run. I completed the second and third 10K without using any device. Our body has an amazing, intuitive feedback system. I am trying to re-learn and master that system now :)   
 

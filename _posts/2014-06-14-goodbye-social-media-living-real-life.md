@@ -113,7 +113,7 @@ No. I love writing. I will continue to blog at the below websites. You can subsc
 2. [&#2965;&#2985;&#2997;&#3009;](http://tamil.smileprem.com)
 3. [Raw Vegan Recipes](http://raw-vegan-recipes.blogspot.com/)
 
-I will also retain my [LinkedIn]({{site.linkedin}}) account for my professional growth.
+I will also retain my [LinkedIn]({{site.social.links[0]}}) account for my professional growth.
 
 ### What happens to the facebook pages?
 

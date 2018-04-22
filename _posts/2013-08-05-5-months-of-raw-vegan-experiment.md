@@ -3,6 +3,8 @@ layout: post
 title: 5 Months of Raw Vegan Experiment
 date: 2013-08-05
 category: challenges
+redirect_from:
+    - /2013/08/5-months-of-raw-vegan-experiment.html
 ---
 
 ![5 Months Raw Vegan Transformation]({{site.img-path}}/5-months-raw-vegan-transformation.jpg)  

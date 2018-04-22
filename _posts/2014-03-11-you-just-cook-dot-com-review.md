@@ -28,7 +28,7 @@ It would be amazing. Isn't it?.
 
 Yeah. The time has come. The place is none other than our own Bangalore.  
 
-### www.youjustcook.com  
+**_www.youjustcook.com_**
 
 Go to this website. Choose the recipe. Choose the no.of people. Order. You are done.
 
@@ -48,11 +48,11 @@ What made my wife happy was the follow-up call from youjustcook.com to check if 
 
 This service is started by two Software Engineers **Suyesh & Hashi** who are very passionate about cooking. Here is what they say about the experience.  
 
-> "The idea has been brewing in my head for a quite a few years now and being a typical Sunday Cook and me like to experiment with cooking different kinds of dishes. The constant pain was getting the right ingredients and an overflowing kitchen cabinet with all sorts of sauces, spices and other things which were used only once or twice and just waiting for the expiry date to get over.  
+> The idea has been brewing in my head for a quite a few years now and being a typical Sunday Cook and me like to experiment with cooking different kinds of dishes. The constant pain was getting the right ingredients and an overflowing kitchen cabinet with all sorts of sauces, spices and other things which were used only once or twice and just waiting for the expiry date to get over.  
 
 > After I quit my job as a marketing professional at Dell India, I decided to pursue this dream and turn it into reality. I started talking to people and Hashi was one of them. Hashi who is a very good cook and a friend decided to team up with me and start youjustcook.com. We floated a company built the website added the recipes and opened up for business.  
 
-> Initially we talked about it to our family and friends, get them to order and give feedback. The feedback and response were encouraging. We learned a lot in the initial phase and then we slowly expanded. With about 4 months into the process, we are now ready to go to the market with all burners burning."   -- **Suyesh & Hashi**  
+> Initially we talked about it to our family and friends, get them to order and give feedback. The feedback and response were encouraging. We learned a lot in the initial phase and then we slowly expanded. With about 4 months into the process, we are now ready to go to the market with all burners burning. - **Suyesh & Hashi**  
 
 More than the food, taste & convenience of cooking, it's your service and follow-up calls, which made me write this post. I am sure you guys are going to be a big hit. Please make sure that you continue to provide the same level of service to all the customers.  
 

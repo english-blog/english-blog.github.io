@@ -35,8 +35,6 @@ Both of these postures will not work if you are overweight or could not bend dow
 
 ### Squatty Potty
 
-![Squatty Potty]({{site.img-path}}/squatty-potty.jpg)  
-
 Squatty Potty works on the same principle of bringing the torso closer to the thighs. I didn't order Squatty Potty. But testing the concept with a sturdy plastic stool. It works as promised. If you are big and heavy, this is the most viable option for you. It also has minor inconveniences. 
 
 1. If you are thin or average built like me, you may feel like sinking into the toilet seat. Few of my friends who are actively using this technique doesn't feel that way. It could be just my feeling.

@@ -113,7 +113,4 @@ If this sounds too technical, you may want to try the blogger.com.
 
 **Less Distraction** - I have the habit of previewing the blog every now and then and correct the look and feel as I write. This is changed. I write from VIM editor in Unix console. I prefer to keep it in full screen and viola - there are no distractions. I could concentrate only on writing. I actually felt that I write more in console than in a web page. Too early to come to a conclusion. Let's wait till I post at least 50+ posts this way.  I still have to preview and edit the blog post at the end. But that's now a single task after I complete the writing.  
 
-**Feeling EPIC** - Yeah. Seriously. I fell in love with the character "Neo" in the Movie "The Matrix" when I saw it the first time (esp. the black console with green text flowing down). I even wrote matrix screensavers in C, during my college days to simulate that experience on my computer. Those good old days are back. This simple act of blogging like a programmer brought back my love for programming. Write, Edit, Commit, Push - Viola, My blog is published. It's nostalgic. This is my console where I wrote this blog post.  
-
-![Blogging from VIM]({{site.img-path}}/bloggin-from-vim.jpg)  
-
+**Feeling EPIC** - Yeah. Seriously. I fell in love with the character "Neo" in the Movie "The Matrix" when I saw it the first time (esp. the black console with green text flowing down). I even wrote matrix screensavers in C, during my college days to simulate that experience on my computer. Those good old days are back. This simple act of blogging like a programmer brought back my love for programming. Write, Edit, Commit, Push - Viola, My blog is published. It's nostalgic.  

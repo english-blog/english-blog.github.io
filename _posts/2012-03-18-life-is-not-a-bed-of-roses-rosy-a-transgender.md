@@ -3,10 +3,10 @@ layout: post
 title: Life is not a bed of roses - Rosy, A Transgender
 date: 2012-03-18
 category: social
+redirect_from:
+    - /2012/03/life-is-not-bed-of-roses-rosy.html
 ---
 
-![Transgender Rosy]({{site.img-path}}/rosy-transgender-1.jpg)  
-  
 **This is a guest post by Sruthi Kitcha. Read her [here](http://penurheart.blogspot.com/). Thank you Sruthi.**  
 
 It was a gloomy Sunday afternoon. I was on the way to the weekly meeting at Sangama Office. I saw a bird flying from tree to tree looking for an apt place to set its nest. It somehow seemed like my life. I’m a homeless wanderer right now seeking a nest. With so many thoughts flooding the mind, I reached the office. It was warm to see known faces and lovely smiles spread across those faces.   
@@ -65,8 +65,6 @@ On the way, I had to cross a beach. There, a man signaled me and asked for my ra
 I started drinking every day from then on. My only precious thing was gone and what else do I have in life to lose anymore? But bad times never come alone. The guru, with whom I was staying, chased me out of home looting till the last penny I had. They didn’t stop there. Before turning me out, she along with a few others tortured me physically by burning my skin, slitting open my back skin and lots more which can’t be said in words. Now I’m in no place to shelter my head and no penny in the pocket. Remember the sister whom I got married by saving money? I went to her place seeking asylum but all I got was a cold return. My sister’s husband chased me out the way one does a stray dog. Dejected than ever and also with no roof over my head I started traveling on a train from Mysore to Bangalore every day. Sometimes I go to Marina beach spend some time and come back. Now, I’m saving money little by little for rent advance and a house owner has given me a word that he will rent his place for me.   
   
 ### THE WAY AHEAD
-
-![Transgender Rosy with Sruthi]({{site.img-path}}/rosy-transgender-2.jpg)  
 
 This is for my past and present. Now for the future: I adopted a baby girl. She is five months old now. I got her from a prostitute. She gave birth to this girl and was not in a condition to look after her. There is no law for people like us to adopt children. They say it’s unsafe and we cannot take care of them. But what do they know about our motherhood?. We can take care of kids better than many women. As I cannot adopt the baby legally, I bought her for five thousand rupees. I’m homeless right now and I know that she won’t be fine in my hands for now. I have left her with a sister in Pondicherry church. Every month I send 1000 rupees to sister to take care of my girl. Also, remember about a sister of mine who is affected with brain fever. All I want to do is take care of these two souls as much as I can. When my baby turns a year old, I will bring her here and keep her with myself and will bring her up.  
 

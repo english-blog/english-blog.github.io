@@ -3,6 +3,8 @@ layout: post
 title: Buying Gold Jewellery? - Know the facts first
 date: 2012-04-12
 category: social
+redirect_from:
+    - /2012/04/buying-gold-jewellery-know-facts-first.html
 ---
 
 Generally, I do not prefer Gold, in fact, my engagement ring is the first gold ornament in my body. It's a custom in India for the bride & groom to wear Gold Jewels during the wedding. I had no options but to buy. I head out to "Joy Alukkas". I was discussing the Gold Jewelry Business in India, with the floor manager and I am surprised to know that majority of the people does not even understand the basics. In fact, my parents were cheated by "L.K.S Jewellers" when they bought 916 KDM Gold Rings a few years back. So, this blog may be a beginner's first-hand information, when you buy Gold Jewels in India.  
