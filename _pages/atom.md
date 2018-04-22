@@ -1,3 +1,8 @@
+---
+layout: empty
+date: 2015-03-01 00:00:00 +0530
+permalink: /atom.xml
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title type="text">{{ site.title }}</title>

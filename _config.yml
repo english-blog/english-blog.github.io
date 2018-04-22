@@ -14,6 +14,9 @@ social:
     - http://www.linkedin.com/in/premkumarmasilamani
     - https://github.com/smileprem
 
+include:
+  - "_pages"
+
 plugins:
   - jekyll-paginate
   - jekyll-redirect-from
