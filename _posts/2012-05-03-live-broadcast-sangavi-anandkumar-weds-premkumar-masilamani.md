@@ -22,7 +22,4 @@ Bless us with your wishes... We are glad to have you around us (virtually)...
 Update (15-July-2012 20:00 IST): The Live Broadcast is over. Click the below link for archived video.
 </font>
 
-[Prem Sangavi - Wedding video](http://seemymarriage.com/seemacms/content/seemymarriagecom-marriage-live-streaming-shri-lakshmi-narayana-mahal-mettupalayam-road-thudi)  
-
-<iframe frameborder="0" height="600" src="http://www.seemymarriage.com/live2.html" width="600"></iframe>  
-<br/>
+[Prem Sangavi - Wedding Video](http://seemymarriage.com/seemacms/content/seemymarriagecom-marriage-live-streaming-shri-lakshmi-narayana-mahal-mettupalayam-road-thudi)  
