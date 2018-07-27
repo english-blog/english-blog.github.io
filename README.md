@@ -13,3 +13,7 @@ Let open source be the de-facto for every industry in this world.
 
 Thanks,  
 Premkumar Masilamani.
+
+**PS:** To run the website locally using docker, run the below command in a terminal
+
+`docker-compose up`
