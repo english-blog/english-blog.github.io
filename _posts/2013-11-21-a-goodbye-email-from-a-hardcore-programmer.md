@@ -209,7 +209,7 @@ I quit TCS. Today is my last day. I wanted my final goodbye email to be very spe
 
 <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaLinkedIn</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="{{site.linkedin}}" target="_blank">{{site.social.links[0]}}</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
-<font color="#3f7f5f">&nbsp;&nbsp;&nbsp;&nbsp;// viaFacebook("i-do-not-use-fb");</font><br />
+<font color="#3f7f5f">&nbsp;&nbsp;&nbsp;&nbsp;// viaFacebook("i-do-not-use-facebook");</font><br />
 
 <font color="#3f7f5f">&nbsp;&nbsp;&nbsp;&nbsp;// viaTwitter("i-do-not-use-twitter");</font><br />
 
