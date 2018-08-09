@@ -5,9 +5,7 @@ date: 2013-01-14
 category: health
 ---
 
-<iframe width="600" height="400"
-src="http://www.youtube.com/embed/SbEUHCU_GtM?autoplay=0">
-</iframe> 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SbEUHCU_GtM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Common Myth:** Raw food eaters are skinny and it's impossible for them to pack on muscles.
   
@@ -60,9 +58,7 @@ Once I saw the above video and inspired to know more about raw foods, I stumbled
 
 Hundreds of living shreds of evidence are available throughout the world in many countries. Below is one such example.  
   
-<iframe width="600" height="400"
-src="http://www.youtube.com/embed/O6oJA_xhTa8?autoplay=0">
-</iframe> 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/O6oJA_xhTa8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 How sure I am about her age being 71?. 0%. Yes. This is just a video uploaded to YouTube by someone who loves raw food. There is no reliable way to verify it. However, my instinct says that this could be possible. Around 15 years back,  when I was a kid, I read a very old book in Tamil, (&#2951;&#2991;&#2993;&#3021;&#2965;&#3016; &#2953;&#2979;&#2997;&#3009;&#2965;&#2995;&#3021; - I think. Can't remember the title exactly) about raw foods which detailed the health benefits and extreme endurance possible with raw foods. When combined with the proper exercise, I believe this could be the right way of life for me. The only way to know is to experiment it.  
 
