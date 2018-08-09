@@ -5,9 +5,7 @@ date: 2013-07-21
 category: self-improvement
 ---
 
-<iframe width="600" height="400"
-src="http://www.youtube.com/embed/f8eU5Pc-y0g?autoplay=0">
-</iframe> 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/f8eU5Pc-y0g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 I used to watch a lot of videos, audios related to personal development/self-help genre. I used to be passive so far. (i.e) simply watching or listening. In recent times, I decided to follow along and act upon the concepts discussed by those personal development gurus. I begin to explore so much of myself and decided to blog about it. I am not going to blog about every little video/audio. I will post only about the stuff which inspires me. So, if anyone of these blog posts helps at least one of you, the purpose of this blog is fulfilled.:)  
   

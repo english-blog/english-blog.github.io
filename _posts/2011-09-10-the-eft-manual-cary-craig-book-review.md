@@ -11,9 +11,7 @@ category: book-reviews
 
 If a picture is worth thousand words, how about a video then?. Here is an introductory video to EFT (Emotional Freedom Technique). It is essential that you know about EFT, before reading the review about this book. I found this is the best video that was ever made for EFT. Watch it completely before you scroll down for the book review.  
 
-<iframe width="600" height="400"
-src="http://www.youtube.com/embed/ANbl_P_303U?autoplay=0">
-</iframe> 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ANbl_P_303U?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   
 The Traditional Chinese Medicine claims that there is a path through which the life-energy was known as "qi" flows. They are called Meridians or Energy Meridians. Emotional Freedom Technique (EFT) proposed by Gary Craig in 1993 states that "The cause of all negative emotions is a disruption in the body's energy system". Those energy blockages can be released by simply tapping on the energy meridians while recalling the memory which brings about the negative emotions. EFT claims that it cured a wide variety of emotional issues and physical pain/diseases etc. The beauty of EFT is that, once you have identified the correct memory and the aspect and tapped it properly, it fixes the problem immediately and the results are usually permanent. The Basic Recipe process takes hardly two minutes to perform and anyone can easily learn to perform it without difficulty.  
   

@@ -17,9 +17,7 @@ Meanwhile, I got the next month's statement with all the transactions + interest
   
 After few weeks, Mr. Prakash collected the details of all the merchants and the video footage of the thief from the CC TV of the last merchant, where the card is declined. Here is the video.  
   
-<iframe width="600" height="400"
-src="http://www.youtube.com/embed/sxMzUJATkX0?autoplay=0">
-</iframe> 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sxMzUJATkX0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   
 *(The guy in the white shirt behind the red shirt is the thief. He stays somewhere near Kadugodi in Bangalore. Anyone happens to see him, please call {{site.author}} @ [{{site.mobile}}](tel:{{site.mobile}}). Thank You!)*  
   

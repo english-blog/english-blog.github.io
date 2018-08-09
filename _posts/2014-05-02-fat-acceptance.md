@@ -76,6 +76,4 @@ I am the same person. But three different lifestyles of mine results in three di
 
 ### The Most Amazing Transformation
 
-<iframe width="600" height="400"
-src="http://www.youtube.com/embed/qX9FSZJu448?autoplay=0">
-</iframe>  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qX9FSZJu448?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
