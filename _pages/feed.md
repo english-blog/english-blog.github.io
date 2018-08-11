@@ -1,7 +1,7 @@
 ---
 layout: empty
 date: 2015-03-01 00:00:00 +0530
-permalink: /rss.xml
+permalink: /feed.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
