@@ -29,3 +29,6 @@ permalink: /:title/
 
 img-path: http://localhost:4000/public/images
 download-path: http://localhost:4000/public/downloads
+
+newsletter: http://eepurl.com/VMDl5
+tamil-blog: https://tamil.smileprem.com/

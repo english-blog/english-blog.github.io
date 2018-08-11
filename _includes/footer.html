@@ -1,20 +1,27 @@
-    |&nbsp;
-    {% if page.url == "/" %}
-      Home
-    {% else %}
-      <a href="/">Home</a>
-    {% endif %}
-    &nbsp;|&nbsp;
-    {% if page.url == "/categories/" %}
-      Categories
-    {% else %}
-      <a href="/categories/">Categories</a>
-    {% endif %}
-    &nbsp;|&nbsp;
-    {% if page.url == "/contact/" %}
-      Contact Me
-    {% else %}
-      <a href="/contact/">Contact Me</a>
-    {% endif %}
-    &nbsp;|
-    <p>Copyleft @ 2009. Free to all.</p>
+{% if page.url == "/" %}
+  Home
+{% else %}
+  <a href="/">Home</a>
+{% endif %}
+
+&nbsp;|&nbsp;
+
+{% if page.url == "/contact/" %}
+  Contact Me
+{% else %}
+  <a href="/contact/">Contact Me</a>
+{% endif %}
+
+&nbsp;|&nbsp;
+
+<a href="{{ site.url }}/rss.xml">Feed</a>
+
+&nbsp;|&nbsp;
+
+<a href="{{ site.newsletter }}">Newsletter</a>
+
+&nbsp;|&nbsp;
+
+<a href="{{ site.tamil-blog }}/">தமிழ்</a>
+
+<p>Copyleft @ 2009. Free to all.</p>

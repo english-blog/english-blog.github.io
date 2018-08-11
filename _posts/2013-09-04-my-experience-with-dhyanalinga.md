@@ -4,9 +4,6 @@ title: My Experience with Dhyanalinga
 date: 2013-09-04
 category: travelogue
 ---
-
-![Inside Dhyanalinga]({{site.img-path}}/inside-dhyanalinga.jpg)  
-
 ### What is Dhyanalinga?  
 
 Its a place dedicated to meditation, consecrated by Sadhguru Jaggi Vasudev using Prana Prathishta - a complicated process by which all seven chakras are energized to its peak and locked inside the structure. It is said that this was the first complete Dhyanalinga in over 2000 years and it's been estimated that the energy will be contained within this structure for at least next 5000 years. This place is located around 30 km from Coimbatore, inside the forest. There are frequent bus/cab services available from Coimbatore.
@@ -19,25 +16,25 @@ Me, Sangavi, Arthi and three of her friends set out to Dhyanalinga in a car and 
   
 You are welcomed and greeted by the volunteers. If you are the first time visitor to Dhyanalinga, you will be shown a small documentary movie about Dhyanalinga. I would suggest you watch it.  
   
-### TheerthKund   
-
-![Surya Kund]({{site.img-path}}/suryakund.jpg)
+### Theerth Kund   
 
 Next is to have a dip in the holy pond to energize yourself and to dissipate the heat. You need to shower yourself before getting into the pond. They will provide you with a saffron color towel. You are supposed to remove all the clothing and wear only this towel. They charge Rs. 20 for each person.   
   
 The pond called "<b>Surya Kund</b>" is constructed 30 feet below the ground level. The depth of the water is 5 feet. This pond has three consecrated Lingams and an artificial waterfall. You are supposed to walk slowly into the pond, touch the Lingam with both your hands and take a dip in the water. The water is so chill and so clear - I could see the toes, nails on my feet. It was as if I am watching through a magnifying glass. Once you take the dip - your body is cooled down immediately with the cold water. This is a surreal experience. I thought this experience is worth the visit to Dhyanalinga.  
-  
-![Chandra Kund]({{site.img-path}}/chandrakund.jpg)
 
 I walked through the pond slowly, touching the Lingams, taking dips in the water, standing in the waterfall. *I did not feel anything spiritual - but it was a lovely experience. I did not feel any sort of energy passing through me.*  
+
+![Surya Kund]({{site.img-path}}/dhyanalinga-suryakund.jpg)
   
 This above place is only for Men. There is a separate pond called <b>Chandra Kund</b> which is reserved for women visiting Dhyanalinga.  
+
+![Chandra Kund]({{site.img-path}}/dhyanalinga-chandrakund.jpg)
   
 I strongly suggest you take a dip, whether you are religious or not. It's a lovely experience.  
   
 ### Linga Bhairavi Temple  
 
-![Linga Bhairavi Temple]({{site.img-path}}/linga-bhairavi-temple.jpg)
+![Linga Bhairavi Temple]({{site.img-path}}/dhyanalinga-linga-bhairavi-temple.jpg)
 
 There are volunteers everywhere to guide you to the places and to answer your questions. The old volunteer in front of this temple explained that this is the feminine form of Lingam. You can worship Linga Bhairavi as you would do to other Hindu gods. There are requests made to her, in exchange for flowers and poojas. A typical Hindu establishment. I seriously do not see a need for this temple inside a meditation place.  
   
@@ -59,7 +56,7 @@ We saw *Sarva Dharma Sthamba*, just before the entrance, signifying singularity 
 
 Finally, we are into Dhyanalinga. The side walls on the path to Dhyanalinga has stone sculptures depicting many scenes in Hindu mythologies. This is not congruent with the Sarva Dharma Sthamba we saw outside. The volunteers allow people to go inside Dhyanalinga in batches, every five minutes. There are 27 enclosures on the side walls of Dhyanalinga. You can either sit inside the enclosures or in the open space for meditation. The five minute time is for the people who just came to visit. If you want to meditate longer, you can do it. No one will disturb your meditation.   
   
-![Dhyanalinga Temple]({{site.img-path}}/dhyanalinga-temple.jpg)  
+![Inside Dhyanalinga]({{site.img-path}}/inside-dhyanalinga.jpg)  
   
 I was surprised to see the pillar-less construction of such a big dome. My surprise increased thousand times when I heard that this was constructed without Steel & Concrete. This was built with the ancient Indian technique with brick, mud, lime, clay and some herbs. It is properly ventilated and illuminated - perfect for meditation. It is said that this structure will withstand for at least 5000 years. There was such a silence inside Dhyanalinga where I could hear my wife's earring swinging. It was very serene.  
 
