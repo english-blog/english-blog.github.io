@@ -3,6 +3,8 @@ layout: post
 title: Money Mastery - Principle Based Money Management
 date: 2013-07-22
 category: book-reviews
+redirect_from:
+    - /money-mastery-principle-based-money-management-audiobook-review
 ---
 **Book:** Money Mastery - Principle-Based Money Management (Audio CD)  
 **Authors:** Peter R. Jeppson, Alan M. Williams  
@@ -26,6 +28,6 @@ One surprising aspect is that - this is a very old Audio CD, but still relevant 
 9. Understanding Taxation enables you to retain more of your money  
 10. Money in motion creates more money  
   
-I loved the principles 4 & 9. I love the idea of paying up the debts as well as building a fortune, a little by little at the same time. This is similar to the concepts discussed in [The Automatic Millionaire]({{site.url}}/the-automatic-millionaire-a-powerful-one-step-plan-to-live-and-finish-rich-david-bach-book-review/) book by David. I will start building the Emergency Fund. The 9th principle is something that I overlooked for many years. I could have saved thousands of rupees every year on taxes. Not anymore. I am going to do a complete analysis of Taxation Model in India for Salaried Individuals and max out the tax savings for this financial year. I will blog about it as well to help others.  
+I loved the principles 4 & 9. I love the idea of paying up the debts as well as building a fortune, a little by little at the same time. This is similar to the concepts discussed in [The Automatic Millionaire]({{site.url}}/the-automatic-millionaire-david-bach-book-review/) book by David. I will start building the Emergency Fund. The 9th principle is something that I overlooked for many years. I could have saved thousands of rupees every year on taxes. Not anymore. I am going to do a complete analysis of Taxation Model in India for Salaried Individuals and max out the tax savings for this financial year. I will blog about it as well to help others.  
   
 Oops. I forgot to mention that this Audio CD comes with a software and workbook to plan your budget. Even, if you are wealthy right now, you may want to listen to this Audio CD in your free time. It may give you new ideas. Seriously, I am thinking about starting a bank :)  

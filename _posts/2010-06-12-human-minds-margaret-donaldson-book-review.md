@@ -3,6 +3,8 @@ layout: post
 title: Human Minds - An Exploration
 date: 2010-06-12
 category: book-reviews
+redirect_from:
+    - /human-minds-an-exploration-margaret-donaldson-book-review
 ---
 
 **Book:** Human Minds - An Exploration  

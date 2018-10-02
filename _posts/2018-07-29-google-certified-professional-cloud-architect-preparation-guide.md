@@ -68,7 +68,7 @@ Completely for your leisure and learning. Please don't watch each and every one 
 
 [All Sessions - Google Cloud Next '18](https://www.youtube.com/playlist?list=PLBgogxgQVM9v0xG0QTFQ5PTbNrj8uGSS-)
 
-**Pro Tip:** You could easily train yourself to watch the videos 2X faster. Start with 1.25X, then 1.5X, then 1.75X and sky is the limit. I am can comprehend easily with 1.75X speed. You could go faster or slower. Speed is not the objective, comprehension is.
+**Pro Tip:** You could easily train yourself to watch the videos 2X faster. Start with 1.25X, then 1.5X, then 1.75X and sky is the limit. I can comprehend easily with 1.75X speed. You could go faster or slower. Speed is not the objective, comprehension is.
 
 ### References for continuous learning
 * [Google Cloud Platform Community](https://cloud.google.com/community/)  

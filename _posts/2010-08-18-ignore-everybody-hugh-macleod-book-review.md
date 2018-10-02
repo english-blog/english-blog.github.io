@@ -3,6 +3,8 @@ layout: post
 title: Ignore Everybody - And 39 Other Keys To Creativity
 date: 2010-08-18
 category: book-reviews
+redirect_from:
+    - /ignore-everybody-and-39-other-keys-to-creativity-hugh-macleod-book-review
 ---
 
 **Book:** Ignore Everybody - And 39 Other Keys To Creativity  

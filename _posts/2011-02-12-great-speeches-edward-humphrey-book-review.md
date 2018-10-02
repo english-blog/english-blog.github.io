@@ -3,6 +3,8 @@ layout: post
 title: Great Speeches - Words That Shaped The World
 date: 2011-02-12
 category: book-reviews
+redirect_from:
+    - /great-speeches-words-that-shaped-the-world-edward-humphrey-book-review
 ---
 
 **Book:** Great Speeches  

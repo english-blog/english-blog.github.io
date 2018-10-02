@@ -3,6 +3,8 @@ layout: post
 title: On Desire - Why We Want What We Want
 date: 2012-07-30
 category: book-reviews
+redirect_from:
+    - /on-desire-why-we-want-what-we-want-william-irvine-book-review
 ---
 
 **Book:** On Desire: Why We Want What We Want  

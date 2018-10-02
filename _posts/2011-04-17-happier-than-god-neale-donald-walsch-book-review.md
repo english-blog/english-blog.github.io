@@ -3,6 +3,8 @@ layout: post
 title: Happier Than God - Turn ordinary life into an extraordinary experience
 date: 2011-04-17
 category: book-reviews
+redirect_from:
+    - /happier-than-god-turn-ordinary-life-into-an-extraordinary-experience-neale-donald-walsch-book-review
 ---
 
 **Book:** Happier Than God - Turn Ordinary Life Into An Extraordinary Experience  
