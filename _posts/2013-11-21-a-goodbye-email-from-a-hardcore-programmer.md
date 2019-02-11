@@ -205,7 +205,7 @@ I quit TCS. Today is my last day. I wanted my final goodbye email to be very spe
 
 <font color="#ffffff">&nbsp;&nbsp;</font><font color="#7f0055"><b>public&nbsp;static&nbsp;</b></font><font color="#7f0055"><b>void&nbsp;</b></font><font color="#000000">pleaseKeepInTouch</font><font color="#000000">()&nbsp;{</font><br />
 
-<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaBlog</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="{{site.url}}/contact/" target="_blank">{{site.url}}/contact/</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaBlog</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="{{site.url}}/contact/" target="_blank">https://www.emailmeform.com/builder/form/bi73zffJbc078cHP6p6fhfr</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
 <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaLinkedIn</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="{{site.linkedin}}" target="_blank">{{site.social.links[0]}}</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
