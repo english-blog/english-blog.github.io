@@ -15,7 +15,7 @@ Hugh Macleod is a copywriter, cartoonist, avid blogger, writer (this is his firs
   
 Hugh developed the habit of drawing in the back of the business cards with cartoons and sarcastically humorous content, while he was waiting for his date, in the NYC bars. He started a blog gapingvoid.com and started publishing these business card cartoons. He has an opinion on everything that you can think about. This book is nothing but selected 39 blogs from his website. You can read all of them on his website.  
   
-When you have an idea or a business plan or an art form, which is completely unique and different from the rest of the world's thinking, this is THE BOOK that you may need to read. The author guides you step by step, explain you the probable mental states that you may have to go through and the probable people that you may have to work with. He uses a lot of real-life examples to explain. This is basically a guide for you, to protect your creativity and still enjoy it.  
+When you have an idea or a business plan or an art form, which is completely unique and different from the rest of the world's thinking, this is THE BOOK that you may need to read. The author guides you step by step, explain to you the probable mental states that you may have to go through and the probable people that you may have to work with. He uses a lot of real-life examples to explain. This is basically a guide for you, to protect your creativity and still enjoy it.  
   
 All these blogs are based on his experience (bitter/good) in NYC as a copywriter and by observing his colleagues and friends etc. Most of the blogs are funny and good. I couldn't agree with some of them.  
   
