@@ -9,7 +9,7 @@ category: book-reviews
 **Author:** Paul H. Harkins  
 **ISBN-13:** 978-8184041316
 
-Finally, I found THE BOOK for the programmers. I would call this book 'A Programmer's Bible'. I suggested procuring multiple copies of this book in TCS library. This book has invaluable wisdom accumulated by Paul H. Harkins over 4 decades of his corporate career in programming. Even though it has serious concepts, it reads like a collection of small stories, his experiences, the situations he encountered, his colleagues etc. You wouldn't get bored even in a single chapter. This guy is programming from the dawn of the computers. Mainly into RPG. Most of the java/other technology developers out there can take the message out of this book's examples and apply it to their respective streams.  
+Finally, I found THE BOOK for the programmers. I would call this book 'A Programmer's Bible'. I suggested procuring multiple copies of this book in the TCS library. This book has invaluable wisdom accumulated by Paul H. Harkins over 4 decades of his corporate career in programming. Even though it has serious concepts, it reads like a collection of small stories, his experiences, the situations he encountered, his colleagues etc. You wouldn't get bored even in a single chapter. This guy is programming from the dawn of the computers. Mainly into RPG. Most of the java/other technology developers out there can take the message out of this book's examples and apply it to their respective streams.  
   
 This book is divided into four sections, each deals with a specific purpose. The target audience of this book is from the freshers to the veterans at the top of their career hierarchy. The best part is that every chapter has a summary at the end. If you are too busy to read a book, you could just flip through the "Bottom Line" summary at the end of each chapter.  
   
@@ -19,7 +19,7 @@ This section is for the beginning programmers/freshers. Harkin advises the fresh
   
 ### Section 2: Thriving in a Competitive Environment
 
-This section is for the programmers with few years of experience like me. Many programmers I knew gets frustrated with their work after few years and they begin to slog. Harkin tells us, how to avoid that pitfall and if we are already into it, how to get out of that. Lots of practical advice on tackling a tough and high visibility projects, boosting your performance, handling stress, tips and tricks to master complex applications and business processes etc. He suggests us to keep changing the projects, spotting and utilizing the opportunities and how to stay at the top of our game. I enjoyed these chapters more, as I could relate to these texts!  
+This section is for the programmers with a few years of experience like me. Many programmers I knew gets frustrated with their work after a few years and they begin to slog. Harkin tells us, how to avoid that pitfall and if we are already into it, how to get out of that. Lots of practical advice on tackling tough and high visibility projects, boosting your performance, handling stress, tips and tricks to master complex applications and business processes etc. He suggests us to keep changing the projects, spotting and utilizing the opportunities and how to stay at the top of our game. I enjoyed these chapters more, as I could relate to these texts!  
   
 ### Section 3: Mastering the Corporate Culture
 
