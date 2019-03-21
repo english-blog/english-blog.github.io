@@ -58,6 +58,6 @@ Experience, Growth & Contribution - I never thought or planned my life in these 
   
 I could see that "Teaching" is the most repeated word in all of the categories. This is something that I love to do in my work. I teach the freshers & experienced professionals in my team on anything that I know or learned new. I am proud to be able to convey the message to anyone in a clear & concise manner. However, I get very little chance to do so, when I am in the "Delivery (analyze, design, code, test & support) of projects. Once the current project is over, I would like to take up teaching. Let's see how it goes.  
   
-Thanks Vishen for showing me the difference between End Goals and Means Goals. (You will know these if you have watched the above video). I would like to move forward toward the Ends Goals in a more direct manner.  
+Thanks, Vishen for showing me the difference between End Goals and Means Goals. (You will know these if you have watched the above video). I would like to move forward toward the Ends Goals in a more direct manner.  
   
-Please find out yours and enjoy in fulfilling them !!!
+Please find out yours and enjoy fulfilling them !!!
