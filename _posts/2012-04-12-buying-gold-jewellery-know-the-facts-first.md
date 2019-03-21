@@ -9,7 +9,7 @@ redirect_from:
 
 Generally, I do not prefer Gold, in fact, my engagement ring is the first gold ornament in my body. It's a custom in India for the bride & groom to wear Gold Jewels during the wedding. I had no options but to buy. I head out to "Joy Alukkas". I was discussing the Gold Jewelry Business in India, with the floor manager and I am surprised to know that majority of the people does not even understand the basics. In fact, my parents were cheated by "L.K.S Jewellers" when they bought 916 KDM Gold Rings a few years back. So, this blog may be a beginner's first-hand information, when you buy Gold Jewels in India.  
   
-*I would like to explain few technical jargon related to Gold Jewels...*  
+*I would like to explain few technical jargons related to Gold Jewels...*  
   
 **Carat (K):** Its the unit of purity of gold. As per the calculation below, 24K Gold is nearly 99.9% pure gold. 24K Gold is suggested for Golden Ornaments of more than 10 *Sovereigns* and remember there is no guarantee for the Jewels, since they may lose the shape even with normal usage.  
   
@@ -21,7 +21,7 @@ Generally, I do not prefer Gold, in fact, my engagement ring is the first gold o
 
 **18K Gold:** 18K Gold is 75% of pure Gold and 25% of other metals. Using the above formula, you can decide the percentage of pure gold in your gold ornaments.  
   
-**BIS Hallmark:** The Government of India formed Bureau of Indian Standards (BIS) in the year 1987, which is the only institution in India, authorized to hallmark golden Jewelry. The Jewellers has to obtain a license from BIS for a fee and hallmark the jewel they make with BIS logo. BIS maintains market surveillance on the certified jewelers, on a random basis. Market surveillance involves a collection of Hallmarked Gold Jewelry from licensee's retail outlet/manufacturing premises and having it tested for conformity in BIS recognized hallmarking center. Deviations in the degree of purity of gold and operation not in conformance to the system may result in cancellation of BIS license.  
+**BIS Hallmark:** The Government of India formed the Bureau of Indian Standards (BIS) in the year 1987, which is the only institution in India, authorized to hallmark golden Jewelry. The Jewellers has to obtain a license from BIS for a fee and hallmark the jewel they make with BIS logo. BIS maintains market surveillance on the certified jewelers, on a random basis. Market surveillance involves a collection of Hallmarked Gold Jewelry from licensee's retail outlet/manufacturing premises and having it tested for conformity in BIS recognized hallmarking center. Deviations in the degree of purity of gold and operation not in conformance to the system may result in cancellation of BIS license.  
 
 ![BIS hallmark Logo]({{site.img-path}}/buying-gold-jewellery-carat-bis-hallmark.jpg)  
   
@@ -29,7 +29,7 @@ Most of the Gold Smiths print the word "916" or "916 KDM" on the Jewels without 
 
 *Please purchase the Gold Ornaments, ONLY if it is hallmarked with BIS logo.*  
   
-**Sovereign:** It is actually a gold coin of United Kingdom issued way back in 1817, which is valued roughly at one Pound Sterling. The weight of the gold coin is roughly 7.988052 grams. Even after British left India, we still use the term "Sovereign" as a unit to measure gold jewelry.  
+**Sovereign:** It is actually a gold coin of United Kingdom issued way back in 1817, which is valued roughly at one Pound Sterling. The weight of the gold coin is roughly 7.988052 grams. Even after the British left India, we still use the term "Sovereign" as a unit to measure gold jewelry.  
   
 1 Sovereign = 8 grams of Gold.  
   
@@ -88,7 +88,7 @@ It was like this when we bought *Thali Kodi* for my wife and a *Short Chain* for
 
 ### While Exchanging Gold
 
-We decided to exchange the unused rings and bangles for the new gold. Joy Alukkas charged 1% of *melting/usage charges* (?) on the gold while exchanging. I was surprised. I argued with them that these are KDM jewels and I won't pay a single paise. The manager told that he would accept the jewels from Joy Alukkas without melting charges, but not from other jewelers. After negotiating for few more minutes, he agreed to take the gold for exchange without any charges.  
+We decided to exchange the unused rings and bangles for the new gold. Joy Alukkas charged 1% of *melting/usage charges* (?) on the gold while exchanging. I was surprised. I argued with them that these are KDM jewels and I won't pay a single paise. The manager told that he would accept the jewels from Joy Alukkas without melting charges, but not from other jewelers. After negotiating for a few more minutes, he agreed to take the gold for exchange without any charges.  
   
 ### Things to remember while exchanging gold
 
@@ -106,5 +106,5 @@ My Dad used to buy most of the jewelry from one of the showrooms of L.K.S Jewelr
 Many people that I know, would bargain with street vendors, fish markets etc for few rupees, but reluctant to bargain in a Jewelry shop. My mom is one of them. Why is that?. A couple of reasons, that I came to know.  
 
 * Ego. You feel small when you are negotiating in a jewelry shop. You don't want others to think that you do not have enough money or you are a miser. Just a self-thought by few people.   
-* Arguing/negotiating reduces the value of the occasion (wedding or valentine's day gift etc). If you buy the gold at the said price without negotiation, you value the occasion more than the money. You feel great. Crap!. Isn't it?. But, it is true for few people that I know. When you buy the items like "Thali Kodi" or idol of any god, many jewelers advise you not to argue and surprisingly, people listen.  
+* Arguing/negotiating reduces the value of the occasion (wedding or valentine's day gift etc). If you buy the gold at the said price without negotiation, you value the occasion more than the money. You feel great. Crap!. Isn't it?. But, it is true for a few people that I know. When you buy the items like "Thali Kodi" or idol of any god, many jewelers advise you not to argue and surprisingly, people listen.  
 
