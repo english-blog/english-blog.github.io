@@ -11,7 +11,7 @@ As long as the stars live
 But all I have is tonight  
 
 Take me in your arms  
-Hold me for very last time  
+Hold me for the very last time  
 Like you could never let go  
 For all I have is tonight  
 
@@ -38,7 +38,7 @@ And never take back this night
 When the morning creeps up  
 And wrenches you from me  
 I'll go back to sleep  
-And pretend its still tonight  
+And pretend it's still tonight  
 
 Down the lanes of future  
 I'll smile through my tears  
