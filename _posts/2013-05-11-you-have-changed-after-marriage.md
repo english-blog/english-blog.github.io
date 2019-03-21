@@ -11,7 +11,7 @@ I thought I will never hear these words in my marriage. I feel more loved and lo
 
 Yes. I did. While dating, I was a careless rogue and a romantic poet who cares about only one thing - Love. Nothing else. Never bothered to go to work. Never bothered about my career. Never cared about my finances. Side effects of dopamine and serotonin?.  
 
-After marriage, I have a home and a whole bunch of expenses to take care. I had to be very proper with the finances. I need to be regular to work. I cannot be carefree anymore. Suddenly, going out required planning. Going to theaters means reading reviews about the movies and choose it wisely (?) etc.  
+After marriage, I have a home and a whole bunch of expenses to take care of. I had to be very proper with the finances. I need to be regular to work. I cannot be carefree anymore. Suddenly, going out required planning. Going to theaters means reading reviews about the movies and choose them wisely (?) etc.  
 
 ### Is it a positive change?  
 
@@ -21,7 +21,7 @@ What confused me is that I became a better person, but she felt that we grow apa
 
 ### The Analysis
 
-I have to find out what is happening with us.But, I don't know where to start. Simply, I listed down the activities I like to do and asked her to do the same thing. Once we had two lists, I plotted them in a Venn diagram. Here is what our "Relationship Venn Diagram" looks like.  
+I have to find out what is happening to us. But, I don't know where to start. Simply, I listed down the activities I like to do and asked her to do the same thing. Once we had two lists, I plotted them in a Venn diagram. Here is what our "Relationship Venn Diagram" looks like.  
 
 ![Relationship Venn Diagram]({{site.img-path}}/relationship-venn-diagram.jpg)  
 
@@ -33,7 +33,7 @@ I have to find out what is happening with us.But, I don't know where to start. S
 4. We must spend time on other activities with/without the better half.  
 5. *The success of the marriage depends on how efficiently we allocate time on common & uncommon activities.*  
 
-I am glad that we did this exercise last night. We will try to add more things to our common interests and give enough time & space for the other person to pursue his/her own interests. We will make sure that the other person is actively engaged in some activity while we do our own activities. Simply plotting the Venn Diagram provided such an insight and initiated a thought process which helped us to look at the same things differently. I wish every couple does this exercise and keeps the list updated every six months.  
+I am glad that we did this exercise last night. We will try to add more things to our common interests and give enough time & space for the other person to pursue his/her own interests. We will make sure that the other person is actively engaged in some activity while we do our own activities. Simply plotting the Venn Diagram provided such insight and initiated a thought process which helped us to look at the same things differently. I wish every couple does this exercise and keeps the list updated every six months.  
 
 **Please do this if you are in a relationship, it helps you both !..**  
 
