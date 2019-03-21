@@ -12,7 +12,7 @@ category: book-reviews
 Steve Chandler is one of the most sought-after personal development gurus in America and the best selling author of over 30 books. This audiobook in his own voice is more than a decade old but still holds good to this world.  
 Everybody needs the motivation to achieve their goals. As humans, we cannot be high on motivation all the time. We do reach stressful low situations sometimes and we do certain things to bounce back. Everybody has their own ways to keep the motivation level high. Steve tells you 100 different ways to keep motivate yourself in this audiobook. Many of them are different, offer a different perspective and alters the way I think. I did compile a list of my favorite items from this 100 in a notepad. I will frequent this notepad, again and again, to keep me motivated towards my goals. Thank you, Steve, for this collection.  
   
-### Some of my favorites are: (just a gist - listen to him for detailed explanation)  
+### Some of my favorites are: (just a gist - listen to him for a detailed explanation)  
   
 1. **Kill Your Television** - One side of the glass is the people who do and on the other side, the people who watch. Which side you belong to?. Never thought in this perspective.  
   
