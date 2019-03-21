@@ -11,9 +11,9 @@ category: book-reviews
 
 Should I really write a review of Robin Sharma's book?. His name stands better than the best book-review anyone could write for his book. Hmm... let me share some of the insights that are spread throughout this book. This book packs 15 yrs of his leadership advisory experience, which was once a closely guarded secret. Robin tried to make this book interesting by using the story of an Iraq war vet Blake Davis.  
   
-Blake served in Iraq war and is having a tough time transitioning to civilian life. He is having trouble with the relationships and job. Tommy, his father's friend comes to his life and introduces him the philosophy of "LWT - Lead Without a Title". Blake gets introduced to four different teachers and learns philosophy with at most interest. Transformation of Blake from playing victim-hood to leading is described very naturally.   
+Blake served in Iraq war and is having a tough time transitioning to civilian life. He is having trouble with the relationships and job. Tommy, his father's friend comes to his life and introduces him to the philosophy of "LWT - Lead Without a Title". Blake gets introduced to four different teachers and learns philosophy with at most interest. Transformation of Blake from playing victim-hood to leading is described very naturally.   
   
-This book is packed with a hell lot of quotes from well-known personalities all over the world. Some of the quotes from Robin are awesome. Lots of acronyms are used and lots of repetition to instill these concepts in reader's mind. Robin Sharma summarizes the philosophy under four different principles, taught by four different teachers. The teachers Anna, Ty, Jackson, and Jet are strikingly different from each other but follows the same principle.  
+This book is packed with a hell lot of quotes from well-known personalities all over the world. Some of the quotes from Robin are awesome. Lots of acronyms are used and lots of repetition to instill these concepts in the reader's mind. Robin Sharma summarizes the philosophy under four different principles, taught by four different teachers. The teachers Anna, Ty, Jackson, and Jet are strikingly different from each other but follows the same principle.  
   
 I would like to give a glimpse of these four principles but suggest you read the book to grasp it completely.  
   
@@ -24,10 +24,10 @@ Leadership is not reserved for the selected few who lead the organizations or th
 Remember the old quote, "Smooth seas never make a skilled sailor". But how often, do we remember this?. Robin Sharma devotes more pages to this principle than the rest and pushes the principle into our mind, without us realizing it. It's good. "Life begins at the end of the comfort zone". Let's celebrate the tough time with a big smile :)  
   
 **Principle 3: The deeper your relationship, the stronger your leadership.**  
-I cannot emphasize the importance of this principle in our life. Be it, professional or personal, relationships are very very important. DON'T break any relationship in your life, whatever the reason is. At the end of the life - money, power, position, a college degree doesn't matter. It's the fulfilling relationships that you have earned, matters. So, go for it. Just mingle with everyone, have fun. That's what we are all here for !!!  
+I cannot emphasize the importance of this principle in our life. Be it, professional or personal, relationships are very very important. DON'T break any relationship in your life, whatever the reason is. At the end of life - money, power, position, a college degree doesn't matter. It's the fulfilling relationships that you have earned, matters. So, go for it. Just mingle with everyone, have fun. That's what we are all here for !!!  
   
 **Principle 4: To be a great leader, first become a great person.**  
-This principle details about the personal life of a leader. The importance needs to be given to the personal health, family, friends, fun-time, and self-realization. Robin Sharma gives seven essential steps to become a great person.  
+This principle details about the personal life of a leader. The importance needs to be given to personal health, family, friends, fun-time, and self-realization. Robin Sharma gives seven essential steps to become a great person.  
 
 1. Learning  
 2. Affirmations  
@@ -39,4 +39,4 @@ This principle details about the personal life of a leader. The importance needs
 
 I am doing most of these and I know the importance of these first hand. Please try and transform.  
   
-This is not just another book, which you will read and stack it in your library. Make this a constant companion and keep it on your coffee table. Refer this book as often as you want. Its worth every penny.  
+This is not just another book, which you will read and stack it in your library. Make this a constant companion and keep it on your coffee table. Refer to this book as often as you want. It's worth every penny.  
