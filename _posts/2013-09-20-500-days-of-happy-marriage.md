@@ -14,7 +14,7 @@ It started like any another day in the recent past. Woke up at 5 AM, brushed my 
 
 I found the second clue in the kitchen cabinet, third near the washing machine, fourth inside the shoe rack, fifth inside the freezer, sixth in my bike in the parking lot. While running down to the parking lot, I thought *"When did she plan all these things?"*. I came home early last evening, had early dinner and watched the whole movie "Jeans" with her and went to bed. It was a very relaxed evening and I was with her all the time, till we slept. But entire treasure hunt is planned before 5 AM in the morning. She must have done this after I slept. Hmm... *How did she guess that I will open the laptop first?* - I have no idea. Maybe she guessed it too. It worked !. I love you pondatti !!!  
   
-The seventh clue was under the kitchen floor mat, the eighth clue was with Sruthi, sleeping in the second bedroom. I was reluctant to wake her up at that time. But, it was mentioned in the clue and I have to follow it. As soon as I tapped her shoulder, she smiled and gave me the next clue. I knew that she was the partner in crime. The ninth clue under the sofa cushion and the tenth clue was under my wife's pillow. She was asleep. I took the clue carefully without waking her up. The final clue says *"Bedroom Attics are not only for Ghosts. Trick or Treat?"*   
+The seventh clue was under the kitchen floor mat, the eighth clue was with Sruthi, sleeping in the second bedroom. I was reluctant to wake her up at that time. But, it was mentioned in the clue and I have to follow it. As soon as I tapped her shoulder, she smiled and gave me the next clue. I knew that she was a partner in crime. The ninth clue under the sofa cushion and the tenth clue was under my wife's pillow. She was asleep. I took the clue carefully without waking her up. The final clue says *"Bedroom Attics are not only for Ghosts. Trick or Treat?"*   
   
 ![500th Day All Tips]({{site.img-path}}/500-day-all-tips.jpg)  
 
@@ -36,7 +36,7 @@ Each shell is coated with Red, Silver or Bronze color with an English alphabet o
 **Puzzle 1:** *Your Heart is My Safe Heaven*  
 **Puzzle 2:** *500 Happy Days of Prem & Sang*  
   
-Now to the most awaited gift section. It was exactly what I was planning to get myself sometime in future. It was a smartphone from Micromax, *Canvas HD* and a Samsung Bluetooth headset. I saw this phone being used by Sounder & Karthiga and they gave me a positive review of this phone. Now, I can take up Udemy classes on the phone anytime, anywhere. Thank you Pondatti for a lovely gift :)  
+Now to the most awaited gift section. It was exactly what I was planning to get myself sometime in the future. It was a smartphone from Micromax, *Canvas HD* and a Samsung Bluetooth headset. I saw this phone being used by Sounder & Karthiga and they gave me a positive review of this phone. Now, I can take up Udemy classes on the phone anytime, anywhere. Thank you Pondatti for a lovely gift :)  
   
 ![500th Day Gifts]({{site.img-path}}/500-day-gifts.jpg)  
 
