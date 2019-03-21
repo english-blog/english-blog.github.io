@@ -13,9 +13,9 @@ Back to Robin Sharma again. Every now and then, if you don't read Robin's book, 
 
 The Greatness Guide - 101 short essays and stories to inspire you and help you achieve your greatness in all walks of your life. This book is slightly different from his other books. This is a collection of essays and event that happened in Robin's life, written in different periods and at different places, put together in one book for us. I don't know what to mention in the review and what to leave. If I had to write a perfect review of this book, I have to reprint the book's content here. He reiterates the importance of leading without a title in this book as well.    
 
-Here are few of my favorites from his book.   
+Here are a few of my favorites from his book.   
 
-* Reading a book by someone you respect allows some of their brilliance to rub off on you. - He stresses the importance of reading habit. Its one of the best discipline. I knew the benefit of this habit by experience. Guys - Please read.  
+* Reading a book by someone you respect allows some of their brilliance to rub off on you. - He stresses the importance of reading habit. It's one of the best disciplines. I knew the benefit of this habit by experience. Guys - Please read.  
 
 * Leadership begins with the extra mile.  
 
@@ -53,7 +53,7 @@ Here are few of my favorites from his book.
 
 * Greatness arrives for those who are never satisfied with what is, no matter how nice it looks.  
 
-* Everyone is a leader. But not everyone is the same. - Yes. Know your role and perform it to the perfection.  
+* Everyone is a leader. But not everyone is the same. - Yes. Know your role and perform it to perfection.  
 
 * Give out what you most want to come back. - The concepts were different. Read it  
 
