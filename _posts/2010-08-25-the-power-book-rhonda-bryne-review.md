@@ -11,7 +11,7 @@ category: book-reviews
 
 > "You are meant to have an amazing life"  
   
-Irish-Australian writer Rhonda Byrne was once a producer of reality-TV shows in Australia who is now a multi-millionaire living in a Beverley Hills mansion, next door to Oprah Winfrey. She became so, with her best selling book & DVD, "The Secret". She comes with a sequel "The Power", which is expected to sell at least 20 million copies, out of which 2 million copies are printed and almost sold out. So, whats in this book?. Let's do a fair, really fair review of the book.  
+Irish-Australian writer Rhonda Byrne was once a producer of reality-TV shows in Australia who is now a multi-millionaire living in a Beverley Hills mansion, next door to Oprah Winfrey. She became so, with her best selling book & DVD, "The Secret". She comes with a sequel "The Power", which is expected to sell at least 20 million copies, out of which 2 million copies are printed and almost sold out. So, what's in this book?. Let's do a fair, really fair review of the book.  
   
 > "Take away love and our earth is a tomb" - Robert Browning (1812-1889)  
   
@@ -34,20 +34,20 @@ LOA comprises of the two important things
 1. Visualizations, belief & feelings  
 2. ACTION.  
 
-The DVD doesn't talk even a word about ACTION. You CANNOT attract million dollars, just by lying in the bed and imagining. Trust me, it doesn't work, because I tried it. Even with so many stories and real-life examples in the DVD, I was surprised. I thought its superstitious and doesn't work.  
+The DVD doesn't talk even a word about ACTION. You CANNOT attract million dollars, just by lying in the bed and imagining. Trust me, it doesn't work, because I tried it. Even with so many stories and real-life examples on the DVD, I was surprised. I thought its superstitious and doesn't work.  
   
 I like Dr. Joe Vitale & John Assaraf from the DVD and I still closely following them for any piece of advice. It was then, I found another audio book "The Missing Secret" by Dr. Joe Vitale which completed the puzzle, by stressing the importance of ACTION to achieve any of your dreams. Still, believing that there is something more powerful than us, doing things for us (if we just ask) doesn't make sense to me. Dr. Joe Vitale is more of a spiritual person, so I just took only the key advises from him.  
   
-Later, I found another book "The Answer" by John Assaraf - who flabbergasted me with the scientific explanations (with citations and references) about how things work in LOA. He was so clear that he explained whatever science could prove and told us clearly the portions which are under research still. Since he is a self-made millionaire and entrepreneur, you can see his quest for scientific answers throughout this book. This book has initial few chapters dedicated to LOA and science and the rest of the chapters about building the dream business.  
+Later, I found another book "The Answer" by John Assaraf - who flabbergasted me with the scientific explanations (with citations and references) about how things work in LOA. He was so clear that he explained whatever science could prove and told us clearly the portions which are under research still. Since he is a self-made millionaire and entrepreneur, you can see his quest for scientific answers throughout this book. This book has an initial few chapters dedicated to LOA and science and the rest of the chapters about building the dream business.  
   
 To me, Dr. Joe Vitale and John Assaraf stood as authors who actually tells the truth and Rhonda Byrne just ignores the key information for the sake of better screenplay in the DVD.  
   
 End of the story. I hope now you know the background!  
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  
   
-So, I was curious what's special about this new book?. The printed book was heavy and colorful with lovely designs. The Law of Attraction was renamed as "The Law of Love". The importance of Love, Gratitude, Giving, and Belief is stressed with a different set of quotes from the world leader, religions etc. Apart from few extra tips and techniques, there is NOTHING new in this book. Maybe that, she categorized how to have good health, relationships and money etc in different chapters, which is not available in "The Secret".  
+So, I was curious about what's special about this new book?. The printed book was heavy and colorful with lovely designs. The Law of Attraction was renamed as "The Law of Love". The importance of Love, Gratitude, Giving, and Belief is stressed with a different set of quotes from the world leader, religions etc. Apart from a few extra tips and techniques, there is NOTHING new in this book. Maybe that, she categorized how to have good health, relationships and money etc in different chapters, which is not available in "The Secret".  
   
-How about the writing style?. Crap. Most of the self-help books re-iterate few key points throughout the book so that it goes deep into the reader's mind. This was used very heavily and becomes irritating so much that, I tend to skip the paragraphs. There are people who compare the "success" of this book and Harry Potter. From writer's perspective, She cannot even come close to Rowling.  
+How about the writing style?. Crap. Most of the self-help books re-iterate a few key points throughout the book so that it goes deep into the reader's mind. This was used very heavily and becomes irritating so much that, I tend to skip the paragraphs. There are people who compare the "success" of this book and Harry Potter. From a writer's perspective, She cannot even come close to Rowling.  
   
 Why is that a book review about a most sought after positive thinking book, sounds very negative (which is the very first thing that the author doesn't want you to do). Its because, First - I was so excited, pre-ordered the book that I am gonna get a lot of useful information and didn't find much. Second - I just want to give my honest feedback to the author, so that She can improve and to the reader, that they will know what to expect.  
   
