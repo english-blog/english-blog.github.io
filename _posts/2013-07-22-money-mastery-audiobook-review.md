@@ -9,7 +9,7 @@ redirect_from:
 **Book:** Money Mastery - Principle-Based Money Management (Audio CD)  
 **Authors:** Peter R. Jeppson, Alan M. Williams  
 
-Principle Based Money Management - The keywords which attracted me towards this audiobook. With most of my income going towards the mortgages and loan EMI's, I thought I was pretty bad financially and wanted to manage the expenses in a well-planned manner. The eventual search on the internet made me listen to this audiobook.  
+Principle-Based Money Management - The keywords which attracted me towards this audiobook. With most of my income going towards the mortgages and loan EMI's, I thought I was pretty bad financially and wanted to manage the expenses in a well-planned manner. The eventual search on the internet made me listen to this audiobook.  
   
 Audiobooks are usually the same printed books read by the author or a specialized voice over artists. This book is very different. It's like a play. They chose three characters Joyce & Mark - the couples who earn well enough but still struggling to make the ends meet, and a Genie character who helps them to plan their finances. It is as if you are watching a couple implement the principles discussed in the audio CD. They take the typical examples of the spending habits of men and women and let the couple discuss and come to the conclusion about which are unnecessary expenses. I did not get bored to listen to this entire Audio CD and I hope it will be the same for you.  
   
@@ -28,6 +28,6 @@ One surprising aspect is that - this is a very old Audio CD, but still relevant 
 9. Understanding Taxation enables you to retain more of your money  
 10. Money in motion creates more money  
   
-I loved the principles 4 & 9. I love the idea of paying up the debts as well as building a fortune, a little by little at the same time. This is similar to the concepts discussed in [The Automatic Millionaire]({{site.url}}/the-automatic-millionaire-david-bach-book-review/) book by David. I will start building the Emergency Fund. The 9th principle is something that I overlooked for many years. I could have saved thousands of rupees every year on taxes. Not anymore. I am going to do a complete analysis of Taxation Model in India for Salaried Individuals and max out the tax savings for this financial year. I will blog about it as well to help others.  
+I loved principles 4 & 9. I love the idea of paying up the debts as well as building a fortune, a little by little at the same time. This is similar to the concepts discussed in [The Automatic Millionaire]({{site.url}}/the-automatic-millionaire-david-bach-book-review/) book by David. I will start building the Emergency Fund. The 9th principle is something that I overlooked for many years. I could have saved thousands of rupees every year on taxes. Not anymore. I am going to do a complete analysis of Taxation Model in India for Salaried Individuals and max out the tax savings for this financial year. I will blog about it as well to help others.  
   
-Oops. I forgot to mention that this Audio CD comes with a software and workbook to plan your budget. Even, if you are wealthy right now, you may want to listen to this Audio CD in your free time. It may give you new ideas. Seriously, I am thinking about starting a bank :)  
+Oops. I forgot to mention that this Audio CD comes with software and workbook to plan your budget. Even, if you are wealthy right now, you may want to listen to this Audio CD in your free time. It may give you new ideas. Seriously, I am thinking about starting a bank :)  
