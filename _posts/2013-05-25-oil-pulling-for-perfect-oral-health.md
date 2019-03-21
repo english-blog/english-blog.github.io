@@ -9,7 +9,7 @@ The more I research about the natural lifestyle, the more I come to know. The re
   
 ### What is Oil Pulling?
   
-It's an ancient Ayurvedic practice for maintaining perfect oral health. As soon as you wake up in the morning, take a tablespoon of sesame oil in your mouth and swish it around inside your mouth slowly for 15-20 minutes. The Sesame Oil will turn into milky white liquid. Spit that out. Wash your mouth with water. That's all. Simple. Isn't it?.  
+It's an ancient Ayurvedic practice for maintaining perfect oral health. As soon as you wake up in the morning, take a tablespoon of sesame oil in your mouth and swish it around inside your mouth slowly for 15-20 minutes. Sesame Oil will turn into a milky white liquid. Spit that out. Wash your mouth with water. That's all. Simple. Isn't it?.  
   
 ### Things to take care
   
@@ -20,5 +20,5 @@ It's an ancient Ayurvedic practice for maintaining perfect oral health. As soon 
   
 ### Benefits of Oil Pulling
   
-The most immediate one that you will notice in a weeks time is whiter teeth and free from bad breath. I am doing this for the past one week and I could already see my teeth getting whiter. Though there is not much of scientific study or clinical trials with oil pulling, there is a compelling collection of data from peoples testimonials (highly unreliable, but there are too many to simply discard). I have read a whole bunch of articles about the Ayurvedic notion of mouth being linked with other organs of the body. They claim that the perfect oral health helps to cure many diseases of the body. I am not convinced with the idea. You can try and see for yourself.
+The most immediate one that you will notice in a weeks time is whiter teeth and free from bad breath. I am doing this for the past week and I could already see my teeth getting whiter. Though there is not much of scientific study or clinical trials with oil pulling, there is a compelling collection of data from peoples testimonials (highly unreliable, but there are too many to simply discard). I have read a whole bunch of articles about the Ayurvedic notion of mouth being linked with other organs of the body. They claim that the perfect oral health helps to cure many diseases of the body. I am not convinced about the idea. You can try and see for yourself.
   
