@@ -13,9 +13,9 @@ Someone used my card like his own and purchased items from Jewelry, Dish TVs, Mo
   
 I got the statement on 25-Jul-2011 and I was very much surprised to see the transactions and realized that I lost my card. I called up HDFC Bank and blocked the card immediately. HDFC Bank advised me to file an FIR with the police station. I went to HAL police station and surprised to know that the police NEVER file an FIR for credit card loss. The police push these cases under Section 403. Banks know this. Hmmm... I got an acknowledgment from the Police and formally registered a complaint with Risk Control Unit of HDFC Bank. Ref # ULRL1208110009224. RCU informed me that they will start the investigation and I do not need to pay anything till the investigation is over. I was very happy :)  
   
-Meanwhile, I got the next month's statement with all the transactions + interest + late payment charges, followed by a phone call from HDFC Customer *Care*(?). The guy on the phone was very harsh, shouted at me for not paying the dues. I got pissed off and shouted at him left and right. I called up RCU to check and they said that their investigation systems and the statement generation systems are not in sync and they do not work together. They asked me to ignore the statements and the phone calls till the investigation is over. I was like $!@#$%^&*. *Why don't you guys work together?*  
+Meanwhile, I got the next month's statement with all the transactions + interest + late payment charges, followed by a phone call from HDFC Customer *Care*(?). The guy on the phone was very harsh, shouted at me for not paying the dues. I got pissed off and shouted at him left and right. I called up RCU to check and they said that their investigation systems and the statement generation systems are not in sync and they do not work together. They asked me to ignore the statements and the phone calls until the investigation is over. I was like $!@#$%^&*. *Why don't you guys work together?*  
   
-After few weeks, Mr. Prakash collected the details of all the merchants and the video footage of the thief from the CC TV of the last merchant, where the card is declined. Here is the video.  
+After a few weeks, Mr. Prakash collected the details of all the merchants and the video footage of the thief from the CC TV of the last merchant, where the card is declined. Here is the video.  
   
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sxMzUJATkX0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   
@@ -25,7 +25,7 @@ So far so good. Mr. Prakash promised me to accompany to the Police station and f
 
 He said, *"The card was lost near ITPL and you stay in Marathahalli. Both the areas do not come under this police station. So, they cannot file an FIR. The HAL Police won't be of much help. That's why I brought you here. If you don't like, pay the entire amount to HDFC Bank. Your choice !".*   
 
-I was little surprised when Mr. Madhu asked me to pay Rs.3000 to the police to start the investigation. The question put to me by the bank representative was
+I was a little surprised when Mr. Madhu asked me to pay Rs.3000 to the police to start the investigation. The question put to me by the bank representative was
 
 > Would you like to pay Rs. 1 lakh to the bank or Rs. 3000 to the police?. Since they do this for you off the record, you need to pay for their travel expenses.  
 
@@ -41,7 +41,7 @@ Both the HDFC Bank and I know that it was a fraud on my card. *I don't want HDFC
   
 * Always keep your mobile number updated with your Banks. They send SMS for each and every transactions.  
 * If you have the habit of switching mobile numbers when going to hometown/vacation, please double check that your credit/debit cards are safe and with you.  
-* "Zero Liability" is a scam used by ALL the banks. It covers the transactions happened after you report the loss of card to the Bank. In reality, it takes few seconds to block the card after your report. How many transactions can happen in those few seconds?. So, don't trust this and exercise extra caution.  
+* "Zero Liability" is a scam used by ALL the banks. It covers the transactions happened after you report the loss of card to the Bank. In reality, it takes a few seconds to block the card after your report. How many transactions can happen in those few seconds?. So, don't trust this and exercise extra caution.  
 * Avoid Credit Cards if possible. The banks make a lot of money and you get peanuts in the name of reward points. Warren Buffet advises NOT to use Credit Cards and says "Limit What You Borrow".   
 * I am not using Credit Cards for close to a year now and I am as good as before. I can better manage my expenses now. Trust me. There is NO big difference.  
 * I suggest to get a credit card and use it ONLY for emergencies and make sure that you pay it off in FULL. Never ever get into revolving mode. You get stuck !.  
