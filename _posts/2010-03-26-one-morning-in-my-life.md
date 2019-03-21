@@ -5,9 +5,9 @@ date: 2010-03-26
 category: personal
 ---
 
-"What a beautiful day!.." - A Song from rock band U2 kept playing in my mind when I sit on a comfy sofa and wonder what to do next. This is not new to me, I do this very often. Somehow today, I felt like Tom Hanks in "Cast Away". Yeah.. really. What do you call a guy who is wearing a week old dirty lungi and a brand new yellow color Reebok T-Shirt supporting "Chennai Super Kings", has not brushed till 10.30 AM, has no wallet, has no mobile phone, and hungry?. Hmm.. that's me, today March 24, 2010.  
+"What a beautiful day!.." - A Song from rock band U2 kept playing in my mind when I sit on a comfy sofa and wonder what to do next. This is not new to me, I do this very often. Somehow today, I felt like Tom Hanks in "Cast Away". Yeah.. really. What do you call a guy who is wearing a week old dirty lungi and a brand new yellow color Reebok T-Shirt supporting "Chennai Super Kings", has not brushed till 10.30 AM, has no wallet, has no mobile phone, and hungry?. Hmm... that's me, today March 24, 2010.  
 
-Last night I was reading a book "Give to Live", way past 1 AM and didn't realize when I slept. A facebook SMS message from Sean Stephenson, switched off my Dream Channel when I was romancing with my angel.  
+Last night I was reading the book "Give to Live", way past 1 AM and didn't realize when I slept. A facebook SMS message from Sean Stephenson, switched off my Dream Channel when I was romancing with my angel.  
 
 > There's a big difference between "caring about" versus "caring for" someone. One is passive and one is active.  
 
@@ -31,11 +31,11 @@ Suddenly I remembered Goundamani & Petromax light and was laughing without a rea
 
 "What if they left already?", a question spurred in my mind as I approached the door and ringing the bell confirmed it. Is this called ESP or thin-slicing or snap judgment or fate or time-to-relax?. A side effect of reading completely irrelevant books simultaneously.  
 
-I went to the terrace, thinking to climb down to the balcony side, using the pipe and get into the house. The fifth floor and the hot air through my lungi, suggested not to do it!... "What?. A macho man backs out? ". I convinced my super-ego that I didn't do it because there is no rope. How clever. Hmm... I knocked next door and asked the guy if I can use his phone to call my roommates.  
+I went to the terrace, thinking to climb down to the balcony side, using the pipe and get into the house. The fifth floor and the hot air through my lungi suggested not to do it!... "What?. A macho man backs out? ". I convinced my super-ego that I didn't do it because there is no rope. How clever. Hmm... I knocked next door and asked the guy if I can use his phone to call my roommates.  
 
-"hmm... I am expecting some important calls... hmm.. actually... I don't have a phone.. my room-mates also left. there is a phone booth on the main road. Why don't you go there and make a phone call?", he said.  
+"Hmm... I am expecting some important calls... hmm.. actually... I don't have a phone.. my room-mates also left. there is a phone booth on the main road. Why don't you go there and make a phone call?", he said.  
 
-"I know the phone booth. But I don't have the wallet with me. Thanks anyway", I smiled very artificially and left. How much does that cost to make a phone call?.  
+"I know the phone booth. But I don't have a wallet with me. Thanks anyway", I smiled very artificially and left. How much does that cost to make a phone call?.  
 
 Sean Stephenson's facebook message in the morning made sense now. Dude, you are awesome!  
 
