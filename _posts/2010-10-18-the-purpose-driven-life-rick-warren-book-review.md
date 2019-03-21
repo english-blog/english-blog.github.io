@@ -17,13 +17,13 @@ The author Rick Warren wants you to sign a covenant that you will read one chapt
   
 I do not attribute my inabilities, weaknesses and insufficient knowledge to an entity called GOD and submit myself to him. I question a lot, never received even a single satisfactory explanation for the need or existence of god and I was termed as "atheist". This book has only commands to follow, not an explanation of why?. I know, most of the religions never allow you to question their faith. Because, if you do, there won't be any religion :)  
   
-Surprisingly, the first chapter starts with a quote from an atheist, analytic philosopher Bertrand Russell. "Unless you assume a god, the question of life's purpose is meaningless". I am damn sure that Rick misunderstood the quote, otherwise, he wouldn't have put this in his book. In the first chapter, Rick claims that God started everything and denied Darwinism altogether. He assumes that a lot of successful people are driven by guilt, resentment, anger, fear, and materialism. Pain and suffering are given by God to develop you.. he he he. The world is a temporary assignment and your permanent life will be eternal in some unknown place... blah..blah..blah.  
+Surprisingly, the first chapter starts with a quote from an atheist, analytic philosopher Bertrand Russell. "Unless you assume a god, the question of life's purpose is meaningless". I am damn sure that Rick misunderstood the quote, otherwise, he wouldn't have put this in his book. In the first chapter, Rick claims that God started everything and denied Darwinism altogether. He assumes that a lot of successful people are driven by guilt, resentment, anger, fear, and materialism. Pain and suffering are given by God to develop you. The world is a temporary assignment and your permanent life will be eternal in some unknown place... blah..blah..blah.  
   
-Rick wants all the Christians to know and follow the god's five purposes.  
+Rick wants all the Christians to know and follow god's five purposes.  
   
 ### Purpose #1: You were planned for God's pleasure.
 
-Seriously, I was excited about reading the chapter's title. But it's not what I thought though. he he he. This chapter teaches how to worship God, how to make him smile, how to surrender yourself, how to become God's friend etc. The entire chapter is summarized in the below sentence (page 75). God says *"You have no right to argue with your Creator. You are merely a clay pot shaped by a potter". *Great. I actually wanted to throw away this book at this point. But thought, there should be at least few lines of good wisdom that will be applicable to the entire human population.So, went ahead...  
+Seriously, I was excited about reading the chapter's title. But it's not what I thought though. he hehe. This chapter teaches how to worship God, how to make him smile, how to surrender yourself, how to become God's friend etc. The entire chapter is summarized in the below sentence (page 75). God says *"You have no right to argue with your Creator. You are merely a clay pot shaped by a potter". *Great. I actually wanted to throw away this book at this point. But thought, there should be at least a few lines of good wisdom that will be applicable to the entire human population. So, went ahead...  
   
 ### Purpose #2: You were created for God's family.
 
@@ -39,7 +39,7 @@ You are commanded to serve as a servant, accept your weakness and request god to
   
 ### Purpose #5: You were made for a mission.
 
-To help (?) the god to find his lost children. To bring more people to the god, by telling the good news(?) to everyone. That's the only mission for which God created you from Clay. he he he.  
+To help (?) the god to find his lost children. To bring more people to the god, by telling the good news(?) to everyone. That's the only mission for which God created you from Clay. he hehe.  
   
 If you just look at the purposes, all of them are passive & submissive. You are like a robot designed by God to do his will. Your job is just to do that and as a lucky bumper prize, you may get a chance to live in heaven. If you don't, you will suffer in hell forever.   
   
