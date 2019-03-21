@@ -17,7 +17,7 @@ This book was waiting for me in a bookshop in Kolkata and found me finally. At l
 
 What a quote to start a book with!. This one line describes the context of the entire book. This book starts with the explanation of God and the perfect way for us to communion with God. Since I am an atheist from the day I started asking questions, I could not comprehend most of the items discussed in the first few chapters. The author told, it would be the case, but I will get it in the end. Somehow I was too intelligent to get the idea of God at the end. Many people claim that they understand God better after reading Donald's books. You may also get to understand God. Please read.  
   
-Once he explains God, he goes on to discuss the concept of *"The Law of Attraction"* which was made very popular by Rhonda Byrne in the movie *"The Secret"*. He claims that the manifestation process taught by the new age spiritual teachers reveals only the half of the Unspoken Truth. Then he reveals *"The Process of Personal Creation"* - a larger, revised version of the law of attraction. Life expresses itself through.  
+Once he explains God, he goes on to discuss the concept of *"The Law of Attraction"* which was made very popular by Rhonda Byrne in the movie *"The Secret"*. He claims that the manifestation process taught by the new age spiritual teachers reveals only half of the Unspoken Truth. Then he reveals *"The Process of Personal Creation"* - a larger, revised version of the law of attraction. Life expresses itself through.  
   
 1. The Energy Of Attraction  
 2. The Law Of Opposites  
