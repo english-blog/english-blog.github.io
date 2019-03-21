@@ -27,7 +27,7 @@ Simple words of affirmation/appreciation from your heart. Appreciating the simpl
   
 ### 2. Quality Time
 
-By quality time, he means giving your undivided attention to your spouse frequently. Maybe sitting with her on the couch and talking to her for 15 minutes a day (remember to switch off the TV). Listen. Let her talk. Don't give solutions, if she did not ask for it. Learning to listen could be difficult for many men. On an average, we could listen for 7 seconds before we pump our thoughts into the discussion. Just listen. Or just spend time with her. Go for a walk. Do things together.As simple as that. For many women, this means a lot. A quality time during the extreme happiness and during a crisis will remain in her memory till her last breath.  
+By quality time, he means giving your undivided attention to your spouse frequently. Maybe sitting with her on the couch and talking to her for 15 minutes a day (remember to switch off the TV). Listen. Let her talk. Don't give solutions, if she did not ask for it. Learning to listen could be difficult for many men. On average, we could listen for 7 seconds before we pump our thoughts into the discussion. Just listen. Or just spend time with her. Go for a walk. Do things together. As simple as that. For many women, this means a lot. A quality time during the extreme happiness and during a crisis will remain in her memory till her last breath.  
   
 ### 3. Receiving Gifts
 
@@ -35,7 +35,7 @@ The gifts need not be expensive and we know that everyone cannot afford. But, gi
   
 ### 4. Acts of Service
 
-Some people express their love to their spouse by service. Jesus is a perfect example of this type. For some, giving gifts or spending time with her or praising her won't mean much, when the house is a mess, clothes all over the rooms and the yards need maintenance. So, if your spouses love language is Acts of Service, the only way to her heart is by doing things for her. Maybe, cleaning the dishes, doing the laundry and taking care of the baby when she is not well etc.  
+Some people express their love for their spouse by service. Jesus is a perfect example of this type. For some, giving gifts or spending time with her or praising her won't mean much, when the house is a mess, clothes all over the rooms and the yards need maintenance. So, if your spouses love language is Acts of Service, the only way to her heart is by doing things for her. Maybe, cleaning the dishes, doing the laundry and taking care of the baby when she is not well etc.  
   
 ### 5. Physical Touch
 
