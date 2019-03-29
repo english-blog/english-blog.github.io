@@ -13,11 +13,11 @@ A Vegan book review from a voracious meat eater?. Yeah. I had the assumption tha
 
 A raw vegan food eater, Brendan can complete this race within 9 hours (on par with the worlds best athletes, who eat meat and supplements). This intrigued me so much that I decided to try this diet for three months. Let's measure this book's claims after three months. Let's see the gist of what this is book has in store for us.  
   
-We all know about stress. Right?. The very first section of the book discusses the complimentary, uncomplimentary and production stress. He also discusses in detail on psychological, environmental and nutritional stress. Why so many details about stress in a book where we expect set of recipes?. Because this is not a recipe book. This is a complete health book, which will transform your body, your lifestyle and assist you with the transformation process. Recipes spread across the book is to ease your transition efforts.  
+We all know about stress. Right?. The very first section of the book discusses the complimentary, uncomplimentary and production stress. He also discusses in detail on psychological, environmental and nutritional stress. Why so many details about stress in a book where we expect a set of recipes?. Because this is not a recipe book. This is a complete health book, which will transform your body, your lifestyle and assist you with the transformation process. Recipes spread across the book is to ease your transition efforts.  
   
 ### Nutritional Stress  
 
-It is caused by food because of its unhealthy properties. Not eating the right nutrient-rich food, at the right amount and at right interval, places a considerable amount of stress in our body and eventually in our mind.  
+It is caused by food because of its unhealthy properties. Not eating the right nutrient-rich food, at the right amount and at the right interval, places a considerable amount of stress in our body and eventually in our mind.  
   
 ### High Net Gain Foods  
 
@@ -25,7 +25,7 @@ Another important aspect of food calories which we conveniently ignore is the en
   
 ### One Step Nutrition  
 
-This describes the food containing nutrients already in the form usable by the body. Most of the cooked foods have the complex forms of the nutrients, which must be broken down into simpler form for the body to absorb it. Most thrive diets have simpler form. Very Important!.  
+This describes the food containing nutrients already in the form usable by the body. Most of the cooked foods have the complex forms of the nutrients, which must be broken down into a simpler form for the body to absorb it. Most thrive diets have a simpler form. Very Important!.  
   
 * Complex Carbohydrates to Simple Carbohydrates  
 * Fat to Fatty Acids  
