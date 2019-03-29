@@ -27,6 +27,6 @@ Details of the study: [IMPACT OF ETHNIC HABITS ON DEFECOGRAPHIC MEASUREMENTS](ht
 
 ### What's Next
 
-* Install an Indian toilet (or any eastern type squatting toilet) in your home. (Best &amp; Recommended)  
-* Use a Squat Toilet Utility like Squatty Potty.You don't need to pay so much for a simple device. There are cheaper alternatives available in the market. Just google. I never used this personally. So, I cannot comment on this. Just try, if you cannot do option 1.  
+* Install an Indian toilet (or any eastern type squatting toilet) in your home. 
+* Use a Squat Toilet Utility like Squatty Potty. You don't need to pay so much for a simple device. There are cheaper alternatives available in the market. Just google. I never used this personally. So, I cannot comment on this. Just try, if you cannot do option 1.  
 
