@@ -11,7 +11,7 @@ category: challenges
   
 **48 Day Challenge:** Starting today, I am going to wake up at 5 AM daily (irrespective of weekends, travels, party, night outs). Why 48 days?. It counts to one Mandalam. Though there is religious interpretation/usage of Mandalam for doing poojas, it was originally developed by Siddhars as a measure of time for medication. If you do any specific task at a specific time consistently for 48 days, it becomes a habit. So, I choose to wake up daily at 5 AM for 48 days - to make this a permanent habit for me. If I miss a day, I will restart from Day 1.  
   
-**PS:** You may see many references in the internet that 21 days is enough to forge a habit. Since I am going to do this for the rest of my life, I chose 48 days for my experiment.  
+**PS:** You may see many references on the internet that 21 days is enough to forge a habit. Since I am going to do this for the rest of my life, I chose 48 days for my experiment.  
   
 ### What to do with the extra hours?  
 
@@ -27,7 +27,7 @@ It's not the waking up time that makes you successful, but what you do in those 
 5. Read a book or Listen to an audiobook or Write a blog post  
 6. Work on any personal projects, either technical or personal development.  
   
-This is not a final list of tasks. I will keep changing the tasks or reorganize it as per my needs in course of time. I decided to spend 2 hrs compulsory for myself in the morning and additional time as the day permits. You can prepare your own list. If lists overwhelm you, just do one simple thing like, listen to soothing music, learn an art, go to gym, learn yoga, learn meditation, watch the sunrise, go for a walk in the beach, walk in the grass in barefoot, write a poem etc., - Do whatever that makes you happy, as the first thing in the morning. Get it?  
+This is not a final list of tasks. I will keep changing the tasks or reorganize it as per my needs in the course of time. I decided to spend 2 hrs compulsory for myself in the morning and additional time as the day permits. You can prepare your own list. If lists overwhelm you, just do one simple thing like, listen to soothing music, learn an art, go to gym, learn yoga, learn meditation, watch the sunrise, go for a walk in the beach, walk in the grass in barefoot, write a poem etc., - Do whatever that makes you happy, as the first thing in the morning. Get it?  
   
 ### What NOT to do?  
 
@@ -40,6 +40,6 @@ I may find some other distractions to my To-Do list in the coming 48 days. I wil
   
 ### Why this experiment?
 
-I am beginning to feel contentment with myself, happy with my life (Thanks to Sangavi). A thought of unknown origin tells me - It's time to give back. But, I don't know what to give or how to give. I am searching for a meaning for my life, even though my conscious atheist self, says that there is no meaning. I want to organize my lifestyle and channel my energy in proper ways, so I may find many excellent & exciting ideas/opportunities that my entire life would not be enough to complete them. Feeling excited as I write this.  
+I am beginning to feel contentment with myself, happy with my life (Thanks to Sangavi). A thought of unknown origin tells me - It's time to give back. But, I don't know what to give or how to give. I am searching for a meaning for my life, even though my conscious atheist self, says that there is no meaning. I want to organize my lifestyle and channel my energy in proper ways so I may find many excellent & exciting ideas/opportunities that my entire life would not be enough to complete them. Feeling excited as I write this.  
   
 **PS:** Today I woke up at 4.47 AM and did tasks 0 - 5 :)  
