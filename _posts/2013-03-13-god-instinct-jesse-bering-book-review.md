@@ -11,7 +11,7 @@ redirect_from:
 **Author:** Jesse Bering  
 **ISBN-13:** 978-1857885606
 
-What is God?. Why do I keep stumbling upon books which discusses the concept of God? The more I declare that I don't believe in god, the more books I get to read about God. I don't think much about 'God'. But when I do, I got lost in a very lengthy monologue.I thank the author Jesse Bering for a different insight into the God concept.  
+What is God?. Why do I keep stumbling upon books which discusses the concept of God? The more I declare that I don't believe in god, the more books I get to read about God. I don't think much about 'God'. But when I do, I got lost in a very lengthy monologue. I thank the author Jesse Bering for a different insight into the God concept.  
   
 This book, "The God Instinct" uses hard science to show that God is not a delusion, but a sophisticated cognitive illusion.  
 
@@ -29,7 +29,7 @@ How humans developed this ability in the first place?. Why on earth that only hu
 
 We see other people as more than just their bodies, we also tend to see natural events as more than just natural events. We seem to think that there are subtle messages, signs or cues that god or other supernatural agent is trying to communicate to us - often to us alone. The belief that each and every individual is being watched by God naturally leads us to think that God must communicate to us about our immoral acts and show us the right way. Since this communication must be unique to us, our brain tries to decipher so-called hidden messages from very ordinary natural events.   
   
-Not all of us expects to see god's messages. People with autism will not be able to decipher the hidden subtle messages in natural events. Does this mean that God cannot communicate to these people?. On the other side, people with paranoid schizophrenia see personal signs and messages in nearly everything, living most of their lives in hallucinations. Also, do children have this ability to read messages?. Not until their brain is matured and populated with the beliefs.   
+Not all of us expects to see god's messages. People with autism will not be able to decipher the hidden subtle messages in natural events. Does this mean that God cannot communicate with these people?. On the other side, people with paranoid schizophrenia see personal signs and messages in nearly everything, living most of their lives in hallucinations. Also, do children have this ability to read messages?. Not until their brain is matured and populated with the beliefs.   
   
 These are just two of the many concepts discussed in this book. This book is written by an evolutionary psychologist. So, expect a lot of clinical trials, thought experiments, quotes from other authors, snippets from science and psychology journals. This book keeps your interests alive until the last page. You would definitely want to discuss or tell these concepts to someone you know. My perspective about God is becoming more clear and more convincing now. Of course with the few unanswered, but very important questions. I am happy that I am approaching so-called God or a Cognitive Illusion, one step at a time.  
   
