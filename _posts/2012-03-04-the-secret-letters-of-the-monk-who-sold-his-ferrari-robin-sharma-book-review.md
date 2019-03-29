@@ -17,7 +17,7 @@ Jonathan Laundry is a hardworking automobile designer who struggles to find a ba
   
 ### The Power of Authenticity  
 
-The most important gift we can give ourselves is the commitment to living our authentic life.We must break free of the seductions of society and live life on our own terms, under our own values and aligned with our original dreams.We must explore the deep-seated, unseen hopes, desires, strengths and weaknesses that make us who we are. Every decision we make, every step we take, must be informed by our commitment to living a life that is true and honest and authentic to ourselves and ourselves alone. As we proceed, we are certain to experience fortune well beyond our highest imagination.  
+The most important gift we can give ourselves is the commitment to living our authentic life. We must break free of the seductions of society and live life on our own terms, under our own values and aligned with our original dreams. We must explore the deep-seated, unseen hopes, desires, strengths and weaknesses that make us who we are. Every decision we make, every step we take, must be informed by our commitment to living a life that is true and honest and authentic to ourselves and ourselves alone. As we proceed, we are certain to experience fortune well beyond our highest imagination.  
   
 ### Embrace Your Fears  
 
@@ -25,7 +25,7 @@ The greatest risk in life is taking no risks. But every time we do that which we
   
 ### Live with Kindness  
 
-No action, no matter how small, is insignificant - how we treat someone defines, how we treat everyone, including ourselves. If we cant appreciate those around us, we cant appreciate ourselves. With every person we engage, in everything we do, we must be kinder than expected, more generous than anticipated, more positive than we thought possible. Every moment in front of another human being is a chance to express our highest value and to influence someone with our humanity. We can make the world better, one person at a time.  
+No action, no matter how small, is insignificant - how we treat someone defines, how we treat everyone, including ourselves. If we can't appreciate those around us, we cant appreciate ourselves. With every person we engage, in everything we do, we must be kinder than expected, more generous than anticipated, more positive than we thought possible. Every moment in front of another human being is a chance to express our highest value and to influence someone with our humanity. We can make the world better, one person at a time.  
   
 ### Make Small Daily Progress  
 
@@ -41,7 +41,7 @@ We must always be aware of the things and people we allow into our lives. Its a 
   
 ### Life's Simplest Pleasures are Life's Greatest Joys  
 
-Most people don't discover whats more important in their lives until they are too old to do anything about it. They spend many of their best years pursuing things that matter little in the end. While society invites us to fill our lives with material objects, the best part of us knows that the most basic pleasures are the one that enriches us. We all have a wealth of simple blessings around us - waiting to be counted.  As we do, our happiness grows. Our gratitude expands. And each day becomes a breathtaking gift.  
+Most people don't discover what's more important in their lives until they are too old to do anything about it. They spend many of their best years pursuing things that matter little in the end. While society invites us to fill our lives with material objects, the best part of us knows that the most basic pleasures are the one that enriches us. We all have a wealth of simple blessings around us - waiting to be counted.  As we do, our happiness grows. Our gratitude expands. And each day becomes a breathtaking gift.  
   
 ### The Purpose of Life is to Love  
 
@@ -49,6 +49,6 @@ How well you live, comes down to how much you love. The heart is wiser than your
   
 ### Stand for Something Bigger than Yourself  
 
-There are no extra people alive today. Every single one of us is here for a reason, a special purpose - a mission. Yes, build a beautiful life for yourself and those you love.Yes, be happy and have a lot of fun. And yes, become successful on your own terms than on those suggested to you by society. But, above all else - Be Significant. Make your life matter - be of use. And be of service to as many people as possible. This is how each of us can shift from the realm of the ordinary to the heights of the extraordinary. And walk among the best who have ever lived.  
+There are no extra people alive today. Every single one of us is here for a reason, a special purpose - a mission. Yes, build a beautiful life for yourself and those you love. Yes, be happy and have a lot of fun. And yes, become successful on your own terms than on those suggested to you by society. But, above all else - Be Significant. Make your life matter - be of use. And be of service to as many people as possible. This is how each of us can shift from the realm of the ordinary to the heights of the extraordinary. And walk among the best who have ever lived.  
   
-I just wrote down the key messages from the book in Robin Sharma's words. I would suggest you read the book. This message will go into your subconscious mind directly. Jesus understood the importance of stories, so does Robin. Thank you, Robin, for this book and all the books that you are going to write in future.  
+I just wrote down the key messages from the book in Robin Sharma's words. I would suggest you read the book. This message will go into your subconscious mind directly. Jesus understood the importance of stories, so does Robin. Thank you, Robin, for this book and all the books that you are going to write in the future.  
