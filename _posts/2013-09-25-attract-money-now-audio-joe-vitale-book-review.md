@@ -9,7 +9,7 @@ category: book-reviews
 **Authors:** Joe Vitale  
 **ISBN-13:** 978-1596595996
 
-I knew Dr. Joe Vitale from the movie, The Secret. I use to follow his blogs for a while and lost touch in course of time. Way back in 2008, I had downloaded this book to read in future. This week was it. It's simply awesome. I wish I could have read this book much earlier in my life.  
+I knew Dr. Joe Vitale from the movie, The Secret. I use to follow his blogs for a while and lost touch in the course of time. Way back in 2008, I had downloaded this book to read in the future. This week was it. It's simply awesome. I wish I could have read this book much earlier in my life.  
   
 I have read many books which teaches the tips, tricks and possible means to earn more money or create additional income streams. Most of them were about setting up your own business. This book is different from such other books. This does not teach about business or getting a higher paying job. This book discusses nothing that is materialistic. It's all about our minds, the way we think about money and how to alter our thinking in our favor. This book does not say, *"Just sit and daydream - Money will flow to you"*. We still have to do the hard work. It just helps to keep our minds focused on abundance, instead of scarcity - which will obviously help to achieve our goals.  
   
@@ -19,7 +19,7 @@ Here is the gist of the 7 Steps that were discussed in this book. There were bon
   
 ### Step 1: Alter How You Think  
   
-*Limiting Beliefs* - Any belief that is in conflict with your conscious goals or hinder/prevent you from achieving your goals. If your goal is to make more money, you should have a positive attitude towards money. Some people do think, "Rich people are greedy", "Wealthy people make money with immoral acts" etc., Those are not true. So, the first step is to identify, if you have any such beliefs over money or even the mild variations of such belief. Once you identified those beliefs, bring them to the light, question the validity of those beliefs - 99.99% they are not valid. Once you consciously reason your belief and if that belief is proven wrong, it's no longer a belief for you. You are free from limiting beliefs about money. You should have a positive approach/belief to have more money in your life.  
+*Limiting Beliefs* - Any belief that is in conflict with your conscious goals or hinders/prevent you from achieving your goals. If your goal is to make more money, you should have a positive attitude towards money. Some people do think, "Rich people are greedy", "Wealthy people make money with immoral acts" etc., Those are not true. So, the first step is to identify, if you have any such beliefs over money or even the mild variations of such belief. Once you identified those beliefs, bring them to the light, question the validity of those beliefs - 99.99% they are not valid. Once you consciously reason your belief and if that belief is proven wrong, it's no longer a belief for you. You are free from limiting beliefs about money. You should have a positive approach/belief to have more money in your life.  
   
 ### Step 2: Give Without Expectation  
   
@@ -34,7 +34,7 @@ Every week or every month or even every day, look for the place or person where 
   
 ### Step 3: Prosperous Spending  
   
-Spending to attract more money?. This is something that I never heard of. Joe Vitale does not talk about reckless spending and racking up the credit cards. When you have the money to buy and there is a desire to buy, go buy!. Never buy on credit. The author stresses the importance spending for ourselves. A lot of times, we get into relationships and always think about making others happy and forget about spending for us. Spend for yourself. Spend with joy. When there is happiness in spending, you are in the flow of money. This is similar to Step 2, just that you give to yourself. Money is as much about spending as receiving. This is Prosperous Spending.  
+Spending to attract more money?. This is something that I never heard of. Joe Vitale does not talk about reckless spending and racking up the credit cards. When you have the money to buy and there is a desire to buy, go buy!. Never buy on credit. The author stresses the importance of spending on ourselves. A lot of times, we get into relationships and always think about making others happy and forget about spending for us. Spend for yourself. Spend with joy. When there is happiness in spending, you are in the flow of money. This is similar to Step 2, just that you give to yourself. Money is as much about spending as receiving. This is Prosperous Spending.  
   
 ### Step 4: Ask for Help  
   
@@ -56,7 +56,7 @@ The reason you want more money is that you want freedom. Freedom to go anywhere,
   
 ### Step 7: Help Your Community & Your World  
   
-The seventh and final step in attracting more money is caring for your community and the world as a whole. This works hand in hand with giving - but it's not just about money. It's about sharing your time, knowledge and the lessons you have learned. So, constantly look for opportunities to give back to the society. Your success will inspire others to achieve even more in their lives.  
+The seventh and final step in attracting more money is caring for your community and the world as a whole. This works hand in hand with giving - but it's not just about money. It's about sharing your time, knowledge and the lessons you have learned. So, constantly look for opportunities to give back to society. Your success will inspire others to achieve even more in their lives.  
   
 As you grow, your dreams and desires will change - don't be afraid to jump on new opportunities that inspire you. This is one of the areas, that I have tough times to adjust with. I hang on to too many things that I originally decided to do. I thought that was persistence. But, Dr. Joe Vitale says that we must be free to move on to new ideas that excite and inspires us. Never fear to let go of the old ideas. Let me try.  
   
