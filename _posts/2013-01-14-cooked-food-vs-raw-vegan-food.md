@@ -44,11 +44,11 @@ This special vitamin is needed for normal functioning of brain, nervous system a
 
 ### You need to eat more with Raw Vegan Foods
 
-That is 100% true. Due to the low calorific value of raw foods, we need to eat more and more often. It was tough millions of years ago. With the abundance of food sources available right next to our door, this should not be a problem. Even with cooked food, the experts suggest us to eat six small meals rather than 3 large meals. With Raw Vegan foods, we will be forced to follow that pattern, which is good for us. Isn't it?  
+That is 100% true. Due to the low calorific value of raw foods, we need to eat more and more often. It was tough millions of years ago. With the abundance of food sources available right next to our door, this should not be a problem. Even with cooked food, the experts suggest we eat six small meals rather than 3 large meals. With Raw Vegan foods, we will be forced to follow that pattern, which is good for us. Isn't it?  
 
 ### Reversal of chronic diseases with Raw Vegan Food
 
-Many people claim to have reversed the chronic diseases like diabetes, heart diseases, arthritis and even some types of cancer in few weeks to few months of eating raw vegan food. Scientific human trials are needed to confirm these claims.  
+Many people claim to have reversed the chronic diseases like diabetes, heart diseases, arthritis and even some types of cancer in a few weeks to a few months of eating raw vegan food. Scientific human trials are needed to confirm these claims.  
 
 ### Extreme Endurance with Raw Vegan Foods
 
