@@ -11,7 +11,7 @@ category: book-reviews
 
 Interesting title. I liked the book design also. Simple but different from the other books. Every chapter begins with a deep orange color page with a bold chapter number on the other side. The book is filled with lots of images, white space to make notes, readable font, good quality paper and it's very nice to hold and read. So, I decided to read the book without even reading a chapter from this book.  
   
-After reading this book, your perception about design would change drastically as it happened to me. Before this book, I thought the design is designer's job. Period. But that's not true. Here the author Robert introduces a concept called "Customer experience supply chain". I will let the author explain in his words,  
+After reading this book, your perception of design would change drastically as it happened to me. Before this book, I thought the design is a designer's job. Period. But that's not true. Here the author Robert introduces a concept called "Customer experience supply chain". I will let the author explain in his words,  
 
 > Close your eyes and imagine that you are holding an iPod. Now take away iTunes, take away the ability to buy the song for 99 cents without having to pay for the entire CD, lose the ability to create a playlist, cut out the packaging, delete the Apple logo and shutter all the aesthetically designed Apple stores. "Is it still an iPod?". No, it's not, because an iPod is a portal to the kaleidoscope of experience.  
 
@@ -28,7 +28,7 @@ Every CEO should read this chapter (I wish). The author asks a lot of thought-pr
 Robert explains how to use design to create a relationship with the customer that matters and how the design of products and services creates an emotional connection with the customers. Lots of examples as usual.  
   
 ### Being Design Driven
-He again takes the example of Apple and explains how a design-driven company like Apple functions and what are all the difficulties that may surface between the design, engineering and manufacturing departments.He gives us a preview of what your company would look like if you are to change your model to a design driven model.  
+He again takes the example of Apple and explains how a design-driven company like Apple functions and what are all the difficulties that may surface between the design, engineering and manufacturing departments. He gives us a preview of what your company would look like if you are to change your model to a design driven model.  
   
 Next three chapters "Your Brand Is Not Your Logo", "Products As Portals" and "Your Products And Services Are Talking To People" essentially explains in detail what was discussed in the previous chapters. I feel all these three chapters are redundant and could have been accommodated to other chapters.  
   
