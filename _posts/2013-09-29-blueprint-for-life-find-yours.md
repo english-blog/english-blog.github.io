@@ -19,7 +19,7 @@ Not required, if you are extremely happy and excited about your life and everyth
   
 ### How to list your Blueprint?  
   
-List down all the values, practices or rituals that you live by. If you have never thought about your own set of values, you may need a little help. Imagine or think about your one complete day, from the moment you wake up till you go back to sleep. Slowly think about every single event that happens in your day. Do you see a pattern?. Do you see yourself doing the same thing again and again?. Do you see yourself behaving to the similar situation in the same way or different way each time?. Write them down.  
+List down all the values, practices or rituals that you live by. If you have never thought about your own set of values, you may need a little help. Imagine or think about your one complete day, from the moment you wake up till you go back to sleep. Slowly think about every single event that happens in your day. Do you see a pattern?. Do you see yourself doing the same thing again and again?. Do you see yourself behaving to a similar situation in the same way or different way each time?. Write them down.  
   
 Imagine the happiest or the toughest situation in your life. Did you react in a way that you wanted to react or did you react to your will?. Did you stand for what you felt right or succumbed to the situation?. Do you have any goal?. Will you do anything to achieve that goal or only the things that you feel right?. Do you want to serve the people?. How do you react to your relationships?. You take some relationships for granted, like your mom & dad?. How are you when you are with friends and compare that you being with strangers.  
   
@@ -29,7 +29,7 @@ These are some of the questions which will help you to discover your blueprints.
   
 Once you have the list of values to live by - think through each of the values in the list. Think about when this value would have been added to your blueprint. Think about the situation that caused you to adhere to this value. You will be surprised that most of your core values were formed during your childhood, mostly from your parents and society.  
   
-Many times, you may not be able to point out a specific situation that changed your blueprint. It could be a series of experiences that caused the change in you. That's fine. Evaluate that specific value for it's relevance to today. If you continue with this value, will you achieve your goals or will you continue to be happy?. Will this value be relevant in future?. What is the downside of continuing this value in your life?. Are ready for that?.  
+Many times, you may not be able to point out a specific situation that changed your blueprint. It could be a series of experiences that caused the change in you. That's fine. Evaluate that specific value for it's relevance to today. If you continue with this value, will you achieve your goals or will you continue to be happy?. Will this value be relevant in the future?. What is the downside of continuing this value in your life?. Are ready for that?.  
   
 Once you completed the evaluation of that specific value in your blueprint, move on to the next value. When the evaluation of all the values complete, your life becomes crystal clear for you. You know what to do and what not to do. You precisely know how to react to a specific situation that is in conflict with your value system. Your life becomes easy.  
   
