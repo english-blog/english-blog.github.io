@@ -8,7 +8,7 @@ I passed the *Google Certified Professional - Cloud Architect* exam on July 24, 
 
 ![Certification Image](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/11761237?key=c2340e5fb67bd9183b3a6629c1a0b8209e896f9460c7b2739c3a5171daa17675)
   
-Like everyone else, I googled for preparation tips from those who were certified already. I was overwhelmed by the amount of information that I have to consume (online courses, documentation, videos etc). Even though this is a professional level certification, I wasn't really sure, that I have to subject myself to so much mundane reading and watching. I am working with Google Cloud Platform for about **a year and a half**, completely hands-on on a good number of services. So, I thought I should be able to clear the exam even without preparation. But, I didn't take chances anyway.
+Like everyone else, I googled for preparation tips from those who were certified already. I was overwhelmed by the amount of information that I have to consume (online courses, documentation, videos, etc.). Even though this is a professional level certification, I wasn't really sure, that I have to subject myself to so much mundane reading and watching. I am working with Google Cloud Platform for about **a year and a half**, completely hands-on on a good number of services. So, I thought I should be able to clear the exam even without preparation. But, I didn't take chances anyway.
 
 So, I crafted my own plan. Here you go.
 
@@ -36,17 +36,17 @@ This is the only section of the preparation, where you need to know the decision
 
 ### 3. Review the GCP Solutions
 
-If you are already a solutions architect, you must have created quite a lot of architectures for many cloud providers and you could skip this section. If that's not you, please pay more attention to this. Irrespective of the certification results, you will be doing this as a profession anyway.
+If you are already a solutions architect, you must have created quite a lot of architectures for many cloud providers, and you could skip this section. If that's not you, please pay more attention to this. Irrespective of the certification results, you will be doing this as a profession anyway.
 
 [Cloud Solutions Architecture Reference](http://gcp.solutions/)
 
 Go through every single architecture; evaluate each one of them. See, if you can come up with a better solution, with the latest offerings from GCP. Quite frankly many of them are outdated. Use this as a training ground to create solutions for a wide variety of industries. You will love this.
 
-**Pro Tip:** Don't just glance through the architecture diagrams, even if it looks very simple. Absorb the diagram in your mind and quickly scribble them as little boxes without looking at the actual diagram. The act of drawing it on a notepad reinforces that architecture deep into your mind.
+**Pro Tip:** Don't just glance through the architecture diagrams, even if it looks straightforward. Absorb the picture in your mind and quickly scribble them as little boxes without looking at the actual diagram. The act of drawing it on a notepad reinforces that architecture deep into your consciousness.
 
 ### 4. Create solutions for all 4  Case Studies
 
-Imagine them as your real customers and create real solutions for them. Complete, Exhaustive Solutions. Draw the architecture. Write down why you chose a specific service vs other possibilities. Write down how your solution is highly scalable and reliable and what the limitations are. The document that you create could be a simple scratchpad with jotted down notes. But it should contain enough information to produce a complete, detailed solutions architecture diagram.
+Imagine them as your real customers and create real-world solutions for them. Complete, Exhaustive Solutions. Draw the architecture. Write down why you chose a specific service vs. other possibilities. Write down how your solution is highly scalable and reliable and what the limitations are. The document that you create could be a simple scratchpad with jotted down notes. But it should contain enough information to produce a complete, detailed solutions architecture diagram.
 
 [Case Studies](https://cloud.google.com/certification/guides/cloud-architect/#sample-case-study)
 
@@ -62,7 +62,7 @@ If you already completed the previous 4 steps and still have time left, you coul
 
 ### 6. Google Next Videos
 
-Completely for your leisure and learning. Please don't watch each and every one of them. Scroll through the list, pick and watch what interests you. 
+Entirely for your leisure and learning. Please don't watch each and every one of the videos. Scroll through the list, pick and watch what interests you. 
 
 [Google Cloud Next '17 - All Sessions](https://www.youtube.com/playlist?list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR)
 
