@@ -70,10 +70,6 @@ Just like bodybuilding, retraining the eyes to see normally requires more than j
 
 I am planning to have at least one meal or snack every day which has all of these nutrients. I collected the top 10 foods in each nutrient and put them together in this [text file]({{ site.download-path }}/nutrients-for-eyesight.txt). Please feel free to use this file as a reference.  
 
-### Emotional Freedom Technique
-
-I have had good success with EFT in the past, with respect to the emotional aspect of living. There are claims that EFT can be used to release emotional blocks (fear, guilt, anger, shame etc) which could possibly cause defective vision. Carol Look, a famous EFT practitioner has conducted an experiment to treat people with eyesight problems, by teaching them EFT and helping them to release the pent-up emotions. Amazingly 75% of the participants reported 15-75% improvement in their vision (as claimed in the book itself).  
-
 ### Other means?
 
 These are all the things that are in my mind, right now. I may add other practices, products for improving my eyesight as I get to know more. If you know any tips that could help me, please let me know.  
@@ -81,8 +77,10 @@ These are all the things that are in my mind, right now. I may add other practic
 ### School For Perfect EyeSight - Additional Information
 
 I frequently get many emails for suggestions and references to **The School For Perfect Eyesight**.   
-First, I am neither an Ophthalmologist nor an Optometrist. I am not qualified enough to provide suggestions. These are just my experiences.   
-Second, **The School For Perfect Eyesight** is run by **Sri Aurobindo Ashram**. I am in no way related to the School or the Ashram. I would suggest to check with them on the availability and plan your visit. Please be prepared for a week's stay in Pondicherry. They are very polite and helpful people. Please contact them directly for any questions.
+
+1) I am neither an Ophthalmologist nor an Optometrist. I am not qualified enough to provide suggestions. These are just my experiences.   
+
+2) **The School For Perfect Eyesight** is run by **Sri Aurobindo Ashram**. I am in no way related to the School or the Ashram. I would suggest to check with them on the availability and plan your visit. Please be prepared for a week's stay in Pondicherry. They are very polite and helpful people. Please contact them directly for any questions.
 
 **School For Perfect Eye Sight**  
 **Address:** 2A, Lally Tollendal St,  
