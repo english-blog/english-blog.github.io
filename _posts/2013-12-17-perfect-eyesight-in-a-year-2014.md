@@ -51,7 +51,7 @@ Puducherry - 605002.
 **Contact Person:** Mr. Santhosh  
 **Phone:** (0413) 2233-659   
 **Email:** auroeyesight@yahoo.com  
-**Working Hours:** 8 To 11 A.M. and 3 To 5 P.M.  
+**Working Hours:** 8 To 11 A.M. and 3 To 5 P.M. (IST) 
 **Holidays:** Monday  
 
 ### During Office hours
@@ -87,9 +87,9 @@ These are all the things that are in my mind, right now. I may add other practic
 
 ### Disclaimer
 
-I frequently get many emails for suggestions and references to **The School For Perfect Eyesight**.   
+I frequently get many emails for suggestions and appointments to **The School For Perfect Eyesight**.   
 
-1) I am neither an Ophthalmologist nor an Optometrist. I am not qualified enough to provide suggestions. These are just my experiences.   
+1) I am neither an Ophthalmologist nor an Optometrist. I am not qualified to provide suggestions. These are just my experiences.   
 
 2) **The School For Perfect Eyesight** is run by **Sri Aurobindo Ashram**. I am in no way related to the School or the Ashram. I would suggest to check with them on the availability and plan your visit. Please be prepared for a week's stay in Pondicherry. They are very polite and helpful people. Please contact them directly for any questions.
 
