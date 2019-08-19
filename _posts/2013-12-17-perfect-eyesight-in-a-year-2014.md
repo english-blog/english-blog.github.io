@@ -43,6 +43,17 @@ Exercises 1 - reserved for sunny days.
 Exercises 2 - 7 on a daily basis.  
 Exercises 8 & 9 - as and when time permits.  
 
+### School For Perfect Eye Sight
+
+**Address:** 2A, Lally Tollendal St,  
+White Town,   
+Puducherry - 605002.  
+**Contact Person:** Mr. Santhosh  
+**Phone:** (0413) 2233-659   
+**Email:** auroeyesight@yahoo.com  
+**Working Hours:** 8 To 11 A.M. and 3 To 5 P.M.  
+**Holidays:** Monday  
+
 ### During Office hours
 
 Since I work with computers, I must wear glasses all the time while I am in the office, which is not suggested by Dr. William H. Bates. I don't know any other way at this moment. But I am going to follow few other tips in the office to reduce the strain caused by the computer screen.  
@@ -74,22 +85,12 @@ I am planning to have at least one meal or snack every day which has all of thes
 
 These are all the things that are in my mind, right now. I may add other practices, products for improving my eyesight as I get to know more. If you know any tips that could help me, please let me know.  
 
-### School For Perfect EyeSight - Additional Information
+### Disclaimer
 
 I frequently get many emails for suggestions and references to **The School For Perfect Eyesight**.   
 
 1) I am neither an Ophthalmologist nor an Optometrist. I am not qualified enough to provide suggestions. These are just my experiences.   
 
 2) **The School For Perfect Eyesight** is run by **Sri Aurobindo Ashram**. I am in no way related to the School or the Ashram. I would suggest to check with them on the availability and plan your visit. Please be prepared for a week's stay in Pondicherry. They are very polite and helpful people. Please contact them directly for any questions.
-
-**School For Perfect Eye Sight**  
-**Address:** 2A, Lally Tollendal St,  
-White Town,   
-Puducherry - 605002.  
-**Contact Person:** Mr. Santhosh  
-**Phone:** (0413) 2233-659   
-**Email:** auroeyesight@yahoo.com  
-**Working Hours:** 8 To 11 A.M. and 3 To 5 P.M.  
-**Holidays:** Monday  
 
 If you still feel I can be any help, please feel free to contact me.  
