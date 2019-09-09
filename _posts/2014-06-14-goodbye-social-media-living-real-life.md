@@ -89,9 +89,9 @@ Losing contacts does not mean losing friends. I am merely severing one of the co
 
 ### What will I gain?
 
-1. Little more quality time with friends and family. 
-2. Complete freedom from one of the distractions. 
-3. Protection of my personal data.
+1. Quality time with family and friends. 
+2. One less distraction from life. 
+3. Privacy of my personal data.
 
 ### Will I be ultimately out of the digital world?
 
