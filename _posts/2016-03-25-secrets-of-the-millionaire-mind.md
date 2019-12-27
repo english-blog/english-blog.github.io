@@ -27,8 +27,6 @@ I was awestruck when he hits the bull’s eye when talking about the couples/par
 
 > The only thing we ever fought about was money. What we didn't know at the time was that the meaning each of us attributed to money was radically different. To my wife, money meant immediate pleasure (as in enjoying her ice cream). I, on the other hand, grew up with the belief that money was meant to be accumulated as a means to create freedom.
 
-I never realized the blueprint aspect of spending. I felt that my wife spends a lot because she was careless. But, it is not the case. It's just that her blueprint is different than mine. She has no emotions/thoughts associated with saving money. It's not her fault.  
-
 *What a revelation!!!*   
 
 Thank you, Harv Eker. This one information made my day. I and my wife started consciously working to align our money blueprint as much as we could so that we can sail together happily forever. There is a wealth of information about making wealth in this book. Just dive in.  
