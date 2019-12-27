@@ -99,7 +99,7 @@ No. I love writing. I will continue to blog at the below websites. You can subsc
 
 1. [{{site.title}}]({{site.url}})
 2. [&#2965;&#2985;&#2997;&#3009;](http://tamil.smileprem.com)
-3. ~~[Raw Vegan Recipes](http://raw-vegan-recipes.com/)~~ - I deleted the website. I am no longer a raw vegan. I would suggest, doing the opposite. Follow a Paleo lifestyle.
+3. ~~Raw Vegan Recipes~~ - I deleted the website. I am no longer a raw vegan. I would suggest, doing the opposite. Follow a Paleo lifestyle.
 
 I will also retain my [LinkedIn]({{site.social.links[0]}}) account for my professional growth.
 
