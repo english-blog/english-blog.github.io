@@ -5,14 +5,13 @@ date: 2020-02-02
 category: math
 ---
 
-I stumbled upon a question recently, "When dividing a number by a fraction, why do we invert and multiply?". We all know the answer intuitively - "It produces the same result". Why does it produce the same result?
-
-I never asked that question during my school or college days. Better late than never. I tried to explain that to my wife with the help of some pictures.
+I stumbled upon a question recently, *When dividing a number by a fraction, why do we invert and multiply?*. We all know the answer intuitively - *It produces the same result*. Do you know why does it produce the same result?
 
 Let's get the basics straight.
 
-> **Multiplication** is the repeated addition of the same number
-> **Division** is the splitting of number into equal parts
+**Multiplication** is the repeated addition of the same number
+
+**Division** is the splitting of number into equal parts
 
 Let's use even numbers to explain the concepts. 
 
