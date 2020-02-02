@@ -23,6 +23,8 @@ permalink: /categories/
 
 <li><p><a href="{{ site.url }}/category/technology/">Technology</a></p></li>
 
+<li><p><a href="{{ site.url }}/category/math/">Math</a></p></li>
+
 <li><p><a href="{{ site.url }}/category/personal/">Personal</a></p></li>
 
 <li><p><a href="{{ site.url }}/category/travelogue/">Travelogue</a></p></li>
