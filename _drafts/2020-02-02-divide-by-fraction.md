@@ -20,7 +20,7 @@ Let's use even numbers to explain the concepts.
 
 (i.e.) If you split the number 4 into groups of 2, how many such groups can be created?. 
 
--- Add an image here --
+&9634; &9634; &9634; &9634; &rarr; | &9634; &9634; | &9634; &9634; |
 
 > 4/4 = 1
 
