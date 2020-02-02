@@ -19,7 +19,7 @@ Let's use even numbers to explain the concepts.
 
 (i.e.) If you split the number 4 into groups of 2, how many such groups can be created?. 
 
-&#25A2; &#25A2; &#25A2; &#25A2; &rarr; | &#25A2; &#25A2; | &#25A2; &#25A2; |
+&#9634; &#9634; &#9634; &#9634; &rarr; | &#9634; &#9634; | &#9634; &#9634; |
 
 > 4/4 = 1
 
