@@ -48,36 +48,11 @@ More than 13% -- You are being cheated.
   
 It was like this when we bought *Thali Kodi* for my wife and a *Short Chain* for me. I saved my hard earned money of Rs. 3,816 from the Jewellers.  
 
-<table border="1">
-<thead>
-<tr>
-<td><b>Person</b></td>
-<td><b>Thali Kodi</b></td>
-<td><b>Short Chain</b></td>
-<td><b>Time Taken</b></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Salesman</td>
-<td>13%</td>
-<td>16%</td>
-<td>5 Minutes</td>
-</tr>
-<tr>
-<td>Manager</td>
-<td>10%</td>
-<td>13%</td>
-<td>5 Minutes</td>
-</tr>
-<tr>
-<td>Manager</td>
-<td>9.5%</td>
-<td>13%</td>
-<td>10 Minutes</td>
-</tr>
-</tbody>
-</table>
+|Person|Thali Kodi|Short Chain|Time Taken|
+|:---|:---|:---|:---|
+|Salesman|13%|16%|5 Minutes|
+|Manager|10%|13%|5 Minutes|
+|Manager|9.5%|13%|10 Minutes|
 
 ### Remember the below
 
