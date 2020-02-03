@@ -65,7 +65,7 @@ What is a group of half numbers?. Simple. Split a single number to two equal par
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |4| &rarr; |1|2|3|4|5|6|7|8|
 
-Four divided by a fraction (1/2) equals eight.
+Four divided by 1/2 equals eight.
 
 Please ignore the shape and size of the objects. Just count the numbers.
 
