@@ -15,21 +15,25 @@ Let's get the basics straight.
 
 Let's use even numbers to explain the concepts. 
 
-> 4/2 = 2 (Four divided by two, equals two)
+> 4/2 = 2
 
 (i.e.) If you split the number 4 into groups of 2, how many such groups can be created?. 
 
 | &#9634; &#9634; &#9634; &#9634; | &rarr; | &#9634; &#9634; | &#9634; &#9634; |
 |:---:|:---:|:---:|:---:|
-|4 objects| &rarr; |1st group|2nd group|
+|4 objects| &rarr; |1|2|
 
-> 4/4 = 1 (Four divided by four, equals one)
+Four divided by two, equals two
+
+> 4/4 = 1 
 
 (i.e.) If you split the number 4 into groups of 4, how many such groups can be created?. 
 
 | &#9634; &#9634; &#9634; &#9634; | &rarr; | &#9634; &#9634; &#9634; &#9634; |
 |:---:|:---:|:---:|
-|4 objects| &rarr; |1st group|
+|4 objects| &rarr; |1|
+
+Four divided by four, equals one
 
 > 4/1 = 4 (Four divided by one, equals four)
 
@@ -37,7 +41,7 @@ Let's use even numbers to explain the concepts.
 
 | &#9634; &#9634; &#9634; &#9634; | &rarr; | &#9634; | &#9634; | &#9634; | &#9634; |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|4 objects| &rarr; |1st group|2nd group|3rd group|4th group|
+|4 objects| &rarr; |1|2|3|4|
 
 So far, everything is clear. What happens when you divide the number by a fraction?
 
