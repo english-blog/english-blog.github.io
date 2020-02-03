@@ -21,7 +21,7 @@ Let's use even numbers to explain the concepts.
 
 | &#9634; &#9634; &#9634; &#9634; | &rarr; | &#9634; &#9634; | &#9634; &#9634; |
 |:---:|:---:|:---:|:---:|
-|4 objects| &rarr; |1|2|
+|4| &rarr; |1|2|
 
 Four divided by two, equals two
 
@@ -31,7 +31,7 @@ Four divided by two, equals two
 
 | &#9634; &#9634; &#9634; &#9634; | &rarr; | &#9634; &#9634; &#9634; &#9634; |
 |:---:|:---:|:---:|
-|4 objects| &rarr; |1|
+|4| &rarr; |1|
 
 Four divided by four, equals one
 
@@ -41,7 +41,7 @@ Four divided by four, equals one
 
 | &#9634; &#9634; &#9634; &#9634; | &rarr; | &#9634; | &#9634; | &#9634; | &#9634; |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|4 objects| &rarr; |1|2|3|4|
+|4| &rarr; |1|2|3|4|
 
 So far, everything is clear. What happens when you divide the number by a fraction?
 
@@ -51,7 +51,9 @@ So far, everything is clear. What happens when you divide the number by a fracti
 
 What's a group of half numbers?. Simple. Split a single number to two equal parts. Put one half in one group.
 
--- Add an image here --
+| &#9634; &#9634; &#9634; &#9634; | &rarr; | &#9720; | &#9727; | &#9720; | &#9727; | &#9720; | &#9727; | &#9720; | &#9727; | 
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|4| &rarr; |1|2|3|4|5|6|7|8|
 
 Please ignore the shape and size of the objects. These are for illustration only. Just count the numbers.
 
