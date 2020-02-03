@@ -41,13 +41,15 @@ Four divided by four, equals one
 
 #### Problem 3
 
-> 4/1 = 4 (Four divided by one, equals four)
+> 4/1 = 4 
 
 (i.e.) If you split the number 4 into groups of 1, how many such groups can be created?. 
 
 | &#9634; &#9634; &#9634; &#9634; | divide by 1 | &#9634; | &#9634; | &#9634; | &#9634; |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |4| &rarr; |1|2|3|4|
+
+Four divided by one, equals four
 
 So far, everything is clear. What happens when you divide the number by a fraction?
 
@@ -62,6 +64,8 @@ What's a group of half numbers?. Simple. Split a single number to two equal part
 | &#9634; &#9634; &#9634; &#9634; | divide by half (1/2) | &#9720; | &#9727; | &#9720; | &#9727; | &#9720; | &#9727; | &#9720; | &#9727; | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |4| &rarr; |1|2|3|4|5|6|7|8|
+
+Four divided by one, equals four
 
 Please ignore the shape and size of the objects. These are for illustration only. Just count the numbers.
 
