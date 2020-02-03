@@ -67,9 +67,9 @@ What is a group of half numbers?. Simple. Split a single number to two equal par
 
 Four divided by one equals four.
 
-Please ignore the shape and size of the objects. These are for illustration only. Just count the numbers.
+Please ignore the shape and size of the objects. Just count the numbers.
 
-When we divide a number, we are not just grouping the numbers. We split the numbers first and then group them. So, the number is increased (multiplied)
+When we divide a number, we are not just grouping the numbers. We split the numbers first and then group them. So, the number increases (multiplied).
 
 Let us see what happens when we invert the fraction and multiply?.
 
