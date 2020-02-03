@@ -15,35 +15,43 @@ Let's get the basics straight.
 
 Let's use even numbers to explain the concepts. 
 
+#### Problem 1
+
 > 4/2 = 2
 
 (i.e.) If you split the number 4 into groups of 2, how many such groups can be created?. 
 
-| &#9634; &#9634; &#9634; &#9634; | &rarr; | &#9634; &#9634; | &#9634; &#9634; |
+| &#9634; &#9634; &#9634; &#9634; | divide by 2 | &#9634; &#9634; | &#9634; &#9634; |
 |:---:|:---:|:---:|:---:|
 |4| &rarr; |1|2|
 
 Four divided by two, equals two
 
+#### Problem 2
+
 > 4/4 = 1 
 
 (i.e.) If you split the number 4 into groups of 4, how many such groups can be created?. 
 
-| &#9634; &#9634; &#9634; &#9634; | &rarr; | &#9634; &#9634; &#9634; &#9634; |
+| &#9634; &#9634; &#9634; &#9634; | divide by 4 | &#9634; &#9634; &#9634; &#9634; |
 |:---:|:---:|:---:|
 |4| &rarr; |1|
 
 Four divided by four, equals one
 
+#### Problem 3
+
 > 4/1 = 4 (Four divided by one, equals four)
 
 (i.e.) If you split the number 4 into groups of 1, how many such groups can be created?. 
 
-| &#9634; &#9634; &#9634; &#9634; | &rarr; | &#9634; | &#9634; | &#9634; | &#9634; |
+| &#9634; &#9634; &#9634; &#9634; | divide by 1 | &#9634; | &#9634; | &#9634; | &#9634; |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |4| &rarr; |1|2|3|4|
 
 So far, everything is clear. What happens when you divide the number by a fraction?
+
+#### Problem 4
 
 > 4/(1/2) = 8
 
@@ -51,18 +59,22 @@ So far, everything is clear. What happens when you divide the number by a fracti
 
 What's a group of half numbers?. Simple. Split a single number to two equal parts. Put one half in one group.
 
-| &#9634; &#9634; &#9634; &#9634; | &rarr; | &#9720; | &#9727; | &#9720; | &#9727; | &#9720; | &#9727; | &#9720; | &#9727; | 
+| &#9634; &#9634; &#9634; &#9634; | divide by half (1/2) | &#9720; | &#9727; | &#9720; | &#9727; | &#9720; | &#9727; | &#9720; | &#9727; | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |4| &rarr; |1|2|3|4|5|6|7|8|
 
 Please ignore the shape and size of the objects. These are for illustration only. Just count the numbers.
 
-When you divide a number, you are not just grouping the numbers. You spilt the numbers first and then grouping them together. So, the number is actually increased (multiplied)
+When you divide a number, you are not just grouping the numbers. You split the numbers first and then group them together. So, the number is actually increased (multiplied)
 
 Let's see what happens when we invert the fraction and multiply?.
 
 > 4 / (1/2) = 4 X 2 = 8
 
-You see the difference?. Multiplication simply adds the number to itself. Division by a fraction, splits the numbers and groups it. The end result is the same.
+| &#9634; &#9634; &#9634; &#9634; | multiply by 2 | &#9634; &#9634; &#9634; &#9634; + &#9634; &#9634; &#9634; &#9634; |
+|:---:|:---:|:---:|
+|4| &rarr; |8|
+
+You see the difference?. Multiplication simply adds the number to itself. Division by a fraction, splits the numbers and groups it. So, when you divide a number by a fraction or inverse the fraction and multiply the number, the result is the same.
 
 I hope this explanation helps.
