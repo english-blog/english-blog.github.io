@@ -21,6 +21,7 @@ Let's use even numbers to explain the concepts.
 
 &#9634; &#9634; &#9634; &#9634; | &rarr; | &#9634; &#9634; | &#9634; &#9634; |
 |:---:|:---:|:---:|:---:|
+|4 objects| &rarr; |1st group of 2|2nd group of 2|
 
 > 4/4 = 1
 
