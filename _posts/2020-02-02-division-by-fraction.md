@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Division by fraction
+title: Division by Fraction
 date: 2020-02-02
 category: math
 ---
