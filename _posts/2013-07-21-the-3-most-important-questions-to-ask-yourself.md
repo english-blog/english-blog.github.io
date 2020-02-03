@@ -11,48 +11,14 @@ I used to watch a lot of videos, audios related to personal development/self-hel
   
 Here is what I wrote in my journal, after completing the exercises mentioned in this video.  
 
-<table border="1">
-<thead>
-<tr>
-<td><b>Experiences</b></td>
-<td><b>Growth</b></td>
-<td><b>Contribution</b></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Love</td>
-<td>Read more and more</td>
-<td>Social Activist</td>
-</tr>
-<tr>
-<td>Travel</td>
-<td>Learn Martial Arts</td>
-<td>End Poverty in the world</td>
-</tr>
-<tr>
-<td>Write Self Development Books</td>
-<td>Become a Speaker</td>
-<td>Unite all the nations</td>
-</tr>
-<tr>
-<td>Six Pack Body</td>
-<td>Become a Teacher</td>
-<td>Eliminate spending on Military</td>
-</tr>
-<tr>
-<td>Bring up kids with rational thoughts</td>
-<td>Grow in Meditation</td>
-<td>Teach Kids in poor countries</td>
-</tr>
-<tr>
-<td>Long lasting friendship</td>
-<td>Extra-ordinary physical feats</td>
-<td>Teach the world about the right food</td>
-</tr>
-</tbody>
-</table>
-
+|Experiences|Growth|Contribution|
+|:---|:---|:---|
+|Love|Read more and more|Social Activist|
+|Travel|Learn Martial Arts|End Poverty in the world|
+|Write Self Development Books|Become a Speaker|Unite all the nations|
+|Six Pack Body|Become a Teacher|Eliminate spending on Military|
+|Bring up kids with rational thoughts|Grow in Meditation|Teach Kids in poor countries|
+|Long lasting friendship|Extra-ordinary physical feats|Teach the world about the right food|
   
 Experience, Growth & Contribution - I never thought or planned my life in these terms. This seems to be a different and interesting way to look at my life goals. Even though I had only 90 seconds to think about each category, the output is surprising. Some of the items like *Learning Martial Arts* in Growth category were forgotten long ago in my life. I am surprised to see that this is the second item where I want to grow. I can correlate the emotional burst I have, every time I watch an action movie and my irrational imagination of me being *Achilles (from the movie Troy - I watched that movie so many times)*. This one trait (imagining myself as the warrior) has never changed from my childhood. I think, its time that I feed the wild side of myself.  
   
