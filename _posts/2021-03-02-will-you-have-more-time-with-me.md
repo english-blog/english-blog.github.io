@@ -7,7 +7,7 @@ category: personal
 
 Mar 1st, 2021. ~11.30 PM PST.
 
-We were watching a Tamil movie [Kaaka Muttai](https://www.imdb.com/title/tt3973410/) tonight. My wife was sitting next to me, and my daughter in my lap, leaning on my chest, all feeling cozy inside a velvet comforter. Our typical family movies time.
+We were watching a Tamil movie [Kaaka Muttai](https://www.imdb.com/title/tt3973410/) tonight. My wife was sitting next to me, and my 5 year old daughter in my lap, leaning on my chest, all feeling cozy inside a velvet comforter. Our typical family movie time.
 
 The grandmother character dies in that movie, triggering a conversation between me and my daughter.
 
