@@ -9,7 +9,7 @@ Mar 1st, 2021. ~11.30 PM PST.
 
 We were watching a Tamil movie [Kaaka Muttai](https://www.imdb.com/title/tt3973410/) tonight. My wife was sitting next to me, and my 5 year old daughter in my lap, leaning on my chest, all feeling cozy inside a velvet comforter. Our typical family movie time.
 
-The grandmother character dies in that movie, triggering a conversation between me and my daughter.
+The grandmother character dies in that movie, triggering a conversation between me and my 5 year old daughter.
 
 **Aradhana (daughter):** Why did she die? (curious)  
 **Premkumar (dad):** Everyone dies when they get old. (casual)  
@@ -23,7 +23,7 @@ She thinks deeply for a few moments and suddenly sadness engulfs her pretty face
 
 I didn't know what to say. My world froze. Trembling words and tearful eyes. Am I happy or sad or confused? Or all of them together?. I don't know. With mixed emotions, I said,
 
-**Premkumar (dad):** I promise I'll be there for you, as long as I am alive. I love you.
+**Premkumar (dad):** Ara, I promise I'll be there for you, as long as I am alive. I love you.
 
 I hugged her tightly for a while, caressing her hair, kissing her head, feeling heavenly to have found the meaning of my existence. 
 
