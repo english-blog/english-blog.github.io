@@ -1,6 +1,6 @@
 title: smileprem
 tagline: on a journey called life
-url: http://blog.smileprem.com
+url: https://blog.smileprem.com
 #logo: add-some-logo-here
 copyright: copyleft @ 2009. free to all.
 
@@ -27,9 +27,11 @@ paginate: 150
 
 permalink: /:title/
 
-img-path: http://blog.smileprem.com/public/images
-download-path: http://blog.smileprem.com/public/downloads
+img-path: https://blog.smileprem.com/public/images
+download-path: https://blog.smileprem.com/public/downloads
 
 newsletter: http://eepurl.com/dE1QD1
 contact-form: https://www.emailmeform.com/builder/form/bi73zffJbc078cHP6p6fhfr
 tamil-blog: https://tamil.smileprem.com/
+
+donation: https://www.blockchain.com/btc/address/14hjWY7QzpD5mjPhmYs8FHrm3aJiEKX82s
