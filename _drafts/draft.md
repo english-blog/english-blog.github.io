@@ -11,7 +11,6 @@ category: challenges
 category: technology
 category: travelogue
 category: thought-experiments
-category: reviews
 category: bucket-list
 category: spirituality
 ---
