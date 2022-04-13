@@ -6,8 +6,8 @@ category: technology
 ---
 I passed the *Google Certified Professional - Cloud Architect* exam on July 24, 2018, at Google Next'18 in San Francisco.
 
-![Certification Image](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/11761237?key=c2340e5fb67bd9183b3a6629c1a0b8209e896f9460c7b2739c3a5171daa17675)
-  
+![Google Certified Professional - Cloud Architect]({{site.img-path}}/premkumar-masilamani-professional-cloud-architect.jpg)
+
 Like everyone else, I googled for preparation tips from those who were certified already. I was overwhelmed by the amount of information that I have to consume (online courses, documentation, videos, etc.). Even though this is a professional level certification, I wasn't really sure, that I have to subject myself to so much mundane reading and watching. I am working with Google Cloud Platform for about **a year and a half**, completely hands-on on a good number of services. So, I thought I should be able to clear the exam even without preparation. But, I didn't take chances anyway.
 
 So, I crafted my own plan. Here you go.

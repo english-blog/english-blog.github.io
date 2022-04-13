@@ -60,20 +60,6 @@ No. It's not good to accept & love your obese body. Be discontent with your body
 
 > Encouraging an obese person to be happy with their body is actually encouraging them to stay unhealthy. - Unknown
 
-### What do I know about being fat?
-
-A little bit. Soon after marriage, I became overweight, on the verge of being classified as obese (based on BMI). I did not like my body and I took every possible effort to reduce my weight. You can read the complete story here, [5 Months of Raw Vegan Experiment]({{site.url}}/5-months-of-raw-vegan-experiment/).  
-
-![Raw Vegan Transformation]({{site.img-path}}/5-months-raw-vegan-transformation.jpg)  
-
-The first picture - when I went to the gym regularly, ate a well-balanced diet with protein supplements and regular sleeping pattern.  
-
-The second picture - when I DID NOT go to the gym, ate all possible junk foods and watched too much TV.   
-
-The third picture - when I was raw vegan, eating only raw foods and no physical exercises (for an experiment).  
-
-I am the same person. But three different lifestyles of mine results in three different body sizes. When I can reverse my body, why can't you?.  
-
 ### The Most Amazing Transformation
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qX9FSZJu448?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
