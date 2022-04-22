@@ -1,6 +1,9 @@
 jekyll:
     image: jekyll/jekyll:pages
     command: jekyll serve --config _local-config.yml --watch --incremental --drafts
+    environment:
+        - JEKYLL_ENV=docker
+        - PAGES_REPO_NWO=english-blog/english-blog.github.io
     ports:
         - 4000:4000
     volumes:
