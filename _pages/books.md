@@ -17,6 +17,12 @@ I've decided not to write book reviews and possibly affect your experience by se
   <li><a target="_blank" href="https://amzn.to/3rgXYiz">When Breath Becomes Air</a></li> by Paul Kalanithi
 </ul>  
 
+#### Company Biography
+<ul>
+  <li><a target="_blank" href="https://amzn.to/3xn4E2p">Kings of Crypto</a></li> by Jeff John Roberts
+  <li><a target="_blank" href="https://amzn.to/38ldhQq">Invested</a></li> by Charles Schwab
+</ul>  
+
 #### Finance
 <ul>
   <li><a target="_blank" href="https://amzn.to/3xjCANv">The Little Book of Common Sense Investing</a></li> by John C. Bogle
@@ -27,6 +33,5 @@ I've decided not to write book reviews and possibly affect your experience by se
 #### Crypto
 <ul>
   <li><a target="_blank" href="https://amzn.to/3rmnuml">Mastering Bitcoin</a></li> by Andreas M. Antonopoulos
-  <li><a target="_blank" href="https://amzn.to/3xn4E2p">Kings of Crypto</a></li> by Jeff John Roberts
 </ul>  
 
