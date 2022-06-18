@@ -21,12 +21,13 @@ I've decided not to write book reviews and possibly affect your experience by se
 <ul>
   <li><a target="_blank" href="https://amzn.to/3xn4E2p">Kings of Crypto</a></li> by Jeff John Roberts
   <li><a target="_blank" href="https://amzn.to/38ldhQq">Invested</a></li> by Charles Schwab
+  <li><a target="_blank" href="https://amzn.to/3zNXaqx">The Everything Store</a></li> by Brad Stone
 </ul>  
 
 #### Finance
 <ul>
   <li><a target="_blank" href="https://amzn.to/3xjCANv">The Little Book of Common Sense Investing</a></li> by John C. Bogle
-  <li><a target="_blank" href="https://amzn.to/3E72khi">The Bogleheads' Guide to the Three-Fund Portfolio</a></li> by Taylor Larimore
+  <li><a target="_blank" href="https://amzn.to/3E72khi">The Boglehead's Guide to the Three-Fund Portfolio</a></li> by Taylor Larimore
   <li><a target="_blank" href="https://amzn.to/3M1kBPO">MONEY Master the Game</a></li> by Tony Robbins
 </ul>  
 
