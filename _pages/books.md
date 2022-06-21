@@ -27,8 +27,8 @@ I've decided not to write book reviews and possibly affect your experience by se
 #### Finance
 <ul>
   <li><a target="_blank" href="https://amzn.to/3xjCANv">The Little Book of Common Sense Investing</a></li> by John C. Bogle
-  <li><a target="_blank" href="https://amzn.to/3E72khi">The Boglehead's Guide to the Three-Fund Portfolio</a></li> by Taylor Larimore
-  <li><a target="_blank" href="https://amzn.to/3M1kBPO">MONEY Master the Game</a></li> by Tony Robbins
+  <li><a target="_blank" href="https://amzn.to/3QDfOXS">The Boglehead's Guide to the Three-Fund Portfolio</a></li> by Taylor Larimore
+  <li><a target="_blank" href="https://amzn.to/3O7X41l">MONEY Master the Game</a></li> by Tony Robbins
 </ul>  
 
 #### Crypto
