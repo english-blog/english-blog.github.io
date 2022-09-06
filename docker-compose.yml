@@ -1,5 +1,5 @@
 jekyll:
-    image: jekyll/jekyll:pages
+    image: jekyll/jekyll:4.2.0
     command: jekyll serve --config _local-config.yml --watch --incremental --drafts
     environment:
         - JEKYLL_ENV=docker
