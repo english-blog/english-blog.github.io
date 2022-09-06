@@ -2,7 +2,7 @@
 layout: post
 title: The Obesity Code
 date: 2018-04-15
-category: book-reviews
+category: health
 ---
 
 **Book:** The Obesity Code  
