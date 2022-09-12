@@ -13,7 +13,7 @@ Today felt different. I woke up early. I couldn't sleep. My mom called me from I
 
 In the last couple of months, he could not talk much. He would show three fingers, wishing he wanted to meet all three sons for one last time. He knew his end was near. We did not. Meeting all three of us was the only thing he ever asked from us in his entire life. The Only Thing. But, I wanted to finish a software project in my company and then go to India in April, confident that he would be fine. I even stopped my elder brother from going to India. Thinking, our families can travel to India together. Yes. I prioritized a software project over my father's last moments. I didn't know.
 
-A few minutes later, my mom called me. I could not understand the words amidst her loud crying. I think she said, "He's no more". None need to be said. Her crying explained everything.
+A few minutes later, my mom called me. I could not understand the words amidst her loud crying. I think she said, "He's no more". None needs to be said. Her crying explained everything.
 
 I knew this was coming but could not accept the reality. I called my elder brother, informed him, booked the tickets for both of us, and started a day-long journey back to India. My elder brother was crying all along the route. My younger brother was in India, doing the rituals alone, without us, the brothers.
 
@@ -21,7 +21,7 @@ We reached home the next day around 3.30 AM IST. My father was lying in an icebo
 
 > Is he still breathing slowly, and these idiots could not see it?
 
-I was with my father throughout the rituals. When I lifted him, his body was chill, heavier than usual. His hands were wrinkled, void of life. The same hands that rubbed my feet to keep me warm during a fever, the same hands which fed me food whenever he got time, the same hands which held my vomit when I was sick, the same hands which carried me everywhere we went, the same hands which disciplined me when I was naughty, the same hands which were working non-stop, almost all seven days to get us out of poverty, the same hands which helped countless other suppressed people, the same hands which was paralyzed for twenty years, still held the family together. Those hands are gone.
+I was with my father throughout the rituals. When I lifted him, his body was chill, heavier than usual. His hands were wrinkled, void of life. The same hands that rubbed my feet to keep me warm during a fever, the same hands which fed me food whenever he got time, the same hands which held my vomit when I was sick, the same hands which carried me everywhere we went, the same hands which disciplined me when I was naughty, the same hands which were working non-stop, almost all seven days to get us out of poverty, the same hands which helped countless other suppressed people, the same hands which were paralyzed for twenty years, still held the family together. Those hands are gone.
 
 The walk from our home to the cemetery felt like an eternity. They fed his body through the blazing fire, head first. It was hot, many feet away from the fire. I could feel the burning sensation throughout my body. This is the end. There is no way he can come back to us. The reality hit me. The pillar of our family is gone. All I could do was breathe.
 
@@ -35,9 +35,9 @@ It took me five months to write my last respect to my father, this blog. One reg
 
 > Express your love while you can.
 
-Thank you.  
-I love you.  
 I'm sorry.  
 Please forgive me.  
+Thank you.  
+I love you.  
 
 Goodbye, Daddy!
