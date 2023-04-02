@@ -13,26 +13,27 @@ I've decided not to write book reviews and possibly affect your experience by se
 
 #### Biography
 <ul>
-  <li><a target="_blank" href="https://amzn.to/36ajkXy">Maybe You Should Talk To Someone</a></li> by Lori Gottlieb
-  <li><a target="_blank" href="https://amzn.to/3rgXYiz">When Breath Becomes Air</a></li> by Paul Kalanithi
+  <li><a target="_blank" href="https://www.amazon.com/Maybe-You-Should-Talk-Someone/dp/1328662055">Maybe You Should Talk To Someone</a></li> by Lori Gottlieb
+  <li><a target="_blank" href="https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X">When Breath Becomes Air</a></li> by Paul Kalanithi
 </ul>  
 
 #### Company Biography
 <ul>
-  <li><a target="_blank" href="https://amzn.to/3xn4E2p">Kings of Crypto</a></li> by Jeff John Roberts
-  <li><a target="_blank" href="https://amzn.to/38ldhQq">Invested</a></li> by Charles Schwab
-  <li><a target="_blank" href="https://amzn.to/3zNXaqx">The Everything Store</a></li> by Brad Stone
+  <li><a target="_blank" href="https://www.amazon.com/Kings-Crypto-Startups-Cryptocurrency-Silicon/dp/1647820189">Kings of Crypto</a></li> by Jeff John Roberts
+  <li><a target="_blank" href="https://www.amazon.com/Invested-Changing-Forever-Americans-Invest/dp/1984822543">Invested</a></li> by Charles Schwab
+  <li><a target="_blank" href="https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316239909">The Everything Store</a></li> by Brad Stone
 </ul>  
 
 #### Finance
 <ul>
-  <li><a target="_blank" href="https://amzn.to/3xjCANv">The Little Book of Common Sense Investing</a></li> by John C. Bogle
-  <li><a target="_blank" href="https://amzn.to/3QDfOXS">The Boglehead's Guide to the Three-Fund Portfolio</a></li> by Taylor Larimore
-  <li><a target="_blank" href="https://amzn.to/3O7X41l">MONEY Master the Game</a></li> by Tony Robbins
+  <li><a target="_blank" href="https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509">The Little Book of Common Sense Investing</a></li> by John C. Bogle
+  <li><a target="_blank" href="https://www.amazon.com/Bogleheads-Guide-Three-Fund-Portfolio-Outperforms/dp/1119487331">The Boglehead's Guide to the Three-Fund Portfolio</a></li> by Taylor Larimore
+  <li><a target="_blank" href="https://www.amazon.com/MONEY-Master-Game-Financial-Freedom/dp/1476757801">MONEY Master the Game</a></li> by Tony Robbins
 </ul>  
 
 #### Crypto
 <ul>
-  <li><a target="_blank" href="https://amzn.to/3rmnuml">Mastering Bitcoin</a></li> by Andreas M. Antonopoulos
+  <li><a target="_blank" href="https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388">Mastering Bitcoin</a></li> by Andreas M. Antonopoulos
+  <li><a target="_blank" href="https://www.amazon.com/NFT-Handbook-Create-Non-Fungible-Tokens-ebook/dp/B09FWQGP8K">The NFT Handbook</a></li> by QuHarrison Terry, Matt Fortnow 
 </ul>  
 
