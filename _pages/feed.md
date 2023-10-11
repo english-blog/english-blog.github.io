@@ -1,37 +1,44 @@
 ---
-layout: empty
-date: 2015-03-01 00:00:00 +0530
-permalink: /feed.xml
+layout: page
+date: 2013-12-12 00:00:00 +0530
+permalink: /feed/
 ---
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>{{ site.title }}</title>
-		<link>{{ site.url }}</link>
-		<description>{{ site.tagline }}</description>
-		<copyright>{{site.copyright}}</copyright>
-		<category>Blogs</category>
-		<language>en-us</language>
-		<pubDate>{{ site.time | date_to_rfc822  }}</pubDate>
-		<lastBuildDate>{{ site.time | date_to_rfc822  }}</lastBuildDate>
-		<atom:link href="{{ site.url }}/rss.xml" rel="self" type="application/rss+xml" />
-		<docs>https://cyber.law.harvard.edu/rss/rss.html</docs>
-		<generator>Jekyll Liquid Template in Github</generator>		
-		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
-		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
-		{% for post in site.posts limit:1000 %}
-			<item>
-				<title>{{ post.title | xml_escape }}</title>
-				<link>{{ site.url }}{{ post.url }}</link>
-				<description>{{ post.content | xml_escape }}</description>
-			{% if post.author-name != null %}
-				<author>{{ post.author-email }} ({{ post.author-name }})</author>
-			{% else %}
-				<author>{{ site.email }} ({{ site.author }})</author>
-			{% endif %}
-				<category>{{ post.category }}</category>
-				<pubDate>{{ post.date | date_to_rfc822  }}</pubDate>
-				<guid>{{ site.url }}{{ post.url }}</guid>
-			</item>
-		{% endfor %}
-	</channel>
-</rss>
+<div>
+
+<p><a href="{{ site.url }}">home</a> &nbsp;&gt;&nbsp; <a href="{{ site.url }}/feed">feed</a></p>
+
+RSS (Really Simple Syndication) feed for all the categories in this blog.
+
+<p><a href="{{ site.url }}/feed/all.xml">All Blog Posts</a></p>
+
+<p>Categories</p>
+
+<ul>
+
+<li><p><a href="{{ site.url }}/feed/health.xml">Health</a></p></li>
+
+<li><p><a href="{{ site.url }}/feed/social.xml">Social</a></p></li>
+
+<li><p><a href="{{ site.url }}/feed/self-improvement.xml">Self Improvement</a></p></li>
+
+<li><p><a href="{{ site.url }}/feed/writing.xml">Writing</a></p></li>
+
+<li><p><a href="{{ site.url }}/feed/challenges.xml">Challenges</a></p></li>
+
+<li><p><a href="{{ site.url }}/feed/technology.xml">Technology</a></p></li>
+
+<li><p><a href="{{ site.url }}/feed/math.xml">Math</a></p></li>
+
+<li><p><a href="{{ site.url }}/feed/personal.xml">Personal</a></p></li>
+
+<li><p><a href="{{ site.url }}/feed/travelogue.xml">Travelogue</a></p></li>
+
+<li><p><a href="{{ site.url }}/feed/thought-experiments.xml">Thought Experiments</a></p></li>
+
+<li><p><a href="{{ site.url }}/feed/spirituality.xml">Spirituality</a></p></li>
+
+<li><p><a href="{{ site.url }}/feed/apps.xml">Apps</a></p></li>
+
+</ul>
+
+</div>
