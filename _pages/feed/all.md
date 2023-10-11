@@ -3,7 +3,7 @@ layout: empty
 date: 2015-03-01 00:00:00 +0530
 permalink: /feed/all.xml
 ---
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
 	<channel>
 		<title>{{ site.title }}</title>
 		<link>{{ site.url }}</link>
