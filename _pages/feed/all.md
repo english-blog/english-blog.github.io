@@ -1,6 +1,6 @@
 ---
 layout: empty
-date: 2015-03-01 00:00:00 +0530
+date: 2023-10-11 00:00:00 +0530
 permalink: /feed/all.xml
 ---
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
