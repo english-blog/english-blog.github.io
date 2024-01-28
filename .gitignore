@@ -4,3 +4,4 @@ _site/
 *.tsv
 *.project
 .jekyll-metadata
+.jekyll-cache
