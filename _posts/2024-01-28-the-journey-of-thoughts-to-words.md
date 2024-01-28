@@ -33,6 +33,6 @@ Some privileged scholars had the advantage of thinking out loud and having their
 
 With the advent of technology, this process is now available to all of us. Yes, you could pick up the phone and start talking. Use any of the AI tools that are available in the market to transcribe it for you. It's super simple. I have a lot of my thoughts captured, transcribed, and stored. As expected, the process of going through the transcripts, editing, and publishing them on the Internet is slow. But hey, all of my thoughts are available to me at any moment. I can go through them anytime I want. Who knows, I could hire a few intellectuals to do the writing part for me, in the future.
 
-I've been using "Otter.AI" for the past week, and I am super happy with the results. Now the barriers to converting my thoughts to words are gone. I am actually looking forward to speaking to my phone many times a day. This is an experimental process that I am going to do for a month and then try traditional writing to see which one suits me better.
+I've been using "Otter.AI" for the past week, and I am super happy with the results. Now the barriers to converting my thoughts to words are gone, I am actually looking forward to speaking to my phone many times a day. This is an experimental process that I am going to do for a month and then try traditional writing to see which one suits me better.
 
 Let's talk ...
