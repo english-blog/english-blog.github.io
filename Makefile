@@ -3,7 +3,7 @@
 
 # This target will run the Jekyll service.
 run:
-	@docker run -d --name jekyll \
+	@docker run -d --name smileprem-english \
 	-e JEKYLL_ENV=docker \
 	-e PAGES_REPO_NWO=english-blog/english-blog.github.io \
 	-p 4000:4000 \
@@ -13,4 +13,4 @@ run:
 
 # This target will stop and remove the Jekyll container.
 stop:
-	@docker stop jekyll && docker rm jekyll
+	@docker stop smileprem-english

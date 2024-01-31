@@ -1,8 +1,4 @@
-{% if page.url == "/" %}
-  Home
-{% else %}
-  <a href="/">Home</a>
-{% endif %}
+<a href="{{ site.home-page-url }}">Home</a>
 
 &nbsp;|&nbsp;
 
@@ -15,5 +11,9 @@
 &nbsp;|&nbsp;
 
 <a href="{{ site.tamil-blog }}">வலைப்பதிவு</a>
+
+&nbsp;|&nbsp;
+
+<a href="{{ site.life-coach-url }}">Life Coach</a>
 
 <p>{{site.copyright}}</p>
