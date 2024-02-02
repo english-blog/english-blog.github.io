@@ -72,12 +72,12 @@ Entirely for your leisure and learning. Please don't watch each and every one of
 
 ### References for continuous learning
 <ul>
-<li>[Google Cloud Platform Community](https://cloud.google.com/community/)</li>
-<li>[GOOGLE CLOUD BIG DATA AND MACHINE LEARNING BLOG](https://cloud.google.com/blog/big-data/)</li>
-<li>[Google Cloud Platform Podcast](https://www.gcppodcast.com/about/)</li>
-<li>[Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)</li>
-<li>[Kubernetes Blog](https://kubernetes.io/blog/)</li>
-<li>[Curated Articles in Medium](https://medium.com/google-cloud)</li>
+    <li><a target="_blank" href="https://cloud.google.com/community/">Google Cloud Platform Community</a></li>
+    <li><a target="_blank" href="https://cloud.google.com/blog/big-data/">GOOGLE CLOUD BIG DATA AND MACHINE LEARNING BLOG</a></li>
+    <li><a target="_blank" href="https://www.gcppodcast.com/about/">Google Cloud Platform Podcast</a></li>
+    <li><a target="_blank" href="https://cloudplatform.googleblog.com/">Google Cloud Platform Blog</a></li>
+    <li><a target="_blank" href="https://kubernetes.io/blog/">Kubernetes Blog</a></li>
+    <li><a target="_blank" href="https://medium.com/google-cloud">Curated Articles in Medium</a></li>
 </ul>
 
 Please let me know if you have any specific questions.
