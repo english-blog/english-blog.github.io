@@ -71,12 +71,14 @@ Entirely for your leisure and learning. Please don't watch each and every one of
 **Pro Tip:** You could easily train yourself to watch the videos 2X faster. Start with 1.25X, then 1.5X, then 1.75X and sky is the limit. I can comprehend easily with 1.75X speed. You could go faster or slower. Speed is not the objective, comprehension is.
 
 ### References for continuous learning
-* [Google Cloud Platform Community](https://cloud.google.com/community/)  
-* [GOOGLE CLOUD BIG DATA AND MACHINE LEARNING BLOG](https://cloud.google.com/blog/big-data/)  
-* [Google Cloud Platform Podcast](https://www.gcppodcast.com/about/)  
-* [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)   
-* [Kubernetes Blog](https://kubernetes.io/blog/)  
-* [Curated Articles in Medium](https://medium.com/google-cloud)  
+<ul>
+<li>[Google Cloud Platform Community](https://cloud.google.com/community/)</li>
+<li>[GOOGLE CLOUD BIG DATA AND MACHINE LEARNING BLOG](https://cloud.google.com/blog/big-data/)</li>
+<li>[Google Cloud Platform Podcast](https://www.gcppodcast.com/about/)</li>
+<li>[Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)</li>
+<li>[Kubernetes Blog](https://kubernetes.io/blog/)</li>
+<li>[Curated Articles in Medium](https://medium.com/google-cloud)</li>
+</ul>
 
 Please let me know if you have any specific questions.
 
