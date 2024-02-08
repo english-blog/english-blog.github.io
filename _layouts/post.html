@@ -10,21 +10,24 @@ layout: default
   {{ content }}
   <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/categories">categories</a>&nbsp;&gt;&nbsp;<a href="{{ site.url }}/category/{{ page.category }}">{{ page.category | camelcase }}</a>  
 </div>
-<div>
-  <br/>
-  {% include share.html %}
-  <br/>
-</div>
+<br/>
 <div>
   {% if page.previous.url %} 
     <a href="{{page.previous.url}}">&lt;&lt; Older</a>
   {% else %}
     Older
   {% endif %}
+  &nbsp;
   {% if page.next.url %} 
     <a href="{{page.next.url}}">Newer &gt;&gt;</a>
   {% else %}
     Newer
   {% endif %}
+</div>
+<br/><hr/>
+<div>
+  <br/>
+  {% include subscribe.html %}
+  <br/>
 </div>
 <br/>

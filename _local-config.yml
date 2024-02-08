@@ -5,7 +5,7 @@ url: http://localhost:4000
 copyright: copyleft @ 2009.
 
 author: Premkumar Masilamani
-email: xxx@xxx.xxx
+email: premkumar.masilamani.2020@gmail.com
 mobile: xxx-xxx-xxxx
 
 social:
@@ -23,7 +23,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-paginate: 150
+paginate: 1000
 
 permalink: /:title/
 
@@ -31,10 +31,9 @@ img-path: http://localhost:4000/public/images
 download-path: http://localhost:4000/public/downloads
 
 newsletter: https://eepurl.com/dE1QD1
-contact-form: https://www.emailmeform.com/builder/form/bi73zffJbc078cHP6p6fhfr
-tamil-blog: https://tamil.smileprem.com/
-tamil-podcast: https://tamil-podcast.smileprem.com/
-home-page-url: https://www.smileprem.com
-life-coach-url: https://calendly.com/coachprem/life-coaching
 
-donation: https://www.blockchain.com/btc/address/14hjWY7QzpD5mjPhmYs8FHrm3aJiEKX82s
+home-page-url: https://www.smileprem.com
+software-architect-url: https://www.linkedin.com/in/premkumarmasilamani
+english-blog-url: https://blog.smileprem.com/
+tamil-blog-url: https://tamil.smileprem.com/
+life-coach-url: https://calendly.com/coachprem/life-coaching
