@@ -9,10 +9,12 @@ category: self-improvement
 
 There is quite a list of items that I want to change in my life, typical ones are 
 
-**Stop** - cigarettes, alcohol  
 **Start** - diet, exercise, finish the courses and books (quite a lot)  
+**Stop** - cigarettes, alcohol  
 
 The plan of action is simple. Make the decision to change and stick to it. If there is an impulse against your decision, use your willpower to stick to the decision.
+
+Is it really that simple?
 
 In the past, One day, I decided to stop smoking and drinking and was a te-totaller for 5 years. One day, I decided to become a raw vegan and ate only an uncooked raw plant-based diet for 5 months. One day, I decided to become a runner and ran multiple half-marathons barefoot for 2 years. One day, I decided to eat meat meat-only diet with intermittent fasting, and did that for 2 years... The list goes on...
 
