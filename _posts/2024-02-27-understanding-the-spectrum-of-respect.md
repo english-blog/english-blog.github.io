@@ -46,15 +46,15 @@ The point of this discussion is,
 
 > You don't have to RESPECT all of someone and you don't have to DISRESPECT all of someone.
 
-The first part is probably easy, but the second part - most people cannot even comprehend. Almost 10 years ago, I wrote a blog post with a list of people that inspired me. Adolf Hitler and Jesus Christ were on that list. I am an atheist, and I respect Jesus Christ - no problem. I am leaning toward an egalitarian society, and I respect Hitler - a big No. Quite a few intense conversations from friends, back in the day.
+The first part is probably easy, but the second part - most people cannot even comprehend. Almost 10 years ago, I wrote a [blog post]({{site.url}}/what-inspires-you) with a list of people that inspired me. Adolf Hitler and Jesus Christ were on that list. I am an atheist, and I respect Jesus Christ - no problem. I am leaning toward an egalitarian society, and I respect Hitler - a big No. Quite a few intense conversations from friends, back in the day.
 
 Here is President Trump's interview on CNN
 
-**Bill O'Reilly:** Do you respect Putin?  
+**Interviewer:** Do you respect Putin?  
 **President Trump:** I do respect him  
-**Bill O'Reilly:** Why?  
+**Interviewer:** Why?  
 **President Trump:** I respect a lot of people, but that doesn't mean I am going to get along with them ...  
-**Bill O'Reilly:** Putin's a killer  
+**Interviewer:** Putin's a killer  
 **President Trump:** We have got a lot of killers. Do you think our country is so innocent?  
 
 Now look at the media bias and stereotyping for him saying the truth?. I feel him, clearly.
