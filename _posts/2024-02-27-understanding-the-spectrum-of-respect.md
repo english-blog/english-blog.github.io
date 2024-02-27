@@ -46,7 +46,7 @@ The point of this discussion is,
 
 > You don't have to RESPECT all of someone and you don't have to DISRESPECT all of someone.
 
-The first part is probably easy, but the second part - most people cannot even comprehend. Almost 10 years ago, I wrote a [blog post]({{site.url}}/what-inspires-you) with a list of people that inspired me. Adolf Hitler and Jesus Christ were on that list. I am an atheist, and I respect Jesus Christ - no problem. I am leaning toward an egalitarian society, and I respect Hitler - a big No. Quite a few intense conversations from friends, back in the day.
+The first part is probably easy, but the second part - most people cannot even comprehend. Almost 10 years ago, I wrote a [blog post]({{site.url}}/what-inspires-you) with a list of people that inspired me. Adolf Hitler and Jesus Christ were on that list. I am an atheist, and I respect Jesus Christ for some of his qualities - no problem. I am leaning toward an egalitarian society, and I respect Hitler for some of his qualities - a big No. Quite a few intense conversations from friends, back in the day.
 
 Here is President Trump's interview on CNN
 
@@ -63,7 +63,7 @@ Get a list of people you respect and list the qualities you admire, tolerate, an
 
 Once that's done. Look at you.
 
-> Do you respect yourself?
+> What qualities you respect about yourself?
 
 Since you know the skeletons in your closet very well, it's easy for you to list down the qualities that you respect, tolerate, and can't tolerate. You will have newfound respect and understanding about yourself. 
 
