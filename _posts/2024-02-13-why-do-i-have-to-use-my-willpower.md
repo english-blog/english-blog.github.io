@@ -48,4 +48,4 @@ I'll try to keep posting my journey here. That's another thing that needs my wil
 
 How is your swimming going on? How many stones have you untied already? Do you need help to understand yourself better? 
 
-Reach out to me. Let's evolve together !!!
+Reach out to me. 

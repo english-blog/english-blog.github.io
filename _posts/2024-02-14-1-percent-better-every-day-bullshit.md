@@ -50,4 +50,4 @@ To me,
 
 How are you keeping up with your goals?. Are you showing up every day?. If not, are you aware of why you are not showing up?. 
 
-Reach out to me. Let’s show up every day together !!!
+Reach out to me. 

@@ -67,4 +67,6 @@ Once that's done. Look at you.
 
 Since you know the skeletons in your closet very well, it's easy for you to list down the qualities that you respect, tolerate, and can't tolerate. You will have newfound respect and understanding about yourself. 
 
-Are you happy with your findings? Do you want to minimize/remove the qualities you can/can't tolerate?. Do you want to maximize the qualities you respect?. I can help. Let's talk.
+Are you happy with your findings? Do you want to minimize/remove the qualities you can/can't tolerate?. Do you want to maximize the qualities you respect?. 
+
+Reach out to me. 
