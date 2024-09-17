@@ -7,16 +7,16 @@ category: personal
 
 Mar 1st, 2021. ~11.30 PM PST.
 
-We were watching a Tamil movie [Kaaka Muttai](https://www.imdb.com/title/tt3973410/) tonight. My wife was sitting next to me, and my 5 year old daughter in my lap, leaning on my chest, all feeling cozy inside a velvet comforter. Our typical family movie time.
+We were watching a Tamil movie [Kaaka Muttai](https://www.imdb.com/title/tt3973410/) tonight. My wife was sitting next to me, and my 5-year-old daughter in my lap, leaning on my chest, all feeling cozy inside a velvet comforter. Our typical family movie time.
 
-The grandmother character dies in that movie, triggering a conversation between me and my 5 year old daughter.
+The grandmother character dies in that movie, triggering a conversation between me and my 5-year-old daughter.
 
 **Aradhana (daughter):** Why did she die? (curious)  
 **Premkumar (dad):** Everyone dies when they get old. (casual)  
 **Aradhana (daughter):** You are old. You'll die soon. (mischief)  
 **Premkumar (dad):** Yeah. Maybe. (casual)  
 
-She thinks deeply for a few moments and suddenly sadness engulfs her pretty face. She turns toward me and asked,
+She thinks deeply for a few moments and suddenly sadness engulfs her pretty face. She turned toward me and asked,
 
 **Aradhana (daughter):** Will you have more time with me? (crying)  
 **Premkumar (dad):** ...   
@@ -62,4 +62,3 @@ Life slipped through me in moments like this. What an idiot I was. And for what?
 It's time I re-arrange my priorities and be a dad that she will remember, long after I am gone.
 
 > Ara, I promise I'll be there for you, as long as I am alive.  I love you.
-
