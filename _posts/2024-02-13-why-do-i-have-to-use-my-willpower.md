@@ -30,7 +30,7 @@ I contemplate - why do I have to use my willpower?
 
 > Imagine you are alone in the deep blue ocean. Multiple small stones are tied to your legs. You swim continuously to stay afloat. The moment you stop swimming, you'll drown.
 
-The act of swimming is the willpower.
+The act of swimming is willpower.
 
 The stone tied to your legs could be your past traumas, beliefs, or something that I am not aware of.  
 
@@ -47,5 +47,3 @@ The objective here is to NOT have to use willpower. To get to that point, I have
 I'll try to keep posting my journey here. That's another thing that needs my willpower to sit down and write. Hopefully, I'll write effortlessly in the future.
 
 How is your swimming going on? How many stones have you untied already? Do you need help to understand yourself better? 
-
-Reach out to me. 
