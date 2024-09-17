@@ -11,7 +11,7 @@ Let us get the basics straight.
 
 **Multiplication** is the repeated addition of the same number
 
-**Division** is the splitting of number into equal parts
+**Division** is the splitting of numbers into equal parts
 
 Let us use even numbers to explain the concepts. 
 
@@ -59,7 +59,7 @@ So far, everything is clear. What happens when we divide the number by a fractio
 
 (i.e.) If we split the number 4 into groups of halves, how many such groups can be created?. 
 
-What is a group of half numbers?. Simple. Split a single number to two equal parts. Put one half in one group.
+What is a group of half numbers?. Simple. Split a single number into two equal parts. Put one half in one group.
 
 | &#9634; &#9634; &#9634; &#9634; | divide by half (1/2) | &#9720; | &#9727; | &#9720; | &#9727; | &#9720; | &#9727; | &#9720; | &#9727; | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -69,7 +69,7 @@ Four divided by 1/2 equals eight.
 
 Please ignore the shape and size of the objects. Just count the numbers.
 
-When we divide a number, we are not just grouping the numbers. We split the numbers first and then group them. So, the number increases (multiplied).
+When we divide a number, we are not just grouping the numbers. We split the numbers first and then grouped them. So, the number increases (multiplied).
 
 Let us see what happens when we invert the fraction and multiply?.
 
