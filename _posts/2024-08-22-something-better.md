@@ -5,7 +5,7 @@ date: 2024-08-22
 category: self-improvement
 ---
 
-> "Every time I thought I was being rejected from something good, I was actually being redirected to something better"
+> Every time I thought I was being rejected from something good, I was actually being redirected to something better
 
 It does feel good to read this quote, doesn't it?
 
@@ -41,7 +41,7 @@ It's Ok. I understand that everyone wants a good life and these positive quotes 
 
 I have one more question. Have you ever wondered,
 
-> "What makes you so special that you must have a good life?"
+> What makes you so special that you must have a good life?
 
 The answer cannot be, "Everyone deserves a good life". Because, in reality, for you to have a good life someone else should have a bad life. For example,
 
@@ -65,7 +65,7 @@ Try to answer that yourself, it may be hard. But be genuine to yourself with you
 
 My answer is
 
-> "I am not special. My life could be as good or as bad as any random person in this world"
+> I am not special. My life could be as good or as bad as any random person in this world
 
 "You sound so pessimistic and nihilistic". Ok, that's one way to look at it.
 
@@ -79,6 +79,6 @@ Do I enjoy this phase?. No, not really. But I am curious to figure out, what my 
 
 Would I find it?. Maybe, or maybe not. That's what life is. An exploration.
 
-> "Every time I thought I was being rejected from something good, I was actually being redirected to something better"
+> Every time I thought I was being rejected from something good, I was actually being redirected to something better
 
 What's your "something better"?
