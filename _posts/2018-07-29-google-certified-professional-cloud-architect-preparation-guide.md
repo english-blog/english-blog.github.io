@@ -4,17 +4,18 @@ title: Google Certified Professional Cloud Architect - Preparation Guide
 date: 2018-07-29
 category: technology
 ---
+
 I passed the *Google Certified Professional - Cloud Architect* exam on July 24, 2018, at Google Next'18 in San Francisco.
 
 ![Google Certified Professional - Cloud Architect]({{site.img-path}}/premkumar-masilamani-professional-cloud-architect.jpg)
 
-Like everyone else, I googled for preparation tips from those who were certified already. I was overwhelmed by the amount of information that I have to consume (online courses, documentation, videos, etc.). Even though this is a professional level certification, I wasn't really sure, that I have to subject myself to so much mundane reading and watching. I am working with Google Cloud Platform for about **a year and a half**, completely hands-on on a good number of services. So, I thought I should be able to clear the exam even without preparation. But, I didn't take chances anyway.
+Like everyone else, I googled for preparation tips from those who were certified already. I was overwhelmed by the amount of information that I had to consume (online courses, documentation, videos, etc.). Even though this is a professional-level certification, I wasn't really sure, that I have to subject myself to so much mundane reading and watching. I have been working with the Google Cloud Platform for about **a year and a half**, completely hands-on on a good number of services. So, I thought I should be able to clear the exam even without preparation. But, I didn't take chances anyway.
 
 So, I crafted my own plan. Here you go.
 
 ### 1. Coursera Courses
 
-I completed google recommended specialization courses in Coursera.
+I completed Google-recommended specialization courses in Coursera.
 
 Mandatory - [Architecting with Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-architecture)
 
@@ -46,7 +47,7 @@ Go through every single architecture; evaluate each one of them. See, if you can
 
 ### 4. Create solutions for all 4  Case Studies
 
-Imagine them as your real customers and create real-world solutions for them. Complete, Exhaustive Solutions. Draw the architecture. Write down why you chose a specific service vs. other possibilities. Write down how your solution is highly scalable and reliable and what the limitations are. The document that you create could be a simple scratchpad with jotted down notes. But it should contain enough information to produce a complete, detailed solutions architecture diagram.
+Imagine them as your real customers and create real-world solutions for them. Complete, Exhaustive Solutions. Draw the architecture. Write down why you chose a specific service vs. other possibilities. Write down how your solution is highly scalable and reliable and what the limitations are. The document that you create could be a simple scratchpad with jotted-down notes. However, it should contain enough information to produce a complete, detailed solutions architecture diagram.
 
 [Case Studies](https://cloud.google.com/certification/guides/cloud-architect/#sample-case-study)
 
