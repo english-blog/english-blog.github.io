@@ -49,5 +49,3 @@ To me,
 > It's all about showing up every day, it doesn't matter if you improve 0.5% or 1% or 10% or -10% on any given day. All that matters at the end is that you show up every day.
 
 How are you keeping up with your goals?. Are you showing up every day?. If not, are you aware of why you are not showing up?. 
-
-Reach out to me. 
