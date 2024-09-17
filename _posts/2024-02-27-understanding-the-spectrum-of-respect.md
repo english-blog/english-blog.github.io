@@ -8,7 +8,7 @@ category: self-improvement
 Here is a recent conversation with my co-brother (paraphrased)
 
 **Him:** Do you respect him?  
-**Me:** I respect him for certain qualities. I don't respect him for certain other qualities.  
+**Me:** I respect him for certain qualities. I don't respect him for certain other attributes.  
 **Him:** I understand, but overall, do you respect him?  
 **Me:** I don't know how to answer that question. Do you need an average of the qualities I respect and the qualities I don't?. If the result is positive, I respect him and if it's negative I don't?. Is that what you are looking for?
 
@@ -30,7 +30,7 @@ Ok, let's say you respect someone like your teacher, your friend, your co-worker
 
 If you are honest with yourself, there will be qualities that you respect, there will be qualities that you can tolerate and there will be qualities that you cannot tolerate (in most cases, very well hidden, everyone has a skeleton in their closet). 
 
-Thus respect is a spectrum
+Thus respect is a spectrum.
 
 > [admire]......[tolerate]......[can't tolerate]  
 
@@ -46,7 +46,7 @@ The point of this discussion is,
 
 > You don't have to RESPECT all of someone and you don't have to DISRESPECT all of someone.
 
-The first part is probably easy, but the second part - most people cannot even comprehend. Almost 10 years ago, I wrote a [blog post]({{site.url}}/what-inspires-you) with a list of people that inspired me. Adolf Hitler and Jesus Christ were on that list. I am an atheist, and I respect Jesus Christ for some of his qualities - no problem. I am leaning toward an egalitarian society, and I respect Hitler for some of his qualities - a big No. Quite a few intense conversations from friends, back in the day.
+The first part is probably easy, but the second part - most people cannot even comprehend. Almost 10 years ago, I wrote a [blog post]({{site.url}}/what-inspires-you) with a list of people who inspired me. Adolf Hitler and Jesus Christ were on that list. I am an atheist, and I respect Jesus Christ for some of his qualities - no problem. I am leaning toward an egalitarian society, and I respect Hitler for some of his qualities - a big No. Quite a few intense conversations from friends, back in the day.
 
 Here is President Trump's interview on CNN
 
@@ -63,10 +63,8 @@ Get a list of people you respect and list the qualities you admire, tolerate, an
 
 Once that's done. Look at you.
 
-> What qualities you respect about yourself?
+> What qualities do you respect about yourself?
 
 Since you know the skeletons in your closet very well, it's easy for you to list down the qualities that you respect, tolerate, and can't tolerate. You will have newfound respect and understanding about yourself. 
 
 Are you happy with your findings? Do you want to minimize/remove the qualities you can/can't tolerate?. Do you want to maximize the qualities you respect?. 
-
-Reach out to me. 
