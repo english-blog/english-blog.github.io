@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meat Eating Animal Lovers
+title: Meat-Eating Animal Lovers
 date: 2014-09-02
 category: social
 ---
@@ -25,47 +25,47 @@ But, She loves to eat chicken and prepares extra-ordinary South Indian biriyani.
 
 I have a question for pet lovers who eat meat.
 
-> How do you decide which animals are worthy of love and respect and which ones deserve abuse and slaughter?.
+> How do you decide which animals are worthy of love and respect and which ones deserve abuse and slaughter?
 
 Think about it once, please.  
 
-OK. Leaving aside the pet/animal lovers, what about other people?.
+OK. Leaving aside the pet/animal lovers, what about other people?
 
-I cannot simply put everyone in one bucket. Can I?.  
+I cannot simply put everyone in one bucket. Can I?  
 
-Some people can kill the animals, chop them, cook them, and eat them - without much of the talking going on in their heads. They know what they are doing and feel nothing about it. In fact happy about the meal they just got. Shall we call them **The Predators**? 
+Some people can kill the animals, chop them, cook them, and eat them - without much of the talking going on in their heads. They know what they are doing and feel nothing about it. Happy about the meal they just got. Shall we call them **The Predators**? 
 
 Some people cannot withstand the slaughtering process but enjoy the processed meat. In a sense, they cannot kill an animal but can eat what was killed by another predator. Shall we call them **The Scavengers**?  
 
-Who are you?. 
+Who are you? 
 
-The Predator or The Scavenger?.  
+The Predator or The Scavenger?  
 
 > Could you look an animal in the eyes and say to it, 'My appetite is more important than your suffering'? ~ **Moby**
 
 If you can... great !!!. You simply live by your predator instinct. Please continue. 
 
-If you cannot, would you like to explore why?.  
+If you cannot, would you like to explore why?  
 
-Maybe, it's your love for animals disguised in the form of disgust/fear/pity?.  
+Maybe, it's your love for animals disguised in the form of disgust/fear/pity?  
 
-Maybe, it's your body that tells you that you don't need to kill an animal for meat?.  
+Maybe, it's your body that tells you that you don't need to kill an animal for meat.  
 
-Maybe, you are an angel born to spread love beyond your own species?.  
+Maybe, you are an angel born to spread love beyond your species.  
 
 I don't know.  
 
 Everyone will have their own, unique realization - if you spend the time to understand your instinct.  
 
-Selectively ignoring a fact suppresses your instinct. Isn't it?.  
+Selectively ignoring a fact suppresses your instinct. Isn't it?  
 
 I don't care if you are a vegan or meat eater.  
 
-Why don't you live by your instinct?.  
+Why don't you live by your instinct?  
 
-Why don't you listen to your heart?.  
+Why don't you listen to your heart?  
 
-After all, what else we are here in this world for?.  
+After all, what else we are here in this world for?  
 
 > Don't eat anything you aren't willing to kill yourself. ~ **Lorene Lavora**
 
@@ -77,7 +77,7 @@ No animal or species has evolved over millions of years, just to provide compani
 
 **I only eat humanely raised and slaughtered animals.**  
 
-Well. That's a contradiction depending on your definition of "humanity". What difference does the "humanely-raised" experience, make at the moment of slaughtering?. You still kill and eat them anyway.  
+Well. That's a contradiction depending on your definition of "humanity". What difference does the "humanely-raised" experience, make at the moment of slaughtering? You still kill and eat them anyway.  
 
 **We were meat eaters for millions of years. How can I change suddenly?.**
 
@@ -89,4 +89,4 @@ I am just another human being, experiencing life. I was a voracious meat eater a
 
 **So, what's the conclusion?**
 
-Should there be one for every article?. 
+Should there be one for every article? 
