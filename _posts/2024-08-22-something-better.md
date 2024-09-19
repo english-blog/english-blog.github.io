@@ -29,7 +29,7 @@ I'll give you a couple of examples from my life.
 
 **Example 1**: Right after college, when I wrote the aptitude test for Infosys, I was so well prepared that I knew the answers for 9 out of 10 questions right away. I finished the one-hour exam within 10 minutes. But I was rejected because my friend took my answer sheet and started copying the answers. I did join TCS and I had a good life.
 
-But, how do I know that my life in TCS is better than what my life would have been in Infosys?. I'll never know. I would be happy with this quote, only because my current life is good.
+But, how do I know that my life in TCS is better than what my life would have been in Infosys? I'll never know. I would be happy with this quote, only because my current life is good.
 
 **Example 2**: My father had a stroke and was paralyzed for 22 years, confined to the house most of his adult life. Towards the end, his health deteriorates and his every breath humiliates his existence. All he wanted was to die. This is the redirected path for my father.
 
@@ -57,15 +57,15 @@ Think about that !!!
 
 The question again is, "What makes you so special that you must have a good life?"
 
-Any answer that you come up with, would apply to everyone else in this world. Wouldn't it? See if you can defend that your answer applies only to you?
+Any answer that you come up with, would apply to everyone else in this world. Wouldn't it? See if you can defend that your answer applies only to you.
 
-So, I am not special?.
+So, I am not special?
 
 Try to answer that yourself, it may be hard. But be genuine to yourself with your arguments.
 
 My answer is
 
-> I am not special. My life could be as good or as bad as any random person in this world
+> I am not special. My life could be as good or as bad as any random person in this world.
 
 "You sound so pessimistic and nihilistic". Ok, that's one way to look at it.
 
@@ -75,10 +75,10 @@ As I grow into coaching, I am becoming more restless than becoming calm. What us
 
 I am consciously redirecting my life in multiple paths to find truth and be at peace.
 
-Do I enjoy this phase?. No, not really. But I am curious to figure out, what my life could be.
+Do I enjoy this phase? No, not really. But I am curious to figure out, what my life could be.
 
-Would I find it?. Maybe, or maybe not. That's what life is. An exploration.
+Would I find it? Maybe, or maybe not. That's what life is. An exploration.
 
-> Every time I thought I was being rejected from something good, I was actually being redirected to something better
+> Every time I thought I was being rejected from something good, I was being redirected to something better
 
 What's your "something better"?
