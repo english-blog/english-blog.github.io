@@ -39,7 +39,7 @@ I strongly suggest you take a dip, whether you are religious or not. It's a love
 
 There are volunteers everywhere to guide you to the places and to answer your questions. The old volunteer in front of this temple explained that this is the feminine form of Lingam. You can worship Linga Bhairavi as you would do to other Hindu gods. There are requests made to her, in exchange for flowers and poojas. A typical Hindu establishment. I seriously do not see a need for this temple inside a meditation place.  
   
-I saw a lot of foreigners in saffron dresses doing poojas, offering flowers, doing meditations, etc. A typical scene in an Ashram. She offered me Neem Leaves and Lilly flowers inside the temple. I was supposed to eat the Neem Leaves. It was more bitter than the Bitter Gourd. Luckily they sold *Pasiparuppu Payasam* just outside the temple for Rs. 10. With the help of the payasam, I could eat three Neem leaves. Even though we knew the benefits of Neem leaves, this was my first successful attempt at eating them. I was proud !.   
+I saw a lot of foreigners in saffron dresses doing poojas, offering flowers, doing meditations, etc. A typical scene in an Ashram. She offered me Neem Leaves and Lilly flowers inside the temple. I was supposed to eat the Neem Leaves. It was more bitter than the Bitter Gourd. Luckily they sold *Pasiparuppu Payasam* just outside the temple for Rs. 10. With the help of the payasam, I could eat three Neem leaves. Even though we knew the benefits of Neem leaves, this was my first successful attempt at eating them. I was proud!   
   
 ### Nandhi  
 
@@ -51,7 +51,7 @@ We saw a small beautiful artificial pond with Lillies and Goldfishes, on the way
   
 ![Sarva Tharma Sthamba]({{site.img-path}}/dhyanalinga-sarva-dharma-sthamba.jpg)  
 
-We saw *Sarva Dharma Sthamba*, just before the entrance, signifying singularity or union of all religions. This stone has inscriptions of symbols of Hinduism, Islam, Christianity, Jainism, Taoism, Zoroastrianism, Judaism, Buddhism, and Shinto welcoming people from all religious beliefs. I am not sure how many people actually notice this Sthamba. I did not see a single person looking or checking this out. Maybe this should be placed in a more strategic place or should be made more attractive - to convey the message.  
+We saw *Sarva Dharma Sthamba*, just before the entrance, signifying singularity or union of all religions. This stone has inscriptions of symbols of Hinduism, Islam, Christianity, Jainism, Taoism, Zoroastrianism, Judaism, Buddhism, and Shinto welcoming people from all religious beliefs. I am not sure how many people notice this Sthamba. I did not see a single person looking or checking this out. Maybe this should be placed in a more strategic place or should be made more attractive - to convey the message.  
   
 ### Dhyanalinga  
 
@@ -63,7 +63,7 @@ I was surprised to see the pillar-less construction of such a big dome. My surpr
 
 > "Just sitting silently for a few minutes within the sphere of Dhyanalinga is enough to make even those unaware of meditation experience a state of deep meditativeness." - Sadhguru  
 
-I occupied one of the enclosures and started to meditate. I expected some sort of energy to flow through me or a sudden relaxation or calmness in the body and mind, as it happened to many others. But nothing happened. I actually slept. I woke up when I heard the sound of people walking out for the next batch. That was a big disappointment for me. I came to Dhyanalinga with an open mind to experience it. The above statement by Sadhguru is not true in all cases. But, I heard from my close friend that he felt the energy (he never lies for anything in life). So, I can conclude that the above statement may be true for a few people (maybe religious?). The objective failed, but the experiment was a success. I enjoyed the trip to Dhyanalinga.
+I occupied one of the enclosures and started to meditate. I expected some sort of energy to flow through me or a sudden relaxation or calmness in the body and mind, as it happened to many others. But nothing happened. I slept. I woke up when I heard the sound of people walking out for the next batch. That was a big disappointment for me. I came to Dhyanalinga with an open mind to experience it. The above statement by Sadhguru is not true in all cases. But, I heard from my close friend that he felt the energy (he never lies for anything in life). So, I can conclude that the above statement may be true for a few people (maybe religious?). The objective failed, but the experiment was a success. I enjoyed the trip to Dhyanalinga.
   
 ### Why should You visit Dhyanalinga?  
 
