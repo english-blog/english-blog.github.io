@@ -63,7 +63,7 @@ If you already completed the previous 4 steps and still have time left, you coul
 
 ### 6. Google Next Videos
 
-Entirely for your leisure and learning. Please don't watch each and every one of the videos. Scroll through the list, pick and watch what interests you. 
+Entirely for your leisure and learning. Please don't watch every one of the videos. Scroll through the list, pick and watch what interests you. 
 
 [Google Cloud Next '17 - All Sessions](https://www.youtube.com/playlist?list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR)
 
