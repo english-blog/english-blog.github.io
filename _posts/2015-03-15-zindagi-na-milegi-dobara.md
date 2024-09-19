@@ -9,7 +9,7 @@ I urge everyone to watch this movie, irrespective of your Hindi knowledge. The o
 
 I am not here to review the movie or rate it. This movie triggered a lot of emotions in me. We are all running behind something, running for more money, running for promotions, running for a big house, running to have a peaceful retirement, running to die rich - while forgetting the whole reason behind it - **Life**.
 
-Why do most of us spend the youthful days of our lives in corporate cubicles and hoping to have a peaceful life after we retire?.
+Why do most of us spend the youthful days of our lives in corporate cubicles and hoping to have a peaceful life after we retire?
 
 Why do we content ourselves with three weeks of vacation per year and get into the rat race for the rest of the year?.
 
