@@ -5,7 +5,7 @@ date: 2024-08-16
 category: self-improvement
 ---
 
-It was a really confusing period of my life. Everything was going well and nothing was going well at the same time. From other's perspectives, I had a successful career, a wealthy life, good health, a happy family, etc. There was nothing anyone could complain about in my life. But deep inside, there was a void. There was a question,
+It was a confusing period of my life. Everything was going well and nothing was going well at the same time. From other's perspectives, I had a successful career, a wealthy life, good health, a happy family, etc. There was nothing anyone could complain about in my life. But deep inside, there was a void. There was a question,
 
 > "How many times am I going to repeat my yesterday?"
 
@@ -17,6 +17,6 @@ Have I found my true calling?... Hell no... I am still searching, but this time 
 
 Every coaching session peels a layer of doubt, and uncertainty and brings you closer to the complete awareness about yourself...
 
-In software engineering terms, your life is a recursive function with no exit condition. You will figure out the exit condition in one of the iterations, but you won't know which one. How exciting and adventurous your life would be if you understood this?.
+In software engineering terms, your life is a recursive function with no exit condition. You will figure out the exit condition in one of the iterations, but you won't know which one. How exciting and adventurous your life would be if you understood this?
 
-Are you lost?.
+Are you lost?
