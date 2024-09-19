@@ -9,7 +9,7 @@ I have a strange habit. I always kept the mobile phone away from my body as much
 
 ![Nokia 1280]({{site.img-path}}/nokia-1280.jpg)  
 
-Yes. This is my phone. The amazing Nokia 1280. My elder brother has been using this phone since 2010. He gave it to me while going to the US. I have been using this phone for more than two years now. I don't really care about the broken screen anyway.
+Yes. This is my phone. The amazing Nokia 1280. My elder brother has been using this phone since 2010. He gave it to me while going to the US. I have been using this phone for more than two years now. I don't care about the broken screen anyway.
 
 I use the mobile phone for calling. Calling Only. Text messages are very rare.
 
@@ -37,13 +37,13 @@ Yeah. I did use Blackberry and Android phones for a few years. It was too much o
 
 Thanks to that realization. I switched back to my current phone Nokia 1280 and never looked back. 
 
-Now the phone is dumb. Did I become smart?. That's too dumb a question to ask. I am simply learning & growing every day without depending too much on external gadgets. When I forget my mobile phone at home, I don't miss it at the office. It's just a gadget to me, as it is supposed to be. 
+Now the phone is dumb. Did I become smart? That's too dumb a question to ask. I am simply learning & growing every day without depending too much on external gadgets. When I forget my mobile phone at home, I don't miss it at the office. It's just a gadget to me, as it is supposed to be. 
 
 What a relief man!!!. At least, I know for sure that I will never have Smartphone Separation Anxiety. Too bad that the scientists have coined a new word for this madness. This is real. Check the references section below for the link to the actual research article.
 
 ### Conclusion?
 
-There is a minuscule population of smart users who actually use smartphones for better productivity. Let them go on. For the rest of us, we could try making our phone distraction-free for a few days and see if that helps.
+There is a minuscule population of smart users who use smartphones for better productivity. Let them go on. For the rest of us, we could try making our phone distraction-free for a few days and see if that helps.
 
 Better, if we could use a basic model phone.  
 
