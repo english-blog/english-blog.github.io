@@ -7,7 +7,7 @@ category: health
 
 Last night, when we were about to retire to bed, Sangavi said, "Mama, Shall we eat raw vegan twice a week?".  
 
-I was flabbergasted and asked her why?. She said, "Earlier, I would fit into every type of dress out there in the market. But today, I rejected a few dresses, because I may not look good in them. I did not like that. I stopped for a moment and reflected on my physical condition. I decided to get back to my original shape. Suggest to me what to do."  
+I was flabbergasted and asked her why. She said, "Earlier, I would fit into every type of dress out there in the market. But today, I rejected a few dresses, because I may not look good in them. I did not like that. I stopped for a moment and reflected on my physical condition. I decided to get back to my original shape. Suggest to me what to do."  
 
 The only time in my life, I am so happy that my wife went shopping :)  
 
@@ -23,7 +23,7 @@ Before I explain what this is, let's see how our body digests and absorbs the en
 
 This is what happens when we eat food. Our body will be in a "Fed State" as soon as we eat (spending time & energy to digest the food and absorb the energy). This state lasts for 3 - 5 hours. Next comes the "Post-Absorptive State", where our body is not doing anything related to digestion or absorption. This state lasts for 8 - 12 hours after your last meal. Then comes the most attractive "Fasted State". This is the natural fat-burning state of our body, which most of us never experience.  
 
-The Fasted State does not start until about 12 hours after our last meal. Assuming that dinner is your last meal and you eat an early breakfast, you would have been in a fasting state for about 8 - 10 hours. So, your body would continue to be in a Fed State and Post-Absorptive State forever.  
+The Fasted State does not start until about 12 hours after our last meal. Assuming that dinner is your last meal and you eat an early breakfast, you would have been fasting for about 8 - 10 hours. So, your body would continue to be in a Fed State and Post-Absorptive State forever.  
 
 I guess you would have got a hint, by now. This "Intermittent Fasting" is not a diet. This is just a schedule of when should you eat so that you get the benefits of the natural fat-burning state of your body.  
 
@@ -42,7 +42,7 @@ The below diagram depicts the typical week of intermittent fasting.
 
 ### Questions
 
-1) **Skipping breakfast?. Are you nuts?**  
+1) **Skipping breakfast? Are you nuts?**  
 I am not skipping the breakfast. I am eating a late breakfast. (i.e.) breaking the fast a little later.  
 
 2) **I have the habit of drinking coffee/tea in the morning. Would that be OK?**  
@@ -54,4 +54,4 @@ I do not have personal experience doing this. But, I know few people (Martin Ber
 4) **I generally get hungry at night. What should I do?**  
 Go to bed early. Eat a heavy last meal (within that 8-hour feeding window). If you wake up, see if drinking a lot of water satisfies your hunger. Otherwise, the same 50-calorie rules apply here. It may take a while for your body to adjust to this feeding style.  
 
-Does anyone want to try this Intermittent Fasting for a few months?.    
+Does anyone want to try this Intermittent Fasting for a few months?    
