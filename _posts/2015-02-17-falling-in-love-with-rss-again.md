@@ -5,7 +5,7 @@ date: 2015-02-17
 category: technology
 ---
 
-It was my personal newspaper online. 
+It was my newspaper online. 
 
 It was different from traditional newspapers.
 
@@ -21,7 +21,7 @@ I generally browse through my feeds in the morning to get the daily dose of insp
 
 It was RSS with Google Reader.
 
-Good or bad, nothing lasts forever, right?.
+Good or bad, nothing lasts forever, right?
 
 The day was July 1, 2013.
 
@@ -47,7 +47,7 @@ Very soon, I understood the marketing and money behind the email lists. Damn.
 
 Almost every one of the blogs has something to sell. They wrote very lengthy emails to convince me with all the "facts" to prove that their product would improve my life forever. A lot of times they redirected me to their pitching page with either a very lengthy text + testimonials or a video. The most frustrating thing is that - irrespective of the product, every pitching page looks the same. Follows the same pattern. Like Zebras. Sucks!!!
 
-> Good or bad, nothing lasts forever, right?.
+> Good or bad, nothing lasts forever, right?
 
 I started to unsubscribe myself from most of the websites and hang on to 20+ blogs. Even though they pitch in for their products/courses/webinars at regular intervals, I kept reading their content in emails.
 
@@ -61,7 +61,7 @@ Now, I have to read 20+ blogs or at least open them and bookmark them for later 
 
 What I ended up with is a messy Inbox with multiple folders of unread emails. When an email goes to a folder other than Inbox, I can assure you that it will not be read immediately or it may even live there forever.
 
-Why should I go through all these messes to consume the information I like?. 
+Why should I go through all these messes to consume the information I like? 
 
 I don't like the current equation of the marketers, 
 
