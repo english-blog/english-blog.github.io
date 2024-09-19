@@ -83,7 +83,7 @@ Losing contacts does not mean losing friends. I am merely severing one of the co
 
 **Intellectual Debates** - Facebook helped me to get into intellectual discussions with my friends on various topics - science, religion, politics, reservations, women's rights, relationships, etc. I get a fresh and diverse perspective on each of the issues. I also came to know more about my friends, their beliefs, their political views, etc. Every discussion made me a little wiser.
 
-**A lot of memories** - Facebook is the repository of all significant life events in the past years. There are times when I have nothing else to do, so I simply go back to my timeline or friend's timelines to look at the memorable events. Thus, spending more time on Social Media. Now, all my personal data would live on a local hard disk. 
+**A lot of memories** - Facebook is the repository of all significant life events in the past years. There are times when I have nothing else to do, so I simply go back to my timeline or friend's timelines to look at the memorable events. Thus, spending more time on Social Media. Now, all my data would live on a local hard disk. 
 
 **A platform to showcase my creation** - I made a lot of friends and followers on social media, over the years. My friends are my best critics, who helped me to groom my writing over the years. Thanks to all my friends for all the constructive feedback.
 
@@ -91,7 +91,7 @@ Losing contacts does not mean losing friends. I am merely severing one of the co
 
 1. Quality time with family and friends. 
 2. One less distraction from life. 
-3. Privacy of my personal data.
+3. Privacy of my data.
 
 ### Will I be ultimately out of the digital world?
 
