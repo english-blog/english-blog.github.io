@@ -7,12 +7,12 @@ category: challenges
 
 > "I hate writing, I love having written." ― **Dorothy Parker**
 
-Me?. Becoming a Writer?. Yes. That has been in my mind for many years. I simply lived as Dorothy quoted above, wishing myself having written the best books that I read. I write only when I am inspired to write. Even then, there are times when I drift off from the original idea or my idea gets refined during the writing process and I no longer believe in that idea. Yes. This is true. You get clearer when you write down your idea and proofread what you have written. I evaluate every blog post that I write, for two things.  
+Me?. Becoming a Writer? Yes. That has been in my mind for many years. I simply lived as Dorothy quoted above, wishing myself having written the best books that I read. I write only when I am inspired to write. Even then, there are times when I drift off from the original idea or my idea gets refined during the writing process and I no longer believe in that idea. Yes. This is true. You get clearer when you write down your idea and proofread what you have written. I evaluate every blog post that I write, for two things.  
 
 1. Does this blog post exhibit my happiness or convey a message?
 2. Will this article be relevant or useful after 10 years?
 
-I mercilessly killed all other drafts which do not pass this evaluation. In 2013, I wrote 25 articles + 10 deleted drafts. Statistically, I got inspired to write on **9% of the days** in this year. If I continue to write consistently, I may be able to publish a 350-page book in 10 years. Does not look good to me!. I decided to write more.
+I mercilessly killed all other drafts which do not pass this evaluation. In 2013, I wrote 25 articles + 10 deleted drafts. Statistically, I got inspired to write on **9% of the days** in this year. If I continue to write consistently, I may be able to publish a 350-page book in 10 years. Does not look good to me! I decided to write more.
 
 ### Goals Vs Rituals
 
@@ -31,7 +31,7 @@ Write a technical book? ― Yes.
 Write more in blogs? ― Yes.  
 Change the world with my writings? ― Yes.  
 
-I want to do everything that a writer could do. Basically, that's me. When it comes to imagination, I never put a limit on my thoughts/goals (Simply that I am a reality-challenged person)  
+I want to do everything that a writer could do. That's me. When it comes to imagination, I never put a limit on my thoughts/goals (Simply that I am a reality-challenged person)  
 
 But, the only way to accomplish any of those goals is to focus on realistic rituals. Hmm. Let's get real, here.  
 
@@ -59,4 +59,4 @@ The purpose here is not to accomplish any goal, but to develop the habit of writ
 
 **Why now?**  
 
-I recently became a member of the Facebook group "Live Your Legend - Creators Guild", created by Scott Dinsmore. I was inspired by so many people starting to write. Along with that, a few of my Facebook friends and one of my real-life friends "Sruthi Pandarinathan" are writing books (novels, stories, poems, etc) now. All of them are first-time authors. They are going to struggle and travel the same path that I am going to travel. Why not travel together?. I hope to get a lot of support and feedback from everyone and I may be able to provide the same to others.  
+I recently became a member of the Facebook group "Live Your Legend - Creators Guild", created by Scott Dinsmore. I was inspired by so many people starting to write. Along with that, a few of my Facebook friends and one of my real-life friends "Sruthi Pandarinathan" are writing books (novels, stories, poems, etc) now. All of them are first-time authors. They are going to struggle and travel the same path that I am going to travel. Why not travel together? I hope to get a lot of support and feedback from everyone and I may be able to provide the same to others.  
