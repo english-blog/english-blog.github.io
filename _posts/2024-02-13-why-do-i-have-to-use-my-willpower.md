@@ -12,7 +12,7 @@ There is quite a list of items that I want to change in my life, typical ones ar
 **Start** - diet, exercise, finish the courses and books (quite a lot)  
 **Stop** - cigarettes, alcohol  
 
-The plan of action is simple. Make the decision to change and stick to it. If there is an impulse against your decision, use your willpower to stick to the decision.
+The plan of action is simple. Decide to change and stick to it. If there is an impulse against your decision, use your willpower to stick to the decision.
 
 Is it really that simple?
 
@@ -24,7 +24,7 @@ But, there are a couple of problems... Yeah, of course, otherwise I would not be
 
 **Habits** - All self-help gurus say this, "_Do something continuously for X day and it will become your habit. You will start doing it naturally_". X could be 48 days to a year. So, by this definition, I should be a te-totaller, eating a perfect diet, having a perfect body, running, and exercising regularly. But that's not the case. What's missing from this definition is - the circumstances.
 
-For example, when I started running, I figured out when to run, where to run, etc in Bangalore. When I wake up, there is nothing to think about, there is a defined schedule. It was cool for a couple of years. Then I moved to the UK, the place was freaking cold and I could not run barefoot. Then I moved to the US, there is not a good place to run near my house. The habit slowly died off. I see the same pattern in all other activities where I have to use my willpower. When the circumstances change, you have to use more willpower. So,
+For example, when I started running, I figured out when to run, where to run, etc in Bangalore. When I wake up, there is nothing to think about, there is a defined schedule. It was cool for a couple of years. Then I moved to the UK, the place was freaking cold and I could not run barefoot. When I moved to the US, there was not a good place to run near my house. The habit slowly died off. I see the same pattern in all other activities where I have to use my willpower. When the circumstances change, you have to use more willpower. So,
 
 I contemplate - why do I have to use my willpower? 
 
@@ -40,7 +40,7 @@ The stone tied to your legs could be your past traumas, beliefs, or something th
 
 I have tried Option 1, but that's not a long-term solution. That's tiring as I age.
 
-I am trying Option 2, through life coaching, meditation, and a lot of questioning around my reality. I am hoping for an internal realization, to be able to exactly pinpoint this belief is what caused me to do this activity or that trauma is what's preventing me from doing that activity. Once I bring that trauma or belief to my awareness, clearing it is easy. I don't know if this is actually possible. You wouldn't know if you didn't even try. Would you?
+I am trying Option 2, through life coaching, meditation, and a lot of questioning around my reality. I am hoping for an internal realization, to be able to exactly pinpoint this belief is what caused me to do this activity or that trauma is what's preventing me from doing that activity. Once I bring that trauma or belief to my awareness, clearing it is easy. I don't know if this is possible. You wouldn't know if you didn't even try. Would you?
 
 The objective here is to NOT have to use willpower. To get to that point, I have to use MORE willpower to stay afloat and try to untie the stones. A paradox of life.
 
