@@ -13,11 +13,11 @@ Great. But, Why do we react so much to the symptoms (discrimination), but not to
 
 I have only one question. 
 
-> Why is it that I never met an obese/overweight person who eats a well-balanced food with lots of raw veggies, greens, and fruits, who follows a regular exercise routine, and sleeps at least 8 hrs a day?. 
+> Why is it that I never met an obese/overweight person who eats a well-balanced food with lots of raw veggies, greens, and fruits, who follows a regular exercise routine, and who sleeps at least 8 hrs a day? 
 
 Surprise!. There is no one.
 
-Isn't your body size, the direct output of your lifestyle?. 
+Isn't your body size, the direct output of your lifestyle? 
 
 I am not just talking about fad diets. I am not just talking about a rigorous workout regime. I am talking about everything you do with your life. Your lifestyle.  
 
@@ -28,9 +28,9 @@ Maintaining a healthy weight can be summarized in two sentences.
 1. Control what you put in your mouth.  
 2. Move your body, a lot.  
 
-Everybody knows that. But, why many people are not willing to put in the extra effort required to shed those extra pounds.  
+Everybody knows that. But, why many people are not willing to put in the extra effort required to shed those extra pounds?  
 
-It's their personal choice. Who am I to comment?.  
+It's their personal choice. Who am I to comment?  
 
 Right. I am writing this post, just to understand the reason behind it. 
 
@@ -42,9 +42,9 @@ If I tell FA people, "Give me $100. I will turn you into a curvy voluptuous fema
 
 Even if I increase the amount to $1000, I don't expect much of a difference, except that poor people will take time to earn that money.  
 
-Instead, if I tell them, "Give me 1 hr of your time and let me control your food plate, every day. I will turn you into a healthy person. You just have to do what I say". How many would opt for that offer?. I don't expect many, except the few individuals who want to shed their weight, more than anything else in their life.  
+Instead, if I tell them, "Give me 1 hr of your time and let me control your food plate, every day. I will turn you into a healthy person. You just have to do what I say". How many would opt for that offer? I don't expect many, except the few individuals who want to shed their weight, more than anything else in their life.  
 
-Am I saying that fat people do not have the urge or the willpower to change to a better version of themselves?.
+Am I saying that fat people do not have the urge or the willpower to change to a better version of themselves?
 
 No. I am not. It's a very basic human tendency to stay in the comfort zone and 95% of the world's population does that, irrespective of their size.   
 
@@ -56,9 +56,9 @@ Yes and No.
 
 Yes. It is good for a healthy person to accept the overweight/obese person, just like us. It helps to foster a collaborative, encouraging environment for obese people to think about changing their lifestyle.
 
-No. It's not good to accept & love your obese body. Be discontent with your body and make every possible effort to make your body perfectly healthy. By healthy, I mean a real healthy body. Not the anorexic, size zero thin bodies.
+No. It's not good to accept & love your obese body. Be discontent with your body and make every possible effort to make your body perfectly healthy. By healthy, I mean a healthy body. Not the anorexic, size zero thin bodies.
 
-> Encouraging an obese person to be happy with their body is actually encouraging them to stay unhealthy. - Unknown
+> Encouraging an obese person to be happy with their body is encouraging them to stay unhealthy. - Unknown
 
 ### The Most Amazing Transformation
 
