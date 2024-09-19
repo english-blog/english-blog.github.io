@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog like a Programmer
+title: Blog Like a Programmer
 date: 2013-10-30
 category: technology
 ---
@@ -23,7 +23,7 @@ I am not bothered about the awesome SEO plugins / other helpful plugins that hel
 
 ### Do I need a CMS / Server side engine?  
 
-Except for the comments section, the rest of the blog is static. I am not bothered about the comments anyway. It takes too much of your time away from blogging. If you really need them, there are client-side commenting systems available (like Disqus, Facebook comments, etc). So, I don't need a server-side code that connects to a database, executes the plugins, and creates the web page on the fly for every request to a web page (even with caching), when all I need is a set of a simple HTML file.  
+Except for the comments section, the rest of the blog is static. I am not bothered about the comments anyway. It takes too much of your time away from blogging. If you need them, there are client-side commenting systems available (like Disqus, Facebook comments, etc). So, I don't need a server-side code that connects to a database, executes the plugins, and creates the web page on the fly for every request to a web page (even with caching), when all I need is a set of a simple HTML file.  
 
 There is an argument that says, *Infrastructure is cheap nowadays. The computing and storage abilities skyrocketed. We can use as much as we want*. Yes. It is. But, just because I have too much fuel, I would not travel 10 miles extra to the office every day. I always prefer the shortest possible route. How about you?. And again, that's a personal choice. I am not saying that what is being done is wrong, all I say is that I don't need all of those.  
 
@@ -55,7 +55,7 @@ Where all I need is
 {% endhighlight %}  
   
 
-Do you see the point?. Most don't mind these additional markups. I do mind when I edit the blog posts.  
+Do you see the point? Most don't mind these additional markups. I do mind when I edit the blog posts.  
 
 ### Alternatives - Static Site Generators 
 
@@ -76,7 +76,7 @@ Some of the key advantages of using SSG are
 3. Portability - Simply copy and paste the HTML to another host.  
 4. Local Copy - You always have a local copy of the website on your computer all the time. No need to worry about the server crash.  
 5. Version-Controlled Source - You have the option to version control your entire website with any version control systems like subversion, git, etc. I choose to keep the source on GitHub. This means that you never lose any single line of change made on your blog.  
-6. Free hosting with custom domain - If all you need is a simple effective blog, you can host it for free with GitHub. The best part is that you can use your own domain with GitHub pages.  
+6. Free hosting with custom domain - If all you need is a simple effective blog, you can host it for free with GitHub. The best part is that you can use your domain with GitHub pages.  
 
 And many more ...  
 
@@ -111,7 +111,7 @@ If this sounds too technical, you may want to try the blogger.com.
 
 ### What difference did it make in my writing?
 
-**Less Distraction** - I have the habit of previewing the blog every now and then and correcting the look and feel as I write. This has changed. I write from the VIM editor in the Unix console. I prefer to keep it in full screen and viola - there are no distractions. I could concentrate only on writing. I actually felt that I wrote more in the console than on a web page. Too early to come to a conclusion. Let's wait till I post at least 50+ posts this way.  I still have to preview and edit the blog post at the end. But that's now a single task after I complete the writing.  
+**Less Distraction** - I have the habit of previewing the blog now and then and correcting the look and feel as I write. This has changed. I write from the VIM editor in the Unix console. I prefer to keep it in full screen and viola - there are no distractions. I could concentrate only on writing. I felt that I wrote more in the console than on a web page. Too early to conclude. Let's wait till I post at least 50+ posts this way.  I still have to preview and edit the blog post at the end. But that's now a single task after I complete the writing.  
 
 **Feeling EPIC** - Yeah. Seriously. I fell in love with the character "Neo" in the Movie "The Matrix" when I saw it for the first time (esp. the black console with green text flowing down). I even wrote matrix screensavers in C, during my college days to simulate that experience on my computer. Those good old days are back. This simple act of blogging like a programmer brought back my love for programming. Write, Edit, Commit, Push - Viola, My blog is published. 
 
