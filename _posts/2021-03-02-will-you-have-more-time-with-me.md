@@ -21,7 +21,7 @@ She thinks deeply for a few moments and suddenly sadness engulfs her pretty face
 **Aradhana (daughter):** Will you have more time with me? (crying)  
 **Premkumar (dad):** ...   
 
-I didn't know what to say. My world froze. Trembling words and tearful eyes. Am I happy or sad or confused? Or all of them together?. I don't know. With mixed emotions, I said,
+I didn't know what to say. My world froze. Trembling words and tearful eyes. Am I happy or sad or confused? Or all of them together? I don't know. With mixed emotions, I said,
 
 **Premkumar (dad):** Ara, I promise I'll be there for you, as long as I am alive. I love you.
 
