@@ -31,8 +31,6 @@ permalink: /categories/
 
 <li><p><a href="{{ site.url }}/category/spirituality/">Spirituality</a></p></li>
 
-<li><p><a href="{{ site.url }}/category/apps/">Apps</a></p></li>
-
 </ul>
 
 </div>
