@@ -60,7 +60,7 @@ Man being a social creature, must depend on others for life and love. I decided 
 
 * **Emotional Freedom Technique** - I used to spend time regularly in EFT with Ho'oponopono in the morning times. The frequency has been reduced in recent days. Planning to do this regularly.  
 
-* **Personal Development** - I downloaded a lot of personal development workbooks / small booklets over a period of time. I spent a considerable amount of time, working on myself. I cannot give the complete list of small PDFs here.  
+* **Personal Development** - I downloaded a lot of personal development workbooks / small booklets over some time. I spent a considerable amount of time, working on myself. I cannot give the complete list of small PDFs here.  
 
 * **BedTime Stories** - I know this is completely irrelevant to the context here. But, we started reading out fiction stories to each other in bed, before we sleep. We make sure we go to bed 30 minutes earlier than usual. I kinda like this. Rekindling the storyteller in each of us :)  
 
@@ -68,18 +68,18 @@ Man being a social creature, must depend on others for life and love. I decided 
 
 I must tell you there are cons to this challenge.   
 
-**Sleeping Time** - Due to commutations from work and other commitments, I was able to go to sleep at 11-12 every night. I was getting hardly 5-6 hrs daily. It was not a problem initially. But after a month - it begins to show its effect. I begin to feel awful and sleepy after lunch in the office. My productivity after lunch is literally less than 10%. There are days when I sleep for less than 3 hrs and I feel sleepy even when driving to the office. NOT AN ADVISABLE ACT WHILE DRIVING.   
+**Sleeping Time** - Due to commutations from work and other commitments, I was able to go to sleep at 11-12 every night. I was getting hardly 5-6 hrs daily. It was not a problem initially. But after a month - it begins to show its effect. I begin to feel awful and sleepy after lunch in the office. My productivity after lunch is less than 10%. There are days when I sleep for less than 3 hrs and I feel sleepy even when driving to the office. NOT AN ADVISABLE ACT WHILE DRIVING.   
  
 If you are planning to take up this challenge for some time, please make sure that you get adequate sleep.   
 
-**Issues with Travel** - There were many occasions in the family and I had to travel to Coimbatore or Chennai every weekend. We generally travel by Train. I used to wake up at 5 AM in the morning, sitting alone on the train - without switching on the lights. I tried to read books on Kindle, but that was more of a strain on my eyes. Meditating or Writing on the train didn't help. I spent some of these days in self-discussions. I used to pick up a topic or a thought and I would debate for/against that topic. All within my mind. This may not be a favorite thing to do - for many people.   
+**Issues with Travel** - There were many occasions in the family and I had to travel to Coimbatore or Chennai every weekend. We generally travel by Train. I used to wake up at 5 AM, sitting alone on the train - without switching on the lights. I tried to read books on Kindle, but that was more of a strain on my eyes. Meditating or Writing on the train didn't help. I spent some of these days in self-discussions. I used to pick up a topic or a thought and I would debate for/against that topic. All within my mind. This may not be a favorite thing to do - for many people.   
 
 **Vacations** - You will have a tough time following the rituals when you are on a special occasion or spending the night at a relative's home. I used to do multiple things in the morning and I don't like carrying everything, everywhere (laptop, books, journals, etc). I used to carry only Amazon Kindle and stick to reading e-books.   
 
 ### Would I do it differently next time?
 
-Yes. I would not stick to 100%. I will think through the possible obstacles to the challenge, evaluate them, and avoid this challenge on specific days. Maybe I would say, "Wake up at 5 AM, at least 5 times a week". I may choose a sleep-late/wakeup-late pattern on travel days, vacations, special occasions, or when guests are at home, etc.
+Yes. I would not stick to 100%. I will think through the possible obstacles to the challenge, evaluate them, and avoid this challenge on specific days. Maybe I would say, "Wake up at 5 AM, at least 5 times a week". I may choose a sleep-late/wake-up-late pattern on travel days, vacations, special occasions, or when guests are at home, etc.
 
 ### Was this Challenge Successful?
 
-A hell of YES. This is not a challenge that needs to be completed and thrown away. This is a habit that should be developed and adhered to until the end of our lives. I would follow an easy version of this challenge for the rest of my life. 
+A hell of a YES. This is not a challenge that needs to be completed and thrown away. This is a habit that should be developed and adhered to until the end of our lives. I would follow an easy version of this challenge for the rest of my life. 
