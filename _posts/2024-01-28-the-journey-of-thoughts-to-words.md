@@ -18,7 +18,7 @@ Or if you imagine a queuing system in the brain (i.e.), one part of the brain is
 
 Writing is surely the slowest way to convert thoughts to words. Every writer in this world knows this. But this is the only available option to humans for thousands of years. There was nothing else that we could do. As the most intelligent species on the planet, can't I create a device that allows me to convert our thoughts to words faster? Oh no... Our ego is hurt.
 
-No, no, no... you are wrong. Writing slowly is actually better for you. It helps you to think clearly. How? What makes us think that thinking slowly is the best way to think clearly?
+No, no, no... you are wrong. Writing slowly is better for you. It helps you to think clearly. How? What makes us think that thinking slowly is the best way to think clearly?
 
 Imagine your brain as a computer, and the thoughts are the data that are fed to the computer for processing. If the computer is from the '90s with only a few GHz processing capacity, you would struggle to process all the thoughts. What if your brain is a supercomputer which can process a ton of data in a microsecond, would the assumption still be the same?
 
@@ -33,6 +33,6 @@ Some privileged scholars had the advantage of thinking out loud and having their
 
 With the advent of technology, this process is now available to all of us. Yes, you could pick up the phone and start talking. Use any of the AI tools that are available in the market to transcribe it for you. It's super simple. I have a lot of my thoughts captured, transcribed, and stored. As expected, the process of going through the transcripts, editing, and publishing them on the Internet is slow. But hey, all of my thoughts are available to me at any moment. I can go through them anytime I want. Who knows, I could hire a few intellectuals to do the writing part for me, in the future.
 
-I've been using "Otter.AI" for the past week, and I am super happy with the results. Now the barriers to converting my thoughts to words are gone, I am actually looking forward to speaking to my phone many times a day. This is an experimental process that I am going to do for a month and then try traditional writing to see which one suits me better.
+I've been using "Otter.AI" for the past week, and I am super happy with the results. Now the barriers to converting my thoughts to words are gone, I am looking forward to speaking to my phone many times a day. This is an experimental process that I am going to do for a month and then try traditional writing to see which one suits me better.
 
 Let's talk ...
