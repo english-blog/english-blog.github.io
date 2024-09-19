@@ -7,7 +7,7 @@ category: self-improvement
 
 > ஆரம்பிச்ச அஞ்சு நிமிஷத்துல கலாய்ப்ப, நீயெல்லாம் லைப் கோச்சா டா? ஓ***
 
-**Translation**: Within 5 mins, you'll bully the new person. You are a Life Coach now, huh?. F***
+**Translation**: Within 5 mins, you'll bully the new person. You are a Life Coach now, huh? F***
 
 Comment from my school friend. 
 
