@@ -11,7 +11,7 @@ If I could read your thoughts.
 
 We'll get the answers soon. Before that - One question.
 
-Are you interested in blogging?. You wanna start a blog for yourself?. Or do you already have a blog and want to make it more successful?. Have you googled for help anytime?. When I started blogging, things were pretty simple. Go to blogger.com register a blog for you and start blogging. It was free, quick and no hassles. I was curious to check out the current scenario for newbies or wannabe bloggers.
+Are you interested in blogging? You wanna start a blog for yourself? Or do you already have a blog and want to make it more successful? Have you googled for help anytime? When I started blogging, things were pretty simple. Go to blogger.com register a blog for you and start blogging. It was free, quick and no hassles. I was curious to check out the current scenario for newbies or wannabe bloggers.
 
 I googled, "I want to start a new blog" and reviewed the top 10 search results. I was astonished by the steps needed/suggested to start a new blog. Here are the most repetitive suggestions from well-established websites and bloggers.
 
@@ -41,13 +41,13 @@ Now, It's different. Too much noise out there. Blogs are content providers and w
 
 There is a new measure of success associated with blogs. "hits, visits, page views". They are not called readers anymore. Only visitors. Who cares. All I need is the incoming traffic to my blog and viral shares. The more traffic I get, the more money I can make out of it. The recent trend is collecting emails and spamming your Inbox. Email List = Money.
 
-> Have you seen any decent blog recently - that does not ask for your email, does not sell you a product, and **does provide full feed** in RSS/Atom?. A blog that is not interested in web traffic? 
+> Have you seen any decent blog recently - that does not ask for your email, does not sell you a product, and **does provide full feed** in RSS/Atom? A blog that is not interested in web traffic? 
 
 I wish things stayed as simple as it was. 
 
 ### The Crazy Blog Experiment
 
-What happens when I take a relatively **successful** blog (approx. 300 - 400 readers per day) and tear apart all the components that are considered to fuel the "so-called success" of this blog?.
+What happens when I take a relatively **successful** blog (approx. 300 - 400 readers per day) and tear apart all the components that are considered to fuel the "so-called success" of this blog?
 
 Elegant Design - Removed it. (Only HTML, Not even CSS)  
 Beautiful fonts - Removed it. (System default fonts)  
@@ -57,7 +57,7 @@ Mobile Responsive Blog - By default HTML is responsive.
 
 > Now, there is nothing left in this blog. Except for the bare metal. Except for the words that I wrote. 
 
-I am sure there will be a huge drop in the traffic. Many visitors won't come back. I am not bothered about those visitors. I want to see how many people are really interested in what I write. I don't need the comments on the fly. It does not serve any purpose to me. There is no commenting system in place. There is only a contact form. If my readers really want to contact me, he/she has to make an effort to fill in a simple form. I am sure they will. 
+I am sure there will be a huge drop in the traffic. Many visitors won't come back. I am not bothered about those visitors. I want to see how many people are interested in what I write. I don't need the comments on the fly. It does not serve any purpose to me. There is no commenting system in place. There is only a contact form. If my readers want to contact me, he/she has to make an effort to fill in a simple form. I am sure they will. 
 
 ### What will I get out of this experiment?
 
