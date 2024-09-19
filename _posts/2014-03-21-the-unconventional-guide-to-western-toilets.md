@@ -5,13 +5,13 @@ date: 2014-03-21
 category: health
 ---
 
-Please read the article "[Indian Toilet vs Western Toilet]({{site.url}}/indian-toilet-vs-western-toilet/)" before reading this post, to understand the concept that's being discussed here. In that article, I strongly suggested installing an eastern-type (squatting type) toilet in your home, which is the best that you can do to your colon. I also understand that it is not quite easy to do, in most of the developed countries. The squatting type toilets are simply not available in the market. What will those poor souls do?. Hmm... There must be alternate options right?.
+Please read the article "[Indian Toilet vs Western Toilet]({{site.url}}/indian-toilet-vs-western-toilet/)" before reading this post, to understand the concept that's being discussed here. In that article, I strongly suggested installing an eastern-type (squatting type) toilet in your home, which is the best that you can do to your colon. I also understand that it is not quite easy to do, in most of the developed countries. The squatting type toilets are simply not available in the market. What will those poor souls do? Hmm... There must be alternate options right?
 
 Yeah. There are.
 
 For the past 10 months, I have been doing a secret experiment - "Instead of changing the toilets, why don't we change our posture while using them?". The whole idea is to bring the torso as close to the thighs as possible. Right?.
 
-I started with squatting on top of the western toilets. I am very healthy and I didn't find it difficult to defecate in this position. I have been trying out this method for close to 5 months. On one of those busiest days in Sapient, I have to use the loo in the office. Unfortunately, my office had a wall-mounted western toilet. I was not even ready to attempt this posture in the new office. Just then realized that this method has very serious drawbacks and is prone to accidents if you are heavy. I have to shit and get back to a meeting in 10 minutes and I don't want to sit on top of a wall-mounted western toilet. What to do?.
+I started with squatting on top of the western toilets. I am very healthy and I didn't find it difficult to defecate in this position. I have been trying out this method for close to 5 months. On one of those busiest days in Sapient, I have to use the loo in the office. Unfortunately, my office had a wall-mounted western toilet. I was not even ready to attempt this posture in the new office. Just then realized that this method has very serious drawbacks and is prone to accidents if you are heavy. I have to shit and get back to a meeting in 10 minutes and I don't want to sit on top of a wall-mounted western toilet. What to do?
 
 Out of nowhere, I got the idea for the below posture. Theists can call it - "Divine Intervention" :)  
 
@@ -19,7 +19,7 @@ Out of nowhere, I got the idea for the below posture. Theists can call it - "Div
 
 ![Western Toilets Posture 1]({{site.img-path}}/using-western-toilets-posture-1.jpg)  
 
-When you try this posture, please keep your legs as wide as possible. You can rest your palms on your legs or on the floor if the floor is clean. Since you keep your legs wide, you will have to remove your pants. Yeah. Since you are alone in the loo, that should be OK. Right?. This posture is very comfortable and I use this posture, most of the time. There is some minor inconvenience when you start this method.
+When you try this posture, please keep your legs as wide as possible. You can rest your palms on your legs or the floor if the floor is clean. Since you keep your legs wide, you will have to remove your pants. Yeah. Since you are alone in the loo, that should be OK. Right?. This posture is very comfortable and I use this posture, most of the time. There is some minor inconvenience when you start this method.
 
 1. It's in your mind. You feel like someone's fucking you from behind. I felt that. It was awkward. This feeling goes off in a few days. You will get used to this posture.
 2. If you are in this posture for a long time, you can feel the strain in your arms. I suggest sitting in a normal position and only when you get the urge, to move to this position to defecate. It's effective.
