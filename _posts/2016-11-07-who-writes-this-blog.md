@@ -5,7 +5,7 @@ date: 2016-11-07
 category: writing
 ---
 
-> Who writes this blog?.
+> Who writes this blog?
 
 A question that's haunting me in recent days. 
 
