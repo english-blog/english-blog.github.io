@@ -29,7 +29,8 @@ I was wondering what could be the next evolution in coaching?.
 
 I am imagining a futuristic version of life coaching, where two people get to meet each other. One person becomes a coach and another a client.
 
-> They see each other, maintain eye contact, exchange no words, only silence, pure non-verbal communication, the client gets the solution or clarity they were looking for, the coach feels happiness and gratitude, they shake hands, and move on.
+> They meet each other, exchange no words, only silence, pure non-verbal communication, the client gets the solution or clarity they were looking for, the coach feels happiness and gratitude, they shake hands, and move on.
+
 Wouldn't that be a wonderful coaching session? What would you name, such a practice?
 
 Your mind may be racing with the reasons why this wouldn't work and how absurd this imagination is. I understand that. My mind has the same doubts too.
